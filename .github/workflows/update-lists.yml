@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Структура репозитория (нет файлов сайта и секретов)
+      - name: Структура репозитория (нет файлов сайта, секретов и материалов агента)
         run: python -m scripts.netlist_data check-structure
 
       - name: Тесты
@@ -38,14 +38,45 @@ jobs:
       - name: Защита от потери данных
         run: python -m scripts.netlist_data guards
 
-      - name: Commit только при реальных изменениях
+      - name: Проверка структуры после генерации
+        run: python -m scripts.netlist_data check-structure
+
+      - name: Проверить diff и разрешённые пути
+        shell: bash
         run: |
-          git config user.name "netlist-bot"
-          git config user.email "actions@users.noreply.github.com"
-          if git diff --quiet && git diff --cached --quiet; then
+          set -euo pipefail
+          git status --short
+          git diff --check
+          # Workflow может публиковать только ожидаемые результаты генерации.
+          # Не добавлять весь репозиторий через git add -A.
+          git add -- services/ collections/ common/ catalog.json assets/logos/ state/last_good.json
+          if git diff --cached --quiet; then
+            echo "Изменений в разрешённых путях нет — коммит не нужен"
+            exit 0
+          fi
+          python - <<'PY'
+          import subprocess, sys
+          allowed = ("services/", "collections/", "common/", "assets/logos/")
+          allowed_exact = {"catalog.json", "state/last_good.json"}
+          names = subprocess.check_output(
+              ["git", "diff", "--cached", "--name-only"], text=True
+          ).splitlines()
+          bad = [p for p in names if p not in allowed_exact and not p.startswith(allowed)]
+          if bad:
+              print("Запрещённые пути в коммите:", *bad, sep="\n- ", file=sys.stderr)
+              sys.exit(1)
+          PY
+          git diff --cached --check
+
+      - name: Commit только при реальных изменениях
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --cached --quiet; then
             echo "Изменений нет — коммит не нужен"
             exit 0
           fi
-          git add -A
+          git config user.name "netlist-bot"
+          git config user.email "actions@users.noreply.github.com"
           git commit -m "update lists: $(date -u +%F) [skip ci]"
           git push

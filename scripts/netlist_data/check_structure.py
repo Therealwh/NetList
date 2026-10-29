@@ -1,4 +1,4 @@
-"""Репозиторий данных — только данные. Падает, если появились файлы сайта/секреты."""
+"""Репозиторий данных — только публичные данные и код сборки."""
 from __future__ import annotations
 
 import re
@@ -13,7 +13,9 @@ ALLOWED_TOP_LEVEL = {
 FORBIDDEN_RE = re.compile(
     r"\.(php|html?|css|js|mjs|env|sqlite3?|db|bak|log|exe|dll)$"
     r"|(^|/)(vendor|node_modules|templates?|public|var|logs?|backups?)(/|$)"
-    r"|(^|/)\.env",
+    r"|(^|/)\.env"
+    r"|(^|/)(prompts?|agent-private|\.agent|\.prompts?)(/|$)"
+    r"|(^|/)[^/]*(prompt|reasoning|agent[-_]?notes|worklog)[^/]*\.(md|txt|json|ya?ml)$",
     re.IGNORECASE,
 )
 
