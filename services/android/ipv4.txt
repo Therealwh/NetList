@@ -1,7 +1,6 @@
 # NetList DNS snapshot for Android
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-142.250.73.132
 172.217.112.4
 172.217.113.4
 172.217.114.4
@@ -10,3 +9,9 @@
 172.217.117.4
 172.217.118.4
 172.217.119.4
+209.85.200.103
+209.85.200.104
+209.85.200.105
+209.85.200.106
+209.85.200.147
+209.85.200.99

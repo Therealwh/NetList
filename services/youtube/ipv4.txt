@@ -1,5 +1,11 @@
 # NetList DNS snapshot for YouTube
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-142.250.69.174
-142.250.73.78
+172.253.155.136
+172.253.155.190
+172.253.155.91
+172.253.155.93
+173.194.193.136
+173.194.193.190
+173.194.193.91
+173.194.193.93

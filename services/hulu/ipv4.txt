@@ -1,6 +1,5 @@
 # NetList DNS snapshot for Hulu
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-23.216.147.138
-23.216.147.141
-23.216.147.143
+23.219.89.136
+23.219.89.141

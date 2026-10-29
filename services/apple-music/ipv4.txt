@@ -1,4 +1,4 @@
 # NetList DNS snapshot for Apple Music
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-2.18.100.28
+184.29.110.33

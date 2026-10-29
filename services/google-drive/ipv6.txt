@@ -1,4 +1,7 @@
 # NetList DNS snapshot for Google Drive
 # Only globally routable IPv6 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-2607:f8b0:400a:80d::200e
+2607:f8b0:4001:c70::64
+2607:f8b0:4001:c70::65
+2607:f8b0:4001:c70::66
+2607:f8b0:4001:c70::8b

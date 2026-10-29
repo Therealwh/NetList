@@ -1,4 +1,9 @@
 # NetList DNS snapshot for Google Drive
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-142.251.46.78
+192.178.209.100
+192.178.209.101
+192.178.209.102
+192.178.209.113
+192.178.209.138
+192.178.209.139

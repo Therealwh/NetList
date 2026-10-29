@@ -1,6 +1,13 @@
 # NetList DNS snapshot for Google
 # Only globally routable IPv6 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-2607:f8b0:400a:802::200e
-2607:f8b0:400a:809::2004
-2607:f8b0:400a:80c::2003
+2607:f8b0:4001:c00::65
+2607:f8b0:4001:c00::66
+2607:f8b0:4001:c00::8a
+2607:f8b0:4001:c00::8b
+2607:f8b0:4001:c05::5e
+2607:f8b0:4001:c05::78
+2607:f8b0:4001:c66::63
+2607:f8b0:4001:c66::67
+2607:f8b0:4001:c66::6a
+2607:f8b0:4001:c66::93

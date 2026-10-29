@@ -1,5 +1,5 @@
 # NetList DNS snapshot for Linode
 # Only globally routable IPv6 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-2600:1409:9800:ef::17d8:9387
-2600:1409:9800:ef::17d8:938f
+2600:1418:a000:15::1726:6db5
+2600:1418:a000:15::1726:6dbf

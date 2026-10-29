@@ -1,4 +1,15 @@
 # NetList DNS snapshot for Google Cloud
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-142.250.73.78
+64.233.181.100
+64.233.181.101
+64.233.181.102
+64.233.181.113
+64.233.181.138
+64.233.181.139
+74.125.69.100
+74.125.69.101
+74.125.69.102
+74.125.69.113
+74.125.69.138
+74.125.69.139

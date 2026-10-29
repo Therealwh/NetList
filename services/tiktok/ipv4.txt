@@ -1,5 +1,8 @@
 # NetList DNS snapshot for TikTok
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-23.46.228.167
-23.46.228.176
+23.220.103.18
+23.220.103.21
+23.220.103.22
+23.220.103.4
+23.220.103.5

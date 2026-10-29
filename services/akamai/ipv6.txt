@@ -1,5 +1,5 @@
 # NetList DNS snapshot for Akamai
 # Only globally routable IPv6 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-2600:1409:9800:1d::17d8:9109
-2600:1409:9800:1d::17d8:9110
+2600:1404:ec00:27::17df:f013
+2600:1404:ec00:27::17df:f015

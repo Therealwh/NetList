@@ -1,9 +1,9 @@
 # NetList DNS snapshot for AWS
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
+13.249.141.115
+13.249.141.17
+13.249.141.2
+13.249.141.42
 15.197.250.250
 166.117.149.112
-3.163.24.103
-3.163.24.120
-3.163.24.15
-3.163.24.96

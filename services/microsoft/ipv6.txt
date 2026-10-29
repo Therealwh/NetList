@@ -1,5 +1,5 @@
 # NetList DNS snapshot for Microsoft
 # Only globally routable IPv6 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-2603:1061:14:197::1
+2603:1061:14:1c2::1
 2620:1ec:a92::156

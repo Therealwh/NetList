@@ -1,5 +1,5 @@
 # NetList DNS snapshot for Steam
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-184.30.152.223
-23.59.149.71
+184.29.30.218
+23.59.109.20

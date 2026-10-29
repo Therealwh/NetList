@@ -1,12 +1,15 @@
 # NetList DNS snapshot for YouTube
 # Only globally routable IPv6 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-2607:f8b0:400a:809::200e
-2607:f8b0:400e:c05::5b
-2607:f8b0:400e:c05::5d
-2607:f8b0:400e:c05::88
-2607:f8b0:400e:c05::be
-2607:f8b0:400e:c20::5b
-2607:f8b0:400e:c20::5d
-2607:f8b0:400e:c20::88
-2607:f8b0:400e:c20::be
+2607:f8b0:4001:c1e::5b
+2607:f8b0:4001:c1e::5d
+2607:f8b0:4001:c1e::88
+2607:f8b0:4001:c1e::be
+2607:f8b0:4001:c6e::5b
+2607:f8b0:4001:c6e::5d
+2607:f8b0:4001:c6e::88
+2607:f8b0:4001:c6e::be
+2607:f8b0:4001:c70::5b
+2607:f8b0:4001:c70::5d
+2607:f8b0:4001:c70::88
+2607:f8b0:4001:c70::be

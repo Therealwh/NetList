@@ -1,7 +1,11 @@
 # NetList DNS snapshot for Outlook
 # Only globally routable IPv6 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-2603:1036:308:2818::2
-2603:1036:308:2820::2
-2603:1036:308:282a::2
-2603:1036:308:283d::2
+2603:1036:301:300f::2
+2603:1036:301:3042::2
+2603:1036:301:30a4::2
+2603:1036:301:30a5::2
+2603:1036:301:4015::2
+2603:1036:5:441::2
+2603:1036:5:444::2
+2603:1036:5:451::2

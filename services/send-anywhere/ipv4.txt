@@ -1,7 +1,7 @@
 # NetList DNS snapshot for Send Anywhere
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-143.204.1.103
-143.204.1.111
-143.204.1.30
-143.204.1.66
+13.225.47.110
+13.225.47.32
+13.225.47.61
+13.225.47.68

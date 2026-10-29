@@ -1,2 +1,7 @@
 # Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-142.251.46.78/32
+192.178.209.100/32
+192.178.209.101/32
+192.178.209.102/32
+192.178.209.113/32
+192.178.209.138/32
+192.178.209.139/32

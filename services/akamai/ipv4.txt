@@ -1,5 +1,5 @@
 # NetList DNS snapshot for Akamai
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-23.219.89.137
-23.219.89.140
+23.201.96.195
+23.201.96.202

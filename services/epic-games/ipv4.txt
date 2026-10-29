@@ -1,6 +1,5 @@
 # NetList DNS snapshot for Epic Games
 # Only globally routable IPv4 answers observed during this run.
 # Addresses may be shared, CDN-backed, or change over time.
-100.61.86.237
 32.200.128.106
 54.173.195.0

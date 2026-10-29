@@ -1,5 +1,5 @@
 # Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-18.161.6.103/32
-18.161.6.122/32
-18.161.6.37/32
-18.161.6.91/32
+13.226.53.18/32
+13.226.53.29/32
+13.226.53.89/32
+13.226.53.96/32
