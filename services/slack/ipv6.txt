@@ -1,0 +1,14 @@
+# DNS-derived IP snapshot for Slack (slack)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Slack — slack.com
+# (no public DNS addresses found)
+
+# Slack — wss-backup.slack.com
+# (no public DNS addresses found)
+
+# Slack — wss-mobile.slack.com
+# (no public DNS addresses found)
+
+# Slack — wss-primary.slack.com
+# (no public DNS addresses found)

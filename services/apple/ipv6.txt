@@ -1,8 +1,63 @@
 # DNS-derived IP snapshot for Apple (apple)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Apple — apple-cloudkit.com
+# (no public DNS addresses found)
+
+# Apple — apple-dns.net
+# (no public DNS addresses found)
+
+# Apple — apple-livephotoskit.com
+# (no public DNS addresses found)
+
+# Apple — apple-native-relay.apple.com
+2620:149:1368::21
+2620:149:a43:200::5
+2620:149:a43:200::6
+2620:149:a43:200::8
+2620:149:a43:20a::6
+2620:149:a43:20a::8
+2620:149:a43:20a::9
+2620:149:a43:20a::b
+
 # Apple — apple.com
 2620:149:af0::10
 
+# Apple — cdn-apple.com
+# (no public DNS addresses found)
+
+# Apple — gc.apple.com
+# (no public DNS addresses found)
+
+# Apple — icloud-content.com
+# (no public DNS addresses found)
+
+# Apple — icloud.apple.com
+# (no public DNS addresses found)
+
 # Apple — icloud.com
 2620:149:af0::10
+
+# Apple — iwork.apple.com
+# (no public DNS addresses found)
+
+# Apple — metrics.icloud.com
+2620:149:a43:4ff::4:2
+2620:149:a43:4ff::a
+
+# Apple — pong.icloud.com
+2620:149:1368::17
+2620:149:1368::1f
+2620:149:1368::a
+2620:149:a43:283::5
+2620:149:a43:283::8
+
+# Apple — probe.icloud.com
+2a02:26f7:143:1:ace0:ab03::
+2a02:26f7:143:1:ace0:ab05::
+2a02:26f7:143:1:ace0:ab06::
+2a02:26f7:143:1:ace0:ab07::
+2a02:26f7:143:1:ace0:ab09::
+2a02:26f7:143:1:ace0:ab0a::
+2a02:26f7:143:1:ace0:ab0b::
+2a02:26f7:143:1:ace0:ab0d::

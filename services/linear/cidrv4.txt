@@ -1,0 +1,4 @@
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Linear — linear.app
+104.18.40.45/32
+172.64.147.211/32

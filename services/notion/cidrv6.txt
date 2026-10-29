@@ -1,0 +1,9 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Notion — notion.site
+# (no public DNS addresses found)
+
+# Notion — notion.so
+2602:f79a:0:1::1/128
+2602:f79a:0:1::2/128
+2602:f79a::1/128
+2602:f79a::2/128

@@ -2,10 +2,14 @@
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 accounts.google.com
 admin.google.com
+aistudio.google.com
 analytics.google.com
 baidu.com
 bing.com
 bk.ru
+brave.com
+calendar.google.com
+docs.google.com
 doubleclick.net
 duckduckgo.com
 g.co
@@ -21,8 +25,17 @@ googleusercontent.com
 googlevideo.com
 gstatic.com
 inbox.ru
+keep.google.com
 list.ru
+mail.google.com
 mail.ru
+meet.google.com
+notebook.google.com
+script.google.com
+search.brave.com
+sheets.google.com
+sites.google.com
+slides.google.com
 wikipedia.org
 ya.ru
 yahoo.com

@@ -34,8 +34,20 @@ android.googleapis.com
 apnews.com
 
 # Service — Apple
+apple-cloudkit.com
+apple-dns.net
+apple-livephotoskit.com
+apple-native-relay.apple.com
 apple.com
+cdn-apple.com
+gc.apple.com
+icloud-content.com
+icloud.apple.com
 icloud.com
+iwork.apple.com
+metrics.icloud.com
+pong.icloud.com
+probe.icloud.com
 
 # Service — Apple Music
 music.apple.com
@@ -81,6 +93,13 @@ bing.com
 
 # Service — Bitbucket
 bitbucket.org
+
+# Service — Brave
+brave.com
+search.brave.com
+
+# Service — Canva
+canva.com
 
 # Service — ChatGPT
 android.chat.openai.com
@@ -131,6 +150,9 @@ dailymotion.com
 # Service — Debian
 deb.debian.org
 debian.org
+
+# Service — DeepL
+deepl.com
 
 # Service — DeepSeek
 deepseek.com
@@ -259,6 +281,16 @@ fastmail.com
 # Service — Fedora
 fedoraproject.org
 
+# Service — Figma
+figma-gov.com
+figma-gov.site
+figma.app
+figma.com
+figma.site
+figmaweave.com
+makeproxy-c.figma.site
+makeproxy-m.figma.site
+
 # Service — Filmix
 filmix.ac
 filmix.my
@@ -268,7 +300,12 @@ ai.google.dev
 gemini.google.com
 
 # Service — GitHub
+github.blog
 github.com
+github.dev
+github.io
+githubassets.com
+githubstatus.com
 githubusercontent.com
 
 # Service — GitHub Pages
@@ -283,7 +320,10 @@ gmail.com
 # Service — Google
 accounts.google.com
 admin.google.com
+aistudio.google.com
 analytics.google.com
+calendar.google.com
+docs.google.com
 doubleclick.net
 g.co
 google-analytics.com
@@ -297,6 +337,14 @@ googletagmanager.com
 googleusercontent.com
 googlevideo.com
 gstatic.com
+keep.google.com
+mail.google.com
+meet.google.com
+notebook.google.com
+script.google.com
+sheets.google.com
+sites.google.com
+slides.google.com
 
 # Service — Google Cloud
 cloud.google.com
@@ -358,6 +406,9 @@ limetorrents.lol
 
 # Service — LINE
 line.me
+
+# Service — Linear
+linear.app
 
 # Service — LinkedIn
 linkedin.com
@@ -455,6 +506,10 @@ nexusmods.com
 # Service — Nintendo
 nintendo.com
 
+# Service — Notion
+notion.site
+notion.so
+
 # Service — npm
 npmjs.com
 
@@ -467,6 +522,9 @@ sharepoint.com
 
 # Service — OnlyFans
 onlyfans.com
+
+# Service — OpenRouter
+openrouter.ai
 
 # Service — Outlook
 outlook.com
@@ -582,6 +640,12 @@ skillbox.ru
 
 # Service — Skype
 skype.com
+
+# Service — Slack
+slack.com
+wss-backup.slack.com
+wss-mobile.slack.com
+wss-primary.slack.com
 
 # Service — Snapchat
 snapchat.com
@@ -763,6 +827,12 @@ zoho.com
 
 # Service — Zona
 zona.ru
+
+# Service — Zoom
+zoom.com
+zoom.us
+zoomapp.cloud
+zoomstatus.com
 
 # Service — АиФ
 aif.ru

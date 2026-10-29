@@ -1,0 +1,6 @@
+# NetList seed candidates: Zoom
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+zoom.com
+zoom.us
+zoomapp.cloud
+zoomstatus.com

@@ -2,7 +2,10 @@
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 accounts.google.com
 admin.google.com
+aistudio.google.com
 analytics.google.com
+calendar.google.com
+docs.google.com
 doubleclick.net
 g.co
 google-analytics.com
@@ -16,3 +19,11 @@ googletagmanager.com
 googleusercontent.com
 googlevideo.com
 gstatic.com
+keep.google.com
+mail.google.com
+meet.google.com
+notebook.google.com
+script.google.com
+sheets.google.com
+sites.google.com
+slides.google.com

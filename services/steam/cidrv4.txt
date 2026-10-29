@@ -1,9 +1,9 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Steam — steamcommunity.com
-23.35.28.216/32
+23.199.21.3/32
 
 # Steam — steampowered.com
-2.23.136.4/32
+23.221.96.24/32
 
 # Steam — steamstatic.com
 # (no public DNS addresses found)

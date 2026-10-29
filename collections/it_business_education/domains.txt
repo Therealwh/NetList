@@ -1,16 +1,36 @@
 # NetList collection: it_business_education
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 1c.ru
+canva.com
 cloud.vk.com
+deepl.com
+figma-gov.com
+figma-gov.site
+figma.app
+figma.com
+figma.site
+figmaweave.com
 habr.com
 hh.ru
 kontur.ru
+makeproxy-c.figma.site
+makeproxy-m.figma.site
 mws.ru
 netology.ru
+notion.site
+notion.so
 rustore.ru
 sbis.ru
 selectel.ru
 skillbox.ru
+slack.com
 stepik.org
 tensor.ru
+wss-backup.slack.com
+wss-mobile.slack.com
+wss-primary.slack.com
 yandex.cloud
+zoom.com
+zoom.us
+zoomapp.cloud
+zoomstatus.com

@@ -1,0 +1,4 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Linear — linear.app
+2606:4700:440a::ac40:93d3/128
+2a06:98c1:3105::6812:282d/128

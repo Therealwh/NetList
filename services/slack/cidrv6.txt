@@ -1,0 +1,12 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Slack — slack.com
+# (no public DNS addresses found)
+
+# Slack — wss-backup.slack.com
+# (no public DNS addresses found)
+
+# Slack — wss-mobile.slack.com
+# (no public DNS addresses found)
+
+# Slack — wss-primary.slack.com
+# (no public DNS addresses found)

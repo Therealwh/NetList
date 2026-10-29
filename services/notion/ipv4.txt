@@ -1,0 +1,12 @@
+# DNS-derived IP snapshot for Notion (notion)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Notion — notion.site
+208.103.161.32
+208.103.161.33
+
+# Notion — notion.so
+208.103.161.1
+208.103.161.16
+208.103.161.17
+208.103.161.2

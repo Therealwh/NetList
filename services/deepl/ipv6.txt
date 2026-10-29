@@ -1,0 +1,6 @@
+# DNS-derived IP snapshot for DeepL (deepl)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# DeepL — deepl.com
+2a06:98c1:3105::6812:247a
+2a06:98c1:3108::ac40:9786

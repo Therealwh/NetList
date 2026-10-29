@@ -1,6 +1,62 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Apple — apple-cloudkit.com
+17.254.0.91/32
+
+# Apple — apple-dns.net
+# (no public DNS addresses found)
+
+# Apple — apple-livephotoskit.com
+# (no public DNS addresses found)
+
+# Apple — apple-native-relay.apple.com
+17.248.192.57/32
+17.248.245.132/32
+17.248.245.133/32
+17.248.245.134/32
+17.248.245.138/32
+17.248.245.139/32
+17.248.245.231/32
+17.248.245.234/32
+
 # Apple — apple.com
 17.253.144.10/32
 
+# Apple — cdn-apple.com
+# (no public DNS addresses found)
+
+# Apple — gc.apple.com
+17.155.4.0/32
+
+# Apple — icloud-content.com
+17.253.142.4/32
+
+# Apple — icloud.apple.com
+# (no public DNS addresses found)
+
 # Apple — icloud.com
 17.253.144.10/32
+
+# Apple — iwork.apple.com
+# (no public DNS addresses found)
+
+# Apple — metrics.icloud.com
+17.250.105.13/32
+17.250.105.6/32
+
+# Apple — pong.icloud.com
+17.248.195.130/32
+17.248.195.137/32
+17.248.195.138/32
+17.248.195.59/32
+17.248.195.78/32
+17.248.195.86/32
+
+# Apple — probe.icloud.com
+172.224.208.6/32
+172.224.208.69/32
+172.224.208.70/32
+172.224.208.72/32
+172.224.208.78/32
+172.224.208.79/32
+172.224.208.8/32
+172.224.208.9/32

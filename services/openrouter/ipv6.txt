@@ -1,0 +1,6 @@
+# DNS-derived IP snapshot for OpenRouter (openrouter)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# OpenRouter — openrouter.ai
+2606:4700::6812:273
+2606:4700::6812:373

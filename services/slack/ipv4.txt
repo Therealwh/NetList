@@ -1,0 +1,36 @@
+# DNS-derived IP snapshot for Slack (slack)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Slack — slack.com
+35.81.85.251
+35.82.91.193
+44.234.235.93
+44.237.180.172
+52.89.90.67
+54.188.33.22
+54.245.50.245
+54.70.179.16
+54.71.95.193
+
+# Slack — wss-backup.slack.com
+3.130.241.210
+
+# Slack — wss-mobile.slack.com
+35.165.254.123
+35.83.181.24
+35.83.239.112
+35.83.81.122
+44.235.135.203
+44.238.43.4
+52.41.113.249
+54.189.250.135
+
+# Slack — wss-primary.slack.com
+35.165.254.123
+35.83.181.24
+35.83.239.112
+35.83.81.122
+44.235.135.203
+44.238.43.4
+52.41.113.249
+54.189.250.135

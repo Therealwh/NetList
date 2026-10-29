@@ -4,12 +4,17 @@ bitbucket.org
 codeberg.org
 crates.io
 docker.com
+github.blog
 github.com
+github.dev
 github.io
+githubassets.com
+githubstatus.com
 githubusercontent.com
 gitlab.com
 hub.docker.com
 jetbrains.com
+linear.app
 npmjs.com
 pypi.org
 sourceforge.net

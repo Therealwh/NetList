@@ -1,0 +1,11 @@
+# DNS-derived IP snapshot for Notion (notion)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Notion — notion.site
+# (no public DNS addresses found)
+
+# Notion — notion.so
+2602:f79a:0:1::1
+2602:f79a:0:1::2
+2602:f79a::1
+2602:f79a::2

@@ -1,0 +1,4 @@
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# DeepL — deepl.com
+104.18.36.122/32
+172.64.151.134/32

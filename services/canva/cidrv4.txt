@@ -1,0 +1,6 @@
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Canva — canva.com
+18.155.202.105/32
+18.155.202.17/32
+18.155.202.39/32
+18.155.202.40/32

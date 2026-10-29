@@ -1,4 +1,16 @@
 # NetList seed candidates: Apple
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+apple-cloudkit.com
+apple-dns.net
+apple-livephotoskit.com
+apple-native-relay.apple.com
 apple.com
+cdn-apple.com
+gc.apple.com
+icloud-content.com
+icloud.apple.com
 icloud.com
+iwork.apple.com
+metrics.icloud.com
+pong.icloud.com
+probe.icloud.com

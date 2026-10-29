@@ -1,0 +1,6 @@
+# DNS-derived IP snapshot for OpenRouter (openrouter)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# OpenRouter — openrouter.ai
+104.18.2.115
+104.18.3.115

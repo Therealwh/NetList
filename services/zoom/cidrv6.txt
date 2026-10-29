@@ -1,0 +1,13 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Zoom — zoom.com
+# (no public DNS addresses found)
+
+# Zoom — zoom.us
+2407:30c0:182::aa72:3402/128
+
+# Zoom — zoomapp.cloud
+# (no public DNS addresses found)
+
+# Zoom — zoomstatus.com
+2407:30c0:180::2d17/128
+2407:30c0:181::2d17/128

@@ -1,7 +1,22 @@
 # DNS-derived IP snapshot for GitHub (github)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# GitHub — github.blog
+# (no public DNS addresses found)
+
 # GitHub — github.com
+# (no public DNS addresses found)
+
+# GitHub — github.dev
+# (no public DNS addresses found)
+
+# GitHub — github.io
+# (no public DNS addresses found)
+
+# GitHub — githubassets.com
+# (no public DNS addresses found)
+
+# GitHub — githubstatus.com
 # (no public DNS addresses found)
 
 # GitHub — githubusercontent.com

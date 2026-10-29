@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Akamai — akamai.com
-2600:1408:c400:c::17cd:689a
-2600:1408:c400:c::17cd:689b
+2600:1406:3a00:c::17d8:9546
+2600:1406:3a00:c::17d8:954e

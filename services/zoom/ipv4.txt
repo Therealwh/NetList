@@ -1,0 +1,15 @@
+# DNS-derived IP snapshot for Zoom (zoom)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Zoom — zoom.com
+170.114.0.15
+
+# Zoom — zoom.us
+170.114.52.2
+
+# Zoom — zoomapp.cloud
+# (no public DNS addresses found)
+
+# Zoom — zoomstatus.com
+170.114.45.23
+170.114.46.23

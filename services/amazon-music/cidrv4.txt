@@ -1,3 +1,3 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Amazon Music — music.amazon.com
-18.160.22.74/32
+13.249.78.211/32

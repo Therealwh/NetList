@@ -1,0 +1,25 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Figma — figma-gov.com
+# (no public DNS addresses found)
+
+# Figma — figma-gov.site
+# (no public DNS addresses found)
+
+# Figma — figma.app
+# (no public DNS addresses found)
+
+# Figma — figma.com
+# (no public DNS addresses found)
+
+# Figma — figma.site
+# (no public DNS addresses found)
+
+# Figma — figmaweave.com
+# (no public DNS addresses found)
+
+# Figma — makeproxy-c.figma.site
+2606:4700::6810:ba82/128
+2606:4700::6810:bb82/128
+
+# Figma — makeproxy-m.figma.site
+# (no public DNS addresses found)

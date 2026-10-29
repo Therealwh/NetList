@@ -1,0 +1,4 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# DeepL — deepl.com
+2a06:98c1:3105::6812:247a/128
+2a06:98c1:3108::ac40:9786/128

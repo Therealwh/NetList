@@ -2,19 +2,10 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # YouTube — youtu.be
-2607:f8b0:4004:c06::5b
-2607:f8b0:4004:c06::5d
-2607:f8b0:4004:c06::88
-2607:f8b0:4004:c06::be
+2607:f8b0:4005:808::200e
 
 # YouTube — youtube-nocookie.com
-2607:f8b0:4004:c09::5b
-2607:f8b0:4004:c09::5d
-2607:f8b0:4004:c09::88
-2607:f8b0:4004:c09::be
+2607:f8b0:4005:815::200e
 
 # YouTube — youtube.com
-2607:f8b0:4004:c1b::5b
-2607:f8b0:4004:c1b::5d
-2607:f8b0:4004:c1b::88
-2607:f8b0:4004:c1b::be
+2607:f8b0:4005:817::200e

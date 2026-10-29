@@ -1,0 +1,4 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# OpenRouter — openrouter.ai
+2606:4700::6812:273/128
+2606:4700::6812:373/128

@@ -1,4 +1,9 @@
 # NetList seed candidates: GitHub
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+github.blog
 github.com
+github.dev
+github.io
+githubassets.com
+githubstatus.com
 githubusercontent.com

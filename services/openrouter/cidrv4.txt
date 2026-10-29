@@ -1,0 +1,4 @@
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# OpenRouter — openrouter.ai
+104.18.2.115/32
+104.18.3.115/32

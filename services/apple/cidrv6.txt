@@ -1,6 +1,61 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Apple — apple-cloudkit.com
+# (no public DNS addresses found)
+
+# Apple — apple-dns.net
+# (no public DNS addresses found)
+
+# Apple — apple-livephotoskit.com
+# (no public DNS addresses found)
+
+# Apple — apple-native-relay.apple.com
+2620:149:1368::21/128
+2620:149:a43:200::5/128
+2620:149:a43:200::6/128
+2620:149:a43:200::8/128
+2620:149:a43:20a::6/128
+2620:149:a43:20a::8/128
+2620:149:a43:20a::9/128
+2620:149:a43:20a::b/128
+
 # Apple — apple.com
 2620:149:af0::10/128
 
+# Apple — cdn-apple.com
+# (no public DNS addresses found)
+
+# Apple — gc.apple.com
+# (no public DNS addresses found)
+
+# Apple — icloud-content.com
+# (no public DNS addresses found)
+
+# Apple — icloud.apple.com
+# (no public DNS addresses found)
+
 # Apple — icloud.com
 2620:149:af0::10/128
+
+# Apple — iwork.apple.com
+# (no public DNS addresses found)
+
+# Apple — metrics.icloud.com
+2620:149:a43:4ff::4:2/128
+2620:149:a43:4ff::a/128
+
+# Apple — pong.icloud.com
+2620:149:1368::17/128
+2620:149:1368::1f/128
+2620:149:1368::a/128
+2620:149:a43:283::5/128
+2620:149:a43:283::8/128
+
+# Apple — probe.icloud.com
+2a02:26f7:143:1:ace0:ab03::/128
+2a02:26f7:143:1:ace0:ab05::/128
+2a02:26f7:143:1:ace0:ab06::/128
+2a02:26f7:143:1:ace0:ab07::/128
+2a02:26f7:143:1:ace0:ab09::/128
+2a02:26f7:143:1:ace0:ab0a::/128
+2a02:26f7:143:1:ace0:ab0b::/128
+2a02:26f7:143:1:ace0:ab0d::/128

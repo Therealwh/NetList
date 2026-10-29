@@ -1,0 +1,10 @@
+# NetList seed candidates: Figma
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+figma-gov.com
+figma-gov.site
+figma.app
+figma.com
+figma.site
+figmaweave.com
+makeproxy-c.figma.site
+makeproxy-m.figma.site

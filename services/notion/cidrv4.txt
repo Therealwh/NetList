@@ -1,0 +1,10 @@
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Notion — notion.site
+208.103.161.32/32
+208.103.161.33/32
+
+# Notion — notion.so
+208.103.161.1/32
+208.103.161.16/32
+208.103.161.17/32
+208.103.161.2/32

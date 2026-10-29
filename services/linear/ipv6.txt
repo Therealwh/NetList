@@ -1,0 +1,6 @@
+# DNS-derived IP snapshot for Linear (linear)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Linear — linear.app
+2606:4700:440a::ac40:93d3
+2a06:98c1:3105::6812:282d

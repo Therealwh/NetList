@@ -1,8 +1,64 @@
 # DNS-derived IP snapshot for Apple (apple)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Apple — apple-cloudkit.com
+17.254.0.91
+
+# Apple — apple-dns.net
+# (no public DNS addresses found)
+
+# Apple — apple-livephotoskit.com
+# (no public DNS addresses found)
+
+# Apple — apple-native-relay.apple.com
+17.248.192.57
+17.248.245.132
+17.248.245.133
+17.248.245.134
+17.248.245.138
+17.248.245.139
+17.248.245.231
+17.248.245.234
+
 # Apple — apple.com
 17.253.144.10
 
+# Apple — cdn-apple.com
+# (no public DNS addresses found)
+
+# Apple — gc.apple.com
+17.155.4.0
+
+# Apple — icloud-content.com
+17.253.142.4
+
+# Apple — icloud.apple.com
+# (no public DNS addresses found)
+
 # Apple — icloud.com
 17.253.144.10
+
+# Apple — iwork.apple.com
+# (no public DNS addresses found)
+
+# Apple — metrics.icloud.com
+17.250.105.13
+17.250.105.6
+
+# Apple — pong.icloud.com
+17.248.195.130
+17.248.195.137
+17.248.195.138
+17.248.195.59
+17.248.195.78
+17.248.195.86
+
+# Apple — probe.icloud.com
+172.224.208.6
+172.224.208.69
+172.224.208.70
+172.224.208.72
+172.224.208.78
+172.224.208.79
+172.224.208.8
+172.224.208.9

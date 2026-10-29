@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "dataset": "netlist",
-  "generated_at": "2026-10-29T23:17:51+00:00",
+  "generated_at": "2026-10-29T23:43:36+00:00",
   "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
   "counts": {
-    "services": 264,
+    "services": 273,
     "categories": 27,
-    "domains": 456
+    "domains": 507
   },
   "categories": [
     {
@@ -16,8 +16,8 @@
     },
     {
       "id": "ai",
-      "services_count": 11,
-      "domains_count": 34
+      "services_count": 12,
+      "domains_count": 35
     },
     {
       "id": "banks_payments",
@@ -31,8 +31,8 @@
     },
     {
       "id": "developer_tools",
-      "services_count": 12,
-      "domains_count": 15
+      "services_count": 13,
+      "domains_count": 20
     },
     {
       "id": "file_sharing",
@@ -66,8 +66,8 @@
     },
     {
       "id": "it_business_education",
-      "services_count": 13,
-      "domains_count": 14
+      "services_count": 19,
+      "domains_count": 34
     },
     {
       "id": "mail",
@@ -107,7 +107,7 @@
     {
       "id": "os_security",
       "services_count": 11,
-      "domains_count": 44
+      "domains_count": 56
     },
     {
       "id": "search_ecosystems",
@@ -116,8 +116,8 @@
     },
     {
       "id": "search_portals",
-      "services_count": 8,
-      "domains_count": 29
+      "services_count": 9,
+      "domains_count": 42
     },
     {
       "id": "social",
@@ -359,12 +359,24 @@
     {
       "name": "Apple",
       "slug": "apple",
-      "primary_domain": "apple.com",
+      "primary_domain": "apple-cloudkit.com",
       "domains": [
+        "apple-cloudkit.com",
+        "apple-dns.net",
+        "apple-livephotoskit.com",
+        "apple-native-relay.apple.com",
         "apple.com",
-        "icloud.com"
+        "cdn-apple.com",
+        "gc.apple.com",
+        "icloud-content.com",
+        "icloud.apple.com",
+        "icloud.com",
+        "iwork.apple.com",
+        "metrics.icloud.com",
+        "pong.icloud.com",
+        "probe.icloud.com"
       ],
-      "domain_count": 2,
+      "domain_count": 14,
       "categories": [
         "os_security"
       ],
@@ -635,6 +647,39 @@
       "seed_status": "candidate_unverified"
     },
     {
+      "name": "Brave",
+      "slug": "brave",
+      "primary_domain": "brave.com",
+      "domains": [
+        "brave.com",
+        "search.brave.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Canva",
+      "slug": "canva",
+      "primary_domain": "canva.com",
+      "domains": [
+        "canva.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
       "name": "ChatGPT",
       "slug": "chatgpt",
       "primary_domain": "android.chat.openai.com",
@@ -811,6 +856,22 @@
       "domain_count": 2,
       "categories": [
         "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "DeepL",
+      "slug": "deepl",
+      "primary_domain": "deepl.com",
+      "domains": [
+        "deepl.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
       ],
       "datasets": [
         "global"
@@ -1279,6 +1340,29 @@
       "seed_status": "candidate_unverified"
     },
     {
+      "name": "Figma",
+      "slug": "figma",
+      "primary_domain": "figma-gov.com",
+      "domains": [
+        "figma-gov.com",
+        "figma-gov.site",
+        "figma.app",
+        "figma.com",
+        "figma.site",
+        "figmaweave.com",
+        "makeproxy-c.figma.site",
+        "makeproxy-m.figma.site"
+      ],
+      "domain_count": 8,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
       "name": "Filmix",
       "slug": "filmix",
       "primary_domain": "filmix.ac",
@@ -1379,12 +1463,17 @@
     {
       "name": "GitHub",
       "slug": "github",
-      "primary_domain": "github.com",
+      "primary_domain": "github.blog",
       "domains": [
+        "github.blog",
         "github.com",
+        "github.dev",
+        "github.io",
+        "githubassets.com",
+        "githubstatus.com",
         "githubusercontent.com"
       ],
-      "domain_count": 2,
+      "domain_count": 7,
       "categories": [
         "developer_tools"
       ],
@@ -1464,7 +1553,10 @@
       "domains": [
         "accounts.google.com",
         "admin.google.com",
+        "aistudio.google.com",
         "analytics.google.com",
+        "calendar.google.com",
+        "docs.google.com",
         "doubleclick.net",
         "g.co",
         "google-analytics.com",
@@ -1477,9 +1569,17 @@
         "googletagmanager.com",
         "googleusercontent.com",
         "googlevideo.com",
-        "gstatic.com"
+        "gstatic.com",
+        "keep.google.com",
+        "mail.google.com",
+        "meet.google.com",
+        "notebook.google.com",
+        "script.google.com",
+        "sheets.google.com",
+        "sites.google.com",
+        "slides.google.com"
       ],
-      "domain_count": 16,
+      "domain_count": 27,
       "categories": [
         "search_portals"
       ],
@@ -1941,6 +2041,22 @@
       "domain_count": 1,
       "categories": [
         "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "primary_domain": "linear.app",
+      "domains": [
+        "linear.app"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
       ],
       "datasets": [
         "global"
@@ -2482,6 +2598,23 @@
       "seed_status": "candidate_unverified"
     },
     {
+      "name": "Notion",
+      "slug": "notion",
+      "primary_domain": "notion.site",
+      "domains": [
+        "notion.site",
+        "notion.so"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
       "name": "npm",
       "slug": "npm",
       "primary_domain": "npmjs.com",
@@ -2608,6 +2741,22 @@
       "domain_count": 1,
       "categories": [
         "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "OpenRouter",
+      "slug": "openrouter",
+      "primary_domain": "openrouter.ai",
+      "domains": [
+        "openrouter.ai"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "ai"
       ],
       "datasets": [
         "global"
@@ -3476,6 +3625,25 @@
       "domain_count": 1,
       "categories": [
         "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Slack",
+      "slug": "slack",
+      "primary_domain": "slack.com",
+      "domains": [
+        "slack.com",
+        "wss-backup.slack.com",
+        "wss-mobile.slack.com",
+        "wss-primary.slack.com"
+      ],
+      "domain_count": 4,
+      "categories": [
+        "it_business_education"
       ],
       "datasets": [
         "global"
@@ -4587,6 +4755,25 @@
       "domain_count": 1,
       "categories": [
         "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Zoom",
+      "slug": "zoom",
+      "primary_domain": "zoom.com",
+      "domains": [
+        "zoom.com",
+        "zoom.us",
+        "zoomapp.cloud",
+        "zoomstatus.com"
+      ],
+      "domain_count": 4,
+      "categories": [
+        "it_business_education"
       ],
       "datasets": [
         "global"

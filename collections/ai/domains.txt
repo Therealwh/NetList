@@ -25,6 +25,7 @@ oaistatic.com
 oaistatsig.com
 oaiusercontent.com
 openai.com
+openrouter.ai
 perplexity.ai
 platform.openai.com
 qwen.ai
