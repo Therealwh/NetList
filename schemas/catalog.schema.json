@@ -41,7 +41,7 @@
           "domains": {"type": "array", "items": {"type": "string"}, "minItems": 1},
           "domain_count": {"type": "integer", "minimum": 1},
           "categories": {"type": "array", "items": {"type": "string"}, "minItems": 1},
-          "datasets": {"type": "array", "items": {"enum": ["global", "russian"]}},
+          "datasets": {"type": "array", "items": {"enum": ["global", "russian", "user"]}},
           "seed_status": {"enum": ["candidate_unverified"]}
         }
       }

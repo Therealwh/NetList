@@ -9,7 +9,7 @@ from pathlib import Path
 
 from . import build as build_mod
 from . import check_structure, guards
-from .seed_import import build_registry, load_seed_catalog, save_registry
+from .seed_import import build_registry, load_seed_catalog, load_user_submissions, save_registry
 
 
 def cmd_import(args: argparse.Namespace) -> int:
@@ -27,6 +27,11 @@ def cmd_import(args: argparse.Namespace) -> int:
     records: list[dict] = []
     for dataset in args.datasets:
         records.extend(load_seed_catalog(seed_root, dataset))
+    known_categories = {c for r in records for c in r["categories"]}
+    user_records = load_user_submissions(Path(args.repo_root), known_categories=known_categories)
+    if user_records:
+        records.extend(user_records)
+        print(f"пользовательских заявок импортировано: {len(user_records)}")
     registry = build_registry(records)
     save_registry(Path(args.repo_root), registry)
     domains = len({d for s in registry.values() for d in s.domains})

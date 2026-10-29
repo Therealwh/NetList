@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import json
+import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -95,6 +96,41 @@ def save_registry(repo_root: Path, registry: dict[str, Service]) -> None:
         encoding="utf-8",
         newline="\n",
     )
+
+
+def load_user_submissions(repo_root: Path, known_categories: set[str] | None = None) -> list[dict]:
+    """Читает sources/user_submissions/*.json — подтверждённые заявки пользователей
+    (ТЗ §8.3: публикация только через штатную сборку; заявки не теряются при пересборке).
+
+    Категории фильтруются по каталогу; без известной категории запись попадает
+    в пользовательскую коллекцию. Источник данных помечается как "user".
+    """
+    directory = Path(repo_root) / "sources" / "user_submissions"
+    if not directory.is_dir():
+        return []
+    records: list[dict] = []
+    for path in sorted(directory.glob("*.json")):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            continue
+        if not isinstance(data, dict):
+            continue
+        domain = normalize_domain(str(data.get("domain", "")))
+        if domain is None:
+            continue
+        categories = set()
+        for raw in (data.get("categories") or []):
+            category = str(raw).strip().lower()
+            if re.fullmatch(r"[a-z0-9-]{1,60}", category) and (known_categories is None or category in known_categories):
+                categories.add(category)
+        records.append({
+            "name": str(data.get("name") or domain)[:100],
+            "categories": categories or {"user_collections"},
+            "domains": {domain},
+            "dataset": "user",
+        })
+    return records
 
 
 def load_registry(path: Path) -> dict[str, Service]:
