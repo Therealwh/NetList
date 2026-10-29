@@ -1,6 +1,8 @@
 name: update-lists
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 3 * * *"   # ежедневно 03:00 UTC
   workflow_dispatch:
