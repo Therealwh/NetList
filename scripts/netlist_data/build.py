@@ -84,11 +84,23 @@ def build_all(repo_root: Path) -> dict:
     all_domains: set[str] = set()
     for service in registry.values():
         all_domains.update(service.domains)
-    write_list(
-        root / "common" / "domains.txt",
-        all_domains,
-        comments=["NetList combined domains", NOTICE],
-    )
+    # Human-readable grouped combined domain list. Repeated values across service
+    # groups are intentional when a domain is associated with more than one service.
+    common_path = root / "common" / "domains.txt"
+    common_path.parent.mkdir(parents=True, exist_ok=True)
+    grouped_lines = [
+        "# NetList combined domains — grouped by service",
+        f"# {NOTICE}",
+        "# A domain may appear in more than one service group when the catalog links it to multiple services.",
+        "",
+    ]
+    for service in sorted(registry.values(), key=lambda item: (item.name.casefold(), item.slug)):
+        grouped_lines.append(f"# Service — {service.name}")
+        grouped_lines.extend(sorted(service.domains))
+        grouped_lines.append("")
+    common_tmp = common_path.with_name("domains.txt.tmp")
+    common_tmp.write_text("\n".join(grouped_lines).rstrip() + "\n", encoding="utf-8", newline="\n")
+    common_tmp.replace(common_path)
 
     catalog = {
         "schema_version": 1,
