@@ -14,8 +14,8 @@ from pathlib import Path
 from .io_lists import read_list, write_list
 from .seed_import import load_registry
 
-# RFC 6598 shared address space: not globally routable despite platform/version
-# differences in ipaddress.is_global behavior.
+# The 100.0.0.0/8 block is not a general public unicast allocation; explicitly
+# exclude it because some Python versions classify individual addresses as global.
 NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.0.0.0/8"),)
 
 
