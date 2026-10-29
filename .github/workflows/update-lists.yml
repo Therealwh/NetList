@@ -32,6 +32,9 @@ jobs:
       - name: Пересборка каталога из источников
         run: python -m scripts.netlist_data build
 
+      - name: DNS-снимки IPv4, IPv6 и точные CIDR-маршруты
+        run: python -m scripts.netlist_data.resolve_ips
+
       - name: Логотипы — поиск и сборка манифеста (§15.5)
         run: python -m scripts.netlist_data logos discover
 
@@ -63,7 +66,7 @@ jobs:
           ).splitlines()
           bad = [p for p in names if p not in allowed_exact and not p.startswith(allowed)]
           if bad:
-              print("Запрещённые пути в коммите:", *bad, sep="\n- ", file=sys.stderr)
+              print("Запрещённые пути в коммите:", *bad, sep="\\n- ", file=sys.stderr)
               sys.exit(1)
           PY
           git diff --cached --check
