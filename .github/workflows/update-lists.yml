@@ -1,0 +1,48 @@
+name: update-lists
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # ежедневно 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-lists
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Структура репозитория (нет файлов сайта и секретов)
+        run: python -m scripts.netlist_data check-structure
+
+      - name: Тесты
+        run: python -m unittest discover -s tests -v
+
+      - name: Пересборка каталога из источников
+        run: python -m scripts.netlist_data build
+
+      - name: Защита от потери данных
+        run: python -m scripts.netlist_data guards
+
+      - name: Commit только при реальных изменениях
+        run: |
+          git config user.name "netlist-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "Изменений нет — коммит не нужен"
+            exit 0
+          fi
+          git add -A
+          git commit -m "update lists: $(date -u +%F) [skip ci]"
+          git push
