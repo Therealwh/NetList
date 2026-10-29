@@ -2,13 +2,13 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Google — accounts.google.com
-2607:f8b0:4023:c0d::54
+2607:f8b0:4004:c1f::54
 
 # Google — admin.google.com
-2607:f8b0:4023:2009::64
-2607:f8b0:4023:2009::65
-2607:f8b0:4023:2009::66
-2607:f8b0:4023:2009::8b
+2607:f8b0:4004:c1b::64
+2607:f8b0:4004:c1b::65
+2607:f8b0:4004:c1b::71
+2607:f8b0:4004:c1b::8b
 
 # Google — analytics.google.com
 2001:4860:4802:32::181
@@ -17,49 +17,65 @@
 2001:4860:4802:38::181
 
 # Google — doubleclick.net
-2607:f8b0:4023:2009::64
-2607:f8b0:4023:2009::65
-2607:f8b0:4023:2009::71
-2607:f8b0:4023:2009::8a
+2607:f8b0:4004:c19::65
+2607:f8b0:4004:c19::66
+2607:f8b0:4004:c19::71
+2607:f8b0:4004:c19::8a
 
 # Google — g.co
-2607:f8b0:4023:200b::64
-2607:f8b0:4023:200b::65
-2607:f8b0:4023:200b::8a
-2607:f8b0:4023:200b::8b
+2607:f8b0:4004:c1f::64
+2607:f8b0:4004:c1f::65
+2607:f8b0:4004:c1f::71
+2607:f8b0:4004:c1f::8b
 
 # Google — google-analytics.com
-2607:f8b0:4007:806::2004
+2607:f8b0:4004:c17::63
+2607:f8b0:4004:c17::67
+2607:f8b0:4004:c17::6a
+2607:f8b0:4004:c17::93
 
 # Google — google.co.uk
-2607:f8b0:4023:200d::5e
+2607:f8b0:4004:c23::5e
 
 # Google — google.com
-2607:f8b0:4023:c0b::64
-2607:f8b0:4023:c0b::65
-2607:f8b0:4023:c0b::8a
-2607:f8b0:4023:c0b::8b
+2607:f8b0:4004:c08::66
+2607:f8b0:4004:c08::71
+2607:f8b0:4004:c08::8a
+2607:f8b0:4004:c08::8b
 
 # Google — googleadservices.com
 # (no public DNS addresses found)
 
 # Google — googleapis.com
-2607:f8b0:4007:80b::2004
+2607:f8b0:4004:c23::63
+2607:f8b0:4004:c23::67
+2607:f8b0:4004:c23::6a
+2607:f8b0:4004:c23::93
 
 # Google — googlemail.com
-2607:f8b0:4007:80c::2005
+2607:f8b0:4004:c07::11
+2607:f8b0:4004:c07::12
+2607:f8b0:4004:c07::13
+2607:f8b0:4004:c07::53
 
 # Google — googlesyndication.com
-2607:f8b0:4007:818::2004
+2607:f8b0:4004:c08::63
+2607:f8b0:4004:c08::67
+2607:f8b0:4004:c08::69
+2607:f8b0:4004:c08::93
 
 # Google — googletagmanager.com
-2607:f8b0:4023:200d::61
+2607:f8b0:4004:c1b::61
 
 # Google — googleusercontent.com
-2607:f8b0:4007:807::2001
+2607:f8b0:4004:c08::84
 
 # Google — googlevideo.com
-2607:f8b0:4007:80d::2004
+2607:f8b0:4004:c07::63
+2607:f8b0:4004:c07::67
+2607:f8b0:4004:c07::69
+2607:f8b0:4004:c07::6a
 
 # Google — gstatic.com
-2607:f8b0:4007:817::2003
+2607:f8b0:4004:c09::5e
+2607:f8b0:4004:c09::78

@@ -20,8 +20,8 @@
 # (no public DNS addresses found)
 
 # Akamai — akamai.com
-2600:1404:ec00:27::17df:f013/128
-2600:1404:ec00:27::17df:f015/128
+2600:1408:c400:c::17cd:689a/128
+2600:1408:c400:c::17cd:689b/128
 
 # Альфа-Банк — alfabank.ru
 # (no public DNS addresses found)
@@ -33,17 +33,20 @@
 # (no public DNS addresses found)
 
 # Amazon Music — music.amazon.com
-2600:9000:2105:4800:1b:5d9a:8ad6:8f61/128
-2600:9000:2105:5a00:1b:5d9a:8ad6:8f61/128
-2600:9000:2105:a400:1b:5d9a:8ad6:8f61/128
-2600:9000:2105:b000:1b:5d9a:8ad6:8f61/128
-2600:9000:2105:e800:1b:5d9a:8ad6:8f61/128
-2600:9000:2105:ec00:1b:5d9a:8ad6:8f61/128
-2600:9000:2105:f200:1b:5d9a:8ad6:8f61/128
-2600:9000:2105:f600:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:1600:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:4400:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:4800:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:4a00:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:6200:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:a600:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:ca00:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:ee00:1b:5d9a:8ad6:8f61/128
 
 # Android — android.com
-2607:f8b0:4007:804::2004/128
+2607:f8b0:4004:c23::67/128
+2607:f8b0:4004:c23::68/128
+2607:f8b0:4004:c23::69/128
+2607:f8b0:4004:c23::6a/128
 
 # Android — android.googleapis.com
 2001:4860:4840:400::/128
@@ -66,11 +69,7 @@
 2620:149:af0::10/128
 
 # Apple Music — music.apple.com
-2600:1405:8400:582::2a1/128
-2600:1405:8400:589::2a1/128
-2600:1405:8400:58a::2a1/128
-2600:1405:8400:58b::2a1/128
-2600:1405:8400:58f::2a1/128
+2a04:4e42:79::774/128
 
 # Arch Linux — archlinux.org
 2604:cac0:a104:d::3/128
@@ -82,14 +81,14 @@
 # (no public DNS addresses found)
 
 # AWS — aws.amazon.com
-2600:9000:2105:1a00:1c:a813:8500:93a1/128
-2600:9000:2105:1c00:1c:a813:8500:93a1/128
-2600:9000:2105:6000:1c:a813:8500:93a1/128
-2600:9000:2105:8000:1c:a813:8500:93a1/128
-2600:9000:2105:b600:1c:a813:8500:93a1/128
-2600:9000:2105:c800:1c:a813:8500:93a1/128
-2600:9000:2105:e800:1c:a813:8500:93a1/128
-2600:9000:2105:f800:1c:a813:8500:93a1/128
+2600:9000:201f:2c00:1c:a813:8500:93a1/128
+2600:9000:201f:7600:1c:a813:8500:93a1/128
+2600:9000:201f:b000:1c:a813:8500:93a1/128
+2600:9000:201f:bc00:1c:a813:8500:93a1/128
+2600:9000:201f:dc00:1c:a813:8500:93a1/128
+2600:9000:201f:e800:1c:a813:8500:93a1/128
+2600:9000:201f:f200:1c:a813:8500:93a1/128
+2600:9000:201f:f400:1c:a813:8500:93a1/128
 
 # Baidu — baidu.com
 # (no public DNS addresses found)
@@ -261,7 +260,7 @@
 # (no public DNS addresses found)
 
 # Debian — deb.debian.org
-2a04:4e42:66::644/128
+2a04:4e42:79::644/128
 
 # Debian — debian.org
 2a04:4e42:200::644/128
@@ -306,10 +305,10 @@
 # (no public DNS addresses found)
 
 # Dropbox — api-content-au.dropbox.com
-2620:100:601f:14::a27d:90e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — api-content-eu.dropbox.com
-2620:100:601f:14::a27d:90e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — api-content-jp.dropbox.com
 2620:100:601f:14::a27d:90e/128
@@ -318,13 +317,13 @@
 2620:100:601f:16::a27d:910/128
 
 # Dropbox — api-content-uk.dropbox.com
-2620:100:601f:14::a27d:90e/128
+2620:100:601b:14::a27d:80e/128
 
 # Dropbox — api-content.dropbox.com
-2620:100:6017:14::a27d:20e/128
+2620:100:601f:14::a27d:90e/128
 
 # Dropbox — api-content1-eu.dropbox.com
-2620:100:6017:14::a27d:20e/128
+2620:100:601c:14::a27d:60e/128
 
 # Dropbox — app.hellosign.com
 # (no public DNS addresses found)
@@ -333,16 +332,16 @@
 # (no public DNS addresses found)
 
 # Dropbox — content-au.dropboxapi.com
-2620:100:601f:14::a27d:90e/128
+2620:100:601d:14::a27d:50e/128
 
 # Dropbox — content-eu.dropboxapi.com
-2620:100:6017:14::a27d:20e/128
+2620:100:601d:14::a27d:50e/128
 
 # Dropbox — content-jp.dropboxapi.com
 2620:100:601f:14::a27d:90e/128
 
 # Dropbox — content-uk.dropboxapi.com
-2620:100:601f:14::a27d:90e/128
+2620:100:601b:14::a27d:80e/128
 
 # Dropbox — content.dropboxapi.com
 2620:100:601f:14::a27d:90e/128
@@ -354,7 +353,7 @@
 2620:100:6040:21::a27d:f815/128
 
 # Dropbox — dl-au.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:6018:15::a27d:30f/128
 
 # Dropbox — dl-au.dropboxusercontent.com
 2620:100:601f:15::a27d:90f/128
@@ -369,43 +368,43 @@
 # (no public DNS addresses found)
 
 # Dropbox — dl-eu.dropbox.com
-2620:100:6017:15::a27d:20f/128
-
-# Dropbox — dl-eu.dropboxusercontent.com
 2620:100:601f:15::a27d:90f/128
 
+# Dropbox — dl-eu.dropboxusercontent.com
+2620:100:601d:15::a27d:50f/128
+
 # Dropbox — dl-jp.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl-jp.dropboxusercontent.com
 2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl-uk.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:6018:15::a27d:30f/128
 
 # Dropbox — dl-uk.dropboxusercontent.com
-2620:100:6017:15::a27d:20f/128
+2620:100:6018:15::a27d:30f/128
 
 # Dropbox — dl-web-au.dropbox.com
 2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl-web-eu.dropbox.com
-2620:100:601f:15::a27d:90f/128
+2620:100:601c:15::a27d:60f/128
 
 # Dropbox — dl-web-jp.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl-web-uk.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl-web.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601c:15::a27d:60f/128
 
 # Dropbox — dl.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl.dropboxusercontent.com
-2620:100:6017:15::a27d:20f/128
+2620:100:6018:15::a27d:30f/128
 
 # Dropbox — docsend.com
 # (no public DNS addresses found)
@@ -465,13 +464,13 @@
 2620:100:601f:15::a27d:90f/128
 
 # Dropbox — files-eu.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — files-jp.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601c:15::a27d:60f/128
 
 # Dropbox — files-uk.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — getdropbox.com
 2620:100:6040:21::a27d:f815/128
@@ -483,7 +482,7 @@
 # (no public DNS addresses found)
 
 # Dropbox — links.dropbox.com
-2620:100:601f:18::a27d:912/128
+2620:100:601d:18::a27d:512/128
 
 # DuckDuckGo — duckduckgo.com
 # (no public DNS addresses found)
@@ -492,8 +491,8 @@
 2a00:b4c0:9100:b000::1:b0/128
 
 # EA — ea.com
-2600:1405:8400:391::1127/128
-2600:1405:8400:392::1127/128
+2600:1408:c400:688::1127/128
+2600:1408:c400:68a::1127/128
 
 # eBay — ebay.com
 # (no public DNS addresses found)
@@ -515,7 +514,7 @@
 2606:4700:3034::6815:45ae/128
 
 # Facebook — facebook.com
-2a03:2880:f364:1:face:b00c:0:25de/128
+2a03:2880:f373:1:face:b00c:0:25de/128
 
 # Faceit — faceit.com
 # (no public DNS addresses found)
@@ -559,7 +558,10 @@
 # (no public DNS addresses found)
 
 # Gemini — ai.google.dev
-2607:f8b0:4007:803::200e/128
+2607:f8b0:4004:c29::64/128
+2607:f8b0:4004:c29::65/128
+2607:f8b0:4004:c29::8a/128
+2607:f8b0:4004:c29::8b/128
 
 # Gemini — gemini.google.com
 2001:4860:4826:200::/128
@@ -593,16 +595,19 @@
 # (no public DNS addresses found)
 
 # Gmail — gmail.com
-2607:f8b0:4007:818::2005/128
+2607:f8b0:4004:c23::11/128
+2607:f8b0:4004:c23::12/128
+2607:f8b0:4004:c23::13/128
+2607:f8b0:4004:c23::53/128
 
 # Google — accounts.google.com
-2607:f8b0:4023:c0d::54/128
+2607:f8b0:4004:c1f::54/128
 
 # Google — admin.google.com
-2607:f8b0:4023:2009::64/128
-2607:f8b0:4023:2009::65/128
-2607:f8b0:4023:2009::66/128
-2607:f8b0:4023:2009::8b/128
+2607:f8b0:4004:c1b::64/128
+2607:f8b0:4004:c1b::65/128
+2607:f8b0:4004:c1b::71/128
+2607:f8b0:4004:c1b::8b/128
 
 # Google — analytics.google.com
 2001:4860:4802:32::181/128
@@ -611,67 +616,86 @@
 2001:4860:4802:38::181/128
 
 # Google — doubleclick.net
-2607:f8b0:4023:2009::64/128
-2607:f8b0:4023:2009::65/128
-2607:f8b0:4023:2009::71/128
-2607:f8b0:4023:2009::8a/128
+2607:f8b0:4004:c19::65/128
+2607:f8b0:4004:c19::66/128
+2607:f8b0:4004:c19::71/128
+2607:f8b0:4004:c19::8a/128
 
 # Google — g.co
-2607:f8b0:4023:200b::64/128
-2607:f8b0:4023:200b::65/128
-2607:f8b0:4023:200b::8a/128
-2607:f8b0:4023:200b::8b/128
+2607:f8b0:4004:c1f::64/128
+2607:f8b0:4004:c1f::65/128
+2607:f8b0:4004:c1f::71/128
+2607:f8b0:4004:c1f::8b/128
 
 # Google — google-analytics.com
-2607:f8b0:4007:806::2004/128
+2607:f8b0:4004:c17::63/128
+2607:f8b0:4004:c17::67/128
+2607:f8b0:4004:c17::6a/128
+2607:f8b0:4004:c17::93/128
 
 # Google — google.co.uk
-2607:f8b0:4023:200d::5e/128
+2607:f8b0:4004:c23::5e/128
 
 # Google — google.com
-2607:f8b0:4023:c0b::64/128
-2607:f8b0:4023:c0b::65/128
-2607:f8b0:4023:c0b::8a/128
-2607:f8b0:4023:c0b::8b/128
+2607:f8b0:4004:c08::66/128
+2607:f8b0:4004:c08::71/128
+2607:f8b0:4004:c08::8a/128
+2607:f8b0:4004:c08::8b/128
 
 # Google — googleadservices.com
 # (no public DNS addresses found)
 
 # Google — googleapis.com
-2607:f8b0:4007:80b::2004/128
+2607:f8b0:4004:c23::63/128
+2607:f8b0:4004:c23::67/128
+2607:f8b0:4004:c23::6a/128
+2607:f8b0:4004:c23::93/128
 
 # Google — googlemail.com
-2607:f8b0:4007:80c::2005/128
+2607:f8b0:4004:c07::11/128
+2607:f8b0:4004:c07::12/128
+2607:f8b0:4004:c07::13/128
+2607:f8b0:4004:c07::53/128
 
 # Google — googlesyndication.com
-2607:f8b0:4007:818::2004/128
+2607:f8b0:4004:c08::63/128
+2607:f8b0:4004:c08::67/128
+2607:f8b0:4004:c08::69/128
+2607:f8b0:4004:c08::93/128
 
 # Google — googletagmanager.com
-2607:f8b0:4023:200d::61/128
+2607:f8b0:4004:c1b::61/128
 
 # Google — googleusercontent.com
-2607:f8b0:4007:807::2001/128
+2607:f8b0:4004:c08::84/128
 
 # Google — googlevideo.com
-2607:f8b0:4007:80d::2004/128
+2607:f8b0:4004:c07::63/128
+2607:f8b0:4004:c07::67/128
+2607:f8b0:4004:c07::69/128
+2607:f8b0:4004:c07::6a/128
 
 # Google — gstatic.com
-2607:f8b0:4007:817::2003/128
+2607:f8b0:4004:c09::5e/128
+2607:f8b0:4004:c09::78/128
 
 # Google Cloud — cloud.google.com
-2607:f8b0:4007:804::200e/128
+2607:f8b0:4004:c23::64/128
+2607:f8b0:4004:c23::65/128
+2607:f8b0:4004:c23::8a/128
+2607:f8b0:4004:c23::8b/128
 
 # Google Cloud — googlecloud.com
-2607:f8b0:4023:c0d::64/128
-2607:f8b0:4023:c0d::65/128
-2607:f8b0:4023:c0d::66/128
-2607:f8b0:4023:c0d::71/128
+2607:f8b0:4004:c09::65/128
+2607:f8b0:4004:c09::66/128
+2607:f8b0:4004:c09::8a/128
+2607:f8b0:4004:c09::8b/128
 
 # Google Drive — drive.google.com
-2607:f8b0:4023:c03::64/128
-2607:f8b0:4023:c03::65/128
-2607:f8b0:4023:c03::71/128
-2607:f8b0:4023:c03::8a/128
+2607:f8b0:4004:c17::65/128
+2607:f8b0:4004:c17::66/128
+2607:f8b0:4004:c17::71/128
+2607:f8b0:4004:c17::8a/128
 
 # Госдума — duma.gov.ru
 # (no public DNS addresses found)
@@ -703,20 +727,20 @@
 2a01:4f8:0:1::7:4/128
 
 # Hugging Face — huggingface.co
-2600:9000:2073:1800:17:b174:6d00:93a1/128
-2600:9000:2073:4000:17:b174:6d00:93a1/128
-2600:9000:2073:4e00:17:b174:6d00:93a1/128
-2600:9000:2073:5200:17:b174:6d00:93a1/128
-2600:9000:2073:9200:17:b174:6d00:93a1/128
-2600:9000:2073:ac00:17:b174:6d00:93a1/128
-2600:9000:2073:ae00:17:b174:6d00:93a1/128
-2600:9000:2073:b400:17:b174:6d00:93a1/128
+2600:9000:27d1:2e00:17:b174:6d00:93a1/128
+2600:9000:27d1:3600:17:b174:6d00:93a1/128
+2600:9000:27d1:6000:17:b174:6d00:93a1/128
+2600:9000:27d1:7e00:17:b174:6d00:93a1/128
+2600:9000:27d1:8600:17:b174:6d00:93a1/128
+2600:9000:27d1:ca00:17:b174:6d00:93a1/128
+2600:9000:27d1:d800:17:b174:6d00:93a1/128
+2600:9000:27d1:e00:17:b174:6d00:93a1/128
 
 # Hulu — hulu.com
 # (no public DNS addresses found)
 
 # Instagram — instagram.com
-2a03:2880:f364:22:face:b00c:0:4420/128
+2a03:2880:f373:22:face:b00c:0:4420/128
 
 # Internet Archive — archive.org
 # (no public DNS addresses found)
@@ -778,8 +802,8 @@
 2600:1901:0:d5ad::/128
 
 # Linode — linode.com
-2600:1405:8400:8::17d1:5487/128
-2600:1405:8400:8::17d1:5494/128
+2600:1408:c400:22::17d4:fb05/128
+2600:1408:c400:22::17d4:fb11/128
 
 # Магнит — magnit.ru
 # (no public DNS addresses found)
@@ -844,25 +868,30 @@
 2603:1030:c02:8::14/128
 
 # Microsoft — graph.microsoft.com
-2603:1036:3000:e8::80/128
-2603:1036:3000:f0::80/128
-2603:1036:3000:f8::80/128
+2603:1036:3000:10::81/128
+2603:1036:3000:18::81/128
+2603:1036:3000:18::82/128
+2603:1036:3000:8::80/128
+2603:1036:3000:8::81/128
+2603:1036:3000:8::83/128
+2603:1037:1:8::80/128
+2603:1037:1:8::81/128
 
 # Microsoft — live.com
 # (no public DNS addresses found)
 
 # Microsoft — login.microsoftonline.com
-2603:1036:3000:e8::1/128
-2603:1036:3000:e8::2/128
-2603:1036:3000:e8::4/128
-2603:1036:3000:f0::2/128
-2603:1036:3000:f0::3/128
-2603:1036:3000:f0::4/128
-2603:1036:3000:f8::2/128
-2603:1036:3000:f8::3/128
+2603:1036:3000:138::3/128
+2603:1037:1:128::6/128
+2603:1037:1:128::7/128
+2603:1037:1:128::8/128
+2603:1037:1:128::9/128
+2603:1037:1:130::3/128
+2603:1037:1:130::4/128
+2603:1037:1:130::6/128
 
 # Microsoft — microsoft.com
-2603:1061:14:96::1/128
+2603:1061:14:49::1/128
 
 # Microsoft — microsoft365.com
 2620:1ec:a92::156/128
@@ -901,20 +930,16 @@
 # (no public DNS addresses found)
 
 # Microsoft — officecdn.microsoft.com
-2a04:4e42:66::684/128
+2a04:4e42:77::684/128
 
 # Microsoft — onedrive.com
 # (no public DNS addresses found)
 
 # Microsoft — outlook.office365.com
-2603:1036:30c:4::2/128
-2603:1036:30c:84d::2/128
-2603:1036:30c:908::2/128
-2603:1036:30c:90c::2/128
-2603:1036:30c:90f::2/128
-2603:1036:30c:c74::2/128
-2603:1036:30c:c81::2/128
-2603:1036:30c:c96::2/128
+2603:1036:207:456::2/128
+2603:1036:302:415a::2/128
+2603:1036:303:3c29::2/128
+2603:1036:303:3c34::2/128
 
 # Microsoft — sharepoint.com
 # (no public DNS addresses found)
@@ -942,8 +967,8 @@
 # (no public DNS addresses found)
 
 # Microsoft Azure — azure.microsoft.com
-2600:1406:35:180::439b/128
-2600:1406:35:18a::439b/128
+2600:1408:c400:f8a::439b/128
+2600:1408:c400:f95::439b/128
 
 # Midjourney — midjourney.com
 2606:4700:440a::6812:21d9/128
@@ -987,8 +1012,8 @@
 2a00:86c0:2043::1/128
 
 # Netlify — netlify.com
-2600:1f1c:446:4900::1f5/128
-2600:1f1c:446:4900::1f6/128
+2600:1f18:16e:df01::1f5/128
+2600:1f18:16e:df01::1f6/128
 
 # Нетология — netology.ru
 # (no public DNS addresses found)
@@ -1031,10 +1056,10 @@
 # (no public DNS addresses found)
 
 # Outlook — outlook.office.com
-2603:1036:30c:1000::2/128
-2603:1036:30c:1001::2/128
-2603:1036:30c:910::2/128
-2603:1036:30c:c77::2/128
+2603:1036:207:456::2/128
+2603:1036:302:415a::2/128
+2603:1036:303:3c29::2/128
+2603:1036:303:3c34::2/128
 
 # OVHcloud — ovh.com
 # (no public DNS addresses found)
@@ -1065,8 +1090,8 @@
 # (no public DNS addresses found)
 
 # Pixeldrain — pixeldrain.com
-2607:9280:a::214/128
-2607:9280:a::215/128
+2401:3bc0:1001:2::1/128
+2401:3bc0:1001:3::1/128
 
 # PlayStation — playstation.com
 # (no public DNS addresses found)
@@ -1363,7 +1388,7 @@
 2606:4700:7::a29f:8906/128
 
 # Threads — threads.net
-2a03:2880:f231:c5:face:b00c:0:43fe/128
+2a03:2880:f35a:c0:face:b00c:0:43fe/128
 
 # Tidal — tidal.com
 # (no public DNS addresses found)
@@ -1461,13 +1486,13 @@
 # (no public DNS addresses found)
 
 # WhatsApp — wa.me
-2a03:2880:f231:c6:face:b00c:0:167/128
+2a03:2880:f35a:120:face:b00c:0:167/128
 
 # WhatsApp — whatsapp.com
-2a03:2880:f231:c6:face:b00c:0:167/128
+2a03:2880:f373:120:face:b00c:0:167/128
 
 # Wikipedia — wikipedia.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wildberries — wb.ru
 # (no public DNS addresses found)
@@ -1549,16 +1574,22 @@
 # (no public DNS addresses found)
 
 # YouTube — youtu.be
-2607:f8b0:4007:808::200e/128
+2607:f8b0:4004:c06::5b/128
+2607:f8b0:4004:c06::5d/128
+2607:f8b0:4004:c06::88/128
+2607:f8b0:4004:c06::be/128
 
 # YouTube — youtube-nocookie.com
-2607:f8b0:4023:2007::5b/128
-2607:f8b0:4023:2007::5d/128
-2607:f8b0:4023:2007::88/128
-2607:f8b0:4023:2007::be/128
+2607:f8b0:4004:c09::5b/128
+2607:f8b0:4004:c09::5d/128
+2607:f8b0:4004:c09::88/128
+2607:f8b0:4004:c09::be/128
 
 # YouTube — youtube.com
-2607:f8b0:4007:812::200e/128
+2607:f8b0:4004:c1b::5b/128
+2607:f8b0:4004:c1b::5d/128
+2607:f8b0:4004:c1b::88/128
+2607:f8b0:4004:c1b::be/128
 
 # YouTube Music — music.youtube.com
 2001:4860:4826:400::/128

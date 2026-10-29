@@ -1,4 +1,19 @@
 {
+  "1xbet": {
+    "candidates": [
+      "1xbet",
+      "xbet"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "2gis": {
+    "candidates": [
+      "2gis"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "aeroflot": {
     "candidates": [
       "aeroflot"
@@ -43,6 +58,14 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "ap-news": {
+    "candidates": [
+      "apnews",
+      "associatedpress"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "apple": {
     "candidates": [
       "apple"
@@ -60,6 +83,13 @@
   "arch-linux": {
     "candidates": [
       "archlinux"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "avito": {
+    "candidates": [
+      "avito"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -94,9 +124,31 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "bbc": {
+    "candidates": [
+      "bbc"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "bet365": {
+    "candidates": [
+      "bet365"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "betfair": {
     "candidates": [
       "betfair"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "bilayn": {
+    "candidates": [
+      "beeline",
+      "bilayn"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -162,6 +214,13 @@
   "coursera": {
     "candidates": [
       "coursera"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "crates-io": {
+    "candidates": [
+      "cratesio"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -244,6 +303,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "dzen": {
+    "candidates": [
+      "dzen"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "ea": {
     "candidates": [
       "ea"
@@ -272,6 +338,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "eset": {
+    "candidates": [
+      "eset"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "etsy": {
     "candidates": [
       "etsy"
@@ -293,9 +366,23 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "fansly": {
+    "candidates": [
+      "fansly"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "fastly": {
     "candidates": [
       "fastly"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "fastmail": {
+    "candidates": [
+      "fastmail"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -415,6 +502,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "ivi": {
+    "candidates": [
+      "ivi"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "jetbrains": {
     "candidates": [
       "jetbrains"
@@ -425,6 +519,13 @@
   "kaspersky": {
     "candidates": [
       "kaspersky"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "khabr": {
+    "candidates": [
+      "habr"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -479,6 +580,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "mail-ru": {
+    "candidates": [
+      "mailru"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "malwarebytes": {
     "candidates": [
       "malwarebytes"
@@ -507,6 +615,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "microsoft": {
+    "candidates": [
+      "microsoft"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "microsoft-azure": {
     "candidates": [
       "microsoftazure",
@@ -518,6 +633,13 @@
   "midjourney": {
     "candidates": [
       "midjourney"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "minecraft": {
+    "candidates": [
+      "minecraft"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -546,6 +668,13 @@
   "mozilla": {
     "candidates": [
       "mozilla"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "mts": {
+    "candidates": [
+      "mts"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -624,6 +753,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "ozon": {
+    "candidates": [
+      "ozon"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "paypal": {
     "candidates": [
       "paypal"
@@ -645,9 +781,30 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "pixeldrain": {
+    "candidates": [
+      "pixeldrain"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "playstation": {
     "candidates": [
       "playstation"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "pokerstars": {
+    "candidates": [
+      "pokerstars"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "pornhub": {
+    "candidates": [
+      "pornhub"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -680,6 +837,21 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "rambler": {
+    "candidates": [
+      "rambler"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "rbk": {
+    "candidates": [
+      "rbc",
+      "rbk"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "reddit": {
     "candidates": [
       "reddit"
@@ -697,6 +869,13 @@
   "replicate": {
     "candidates": [
       "replicate"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "reuters": {
+    "candidates": [
+      "reuters"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -722,9 +901,44 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "rostelekom": {
+    "candidates": [
+      "rostelecom"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "rumble": {
     "candidates": [
       "rumble"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "rustore": {
+    "candidates": [
+      "rustore"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "rutor": {
+    "candidates": [
+      "rutor"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "rutracker": {
+    "candidates": [
+      "rutracker"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "rutube": {
+    "candidates": [
+      "rutube"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -736,9 +950,23 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "send-anywhere": {
+    "candidates": [
+      "sendanywhere"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "signal": {
     "candidates": [
       "signal"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "skillbox": {
+    "candidates": [
+      "skillbox"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -785,9 +1013,23 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "stake": {
+    "candidates": [
+      "stake"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "steam": {
     "candidates": [
       "steam"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "stepik": {
+    "candidates": [
+      "stepik"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -799,9 +1041,31 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "swisstransfer": {
+    "candidates": [
+      "swisstransfer"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "t-bank": {
+    "candidates": [
+      "tbank"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "telegram": {
     "candidates": [
       "telegram"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "tenzor-sbis": {
+    "candidates": [
+      "saby",
+      "sbis"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -837,6 +1101,13 @@
   "tiktok": {
     "candidates": [
       "tiktok"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "torrentgalaxy": {
+    "candidates": [
+      "torrentgalaxy"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -954,6 +1225,20 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "wildberries": {
+    "candidates": [
+      "wildberries"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "wink": {
+    "candidates": [
+      "wink"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "wise": {
     "candidates": [
       "wise"
@@ -996,316 +1281,16 @@
     "license": "CC0",
     "source": "simple-icons"
   },
-  "yandex-go": {
-    "candidates": [
-      "go"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "youtube": {
-    "candidates": [
-      "youtube"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "youtube-music": {
-    "candidates": [
-      "youtubemusic"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "zoho": {
-    "candidates": [
-      "zoho"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "1xbet": {
-    "candidates": [
-      "1xbet",
-      "xbet"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "2gis": {
-    "candidates": [
-      "2gis"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "ap-news": {
-    "candidates": [
-      "apnews",
-      "associatedpress"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "avito": {
-    "candidates": [
-      "avito"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "bbc": {
-    "candidates": [
-      "bbc"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "bet365": {
-    "candidates": [
-      "bet365"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "bilayn": {
-    "candidates": [
-      "beeline",
-      "bilayn"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "crates-io": {
-    "candidates": [
-      "cratesio"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "dzen": {
-    "candidates": [
-      "dzen"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "eset": {
-    "candidates": [
-      "eset"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "fansly": {
-    "candidates": [
-      "fansly"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "fastmail": {
-    "candidates": [
-      "fastmail"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "ivi": {
-    "candidates": [
-      "ivi"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "khabr": {
-    "candidates": [
-      "habr",
-      "khabr"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "mail-ru": {
-    "candidates": [
-      "mailru"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "minecraft": {
-    "candidates": [
-      "minecraft"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "mts": {
-    "candidates": [
-      "mts"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "ozon": {
-    "candidates": [
-      "ozon"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "pixeldrain": {
-    "candidates": [
-      "pixeldrain"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "pokerstars": {
-    "candidates": [
-      "pokerstars"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "pornhub": {
-    "candidates": [
-      "pornhub"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "rambler": {
-    "candidates": [
-      "rambler"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "rbk": {
-    "candidates": [
-      "rbc",
-      "rbk"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "reuters": {
-    "candidates": [
-      "reuters"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "rostelekom": {
-    "candidates": [
-      "rostelecom"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "rustore": {
-    "candidates": [
-      "rustore"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "rutor": {
-    "candidates": [
-      "rutor"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "rutracker": {
-    "candidates": [
-      "rutracker"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "rutube": {
-    "candidates": [
-      "rutube"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "send-anywhere": {
-    "candidates": [
-      "sendanywhere"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "skillbox": {
-    "candidates": [
-      "skillbox"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "stake": {
-    "candidates": [
-      "stake"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "stepik": {
-    "candidates": [
-      "stepik"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "swisstransfer": {
-    "candidates": [
-      "swisstransfer"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "t-bank": {
-    "candidates": [
-      "tbank"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "tenzor-sbis": {
-    "candidates": [
-      "saby",
-      "sbis"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "torrentgalaxy": {
-    "candidates": [
-      "torrentgalaxy"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "wildberries": {
-    "candidates": [
-      "wildberries"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
-  "wink": {
-    "candidates": [
-      "wink"
-    ],
-    "license": "CC0",
-    "source": "simple-icons"
-  },
   "yandex-disk": {
     "candidates": [
       "yandexdisk"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "yandex-go": {
+    "candidates": [
+      "go"
     ],
     "license": "CC0",
     "source": "simple-icons"
@@ -1331,9 +1316,23 @@
     "license": "CC0",
     "source": "simple-icons"
   },
-  "microsoft": {
+  "youtube": {
     "candidates": [
-      "microsoft"
+      "youtube"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "youtube-music": {
+    "candidates": [
+      "youtubemusic"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "zoho": {
+    "candidates": [
+      "zoho"
     ],
     "license": "CC0",
     "source": "simple-icons"

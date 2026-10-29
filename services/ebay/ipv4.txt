@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # eBay — ebay.com
-23.211.139.203
-23.211.139.208
+23.48.224.70
+23.48.224.71

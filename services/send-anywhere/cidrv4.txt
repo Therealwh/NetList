@@ -1,6 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Send Anywhere — send-anywhere.com
-52.85.132.127/32
-52.85.132.20/32
-52.85.132.59/32
-52.85.132.81/32
+18.67.65.101/32
+18.67.65.42/32
+18.67.65.5/32
+18.67.65.60/32

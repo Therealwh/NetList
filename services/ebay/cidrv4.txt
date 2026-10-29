@@ -1,4 +1,4 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # eBay — ebay.com
-23.211.139.203/32
-23.211.139.208/32
+23.48.224.70/32
+23.48.224.71/32

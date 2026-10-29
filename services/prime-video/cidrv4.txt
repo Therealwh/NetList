@@ -1,6 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Prime Video — primevideo.com
-65.8.20.101/32
-65.8.20.118/32
-65.8.20.56/32
-65.8.20.6/32
+3.171.61.11/32
+3.171.61.24/32
+3.171.61.65/32
+3.171.61.90/32
