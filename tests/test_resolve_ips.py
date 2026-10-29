@@ -64,5 +64,20 @@ class ResolveIpsTest(unittest.TestCase):
             self.assertIn("8.8.8.8/32", (service_dir / "cidrv4.txt").read_text())
 
 
+    def test_filters_rfc6598_shared_ipv4_space(self):
+        import socket
+
+        records = [
+            (socket.AF_INET, socket.SOCK_STREAM, 6, "", ("8.8.8.8", 0)),
+            (socket.AF_INET, socket.SOCK_STREAM, 6, "", ("100.61.86.237", 0)),
+        ]
+        with patch("scripts.netlist_data.resolve_ips.socket.getaddrinfo", return_value=records):
+            v4, v6 = __import__(
+                "scripts.netlist_data.resolve_ips", fromlist=["resolve_domain"]
+            ).resolve_domain("example.com")
+        self.assertEqual(v4, {"8.8.8.8"})
+        self.assertEqual(v6, set())
+
+
 if __name__ == "__main__":
     unittest.main()

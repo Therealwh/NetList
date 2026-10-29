@@ -14,6 +14,10 @@ from pathlib import Path
 from .io_lists import read_list, write_list
 from .seed_import import load_registry
 
+# The 100.0.0.0/8 block is not a general public unicast allocation; explicitly
+# exclude it because some Python versions classify individual addresses as global.
+NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.0.0.0/8"),)
+
 
 def resolve_domain(domain: str) -> tuple[set[str], set[str]]:
     v4: set[str] = set()
@@ -32,7 +36,10 @@ def resolve_domain(domain: str) -> tuple[set[str], set[str]]:
             continue
         # Public routing lists must not include private, local, reserved or
         # otherwise non-global addresses.
-        if not address.is_global:
+        if not address.is_global or any(
+            address.version == network.version and address in network
+            for network in NON_PUBLIC_NETWORKS
+        ):
             continue
         if address.version == 4:
             v4.add(str(address))
