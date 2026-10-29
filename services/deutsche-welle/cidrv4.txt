@@ -1,0 +1,3 @@
+# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+194.55.26.46/32
+194.55.30.46/32

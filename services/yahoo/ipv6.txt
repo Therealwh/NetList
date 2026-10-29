@@ -1,0 +1,9 @@
+# NetList DNS snapshot for Yahoo
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2001:4998:124:1507::f000
+2001:4998:124:1507::f001
+2001:4998:24:120d::1:0
+2001:4998:24:120d::1:1
+2001:4998:44:3507::8000
+2001:4998:44:3507::8001

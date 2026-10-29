@@ -1,0 +1,5 @@
+# NetList DNS snapshot for XHamster
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.16.3.81
+104.16.4.81

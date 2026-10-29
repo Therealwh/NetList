@@ -1,0 +1,5 @@
+# NetList DNS snapshot for ChatGPT
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700:4408::ac40:9bd1
+2a06:98c1:3101::6812:202f

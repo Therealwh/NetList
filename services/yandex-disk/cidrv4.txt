@@ -1,0 +1,2 @@
+# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+87.250.250.50/32

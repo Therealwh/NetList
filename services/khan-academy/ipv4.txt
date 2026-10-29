@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Khan Academy
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+3.169.173.104
+3.169.173.127
+3.169.173.128
+3.169.173.38

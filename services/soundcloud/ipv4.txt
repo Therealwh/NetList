@@ -1,0 +1,7 @@
+# NetList DNS snapshot for SoundCloud
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+52.84.150.35
+52.84.150.39
+52.84.150.52
+52.84.150.57

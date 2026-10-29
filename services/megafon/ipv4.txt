@@ -1,0 +1,5 @@
+# NetList DNS snapshot for МегаФон
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+178.177.13.149
+188.162.60.210

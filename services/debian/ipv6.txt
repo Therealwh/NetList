@@ -1,0 +1,8 @@
+# NetList DNS snapshot for Debian
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2a04:4e42:200::644
+2a04:4e42:400::644
+2a04:4e42:5::644
+2a04:4e42:600::644
+2a04:4e42::644

@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Etsy
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+151.101.1.224
+151.101.129.224
+151.101.193.224
+151.101.65.224

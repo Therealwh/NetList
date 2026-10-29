@@ -1,0 +1,7 @@
+# NetList DNS snapshot for ГЛОНАСС
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+90.156.201.22
+90.156.201.37
+90.156.201.39
+90.156.201.96

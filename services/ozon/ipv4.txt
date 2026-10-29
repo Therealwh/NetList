@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Ozon
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+185.73.193.119
+185.73.193.68
+185.73.194.82
+185.73.195.116

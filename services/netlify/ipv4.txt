@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Netlify
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+15.197.167.90
+3.33.186.135

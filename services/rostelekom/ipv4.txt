@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Ростелеком
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+87.226.162.216

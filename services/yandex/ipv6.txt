@@ -1,0 +1,6 @@
+# NetList DNS snapshot for Яндекс
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2a02:6b8:23::225
+2a02:6b8::2:242
+2a02:6b8:a::a

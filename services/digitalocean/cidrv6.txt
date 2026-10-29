@@ -1,0 +1,3 @@
+# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+2606:4700::6813:ad44/128
+2606:4700::6813:ae44/128

@@ -1,0 +1,5 @@
+# NetList DNS snapshot for ВТБ
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+195.242.82.13
+195.242.83.13

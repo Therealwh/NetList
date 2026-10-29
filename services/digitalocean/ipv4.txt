@@ -1,0 +1,5 @@
+# NetList DNS snapshot for DigitalOcean
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.19.173.68
+104.19.174.68

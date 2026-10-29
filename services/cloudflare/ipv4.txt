@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Cloudflare
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.16.132.229
+104.16.133.229
+104.16.248.249
+104.16.249.249

@@ -1,0 +1,5 @@
+# NetList DNS snapshot for AliExpress
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+47.246.111.53
+47.246.75.137

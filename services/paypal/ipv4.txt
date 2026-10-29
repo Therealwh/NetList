@@ -1,0 +1,6 @@
+# NetList DNS snapshot for PayPal
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+151.101.195.1
+151.101.3.1
+162.159.141.96

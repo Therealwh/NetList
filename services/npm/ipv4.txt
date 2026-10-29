@@ -1,0 +1,5 @@
+# NetList DNS snapshot for npm
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.17.134.117
+104.17.135.117

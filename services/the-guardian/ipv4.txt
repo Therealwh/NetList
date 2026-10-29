@@ -1,0 +1,7 @@
+# NetList DNS snapshot for The Guardian
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+151.101.1.111
+151.101.129.111
+151.101.193.111
+151.101.65.111

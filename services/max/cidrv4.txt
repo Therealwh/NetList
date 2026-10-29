@@ -1,0 +1,4 @@
+# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+155.212.204.140/32
+155.212.204.5/32
+155.212.204.74/32

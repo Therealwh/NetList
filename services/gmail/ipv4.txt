@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Gmail
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+142.250.69.165

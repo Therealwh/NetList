@@ -1,0 +1,11 @@
+# NetList DNS snapshot for YouTube Music
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2001:4860:4826:400::
+2001:4860:4827:400::
+2001:4860:4828:400::
+2001:4860:4829:400::
+2001:4860:482a:400::
+2001:4860:482b:400::
+2001:4860:482c:400::
+2001:4860:482d:400::

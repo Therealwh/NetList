@@ -1,0 +1,5 @@
+# NetList DNS snapshot for HDRezka
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+179.43.189.163
+179.43.190.137

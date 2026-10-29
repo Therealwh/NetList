@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Snapchat
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+34.149.46.130

@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Pixeldrain
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2607:9280:a::213
+2607:9280:a::214

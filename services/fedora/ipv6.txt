@@ -1,0 +1,14 @@
+# NetList DNS snapshot for Fedora
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2600:1f14:fad:5c02:eb33:e938:35cc:965b
+2600:1f18:568d:172c:c09d:4e53:a997:e8a
+2600:1f18:568d:1784:11d9:5f7d:2ffd:94d7
+2604:1580:fe00:0:dead:beef:cafe:fed1
+2605:bc80:3010:600:dead:beef:cafe:fed9
+2606:f640:6000:651::7
+2606:f640:6000:651::8
+2620:52:6:1121:bead:cafe:feed:fed5
+2620:52:6:1121:bead:cafe:feed:fed6
+2620:52:6:1161::36
+2620:52:6:1161::37

@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Gmail
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2607:f8b0:400a:801::2005

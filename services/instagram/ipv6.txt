@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Instagram
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2a03:2880:f36c:22:face:b00c:0:4420

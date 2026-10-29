@@ -1,0 +1,18 @@
+# NetList DNS snapshot for XNXX
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+152.233.100.1
+152.233.100.10
+152.233.100.11
+152.233.100.12
+152.233.100.13
+152.233.100.14
+152.233.100.15
+152.233.100.2
+152.233.100.3
+152.233.100.4
+152.233.100.5
+152.233.100.6
+152.233.100.7
+152.233.100.8
+152.233.100.9

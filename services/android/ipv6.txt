@@ -1,0 +1,12 @@
+# NetList DNS snapshot for Android
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2001:4860:4840:400::
+2001:4860:4841:400::
+2001:4860:4842:400::
+2001:4860:4843:400::
+2001:4860:4844:400::
+2001:4860:4845:400::
+2001:4860:4846:400::
+2001:4860:4847:400::
+2607:f8b0:400a:801::2004

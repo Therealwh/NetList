@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Codeberg
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+217.197.84.140

@@ -1,0 +1,5 @@
+# NetList DNS snapshot for 1337x
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700:3030::ac43:bc43
+2606:4700:3033::6815:28c1

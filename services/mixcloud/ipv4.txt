@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Mixcloud
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.20.4.36
+104.20.5.36

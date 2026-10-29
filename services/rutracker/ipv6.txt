@@ -1,0 +1,5 @@
+# NetList DNS snapshot for RuTracker
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700:3035::6815:2027
+2606:4700:3037::ac43:b6c4

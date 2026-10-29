@@ -1,0 +1,12 @@
+# NetList DNS snapshot for Gemini
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2001:4860:4826:200::
+2001:4860:4827:200::
+2001:4860:4828:200::
+2001:4860:4829:200::
+2001:4860:482a:200::
+2001:4860:482b:200::
+2001:4860:482c:200::
+2001:4860:482d:200::
+2607:f8b0:400a:803::200e

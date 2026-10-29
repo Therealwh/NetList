@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Лента
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+178.248.232.88
+81.19.72.32
+81.19.72.33
+81.19.72.34

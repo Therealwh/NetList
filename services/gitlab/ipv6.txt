@@ -1,0 +1,4 @@
+# NetList DNS snapshot for GitLab
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700:90:0:f22e:fbec:5bed:a9b9

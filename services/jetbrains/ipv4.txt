@@ -1,0 +1,7 @@
+# NetList DNS snapshot for JetBrains
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+3.169.173.12
+3.169.173.39
+3.169.173.61
+3.169.173.81

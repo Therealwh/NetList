@@ -1,0 +1,9 @@
+# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+87.240.129.133/32
+87.240.129.187/32
+87.240.132.67/32
+87.240.132.72/32
+87.240.132.78/32
+87.240.137.164/32
+87.240.190.64/32
+93.186.225.194/32

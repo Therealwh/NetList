@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Pinterest
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+151.101.0.84
+151.101.128.84
+151.101.192.84
+151.101.64.84

@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Zona
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+5.35.172.6

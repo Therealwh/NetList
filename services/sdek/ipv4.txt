@@ -1,0 +1,4 @@
+# NetList DNS snapshot for СДЭК
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+91.206.127.236

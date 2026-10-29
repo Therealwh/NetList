@@ -1,0 +1,7 @@
+# NetList DNS snapshot for PlayStation
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+44.218.59.236
+52.6.127.76
+54.183.13.56
+54.215.24.50

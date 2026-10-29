@@ -1,0 +1,9 @@
+# NetList DNS snapshot for VK Cloud
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+95.163.254.192
+95.163.254.193
+95.163.254.194
+95.163.254.195
+95.163.254.196
+95.163.254.197

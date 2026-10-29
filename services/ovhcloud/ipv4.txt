@@ -1,0 +1,5 @@
+# NetList DNS snapshot for OVHcloud
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+198.27.92.1
+198.27.92.14

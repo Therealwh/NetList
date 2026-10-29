@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Docker Hub
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700:4403::ac40:9045
+2620:12a:8000::4
+2620:12a:8001::4
+2a06:98c1:3108::6812:2bbb

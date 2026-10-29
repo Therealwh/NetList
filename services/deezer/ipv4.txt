@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Deezer
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+3.163.24.20
+3.163.24.43
+3.163.24.72
+3.163.24.98

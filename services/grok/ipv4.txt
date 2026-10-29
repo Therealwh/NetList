@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Grok
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.18.18.80
+104.18.19.80
+104.18.28.234
+104.18.29.234

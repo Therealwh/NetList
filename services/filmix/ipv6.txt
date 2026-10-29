@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Filmix
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700:3030::6815:319d
+2606:4700:3036::ac43:bf30

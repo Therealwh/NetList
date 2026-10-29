@@ -1,0 +1,5 @@
+# NetList DNS snapshot for EZTV
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700:3031::ac43:d2b0
+2606:4700:3034::6815:45ae

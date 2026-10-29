@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Netlify
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2600:1f1c:446:4900::1f5
+2600:1f1c:446:4900::1f6

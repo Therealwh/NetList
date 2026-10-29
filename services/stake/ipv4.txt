@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Stake
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.18.37.229
+172.64.150.27

@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Coursera
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+18.161.6.103
+18.161.6.122
+18.161.6.37
+18.161.6.91

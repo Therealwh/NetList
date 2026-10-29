@@ -1,0 +1,5 @@
+# NetList DNS snapshot for BC.Game
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700::6812:1c1d
+2606:4700::6812:1d1d

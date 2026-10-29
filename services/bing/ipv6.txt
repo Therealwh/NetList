@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Bing
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2620:1ec:33:1::10
+2620:1ec:33::10

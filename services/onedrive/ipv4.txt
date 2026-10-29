@@ -1,0 +1,7 @@
+# NetList DNS snapshot for OneDrive
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+13.107.136.10
+13.107.137.11
+13.107.138.10
+13.107.139.11

@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Cloudflare
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700::6810:84e5
+2606:4700::6810:85e5
+2606:4700::6810:f8f9
+2606:4700::6810:f9f9

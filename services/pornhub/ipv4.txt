@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Pornhub
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+66.254.114.41

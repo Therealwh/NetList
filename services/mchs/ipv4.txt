@@ -1,0 +1,5 @@
+# NetList DNS snapshot for МЧС
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+84.42.111.247
+95.173.146.182

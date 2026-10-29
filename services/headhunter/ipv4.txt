@@ -1,0 +1,4 @@
+# NetList DNS snapshot for HeadHunter
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+94.124.200.0

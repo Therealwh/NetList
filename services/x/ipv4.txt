@@ -1,0 +1,5 @@
+# NetList DNS snapshot for X
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+162.159.140.229
+172.66.0.227

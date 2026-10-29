@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Selectel
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2a00:ab00:2000:2::1

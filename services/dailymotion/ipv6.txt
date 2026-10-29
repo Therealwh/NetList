@@ -1,0 +1,3 @@
+# NetList DNS snapshot for Dailymotion
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.

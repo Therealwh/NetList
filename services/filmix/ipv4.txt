@@ -1,0 +1,8 @@
+# NetList DNS snapshot for Filmix
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.21.49.157
+104.26.12.146
+104.26.13.146
+172.67.191.48
+172.67.73.254

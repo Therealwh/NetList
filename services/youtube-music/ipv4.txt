@@ -1,0 +1,11 @@
+# NetList DNS snapshot for YouTube Music
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+142.251.150.4
+142.251.151.4
+142.251.152.4
+142.251.153.4
+142.251.154.4
+142.251.155.4
+142.251.156.4
+142.251.157.4

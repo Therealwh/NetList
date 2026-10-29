@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Тензор / СБИС
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+91.213.144.237
+91.232.93.39

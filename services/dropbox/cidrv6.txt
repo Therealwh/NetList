@@ -1,0 +1,2 @@
+# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+2620:100:6040:18::a27d:f812/128

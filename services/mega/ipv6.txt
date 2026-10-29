@@ -1,0 +1,5 @@
+# NetList DNS snapshot for MEGA
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2a0b:e46:1:144::5
+2a0b:e46:1:145::5

@@ -1,0 +1,5 @@
+# NetList DNS snapshot for МВД РФ
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+185.6.47.14
+185.6.47.15

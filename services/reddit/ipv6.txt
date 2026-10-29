@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Reddit
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2a04:4e42:200::396
+2a04:4e42:400::396
+2a04:4e42:600::396
+2a04:4e42::396

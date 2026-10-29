@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Kick
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700:4b::a29f:eb7a
+2606:4700:4b::ac40:eb85

@@ -1,0 +1,7 @@
+# NetList DNS snapshot for WeChat
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+124.156.190.237
+43.163.178.44
+43.163.178.94
+43.163.181.74

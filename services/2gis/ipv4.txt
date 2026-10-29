@@ -1,0 +1,4 @@
+# NetList DNS snapshot for 2ГИС
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+95.129.232.210

@@ -1,0 +1,10 @@
+# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+2607:f8b0:400a:809::200e/128
+2607:f8b0:400e:c05::5b/128
+2607:f8b0:400e:c05::5d/128
+2607:f8b0:400e:c05::88/128
+2607:f8b0:400e:c05::be/128
+2607:f8b0:400e:c20::5b/128
+2607:f8b0:400e:c20::5d/128
+2607:f8b0:400e:c20::88/128
+2607:f8b0:400e:c20::be/128

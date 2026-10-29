@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Apple
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2620:149:af0::10

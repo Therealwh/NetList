@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Яндекс Диск
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2a02:6b8::2:50

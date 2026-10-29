@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Stripe
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+198.137.150.161
+198.202.176.161

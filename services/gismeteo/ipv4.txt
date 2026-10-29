@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Гисметео
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+31.172.76.57
+31.172.76.58
+31.172.76.59
+31.172.76.60

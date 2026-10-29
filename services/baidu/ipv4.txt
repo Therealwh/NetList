@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Baidu
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+110.242.74.102
+111.63.65.103
+111.63.65.247
+124.237.177.164

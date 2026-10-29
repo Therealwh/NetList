@@ -1,0 +1,5 @@
+# NetList DNS snapshot for ЮMoney
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+109.235.165.222
+185.71.78.222

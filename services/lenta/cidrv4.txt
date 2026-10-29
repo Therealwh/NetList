@@ -1,0 +1,5 @@
+# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+178.248.232.88/32
+81.19.72.32/32
+81.19.72.33/32
+81.19.72.34/32

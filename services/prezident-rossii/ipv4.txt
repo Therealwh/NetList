@@ -1,0 +1,6 @@
+# NetList DNS snapshot for Президент России
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+95.173.136.70
+95.173.136.71
+95.173.136.72

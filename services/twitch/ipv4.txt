@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Twitch
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+151.101.130.167
+151.101.194.167
+151.101.2.167
+151.101.66.167

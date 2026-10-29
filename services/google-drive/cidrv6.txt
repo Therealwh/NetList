@@ -1,0 +1,2 @@
+# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+2607:f8b0:400a:80d::200e/128

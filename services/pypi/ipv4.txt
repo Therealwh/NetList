@@ -1,0 +1,7 @@
+# NetList DNS snapshot for PyPI
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+151.101.0.223
+151.101.128.223
+151.101.192.223
+151.101.64.223

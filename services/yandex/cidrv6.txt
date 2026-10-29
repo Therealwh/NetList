@@ -1,0 +1,4 @@
+# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+2a02:6b8:23::225/128
+2a02:6b8::2:242/128
+2a02:6b8:a::a/128

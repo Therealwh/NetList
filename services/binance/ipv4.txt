@@ -1,0 +1,6 @@
+# NetList DNS snapshot for Binance
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+13.193.58.71
+3.115.187.243
+35.76.34.224

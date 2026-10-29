@@ -1,0 +1,7 @@
+# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+95.163.254.192/32
+95.163.254.193/32
+95.163.254.194/32
+95.163.254.195/32
+95.163.254.196/32
+95.163.254.197/32

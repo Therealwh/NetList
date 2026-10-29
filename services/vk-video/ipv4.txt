@@ -1,0 +1,9 @@
+# NetList DNS snapshot for VK Видео
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+87.240.129.133
+87.240.132.67
+87.240.132.72
+87.240.132.78
+87.240.137.164
+93.186.225.194

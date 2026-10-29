@@ -1,0 +1,6 @@
+# NetList DNS snapshot for Почта России
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+212.164.140.129
+212.164.140.151
+212.164.140.153

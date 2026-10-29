@@ -1,0 +1,6 @@
+# NetList DNS snapshot for Совет Федерации
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+95.173.132.28
+95.173.132.31
+95.173.132.73

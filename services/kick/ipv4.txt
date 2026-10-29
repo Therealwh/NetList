@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Kick
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+162.159.235.122
+172.64.235.133

@@ -1,0 +1,5 @@
+# NetList DNS snapshot for АиФ
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+91.214.119.200
+91.214.119.234

@@ -1,0 +1,5 @@
+# NetList DNS snapshot for EZTV
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+104.21.69.174
+172.67.210.176

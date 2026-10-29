@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Linode
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+23.216.147.135
+23.216.147.143

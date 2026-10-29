@@ -1,0 +1,7 @@
+# NetList DNS snapshot for WeTransfer
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+143.204.1.105
+143.204.1.115
+143.204.1.54
+143.204.1.68

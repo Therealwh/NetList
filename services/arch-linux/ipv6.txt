@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Arch Linux
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2604:cac0:a104:d::3

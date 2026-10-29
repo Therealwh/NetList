@@ -1,0 +1,16 @@
+# NetList DNS snapshot for Outlook
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+52.96.111.82
+52.96.113.130
+52.96.113.178
+52.96.113.226
+52.96.164.114
+52.96.172.98
+52.96.214.50
+52.96.222.194
+52.96.222.226
+52.96.223.2
+52.96.228.130
+52.96.229.242
+52.96.91.34

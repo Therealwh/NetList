@@ -1,0 +1,5 @@
+# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+2603:1036:308:2818::2/128
+2603:1036:308:2820::2/128
+2603:1036:308:282a::2/128
+2603:1036:308:283d::2/128

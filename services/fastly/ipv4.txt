@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Fastly
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+151.101.1.57
+151.101.129.57
+151.101.193.57
+151.101.65.57

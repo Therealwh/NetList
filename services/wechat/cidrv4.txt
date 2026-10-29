@@ -1,0 +1,5 @@
+# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+124.156.190.237/32
+43.163.178.44/32
+43.163.178.94/32
+43.163.181.74/32

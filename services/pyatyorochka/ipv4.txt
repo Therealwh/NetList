@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Пятёрочка
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+91.206.100.17
+91.221.164.42

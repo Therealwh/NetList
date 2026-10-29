@@ -1,0 +1,5 @@
+# NetList DNS snapshot for Мать и дитя
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+195.133.198.121
+94.159.116.147

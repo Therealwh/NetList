@@ -1,0 +1,4 @@
+# NetList DNS snapshot for Bet365
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+5.226.179.10

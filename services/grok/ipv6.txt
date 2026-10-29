@@ -1,0 +1,7 @@
+# NetList DNS snapshot for Grok
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+2606:4700::6812:1250
+2606:4700::6812:1350
+2606:4700::6812:1cea
+2606:4700::6812:1dea

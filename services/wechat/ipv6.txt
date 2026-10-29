@@ -1,0 +1,7 @@
+# NetList DNS snapshot for WeChat
+# Only globally routable IPv6 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+240e:978:d04:3003::27
+240e:e1:aa00:1001::a
+240e:e1:aa00:101a::48
+240e:e9:6003:23b::25

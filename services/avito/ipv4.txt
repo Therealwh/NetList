@@ -1,0 +1,6 @@
+# NetList DNS snapshot for Avito
+# Only globally routable IPv4 answers observed during this run.
+# Addresses may be shared, CDN-backed, or change over time.
+176.114.120.24
+176.114.122.24
+176.114.124.24
