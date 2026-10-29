@@ -91,7 +91,9 @@ def save_registry(repo_root: Path, registry: dict[str, Service]) -> None:
         for s in (registry[k] for k in sorted(registry))
     ]}
     path.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+        newline="\n",
     )
 
 

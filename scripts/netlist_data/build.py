@@ -106,7 +106,9 @@ def build_all(repo_root: Path) -> dict:
     path = root / "catalog.json"
     tmp = path.with_name("catalog.json.tmp")
     tmp.write_text(
-        json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        json.dumps(catalog, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+        newline="\n",
     )
     tmp.replace(path)
     return catalog
