@@ -1,0 +1,13 @@
+{
+    "submission_id": 2,
+    "domain": "shuffle.com",
+    "name": "shuffle.com",
+    "categories": [
+        "gambling"
+    ],
+    "source_url": "https://shuffle.com/",
+    "submitted_at": "2026-10-29T23:16:27+00:00",
+    "processed_at": "2026-10-29T23:16:42+00:00",
+    "status": "candidate_unverified",
+    "note": "Community domain suggestion. Needs maintainer review; DNS presence does not prove ownership or service attribution."
+}
