@@ -24,7 +24,14 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT_NAME = "assets/logos"
-CDN = "https://cdn.jsdelivr.net/npm/simple-icons@15/icons/{slug}.svg"
+# Simple Icons v16 is the current documented major version (README uses @v16).
+# Use more than one CDN: a transient outage or cache miss must not silently disable
+# discovery for every service in one build.
+CDN_URLS = (
+    "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/{slug}.svg",
+    "https://unpkg.com/simple-icons@v16/icons/{slug}.svg",
+    "https://cdn.simpleicons.org/{slug}",
+)
 MAX_SIZE = 100_000
 
 _UNSAFE_RE = re.compile(rb"<script|<foreignObject|on\w+\s*=|javascript:", re.IGNORECASE)
@@ -59,13 +66,27 @@ def sha256(body: bytes) -> str:
 
 
 def fetch_cdn(slug: str) -> bytes | None:
-    try:
-        with urllib.request.urlopen(CDN.format(slug=slug), timeout=15) as resp:
-            if resp.status != 200:
-                return None
-            return resp.read()
-    except Exception:
+    """Fetch one Simple Icons SVG using fallbacks; validate before persisting."""
+    if not re.fullmatch(r"[a-z0-9-]{1,60}", slug or ""):
         return None
+    for template in CDN_URLS:
+        req = urllib.request.Request(
+            template.format(slug=slug),
+            headers={"User-Agent": "NetList-logo-discovery/1.0", "Accept": "image/svg+xml"},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=12) as resp:
+                if resp.status != 200:
+                    continue
+                body = resp.read(MAX_SIZE + 1)
+            if len(body) > MAX_SIZE:
+                continue
+            valid, _reason = validate_svg(body)
+            if valid:
+                return body
+        except Exception:
+            continue
+    return None
 
 
 def load_sources(logos_path: Path) -> dict:
