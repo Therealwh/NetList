@@ -1,5 +1,8 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-13.107.136.10/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# OneDrive — onedrive.live.com
 13.107.137.11/32
-13.107.138.10/32
 13.107.139.11/32
+
+# OneDrive — sharepoint.com
+13.107.136.10/32
+13.107.138.10/32

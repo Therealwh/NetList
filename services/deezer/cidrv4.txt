@@ -1,5 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-18.154.110.125/32
-18.154.110.44/32
-18.154.110.47/32
-18.154.110.51/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Deezer — deezer.com
+18.160.10.36/32
+18.160.10.39/32
+18.160.10.84/32
+18.160.10.94/32

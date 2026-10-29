@@ -1,6 +1,13 @@
-# NetList DNS snapshot for BBC
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for BBC (bbc)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# BBC — bbc.co.uk
+151.101.0.81
+151.101.128.81
+151.101.192.81
+151.101.64.81
+
+# BBC — bbc.com
 151.101.0.81
 151.101.128.81
 151.101.192.81

@@ -1,3 +1,11 @@
-# NetList DNS snapshot for Steam
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Steam (steam)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Steam — steamcommunity.com
+# (no public DNS addresses found)
+
+# Steam — steampowered.com
+# (no public DNS addresses found)
+
+# Steam — steamstatic.com
+# (no public DNS addresses found)

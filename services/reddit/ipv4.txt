@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Reddit
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Reddit (reddit)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Reddit — reddit.com
 151.101.1.140
 151.101.129.140
 151.101.193.140

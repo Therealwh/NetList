@@ -1,5 +1,6 @@
-# NetList DNS snapshot for 1xBet
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for 1xBet (1xbet)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# 1xBet — 1xbet.com
 104.18.41.64
 172.64.146.192

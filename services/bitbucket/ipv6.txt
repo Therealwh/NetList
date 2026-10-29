@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Bitbucket
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Bitbucket (bitbucket)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Bitbucket — bitbucket.org
 2401:1d80:321c:1:0:bbc:1:df7c
 2401:1d80:321c:2:0:bbc:1:df7c
 2401:1d80:321c::bbc:1:df7c

@@ -1,3 +1,8 @@
-# NetList DNS snapshot for Proton Mail
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Proton Mail (proton-mail)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Proton Mail — proton.me
+# (no public DNS addresses found)
+
+# Proton Mail — protonmail.com
+# (no public DNS addresses found)

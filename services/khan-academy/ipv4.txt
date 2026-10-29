@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Khan Academy
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-3.171.22.43
-3.171.22.48
-3.171.22.86
-3.171.22.88
+# DNS-derived IP snapshot for Khan Academy (khan-academy)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Khan Academy — khanacademy.org
+3.167.88.13
+3.167.88.27
+3.167.88.54
+3.167.88.86

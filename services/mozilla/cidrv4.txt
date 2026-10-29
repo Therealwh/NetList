@@ -1,2 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Mozilla — firefox.com
+35.190.14.201/32
+
+# Mozilla — mozilla.org
 35.190.14.201/32

@@ -1,5 +1,8 @@
-# NetList DNS snapshot for Тензор / СБИС
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Тензор / СБИС (tenzor-sbis)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Тензор / СБИС — sbis.ru
 91.213.144.237
+
+# Тензор / СБИС — tensor.ru
 91.232.93.39

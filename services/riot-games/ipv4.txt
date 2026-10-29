@@ -1,7 +1,10 @@
-# NetList DNS snapshot for Riot Games
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-184.25.255.47
-184.25.255.55
+# DNS-derived IP snapshot for Riot Games (riot-games)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Riot Games — leagueoflegends.com
 32.190.165.107
 44.242.1.161
+
+# Riot Games — riotgames.com
+23.202.230.220
+23.202.230.229

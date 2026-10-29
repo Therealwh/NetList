@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Gmail
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2607:f8b0:4001:c08::11
-2607:f8b0:4001:c08::12
-2607:f8b0:4001:c08::13
-2607:f8b0:4001:c08::53
+# DNS-derived IP snapshot for Gmail (gmail)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Gmail — gmail.com
+2607:f8b0:4004:c09::11
+2607:f8b0:4004:c09::12
+2607:f8b0:4004:c09::13
+2607:f8b0:4004:c09::53

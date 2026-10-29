@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Mistral AI
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Mistral AI (mistral-ai)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Mistral AI — mistral.ai
 162.159.142.207
 172.66.2.203

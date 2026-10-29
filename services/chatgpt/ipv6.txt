@@ -1,5 +1,9 @@
-# NetList DNS snapshot for ChatGPT
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for ChatGPT (chatgpt)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# ChatGPT — chatgpt.com
 2606:4700:4408::ac40:9bd1
 2a06:98c1:3101::6812:202f
+
+# ChatGPT — openai.com
+# (no public DNS addresses found)

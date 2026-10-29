@@ -1,1 +1,9 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Steam — steamcommunity.com
+# (no public DNS addresses found)
+
+# Steam — steampowered.com
+# (no public DNS addresses found)
+
+# Steam — steamstatic.com
+# (no public DNS addresses found)

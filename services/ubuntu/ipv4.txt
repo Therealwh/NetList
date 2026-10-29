@@ -1,9 +1,7 @@
-# NetList DNS snapshot for Ubuntu
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-185.125.190.20
-185.125.190.21
-185.125.190.29
+# DNS-derived IP snapshot for Ubuntu (ubuntu)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Ubuntu — archive.ubuntu.com
 185.125.190.81
 185.125.190.82
 185.125.190.83
@@ -13,3 +11,8 @@
 91.189.92.22
 91.189.92.23
 91.189.92.24
+
+# Ubuntu — ubuntu.com
+185.125.190.20
+185.125.190.21
+185.125.190.29

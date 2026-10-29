@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# AliExpress — aliexpress.com
 47.246.111.53/32
 47.246.75.137/32

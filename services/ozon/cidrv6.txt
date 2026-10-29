@@ -1,1 +1,9 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Ozon — ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — ozone.ru
+# (no public DNS addresses found)
+
+# Ozon — ozonusercontent.com
+# (no public DNS addresses found)

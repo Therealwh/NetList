@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Дзен
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Дзен (dzen)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Дзен — dzen.ru
 2a00:b4c0:9100:b000::1:b0

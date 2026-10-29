@@ -1,3 +1,8 @@
-# NetList DNS snapshot for Тензор / СБИС
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Тензор / СБИС (tenzor-sbis)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Тензор / СБИС — sbis.ru
+# (no public DNS addresses found)
+
+# Тензор / СБИС — tensor.ru
+# (no public DNS addresses found)

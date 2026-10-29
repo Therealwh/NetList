@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Facebook
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2a03:2880:f373:1:face:b00c:0:25de
+# DNS-derived IP snapshot for Facebook (facebook)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Facebook — facebook.com
+2a03:2880:f35a:1:face:b00c:0:25de

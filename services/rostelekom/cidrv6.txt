@@ -1,1 +1,6 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Ростелеком — rostelecom.ru
+# (no public DNS addresses found)
+
+# Ростелеком — rt.ru
+# (no public DNS addresses found)

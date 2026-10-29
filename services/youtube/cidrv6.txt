@@ -1,13 +1,18 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2607:f8b0:4001:c1e::5b/128
-2607:f8b0:4001:c1e::5d/128
-2607:f8b0:4001:c1e::88/128
-2607:f8b0:4001:c1e::be/128
-2607:f8b0:4001:c6e::5b/128
-2607:f8b0:4001:c6e::5d/128
-2607:f8b0:4001:c6e::88/128
-2607:f8b0:4001:c6e::be/128
-2607:f8b0:4001:c70::5b/128
-2607:f8b0:4001:c70::5d/128
-2607:f8b0:4001:c70::88/128
-2607:f8b0:4001:c70::be/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# YouTube — youtu.be
+2607:f8b0:4004:c21::5b/128
+2607:f8b0:4004:c21::5d/128
+2607:f8b0:4004:c21::88/128
+2607:f8b0:4004:c21::be/128
+
+# YouTube — youtube-nocookie.com
+2607:f8b0:4004:c29::5b/128
+2607:f8b0:4004:c29::5d/128
+2607:f8b0:4004:c29::88/128
+2607:f8b0:4004:c29::be/128
+
+# YouTube — youtube.com
+2607:f8b0:4004:c2f::5b/128
+2607:f8b0:4004:c2f::5d/128
+2607:f8b0:4004:c2f::88/128
+2607:f8b0:4004:c2f::be/128

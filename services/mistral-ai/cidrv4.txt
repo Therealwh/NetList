@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Mistral AI — mistral.ai
 162.159.142.207/32
 172.66.2.203/32

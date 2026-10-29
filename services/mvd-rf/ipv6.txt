@@ -1,3 +1,5 @@
-# NetList DNS snapshot for МВД РФ
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for МВД РФ (mvd-rf)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# МВД РФ — xn--b1aew.xn--p1ai
+# (no public DNS addresses found)

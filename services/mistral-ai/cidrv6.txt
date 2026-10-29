@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Mistral AI — mistral.ai
 2606:4700:7::2c3/128
 2a06:98c1:58::2c3/128

@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-160.202.167.162/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Pixeldrain — pixeldrain.com
+160.202.167.163/32
 160.202.167.164/32

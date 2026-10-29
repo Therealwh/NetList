@@ -1,8 +1,5 @@
-# NetList DNS snapshot for Apple Music
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2600:1407:e800:b81::2a1
-2600:1407:e800:b87::2a1
-2600:1407:e800:b8a::2a1
-2600:1407:e800:b8d::2a1
-2600:1407:e800:b97::2a1
+# DNS-derived IP snapshot for Apple Music (apple-music)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Apple Music — music.apple.com
+2a04:4e42:95::774

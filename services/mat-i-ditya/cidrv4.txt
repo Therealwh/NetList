@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Мать и дитя — mdclinics.ru
 195.133.198.121/32
 94.159.116.147/32

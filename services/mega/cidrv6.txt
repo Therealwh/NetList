@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# MEGA — mega.nz
 2a0b:e46:1:144::5/128
 2a0b:e46:1:145::5/128

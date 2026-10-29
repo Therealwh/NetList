@@ -1,4 +1,8 @@
-# NetList DNS snapshot for WhatsApp
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2a03:2880:f373:120:face:b00c:0:167
+# DNS-derived IP snapshot for WhatsApp (whatsapp)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# WhatsApp — wa.me
+2a03:2880:f35a:120:face:b00c:0:167
+
+# WhatsApp — whatsapp.com
+2a03:2880:f35a:120:face:b00c:0:167

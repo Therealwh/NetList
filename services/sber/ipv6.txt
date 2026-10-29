@@ -1,3 +1,8 @@
-# NetList DNS snapshot for Сбер
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Сбер (sber)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Сбер — sber.ru
+# (no public DNS addresses found)
+
+# Сбер — sberbank.ru
+# (no public DNS addresses found)

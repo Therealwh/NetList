@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Мать и дитя
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Мать и дитя (mat-i-ditya)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Мать и дитя — mdclinics.ru
 195.133.198.121
 94.159.116.147

@@ -1,5 +1,6 @@
-# NetList DNS snapshot for AP News
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for AP News (ap-news)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# AP News — apnews.com
 2606:4700::6810:1608
 2606:4700::6810:1708

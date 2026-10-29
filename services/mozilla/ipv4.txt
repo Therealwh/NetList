@@ -1,4 +1,8 @@
-# NetList DNS snapshot for Mozilla
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Mozilla (mozilla)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Mozilla — firefox.com
+35.190.14.201
+
+# Mozilla — mozilla.org
 35.190.14.201

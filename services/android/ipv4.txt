@@ -1,6 +1,15 @@
-# NetList DNS snapshot for Android
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Android (android)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Android — android.com
+142.251.163.103
+142.251.163.104
+142.251.163.105
+142.251.163.106
+142.251.163.147
+142.251.163.99
+
+# Android — android.googleapis.com
 172.217.112.4
 172.217.113.4
 172.217.114.4
@@ -9,9 +18,3 @@
 172.217.117.4
 172.217.118.4
 172.217.119.4
-209.85.200.103
-209.85.200.104
-209.85.200.105
-209.85.200.106
-209.85.200.147
-209.85.200.99

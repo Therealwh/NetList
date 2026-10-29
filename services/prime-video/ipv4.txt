@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Prime Video
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-3.170.103.120
-3.170.103.71
-3.170.103.74
-3.170.103.80
+# DNS-derived IP snapshot for Prime Video (prime-video)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Prime Video — primevideo.com
+3.171.61.11
+3.171.61.24
+3.171.61.65
+3.171.61.90

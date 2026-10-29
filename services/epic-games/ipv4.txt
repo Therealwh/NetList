@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Epic Games
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Epic Games (epic-games)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Epic Games — epicgames.com
 32.200.128.106
 54.173.195.0

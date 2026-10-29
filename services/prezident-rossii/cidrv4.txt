@@ -1,4 +1,5 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Президент России — kremlin.ru
 95.173.136.70/32
 95.173.136.71/32
 95.173.136.72/32

@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# МВД РФ — xn--b1aew.xn--p1ai
 185.6.47.14/32
 185.6.47.15/32

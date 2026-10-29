@@ -1,11 +1,20 @@
-# NetList DNS snapshot for YouTube
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-172.253.155.136
-172.253.155.190
-172.253.155.91
-172.253.155.93
-173.194.193.136
-173.194.193.190
-173.194.193.91
-173.194.193.93
+# DNS-derived IP snapshot for YouTube (youtube)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# YouTube — youtu.be
+142.250.31.136
+142.250.31.190
+142.250.31.91
+142.250.31.93
+
+# YouTube — youtube-nocookie.com
+142.251.16.136
+142.251.16.190
+142.251.16.91
+142.251.16.93
+
+# YouTube — youtube.com
+172.253.63.136
+172.253.63.190
+172.253.63.91
+172.253.63.93

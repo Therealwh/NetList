@@ -1,4 +1,5 @@
-# NetList DNS snapshot for EA
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-184.29.30.190
+# DNS-derived IP snapshot for EA (ea)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# EA — ea.com
+23.35.28.190

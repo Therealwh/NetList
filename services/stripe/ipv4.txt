@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Stripe
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-198.137.150.231
-198.202.176.231
+# DNS-derived IP snapshot for Stripe (stripe)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Stripe — stripe.com
+198.137.150.41
+198.202.176.41

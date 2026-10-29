@@ -1,5 +1,6 @@
-# NetList DNS snapshot for ВТБ
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for ВТБ (vtb)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# ВТБ — vtb.ru
 195.242.82.13
 195.242.83.13

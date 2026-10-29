@@ -1,5 +1,14 @@
-# NetList DNS snapshot for Telegram
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Telegram (telegram)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Telegram — t.me
+149.154.167.99
+
+# Telegram — telegra.ph
 149.154.164.13
+
+# Telegram — telegram.me
+149.154.167.99
+
+# Telegram — telegram.org
 149.154.167.99

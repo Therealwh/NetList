@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Pinterest
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Pinterest (pinterest)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Pinterest — pinterest.com
 151.101.0.84
 151.101.128.84
 151.101.192.84

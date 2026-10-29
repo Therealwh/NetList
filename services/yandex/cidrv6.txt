@@ -1,4 +1,12 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2a02:6b8:23::225/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Яндекс — ya.ru
 2a02:6b8::2:242/128
+
+# Яндекс — yandex.com
 2a02:6b8:a::a/128
+
+# Яндекс — yandex.ru
+2a02:6b8:a::a/128
+
+# Яндекс — yastatic.net
+2a02:6b8:23::225/128

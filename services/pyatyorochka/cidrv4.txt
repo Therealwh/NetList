@@ -1,3 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-91.206.100.17/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Пятёрочка — 5ka.ru
 91.221.164.42/32
+
+# Пятёрочка — x5.ru
+91.206.100.17/32

@@ -1,8 +1,11 @@
-# NetList DNS snapshot for Debian
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Debian (debian)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Debian — deb.debian.org
+146.75.38.132
+
+# Debian — debian.org
 151.101.130.132
-151.101.162.132
 151.101.194.132
 151.101.2.132
 151.101.66.132

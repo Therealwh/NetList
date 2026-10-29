@@ -1,5 +1,11 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-185.73.193.119/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Ozon — ozon.ru
 185.73.193.68/32
 185.73.194.82/32
+
+# Ozon — ozone.ru
+185.73.193.119/32
 185.73.195.116/32
+
+# Ozon — ozonusercontent.com
+# (no public DNS addresses found)

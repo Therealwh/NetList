@@ -1,6 +1,7 @@
-# NetList DNS snapshot for XNXX
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for XNXX (xnxx)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# XNXX — xnxx.com
 152.233.100.1
 152.233.100.10
 152.233.100.11

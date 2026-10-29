@@ -1,15 +1,20 @@
-# NetList DNS snapshot for YouTube
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2607:f8b0:4001:c1e::5b
-2607:f8b0:4001:c1e::5d
-2607:f8b0:4001:c1e::88
-2607:f8b0:4001:c1e::be
-2607:f8b0:4001:c6e::5b
-2607:f8b0:4001:c6e::5d
-2607:f8b0:4001:c6e::88
-2607:f8b0:4001:c6e::be
-2607:f8b0:4001:c70::5b
-2607:f8b0:4001:c70::5d
-2607:f8b0:4001:c70::88
-2607:f8b0:4001:c70::be
+# DNS-derived IP snapshot for YouTube (youtube)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# YouTube — youtu.be
+2607:f8b0:4004:c21::5b
+2607:f8b0:4004:c21::5d
+2607:f8b0:4004:c21::88
+2607:f8b0:4004:c21::be
+
+# YouTube — youtube-nocookie.com
+2607:f8b0:4004:c29::5b
+2607:f8b0:4004:c29::5d
+2607:f8b0:4004:c29::88
+2607:f8b0:4004:c29::be
+
+# YouTube — youtube.com
+2607:f8b0:4004:c2f::5b
+2607:f8b0:4004:c2f::5d
+2607:f8b0:4004:c2f::88
+2607:f8b0:4004:c2f::be

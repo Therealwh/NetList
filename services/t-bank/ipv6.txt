@@ -1,3 +1,8 @@
-# NetList DNS snapshot for Т-Банк
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Т-Банк (t-bank)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Т-Банк — tbank.ru
+# (no public DNS addresses found)
+
+# Т-Банк — tinkoff.ru
+# (no public DNS addresses found)

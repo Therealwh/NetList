@@ -1,9 +1,12 @@
-# NetList DNS snapshot for Microsoft Azure
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Microsoft Azure (microsoft-azure)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Microsoft Azure — azure.com
 20.112.250.133
 20.231.239.246
 20.236.44.162
 20.70.246.20
 20.76.201.171
-23.192.146.180
+
+# Microsoft Azure — azure.microsoft.com
+23.221.254.117

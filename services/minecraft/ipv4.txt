@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Minecraft
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-150.171.110.194
+# DNS-derived IP snapshot for Minecraft (minecraft)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Minecraft — minecraft.net
+150.171.109.74

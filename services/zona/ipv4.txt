@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Zona
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Zona (zona)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Zona — zona.ru
 5.35.172.6

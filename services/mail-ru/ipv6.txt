@@ -1,6 +1,16 @@
-# NetList DNS snapshot for Mail.ru
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Mail.ru (mail-ru)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Mail.ru — bk.ru
+# (no public DNS addresses found)
+
+# Mail.ru — inbox.ru
+# (no public DNS addresses found)
+
+# Mail.ru — list.ru
+# (no public DNS addresses found)
+
+# Mail.ru — mail.ru
 2a00:1148:9100:b000::1
 2a00:b4c0:9100:b000::1
 2a14:25c0:9100:b000::1

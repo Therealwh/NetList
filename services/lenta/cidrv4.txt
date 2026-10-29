@@ -1,5 +1,8 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Лента — lenta.com
 178.248.232.88/32
+
+# Лента — lenta.ru
 81.19.72.32/32
 81.19.72.33/32
 81.19.72.34/32

@@ -1,3 +1,14 @@
-# NetList DNS snapshot for VK
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for VK (vk)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# VK — userapi.com
+# (no public DNS addresses found)
+
+# VK — vk.com
+# (no public DNS addresses found)
+
+# VK — vk.ru
+# (no public DNS addresses found)
+
+# VK — vkuserlive.net
+# (no public DNS addresses found)

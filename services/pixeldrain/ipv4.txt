@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Pixeldrain
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-160.202.167.162
+# DNS-derived IP snapshot for Pixeldrain (pixeldrain)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Pixeldrain — pixeldrain.com
+160.202.167.163
 160.202.167.164

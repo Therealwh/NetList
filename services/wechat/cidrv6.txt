@@ -1,4 +1,8 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# WeChat — wechat.com
+# (no public DNS addresses found)
+
+# WeChat — weixin.qq.com
 240e:978:d04:3003::27/128
 240e:e1:aa00:1001::a/128
 240e:e1:aa00:101a::48/128

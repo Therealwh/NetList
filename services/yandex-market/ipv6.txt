@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Яндекс Маркет
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Яндекс Маркет (yandex-market)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Яндекс Маркет — market.yandex.ru
 2a02:6b8::2:22

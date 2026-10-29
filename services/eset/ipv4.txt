@@ -1,5 +1,6 @@
-# NetList DNS snapshot for ESET
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for ESET (eset)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# ESET — eset.com
 91.228.166.47
 91.228.167.128

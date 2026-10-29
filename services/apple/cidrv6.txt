@@ -1,2 +1,6 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Apple — apple.com
+2620:149:af0::10/128
+
+# Apple — icloud.com
 2620:149:af0::10/128

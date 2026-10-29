@@ -1,6 +1,7 @@
-# NetList DNS snapshot for YouTube Music
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for YouTube Music (youtube-music)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# YouTube Music — music.youtube.com
 2001:4860:4826:400::
 2001:4860:4827:400::
 2001:4860:4828:400::

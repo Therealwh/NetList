@@ -1,4 +1,7 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Docker Hub — docker.com
+23.185.0.4/32
+
+# Docker Hub — hub.docker.com
 104.18.43.187/32
 172.64.144.69/32
-23.185.0.4/32

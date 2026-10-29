@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Госуслуги
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Госуслуги (gosuslugi)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Госуслуги — gosuslugi.ru
 213.59.253.7
 213.59.254.7

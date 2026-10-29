@@ -1,4 +1,8 @@
-# NetList DNS snapshot for Ростелеком
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Ростелеком (rostelekom)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Ростелеком — rostelecom.ru
+87.226.162.216
+
+# Ростелеком — rt.ru
 87.226.162.216

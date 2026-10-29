@@ -1,10 +1,20 @@
-# NetList DNS snapshot for Яндекс
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-37.9.64.225
+# DNS-derived IP snapshot for Яндекс (yandex)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Яндекс — ya.ru
 5.255.255.242
-5.255.255.77
 77.88.44.242
-77.88.44.55
 77.88.55.242
+
+# Яндекс — yandex.com
+5.255.255.77
+77.88.44.55
 77.88.55.88
+
+# Яндекс — yandex.ru
+5.255.255.77
+77.88.44.55
+77.88.55.88
+
+# Яндекс — yastatic.net
+37.9.64.225

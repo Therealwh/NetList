@@ -1,6 +1,7 @@
-# NetList DNS snapshot for XVideos
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for XVideos (xvideos)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# XVideos — xvideos.com
 89.222.127.1
 89.222.127.10
 89.222.127.11

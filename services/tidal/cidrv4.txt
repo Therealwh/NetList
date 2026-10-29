@@ -1,5 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-108.159.227.118/32
-108.159.227.15/32
-108.159.227.57/32
-108.159.227.67/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Tidal — tidal.com
+13.226.209.123/32
+13.226.209.26/32
+13.226.209.52/32
+13.226.209.96/32

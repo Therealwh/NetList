@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Skype
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Skype (skype)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Skype — skype.com
 20.112.250.133
 20.231.239.246
 20.236.44.162

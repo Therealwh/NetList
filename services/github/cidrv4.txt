@@ -1,2 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# GitHub — github.com
 140.82.114.4/32
+
+# GitHub — githubusercontent.com
+# (no public DNS addresses found)

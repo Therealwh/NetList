@@ -1,17 +1,22 @@
-# NetList DNS snapshot for Google
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-142.251.184.103
-142.251.184.104
-142.251.184.105
-142.251.184.106
-142.251.184.147
-142.251.184.99
-74.125.132.100
-74.125.132.101
-74.125.132.102
-74.125.132.113
-74.125.132.120
-74.125.132.138
-74.125.132.139
-74.125.132.94
+# DNS-derived IP snapshot for Google (google)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Google — google.com
+172.253.122.100
+172.253.122.101
+172.253.122.102
+172.253.122.113
+172.253.122.138
+172.253.122.139
+
+# Google — googleapis.com
+172.253.62.103
+172.253.62.104
+172.253.62.105
+172.253.62.106
+172.253.62.147
+172.253.62.99
+
+# Google — gstatic.com
+172.253.115.120
+172.253.115.94

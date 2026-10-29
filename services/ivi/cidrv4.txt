@@ -1,4 +1,5 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Иви — ivi.ru
 80.67.43.1/32
 80.67.43.33/32
 80.67.43.65/32

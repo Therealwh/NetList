@@ -1,5 +1,6 @@
-# NetList DNS snapshot for МегаФон
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for МегаФон (megafon)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# МегаФон — megafon.ru
 178.177.13.149
 188.162.60.210

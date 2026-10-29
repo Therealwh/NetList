@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Reddit
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Reddit (reddit)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Reddit — reddit.com
 2a04:4e42:200::396
 2a04:4e42:400::396
 2a04:4e42:600::396

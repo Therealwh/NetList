@@ -1,4 +1,5 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# XVideos — xvideos.com
 89.222.127.1/32
 89.222.127.10/32
 89.222.127.11/32

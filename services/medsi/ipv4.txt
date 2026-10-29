@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Медси
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Медси (medsi)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Медси — medsi.ru
 212.109.215.214

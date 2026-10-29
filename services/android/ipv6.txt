@@ -1,6 +1,13 @@
-# NetList DNS snapshot for Android
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Android (android)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Android — android.com
+2607:f8b0:4004:c06::67
+2607:f8b0:4004:c06::68
+2607:f8b0:4004:c06::69
+2607:f8b0:4004:c06::93
+
+# Android — android.googleapis.com
 2001:4860:4840:400::
 2001:4860:4841:400::
 2001:4860:4842:400::
@@ -9,7 +16,3 @@
 2001:4860:4845:400::
 2001:4860:4846:400::
 2001:4860:4847:400::
-2607:f8b0:4001:c00::63
-2607:f8b0:4001:c00::67
-2607:f8b0:4001:c00::69
-2607:f8b0:4001:c00::93

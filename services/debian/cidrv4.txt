@@ -1,6 +1,9 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Debian — deb.debian.org
+146.75.38.132/32
+
+# Debian — debian.org
 151.101.130.132/32
-151.101.162.132/32
 151.101.194.132/32
 151.101.2.132/32
 151.101.66.132/32

@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Магнит
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Магнит (magnit)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Магнит — magnit.ru
 155.212.234.29

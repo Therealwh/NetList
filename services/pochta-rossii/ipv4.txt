@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Почта России
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Почта России (pochta-rossii)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Почта России — pochta.ru
 212.164.140.129
 212.164.140.151
 212.164.140.153

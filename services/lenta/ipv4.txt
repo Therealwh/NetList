@@ -1,7 +1,10 @@
-# NetList DNS snapshot for Лента
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Лента (lenta)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Лента — lenta.com
 178.248.232.88
+
+# Лента — lenta.ru
 81.19.72.32
 81.19.72.33
 81.19.72.34

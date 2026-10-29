@@ -1,7 +1,8 @@
-# NetList DNS snapshot for WeTransfer
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-99.86.77.113
-99.86.77.51
-99.86.77.56
-99.86.77.80
+# DNS-derived IP snapshot for WeTransfer (wetransfer)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# WeTransfer — wetransfer.com
+13.226.238.12
+13.226.238.59
+13.226.238.76
+13.226.238.83

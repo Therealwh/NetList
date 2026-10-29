@@ -1,7 +1,10 @@
-# NetList DNS snapshot for OneDrive
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-13.107.136.10
+# DNS-derived IP snapshot for OneDrive (onedrive)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# OneDrive — onedrive.live.com
 13.107.137.11
-13.107.138.10
 13.107.139.11
+
+# OneDrive — sharepoint.com
+13.107.136.10
+13.107.138.10

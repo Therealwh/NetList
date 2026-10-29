@@ -1,5 +1,8 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Wildberries — wb.ru
 185.138.253.1/32
 185.138.255.1/32
-185.62.202.2/32
 213.184.155.142/32
+
+# Wildberries — wildberries.ru
+185.62.202.2/32

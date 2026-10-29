@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Pixeldrain
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Pixeldrain (pixeldrain)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Pixeldrain — pixeldrain.com
 2401:3bc0:1001:2::1
 2401:3bc0:1001:3::1

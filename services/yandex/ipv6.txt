@@ -1,6 +1,14 @@
-# NetList DNS snapshot for Яндекс
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2a02:6b8:23::225
+# DNS-derived IP snapshot for Яндекс (yandex)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Яндекс — ya.ru
 2a02:6b8::2:242
+
+# Яндекс — yandex.com
 2a02:6b8:a::a
+
+# Яндекс — yandex.ru
+2a02:6b8:a::a
+
+# Яндекс — yastatic.net
+2a02:6b8:23::225

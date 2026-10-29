@@ -1,3 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# HDRezka — hdrezka.ag
 179.43.189.163/32
+
+# HDRezka — hdrezka.me
 179.43.190.137/32

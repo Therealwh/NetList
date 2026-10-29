@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Mixcloud
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Mixcloud (mixcloud)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Mixcloud — mixcloud.com
 2606:4700:10::6814:424
 2606:4700:10::6814:524

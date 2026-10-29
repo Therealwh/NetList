@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# BC.Game — bc.game
 2606:4700::6812:1c1d/128
 2606:4700::6812:1d1d/128

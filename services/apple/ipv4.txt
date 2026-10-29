@@ -1,4 +1,8 @@
-# NetList DNS snapshot for Apple
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Apple (apple)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Apple — apple.com
+17.253.144.10
+
+# Apple — icloud.com
 17.253.144.10

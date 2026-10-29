@@ -1,1 +1,6 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# OVHcloud — ovh.com
+# (no public DNS addresses found)
+
+# OVHcloud — ovhcloud.com
+# (no public DNS addresses found)

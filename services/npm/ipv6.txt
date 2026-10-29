@@ -1,5 +1,6 @@
-# NetList DNS snapshot for npm
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for npm (npm)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# npm — npmjs.com
 2606:4700::6811:8675
 2606:4700::6811:8775

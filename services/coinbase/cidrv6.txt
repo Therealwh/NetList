@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Coinbase — coinbase.com
 2a06:98c1:3102::ac40:98f1/128
 2a06:98c1:310d::6812:230f/128

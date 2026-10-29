@@ -1,7 +1,8 @@
-# NetList DNS snapshot for edX
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-13.32.205.35
-13.32.205.50
-13.32.205.64
-13.32.205.78
+# DNS-derived IP snapshot for edX (edx)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# edX — edx.org
+3.167.56.120
+3.167.56.25
+3.167.56.67
+3.167.56.89

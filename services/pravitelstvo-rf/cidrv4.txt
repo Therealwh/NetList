@@ -1,4 +1,5 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Правительство РФ — government.ru
 95.173.136.162/32
 95.173.136.163/32
 95.173.136.168/32

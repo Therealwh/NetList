@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2600:1418:a000:589::1127/128
-2600:1418:a000:58a::1127/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# EA — ea.com
+2600:1408:5400:e8e::1127/128
+2600:1408:5400:e98::1127/128

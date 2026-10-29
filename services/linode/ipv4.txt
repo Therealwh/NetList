@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Linode
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-23.220.161.69
-23.220.161.71
+# DNS-derived IP snapshot for Linode (linode)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Linode — linode.com
+23.202.230.222
+23.202.230.228

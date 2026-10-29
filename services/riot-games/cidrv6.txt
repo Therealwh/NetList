@@ -1,1 +1,6 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Riot Games — leagueoflegends.com
+# (no public DNS addresses found)
+
+# Riot Games — riotgames.com
+# (no public DNS addresses found)

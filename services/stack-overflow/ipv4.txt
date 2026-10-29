@@ -1,4 +1,8 @@
-# NetList DNS snapshot for Stack Overflow
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Stack Overflow (stack-overflow)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Stack Overflow — stackexchange.com
+198.252.206.1
+
+# Stack Overflow — stackoverflow.com
 198.252.206.1

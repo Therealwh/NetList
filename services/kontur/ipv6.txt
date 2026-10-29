@@ -1,3 +1,5 @@
-# NetList DNS snapshot for Контур
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Контур (kontur)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Контур — kontur.ru
+# (no public DNS addresses found)

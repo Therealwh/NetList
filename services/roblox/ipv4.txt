@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Roblox
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-128.116.102.3
+# DNS-derived IP snapshot for Roblox (roblox)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Roblox — roblox.com
+128.116.30.3

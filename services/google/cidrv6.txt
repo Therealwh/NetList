@@ -1,11 +1,16 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2607:f8b0:4001:c00::65/128
-2607:f8b0:4001:c00::66/128
-2607:f8b0:4001:c00::8a/128
-2607:f8b0:4001:c00::8b/128
-2607:f8b0:4001:c05::5e/128
-2607:f8b0:4001:c05::78/128
-2607:f8b0:4001:c66::63/128
-2607:f8b0:4001:c66::67/128
-2607:f8b0:4001:c66::6a/128
-2607:f8b0:4001:c66::93/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Google — google.com
+2607:f8b0:4004:c09::66/128
+2607:f8b0:4004:c09::71/128
+2607:f8b0:4004:c09::8a/128
+2607:f8b0:4004:c09::8b/128
+
+# Google — googleapis.com
+2607:f8b0:4004:c27::67/128
+2607:f8b0:4004:c27::69/128
+2607:f8b0:4004:c27::6a/128
+2607:f8b0:4004:c27::93/128
+
+# Google — gstatic.com
+2607:f8b0:4004:c1b::5e/128
+2607:f8b0:4004:c1b::78/128

@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Hugging Face
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-3.170.185.14
-3.170.185.25
-3.170.185.33
-3.170.185.35
+# DNS-derived IP snapshot for Hugging Face (hugging-face)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Hugging Face — huggingface.co
+3.167.112.25
+3.167.112.38
+3.167.112.45
+3.167.112.96

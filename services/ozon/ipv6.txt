@@ -1,3 +1,11 @@
-# NetList DNS snapshot for Ozon
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Ozon (ozon)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Ozon — ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — ozone.ru
+# (no public DNS addresses found)
+
+# Ozon — ozonusercontent.com
+# (no public DNS addresses found)

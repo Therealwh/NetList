@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Apple Music
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-184.29.110.33
+# DNS-derived IP snapshot for Apple Music (apple-music)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Apple Music — music.apple.com
+23.221.240.33

@@ -1,3 +1,7 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Filmix — filmix.ac
 2606:4700:3030::6815:319d/128
 2606:4700:3036::ac43:bf30/128
+
+# Filmix — filmix.my
+# (no public DNS addresses found)

@@ -1,6 +1,7 @@
-# NetList DNS snapshot for PyPI
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for PyPI (pypi)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# PyPI — pypi.org
 151.101.0.223
 151.101.128.223
 151.101.192.223

@@ -1,15 +1,18 @@
-# NetList DNS snapshot for Ubuntu
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Ubuntu (ubuntu)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Ubuntu — archive.ubuntu.com
 2620:2d:4000:1::101
 2620:2d:4000:1::102
 2620:2d:4000:1::103
-2620:2d:4000:1::26
-2620:2d:4000:1::27
-2620:2d:4000:1::28
 2620:2d:4002:1::101
 2620:2d:4002:1::102
 2620:2d:4002:1::103
 2a06:bc80:0:1000::16
 2a06:bc80:0:1000::17
 2a06:bc80:0:1000::18
+
+# Ubuntu — ubuntu.com
+2620:2d:4000:1::26
+2620:2d:4000:1::27
+2620:2d:4000:1::28

@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Threads
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-57.144.230.192
+# DNS-derived IP snapshot for Threads (threads)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Threads — threads.net
+57.144.180.192

@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Netflix — netflix.com
 2a00:86c0:2042::1/128
 2a00:86c0:2043::1/128

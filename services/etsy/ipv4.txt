@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Etsy
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Etsy (etsy)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Etsy — etsy.com
 151.101.1.224
 151.101.129.224
 151.101.193.224

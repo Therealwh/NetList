@@ -1,5 +1,8 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-184.25.255.47/32
-184.25.255.55/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Riot Games — leagueoflegends.com
 32.190.165.107/32
 44.242.1.161/32
+
+# Riot Games — riotgames.com
+23.202.230.220/32
+23.202.230.229/32

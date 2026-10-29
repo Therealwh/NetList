@@ -1,5 +1,6 @@
-# NetList DNS snapshot for The Pirate Bay
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for The Pirate Bay (the-pirate-bay)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# The Pirate Bay — thepiratebay.org
 2606:4700:7::a29f:8806
 2606:4700:7::a29f:8906

@@ -1,4 +1,8 @@
-# NetList DNS snapshot for WhatsApp
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-57.144.75.32
+# DNS-derived IP snapshot for WhatsApp (whatsapp)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# WhatsApp — wa.me
+57.144.231.32
+
+# WhatsApp — whatsapp.com
+57.144.231.32

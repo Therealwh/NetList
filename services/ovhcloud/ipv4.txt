@@ -1,5 +1,8 @@
-# NetList DNS snapshot for OVHcloud
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for OVHcloud (ovhcloud)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# OVHcloud — ovh.com
 198.27.92.1
+
+# OVHcloud — ovhcloud.com
 198.27.92.14

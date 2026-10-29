@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-23.201.96.195/32
-23.201.96.202/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Akamai — akamai.com
+23.202.230.196/32
+23.202.230.208/32

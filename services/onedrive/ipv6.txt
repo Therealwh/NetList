@@ -1,3 +1,8 @@
-# NetList DNS snapshot for OneDrive
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for OneDrive (onedrive)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# OneDrive — onedrive.live.com
+# (no public DNS addresses found)
+
+# OneDrive — sharepoint.com
+# (no public DNS addresses found)

@@ -1,13 +1,18 @@
-# NetList DNS snapshot for Google
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::66
-2607:f8b0:4001:c00::8a
-2607:f8b0:4001:c00::8b
-2607:f8b0:4001:c05::5e
-2607:f8b0:4001:c05::78
-2607:f8b0:4001:c66::63
-2607:f8b0:4001:c66::67
-2607:f8b0:4001:c66::6a
-2607:f8b0:4001:c66::93
+# DNS-derived IP snapshot for Google (google)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Google — google.com
+2607:f8b0:4004:c09::66
+2607:f8b0:4004:c09::71
+2607:f8b0:4004:c09::8a
+2607:f8b0:4004:c09::8b
+
+# Google — googleapis.com
+2607:f8b0:4004:c27::67
+2607:f8b0:4004:c27::69
+2607:f8b0:4004:c27::6a
+2607:f8b0:4004:c27::93
+
+# Google — gstatic.com
+2607:f8b0:4004:c1b::5e
+2607:f8b0:4004:c1b::78

@@ -1,6 +1,10 @@
-# NetList DNS snapshot for Twitch
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Twitch (twitch)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Twitch — jtvnw.net
+# (no public DNS addresses found)
+
+# Twitch — twitch.tv
 151.101.130.167
 151.101.194.167
 151.101.2.167

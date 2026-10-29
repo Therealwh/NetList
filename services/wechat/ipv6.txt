@@ -1,6 +1,10 @@
-# NetList DNS snapshot for WeChat
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for WeChat (wechat)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# WeChat — wechat.com
+# (no public DNS addresses found)
+
+# WeChat — weixin.qq.com
 240e:978:d04:3003::27
 240e:e1:aa00:1001::a
 240e:e1:aa00:101a::48

@@ -1,5 +1,11 @@
-# NetList DNS snapshot for Steam
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-184.29.30.218
-23.59.109.20
+# DNS-derived IP snapshot for Steam (steam)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Steam — steamcommunity.com
+23.221.241.18
+
+# Steam — steampowered.com
+2.23.136.4
+
+# Steam — steamstatic.com
+# (no public DNS addresses found)

@@ -1,3 +1,8 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Battle.net — battle.net
+166.117.114.163/32
+166.117.214.166/32
+
+# Battle.net — blizzard.com
 166.117.114.163/32
 166.117.214.166/32

@@ -1,3 +1,9 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2603:1061:14:1c2::1/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Microsoft — microsoft.com
+2603:1061:14:75::1/128
+
+# Microsoft — office.com
 2620:1ec:a92::156/128
+
+# Microsoft — windowsupdate.com
+# (no public DNS addresses found)

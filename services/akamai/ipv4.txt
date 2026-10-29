@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Akamai
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-23.201.96.195
-23.201.96.202
+# DNS-derived IP snapshot for Akamai (akamai)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Akamai — akamai.com
+23.202.230.196
+23.202.230.208

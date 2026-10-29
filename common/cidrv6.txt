@@ -1,20 +1,54 @@
-2001:19f0:200:4d1e::5663/128
-2001:4860:4826:200::/128
-2001:4860:4826:400::/128
-2001:4860:4827:200::/128
-2001:4860:4827:400::/128
-2001:4860:4828:200::/128
-2001:4860:4828:400::/128
-2001:4860:4829:200::/128
-2001:4860:4829:400::/128
-2001:4860:482a:200::/128
-2001:4860:482a:400::/128
-2001:4860:482b:200::/128
-2001:4860:482b:400::/128
-2001:4860:482c:200::/128
-2001:4860:482c:400::/128
-2001:4860:482d:200::/128
-2001:4860:482d:400::/128
+# Exact IPv6 host routes (/128), grouped by source domain; not service-owned ranges.
+# 1337x — 1337x.to
+2606:4700:3030::ac43:bc43/128
+2606:4700:3033::6815:28c1/128
+
+# 1С — 1c.ru
+# (no public DNS addresses found)
+
+# 1xBet — 1xbet.com
+2606:4700:4408::6812:2940/128
+2a06:98c1:3103::ac40:92c0/128
+
+# 2ГИС — 2gis.ru
+# (no public DNS addresses found)
+
+# Аэрофлот — aeroflot.ru
+# (no public DNS addresses found)
+
+# АиФ — aif.ru
+# (no public DNS addresses found)
+
+# Akamai — akamai.com
+2600:141b:1c00:26::17ce:acbc/128
+2600:141b:1c00:26::17ce:acc6/128
+
+# Альфа-Банк — alfabank.ru
+# (no public DNS addresses found)
+
+# AliExpress — aliexpress.com
+# (no public DNS addresses found)
+
+# Amazon — amazon.com
+# (no public DNS addresses found)
+
+# Amazon Music — music.amazon.com
+2600:9000:250b:0:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:2200:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:3400:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:9e00:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:a400:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:c200:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:c600:1b:5d9a:8ad6:8f61/128
+2600:9000:250b:ce00:1b:5d9a:8ad6:8f61/128
+
+# Android — android.com
+2607:f8b0:4004:c06::67/128
+2607:f8b0:4004:c06::68/128
+2607:f8b0:4004:c06::69/128
+2607:f8b0:4004:c06::93/128
+
+# Android — android.googleapis.com
 2001:4860:4840:400::/128
 2001:4860:4841:400::/128
 2001:4860:4842:400::/128
@@ -23,270 +57,1109 @@
 2001:4860:4845:400::/128
 2001:4860:4846:400::/128
 2001:4860:4847:400::/128
+
+# AP News — apnews.com
+2606:4700::6810:1608/128
+2606:4700::6810:1708/128
+
+# Apple — apple.com
+2620:149:af0::10/128
+
+# Apple — icloud.com
+2620:149:af0::10/128
+
+# Apple Music — music.apple.com
+2a04:4e42:95::774/128
+
+# Arch Linux — archlinux.org
+2604:cac0:a104:d::3/128
+
+# Avito — avito.ru
+# (no public DNS addresses found)
+
+# AWS — amazonaws.com
+# (no public DNS addresses found)
+
+# AWS — aws.amazon.com
+2600:9000:201f:3e00:1c:a813:8500:93a1/128
+2600:9000:201f:4800:1c:a813:8500:93a1/128
+2600:9000:201f:4e00:1c:a813:8500:93a1/128
+2600:9000:201f:8200:1c:a813:8500:93a1/128
+2600:9000:201f:ce00:1c:a813:8500:93a1/128
+2600:9000:201f:d000:1c:a813:8500:93a1/128
+2600:9000:201f:f200:1c:a813:8500:93a1/128
+2600:9000:201f:f600:1c:a813:8500:93a1/128
+
+# Baidu — baidu.com
+# (no public DNS addresses found)
+
+# Bandcamp — bandcamp.com
+# (no public DNS addresses found)
+
+# Банк России — cbr.ru
+# (no public DNS addresses found)
+
+# Battle.net — battle.net
+# (no public DNS addresses found)
+
+# Battle.net — blizzard.com
+# (no public DNS addresses found)
+
+# BBC — bbc.co.uk
+2a04:4e42:200::81/128
+2a04:4e42:400::81/128
+2a04:4e42:600::81/128
+2a04:4e42::81/128
+
+# BBC — bbc.com
+2a04:4e42:200::81/128
+2a04:4e42:400::81/128
+2a04:4e42:600::81/128
+2a04:4e42::81/128
+
+# BC.Game — bc.game
+2606:4700::6812:1c1d/128
+2606:4700::6812:1d1d/128
+
+# Bet365 — bet365.com
+# (no public DNS addresses found)
+
+# Betfair — betfair.com
+# (no public DNS addresses found)
+
+# Билайн — beeline.ru
+# (no public DNS addresses found)
+
+# Binance — binance.com
+# (no public DNS addresses found)
+
+# Bing — bing.com
+2620:1ec:33:1::10/128
+2620:1ec:33::10/128
+
+# Bitbucket — bitbucket.org
+2401:1d80:321c:1:0:bbc:1:df7c/128
+2401:1d80:321c:2:0:bbc:1:df7c/128
+2401:1d80:321c::bbc:1:df7c/128
+
+# ChatGPT — chatgpt.com
+2606:4700:4408::ac40:9bd1/128
+2a06:98c1:3101::6812:202f/128
+
+# ChatGPT — openai.com
+# (no public DNS addresses found)
+
+# Честный знак — xn--80ajghhoc2aj1c8b.xn--p1ai
+# (no public DNS addresses found)
+
+# Claude — anthropic.com
+2607:6bc0::10/128
+
+# Claude — claude.ai
+2607:6bc0::10/128
+
+# Cloudflare — cloudflare-dns.com
+2606:4700::6810:f8f9/128
+2606:4700::6810:f9f9/128
+
+# Cloudflare — cloudflare.com
+2606:4700::6810:84e5/128
+2606:4700::6810:85e5/128
+
+# Codeberg — codeberg.org
+2a0a:4580:103f:c0de::1/128
+
+# Coinbase — coinbase.com
+2a06:98c1:3102::ac40:98f1/128
+2a06:98c1:310d::6812:230f/128
+
+# Coursera — coursera.org
+# (no public DNS addresses found)
+
+# crates.io — crates.io
+2a04:4e42:200::649/128
+2a04:4e42:400::649/128
+2a04:4e42:600::649/128
+2a04:4e42::649/128
+
+# Dailymotion — dailymotion.com
+# (no public DNS addresses found)
+
+# Debian — deb.debian.org
+2a04:4e42:95::644/128
+
+# Debian — debian.org
+2a04:4e42:200::644/128
+2a04:4e42:400::644/128
+2a04:4e42:600::644/128
+2a04:4e42::644/128
+
+# DeepSeek — deepseek.com
+# (no public DNS addresses found)
+
+# Deezer — deezer.com
+# (no public DNS addresses found)
+
+# Делимобиль — delimobil.ru
+# (no public DNS addresses found)
+
+# Deutsche Welle — dw.com
+# (no public DNS addresses found)
+
+# DigitalOcean — digitalocean.com
+2606:4700::6813:ad44/128
+2606:4700::6813:ae44/128
+
+# Discord — discord.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyplus.com
+2600:1901:0:84f4::80/128
+
+# Docker Hub — docker.com
+2620:12a:8000::4/128
+2620:12a:8001::4/128
+
+# Docker Hub — hub.docker.com
+2606:4700:4403::ac40:9045/128
+2a06:98c1:3108::6812:2bbb/128
+
+# Домклик — domclick.ru
+# (no public DNS addresses found)
+
+# Dropbox — dropbox.com
+2620:100:6040:18::a27d:f812/128
+
+# DuckDuckGo — duckduckgo.com
+# (no public DNS addresses found)
+
+# Дзен — dzen.ru
+2a00:b4c0:9100:b000::1:b0/128
+
+# EA — ea.com
+2600:1408:5400:e8e::1127/128
+2600:1408:5400:e98::1127/128
+
+# eBay — ebay.com
+# (no public DNS addresses found)
+
+# edX — edx.org
+# (no public DNS addresses found)
+
+# Epic Games — epicgames.com
+# (no public DNS addresses found)
+
+# ESET — eset.com
+# (no public DNS addresses found)
+
+# Etsy — etsy.com
+# (no public DNS addresses found)
+
+# EZTV — eztv.re
+2606:4700:3031::ac43:d2b0/128
+2606:4700:3034::6815:45ae/128
+
+# Facebook — facebook.com
+2a03:2880:f35a:1:face:b00c:0:25de/128
+
+# Faceit — faceit.com
+# (no public DNS addresses found)
+
+# Fansly — fansly.com
+# (no public DNS addresses found)
+
+# Fastly — fastly.com
+2a04:4e42:200::313/128
+2a04:4e42:400::313/128
+2a04:4e42:600::313/128
+2a04:4e42::313/128
+
+# Fastmail — fastmail.com
+# (no public DNS addresses found)
+
+# Fedora — fedoraproject.org
+2600:1f14:fad:5c02:eb33:e938:35cc:965b/128
+2600:1f18:568d:172c:c09d:4e53:a997:e8a/128
+2600:1f18:568d:1784:11d9:5f7d:2ffd:94d7/128
+2604:1580:fe00:0:dead:beef:cafe:fed1/128
+2605:bc80:3010:600:dead:beef:cafe:fed9/128
+2606:f640:6000:651::7/128
+2606:f640:6000:651::8/128
+2620:52:6:1121:bead:cafe:feed:fed5/128
+2620:52:6:1121:bead:cafe:feed:fed6/128
+2620:52:6:1161::36/128
+2620:52:6:1161::37/128
+
+# Filmix — filmix.ac
+2606:4700:3030::6815:319d/128
+2606:4700:3036::ac43:bf30/128
+
+# Filmix — filmix.my
+# (no public DNS addresses found)
+
+# ФНС — nalog.gov.ru
+# (no public DNS addresses found)
+
+# Газпромбанк — gazprombank.ru
+# (no public DNS addresses found)
+
+# Gemini — ai.google.dev
+2607:f8b0:4004:c23::66/128
+2607:f8b0:4004:c23::71/128
+2607:f8b0:4004:c23::8a/128
+2607:f8b0:4004:c23::8b/128
+
+# Gemini — gemini.google.com
+2001:4860:4826:200::/128
+2001:4860:4827:200::/128
+2001:4860:4828:200::/128
+2001:4860:4829:200::/128
+2001:4860:482a:200::/128
+2001:4860:482b:200::/128
+2001:4860:482c:200::/128
+2001:4860:482d:200::/128
+
+# ГИС ЖКХ — dom.gosuslugi.ru
+# (no public DNS addresses found)
+
+# Гисметео — gismeteo.ru
+# (no public DNS addresses found)
+
+# GitHub — github.com
+# (no public DNS addresses found)
+
+# GitHub — githubusercontent.com
+# (no public DNS addresses found)
+
+# GitHub Pages — github.io
+# (no public DNS addresses found)
+
+# GitLab — gitlab.com
+2606:4700:90:0:f22e:fbec:5bed:a9b9/128
+
+# ГЛОНАСС — glonass.ru
+# (no public DNS addresses found)
+
+# Gmail — gmail.com
+2607:f8b0:4004:c09::11/128
+2607:f8b0:4004:c09::12/128
+2607:f8b0:4004:c09::13/128
+2607:f8b0:4004:c09::53/128
+
+# Google — google.com
+2607:f8b0:4004:c09::66/128
+2607:f8b0:4004:c09::71/128
+2607:f8b0:4004:c09::8a/128
+2607:f8b0:4004:c09::8b/128
+
+# Google — googleapis.com
+2607:f8b0:4004:c27::67/128
+2607:f8b0:4004:c27::69/128
+2607:f8b0:4004:c27::6a/128
+2607:f8b0:4004:c27::93/128
+
+# Google — gstatic.com
+2607:f8b0:4004:c1b::5e/128
+2607:f8b0:4004:c1b::78/128
+
+# Google Cloud — cloud.google.com
+2607:f8b0:4004:c1f::64/128
+2607:f8b0:4004:c1f::66/128
+2607:f8b0:4004:c1f::71/128
+2607:f8b0:4004:c1f::8b/128
+
+# Google Cloud — googlecloud.com
+2607:f8b0:4004:c07::64/128
+2607:f8b0:4004:c07::65/128
+2607:f8b0:4004:c07::71/128
+2607:f8b0:4004:c07::8a/128
+
+# Google Drive — drive.google.com
+2607:f8b0:4004:c27::64/128
+2607:f8b0:4004:c27::65/128
+2607:f8b0:4004:c27::71/128
+2607:f8b0:4004:c27::8b/128
+
+# Госдума — duma.gov.ru
+# (no public DNS addresses found)
+
+# Госуслуги — gosuslugi.ru
+# (no public DNS addresses found)
+
+# Grok — grok.com
+2606:4700::6812:1cea/128
+2606:4700::6812:1dea/128
+
+# Grok — x.ai
+2606:4700::6812:1250/128
+2606:4700::6812:1350/128
+
+# HDRezka — hdrezka.ag
+# (no public DNS addresses found)
+
+# HDRezka — hdrezka.me
+# (no public DNS addresses found)
+
+# HeadHunter — hh.ru
+# (no public DNS addresses found)
+
+# Hetzner — hetzner.com
+2a01:4f8:0:1::7:4/128
+
+# Hetzner — hetzner.de
+2a01:4f8:0:1::7:4/128
+
+# Hugging Face — huggingface.co
+2600:9000:27d1:3800:17:b174:6d00:93a1/128
+2600:9000:27d1:4200:17:b174:6d00:93a1/128
+2600:9000:27d1:6600:17:b174:6d00:93a1/128
+2600:9000:27d1:8000:17:b174:6d00:93a1/128
+2600:9000:27d1:b800:17:b174:6d00:93a1/128
+2600:9000:27d1:ca00:17:b174:6d00:93a1/128
+2600:9000:27d1:ce00:17:b174:6d00:93a1/128
+2600:9000:27d1:e800:17:b174:6d00:93a1/128
+
+# Hulu — hulu.com
+# (no public DNS addresses found)
+
+# Instagram — instagram.com
+2a03:2880:f35a:22:face:b00c:0:4420/128
+
+# Internet Archive — archive.org
+# (no public DNS addresses found)
+
+# Иви — ivi.ru
+# (no public DNS addresses found)
+
+# JetBrains — jetbrains.com
+# (no public DNS addresses found)
+
+# Kaspersky — kaspersky.com
+# (no public DNS addresses found)
+
+# Хабр — habr.com
+# (no public DNS addresses found)
+
+# Khan Academy — khanacademy.org
+# (no public DNS addresses found)
+
+# KHL — khl.ru
+# (no public DNS addresses found)
+
+# Kick — kick.com
+2606:4700:4b::a29f:eb7a/128
+2606:4700:4b::ac40:eb85/128
+
+# Кинопоиск — kinopoisk.ru
+2a02:6b8::473/128
+
+# KION — kion.ru
+# (no public DNS addresses found)
+
+# Коммерсантъ — kommersant.ru
+# (no public DNS addresses found)
+
+# Контур — kontur.ru
+# (no public DNS addresses found)
+
+# Купер — kuper.ru
+# (no public DNS addresses found)
+
+# Last.fm — last.fm
+# (no public DNS addresses found)
+
+# Лента — lenta.com
+# (no public DNS addresses found)
+
+# Лента — lenta.ru
+# (no public DNS addresses found)
+
+# LimeTorrents — limetorrents.lol
+2606:4700:3033::6815:138f/128
+2606:4700:3033::ac43:ba7c/128
+
+# LINE — line.me
+# (no public DNS addresses found)
+
+# LinkedIn — linkedin.com
+2600:1901:0:d5ad::/128
+
+# Linode — linode.com
+2600:1408:5400:35::17ca:e6de/128
+2600:1408:5400:35::17ca:e6e4/128
+
+# Магнит — magnit.ru
+# (no public DNS addresses found)
+
+# Mail.ru — bk.ru
+# (no public DNS addresses found)
+
+# Mail.ru — inbox.ru
+# (no public DNS addresses found)
+
+# Mail.ru — list.ru
+# (no public DNS addresses found)
+
+# Mail.ru — mail.ru
+2a00:1148:9100:b000::1/128
+2a00:b4c0:9100:b000::1/128
+2a14:25c0:9100:b000::1/128
+
+# Malwarebytes — malwarebytes.com
+# (no public DNS addresses found)
+
+# Мать и дитя — mdclinics.ru
+# (no public DNS addresses found)
+
+# MAX — max.ru
+# (no public DNS addresses found)
+
+# МЧС — mchs.gov.ru
+# (no public DNS addresses found)
+
+# MediaFire — mediafire.com
+# (no public DNS addresses found)
+
+# Медси — medsi.ru
+# (no public DNS addresses found)
+
+# Meduza — meduza.io
+2606:4700::6812:14f/128
+2606:4700::6812:4f/128
+
+# MEGA — mega.nz
+2a0b:e46:1:144::5/128
+2a0b:e46:1:145::5/128
+
+# МегаФон — megafon.ru
+# (no public DNS addresses found)
+
+# Мегамаркет — megamarket.ru
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.com
+2603:1061:14:75::1/128
+
+# Microsoft — office.com
+2620:1ec:a92::156/128
+
+# Microsoft — windowsupdate.com
+# (no public DNS addresses found)
+
+# Microsoft Azure — azure.com
+# (no public DNS addresses found)
+
+# Microsoft Azure — azure.microsoft.com
+2600:1408:c400:f8a::439b/128
+2600:1408:c400:f95::439b/128
+
+# Midjourney — midjourney.com
+2606:4700:440a::6812:21d9/128
+2606:4700:440c::ac40:9a27/128
+
+# Minecraft — minecraft.net
+# (no public DNS addresses found)
+
+# Мир — mironline.ru
+# (no public DNS addresses found)
+
+# Mistral AI — mistral.ai
+2606:4700:7::2c3/128
+2a06:98c1:58::2c3/128
+
+# Mixcloud — mixcloud.com
+2606:4700:10::6814:424/128
+2606:4700:10::6814:524/128
+
+# Modrinth — modrinth.com
+2606:4700::6812:1623/128
+2606:4700::6812:1723/128
+
+# Mozilla — firefox.com
+2600:1901:0:c197::/128
+
+# Mozilla — mozilla.org
+2600:1901:0:c197::/128
+
+# МТС — mts.ru
+# (no public DNS addresses found)
+
+# MTS Web Services — mws.ru
+# (no public DNS addresses found)
+
+# МВД РФ — xn--b1aew.xn--p1ai
+# (no public DNS addresses found)
+
+# Netflix — netflix.com
+2a00:86c0:2042::1/128
+2a00:86c0:2043::1/128
+
+# Netlify — netlify.com
+2600:1f18:16e:df01::1f5/128
+2600:1f18:16e:df01::1f6/128
+
+# Нетология — netology.ru
+# (no public DNS addresses found)
+
+# Nexus Mods — nexusmods.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.com
+# (no public DNS addresses found)
+
+# npm — npmjs.com
+2606:4700::6811:8675/128
+2606:4700::6811:8775/128
+
+# НСПК — nspk.ru
+# (no public DNS addresses found)
+
+# Nyaa — nyaa.si
+# (no public DNS addresses found)
+
+# Облако Mail.ru — cloud.mail.ru
+# (no public DNS addresses found)
+
+# Одноклассники — ok.ru
+# (no public DNS addresses found)
+
+# Окко — okko.tv
+# (no public DNS addresses found)
+
+# OneDrive — onedrive.live.com
+# (no public DNS addresses found)
+
+# OneDrive — sharepoint.com
+# (no public DNS addresses found)
+
+# OnlyFans — onlyfans.com
+# (no public DNS addresses found)
+
+# Outlook — outlook.com
+# (no public DNS addresses found)
+
+# Outlook — outlook.office.com
+2603:1036:207:45c::2/128
+2603:1036:302:4157::2/128
+2603:1036:302:415b::2/128
+2603:1036:302:4833::2/128
+2603:1036:302:4846::2/128
+2603:1036:302:505c::2/128
+2603:1036:302:505e::2/128
+2603:1036:302:5062::2/128
+
+# OVHcloud — ovh.com
+# (no public DNS addresses found)
+
+# OVHcloud — ovhcloud.com
+# (no public DNS addresses found)
+
+# Ozon — ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — ozone.ru
+# (no public DNS addresses found)
+
+# Ozon — ozonusercontent.com
+# (no public DNS addresses found)
+
+# PayPal — paypal.com
+# (no public DNS addresses found)
+
+# Perplexity — perplexity.ai
+2606:4700::6812:1a30/128
+2606:4700::6812:1b30/128
+
+# Pinnacle — pinnacle.com
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.com
+# (no public DNS addresses found)
+
+# Pixeldrain — pixeldrain.com
+2401:3bc0:1001:2::1/128
+2401:3bc0:1001:3::1/128
+
+# PlayStation — playstation.com
+# (no public DNS addresses found)
+
+# PlayStation — sony.com
+# (no public DNS addresses found)
+
+# Почта России — pochta.ru
+# (no public DNS addresses found)
+
+# PokerStars — pokerstars.com
+# (no public DNS addresses found)
+
+# Pornhub — pornhub.com
+# (no public DNS addresses found)
+
+# Правительство РФ — government.ru
+# (no public DNS addresses found)
+
+# PREMIER — premier.one
+# (no public DNS addresses found)
+
+# Президент России — kremlin.ru
+# (no public DNS addresses found)
+
+# Prime Video — primevideo.com
+# (no public DNS addresses found)
+
+# Proton Mail — proton.me
+# (no public DNS addresses found)
+
+# Proton Mail — protonmail.com
+# (no public DNS addresses found)
+
+# ПСБ — psbank.ru
+# (no public DNS addresses found)
+
+# Пятёрочка — 5ka.ru
+# (no public DNS addresses found)
+
+# Пятёрочка — x5.ru
+# (no public DNS addresses found)
+
+# PyPI — pypi.org
+2a04:4e42:200::223/128
+2a04:4e42:400::223/128
+2a04:4e42:600::223/128
+2a04:4e42::223/128
+
+# Qwen — qwen.ai
+# (no public DNS addresses found)
+
+# Рамблер — rambler.ru
+# (no public DNS addresses found)
+
+# РБК — rbc.ru
+# (no public DNS addresses found)
+
+# Reddit — reddit.com
+2a04:4e42:200::396/128
+2a04:4e42:400::396/128
+2a04:4e42:600::396/128
+2a04:4e42::396/128
+
+# RedTube — redtube.com
+# (no public DNS addresses found)
+
+# Render — render.com
+# (no public DNS addresses found)
+
+# Replicate — replicate.com
+2606:4700::6812:23c/128
+2606:4700::6812:33c/128
+
+# Reuters — reuters.com
+# (no public DNS addresses found)
+
+# Revolut — revolut.com
+# (no public DNS addresses found)
+
+# РИА Новости — ria.ru
+# (no public DNS addresses found)
+
+# Riot Games — leagueoflegends.com
+# (no public DNS addresses found)
+
+# Riot Games — riotgames.com
+# (no public DNS addresses found)
+
+# Roblox — roblox.com
+# (no public DNS addresses found)
+
+# Росреестр — rosreestr.gov.ru
+# (no public DNS addresses found)
+
+# Ростелеком — rostelecom.ru
+# (no public DNS addresses found)
+
+# Ростелеком — rt.ru
+# (no public DNS addresses found)
+
+# Rumble — rumble.com
+# (no public DNS addresses found)
+
+# RuStore — rustore.ru
+# (no public DNS addresses found)
+
+# RuTor — rutor.info
+# (no public DNS addresses found)
+
+# RuTracker — rutracker.org
+2606:4700:3035::6815:2027/128
+2606:4700:3037::ac43:b6c4/128
+
+# Rutube — rutube.ru
+# (no public DNS addresses found)
+
+# РЖД — rzd.ru
+# (no public DNS addresses found)
+
+# Самокат — samokat.ru
+# (no public DNS addresses found)
+
+# Сбер — sber.ru
+# (no public DNS addresses found)
+
+# Сбер — sberbank.ru
+# (no public DNS addresses found)
+
+# СберМобайл — sbermobile.ru
+# (no public DNS addresses found)
+
+# СБП — sbp.nspk.ru
+# (no public DNS addresses found)
+
+# СДЭК — cdek.ru
+# (no public DNS addresses found)
+
+# Seansovar — seansovar.com
+# (no public DNS addresses found)
+
+# Selectel — selectel.ru
+2a00:ab00:2000:2::1/128
+
+# Send Anywhere — send-anywhere.com
+# (no public DNS addresses found)
+
+# Signal — signal.org
+2606:4700::6812:a2f/128
+2606:4700::6812:b2f/128
+
+# Ситидрайв — citydrive.ru
+# (no public DNS addresses found)
+
+# Skillbox — skillbox.ru
+# (no public DNS addresses found)
+
+# Skype — skype.com
+2603:1010:3:3::5b/128
+2603:1020:201:10::10f/128
+2603:1030:20e:3::23c/128
+2603:1030:b:3::152/128
+2603:1030:c02:8::14/128
+
+# Snapchat — snapchat.com
+# (no public DNS addresses found)
+
+# SoundCloud — soundcloud.com
+# (no public DNS addresses found)
+
+# SourceForge — sourceforge.net
+2606:4700::6812:c95/128
+2606:4700::6812:d95/128
+
+# Совет Федерации — council.gov.ru
+# (no public DNS addresses found)
+
+# Спортмастер — sportmaster.ru
+# (no public DNS addresses found)
+
+# Spotify — scdn.co
+# (no public DNS addresses found)
+
+# Spotify — spotify.com
+2600:1901:1:7c5::/128
+
+# Stack Overflow — stackexchange.com
+# (no public DNS addresses found)
+
+# Stack Overflow — stackoverflow.com
+# (no public DNS addresses found)
+
+# Stake — stake.com
+# (no public DNS addresses found)
+
+# Steam — steamcommunity.com
+# (no public DNS addresses found)
+
+# Steam — steampowered.com
+# (no public DNS addresses found)
+
+# Steam — steamstatic.com
+# (no public DNS addresses found)
+
+# Stepik — stepik.org
+# (no public DNS addresses found)
+
+# Stripe — stripe.com
+# (no public DNS addresses found)
+
+# SwissTransfer — swisstransfer.com
+# (no public DNS addresses found)
+
+# Т-Банк — tbank.ru
+# (no public DNS addresses found)
+
+# Т-Банк — tinkoff.ru
+# (no public DNS addresses found)
+
+# Т2 — t2.ru
+# (no public DNS addresses found)
+
+# Т2 — tele2.ru
+# (no public DNS addresses found)
+
+# ТАСС — tass.ru
+# (no public DNS addresses found)
+
+# Telegram — t.me
+2001:67c:4e8:f004::9/128
+
+# Telegram — telegra.ph
+# (no public DNS addresses found)
+
+# Telegram — telegram.me
+2001:67c:4e8:f004::9/128
+
+# Telegram — telegram.org
+2001:67c:4e8:f004::9/128
+
+# Тензор / СБИС — sbis.ru
+# (no public DNS addresses found)
+
+# Тензор / СБИС — tensor.ru
+# (no public DNS addresses found)
+
+# The Guardian — theguardian.com
+2a04:4e42:200::367/128
+2a04:4e42:400::367/128
+2a04:4e42:600::367/128
+2a04:4e42::367/128
+
+# The Pirate Bay — thepiratebay.org
+2606:4700:7::a29f:8806/128
+2606:4700:7::a29f:8906/128
+
+# Threads — threads.net
+2a03:2880:f373:c0:face:b00c:0:43fe/128
+
+# Tidal — tidal.com
+# (no public DNS addresses found)
+
+# TikTok — tiktok.com
+# (no public DNS addresses found)
+
+# TorrentGalaxy — torrentgalaxy.to
+# (no public DNS addresses found)
+
+# Tumblr — tumblr.com
+# (no public DNS addresses found)
+
+# Tuta — tuta.com
+2a10:e000:1::12/128
+
+# Туту — tutu.ru
+# (no public DNS addresses found)
+
+# Twitch — jtvnw.net
+# (no public DNS addresses found)
+
+# Twitch — twitch.tv
+# (no public DNS addresses found)
+
+# Ubisoft — ubisoft.com
+# (no public DNS addresses found)
+
+# Ubuntu — archive.ubuntu.com
+2620:2d:4000:1::101/128
+2620:2d:4000:1::102/128
+2620:2d:4000:1::103/128
+2620:2d:4002:1::101/128
+2620:2d:4002:1::102/128
+2620:2d:4002:1::103/128
+2a06:bc80:0:1000::16/128
+2a06:bc80:0:1000::17/128
+2a06:bc80:0:1000::18/128
+
+# Ubuntu — ubuntu.com
+2620:2d:4000:1::26/128
+2620:2d:4000:1::27/128
+2620:2d:4000:1::28/128
+
+# Vercel — vercel.com
+# (no public DNS addresses found)
+
+# Viber — viber.com
+2600:1f18:2092:1a04:3006:92dd:951a:bb07/128
+2600:1f18:2092:1a05:7f26:df99:4:bfa5/128
+
+# Vimeo — vimeo.com
+# (no public DNS addresses found)
+
+# VK — userapi.com
+# (no public DNS addresses found)
+
+# VK — vk.com
+# (no public DNS addresses found)
+
+# VK — vk.ru
+# (no public DNS addresses found)
+
+# VK — vkuserlive.net
+# (no public DNS addresses found)
+
+# VK Cloud — cloud.vk.com
+# (no public DNS addresses found)
+
+# VK Мессенджер — vk.me
+# (no public DNS addresses found)
+
+# VK Видео — vkvideo.ru
+# (no public DNS addresses found)
+
+# ВкусВилл — vkusvill.ru
+# (no public DNS addresses found)
+
+# ВТБ — vtb.ru
+# (no public DNS addresses found)
+
+# Vultr — vultr.com
+2001:19f0:200:4d1e::5663/128
+
+# WeChat — wechat.com
+# (no public DNS addresses found)
+
+# WeChat — weixin.qq.com
+240e:978:d04:3003::27/128
+240e:e1:aa00:1001::a/128
+240e:e1:aa00:101a::48/128
+240e:e9:6003:23b::25/128
+
+# WeTransfer — wetransfer.com
+# (no public DNS addresses found)
+
+# WhatsApp — wa.me
+2a03:2880:f35a:120:face:b00c:0:167/128
+
+# WhatsApp — whatsapp.com
+2a03:2880:f35a:120:face:b00c:0:167/128
+
+# Wikipedia — wikipedia.org
+2620:0:860:ed1a::1/128
+
+# Wildberries — wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — wildberries.ru
+2a03:720::173:2/128
+
+# Wink — wink.ru
+# (no public DNS addresses found)
+
+# Wise — wise.com
+# (no public DNS addresses found)
+
+# X — twitter.com
+# (no public DNS addresses found)
+
+# X — x.com
+# (no public DNS addresses found)
+
+# Xbox — xbox.com
+2603:1010:3:3::5b/128
+2603:1020:201:10::10f/128
+2603:1030:20e:3::23c/128
+2603:1030:b:3::152/128
+2603:1030:c02:8::14/128
+
+# Xbox — xboxlive.com
+# (no public DNS addresses found)
+
+# XHamster — xhamster.com
+2606:4700::6810:351/128
+2606:4700::6810:451/128
+
+# XNXX — xnxx.com
+# (no public DNS addresses found)
+
+# XVideos — xvideos.com
+# (no public DNS addresses found)
+
+# Yahoo — yahoo.com
 2001:4998:124:1507::f000/128
 2001:4998:124:1507::f001/128
 2001:4998:24:120d::1:0/128
 2001:4998:24:120d::1:1/128
 2001:4998:44:3507::8000/128
 2001:4998:44:3507::8001/128
-2001:67c:4e8:f004::9/128
-2401:1d80:321c:1:0:bbc:1:df7c/128
-2401:1d80:321c:2:0:bbc:1:df7c/128
-2401:1d80:321c::bbc:1:df7c/128
-2401:3bc0:1001:2::1/128
-2401:3bc0:1001:3::1/128
-240e:978:d04:3003::27/128
-240e:e1:aa00:1001::a/128
-240e:e1:aa00:101a::48/128
-240e:e9:6003:23b::25/128
-2600:1404:ec00:27::17df:f013/128
-2600:1404:ec00:27::17df:f015/128
-2600:1407:e800:b81::2a1/128
-2600:1407:e800:b87::2a1/128
-2600:1407:e800:b8a::2a1/128
-2600:1407:e800:b8d::2a1/128
-2600:1407:e800:b97::2a1/128
-2600:1418:a000:15::1726:6db5/128
-2600:1418:a000:15::1726:6dbf/128
-2600:1418:a000:389::439b/128
-2600:1418:a000:3a8::439b/128
-2600:1418:a000:589::1127/128
-2600:1418:a000:58a::1127/128
-2600:1901:0:84f4::80/128
-2600:1901:0:c197::/128
-2600:1901:0:d5ad::/128
-2600:1901:1:7c5::/128
-2600:1f14:fad:5c02:eb33:e938:35cc:965b/128
-2600:1f16:1a4:a001::1f5/128
-2600:1f16:1a4:a001::1f6/128
-2600:1f18:2092:1a04:3006:92dd:951a:bb07/128
-2600:1f18:2092:1a05:7f26:df99:4:bfa5/128
-2600:1f18:568d:172c:c09d:4e53:a997:e8a/128
-2600:1f18:568d:1784:11d9:5f7d:2ffd:94d7/128
-2600:9000:212f:3600:1c:a813:8500:93a1/128
-2600:9000:212f:5a00:1c:a813:8500:93a1/128
-2600:9000:212f:6800:1c:a813:8500:93a1/128
-2600:9000:212f:7e00:1c:a813:8500:93a1/128
-2600:9000:212f:8200:1c:a813:8500:93a1/128
-2600:9000:212f:e00:1c:a813:8500:93a1/128
-2600:9000:212f:ee00:1c:a813:8500:93a1/128
-2600:9000:212f:f400:1c:a813:8500:93a1/128
-2600:9000:27da:3800:1b:5d9a:8ad6:8f61/128
-2600:9000:27da:4000:1b:5d9a:8ad6:8f61/128
-2600:9000:27da:6c00:1b:5d9a:8ad6:8f61/128
-2600:9000:27da:8200:1b:5d9a:8ad6:8f61/128
-2600:9000:27da:8a00:1b:5d9a:8ad6:8f61/128
-2600:9000:27da:d400:1b:5d9a:8ad6:8f61/128
-2600:9000:27da:ec00:1b:5d9a:8ad6:8f61/128
-2600:9000:27da:fe00:1b:5d9a:8ad6:8f61/128
-2600:9000:288b:1800:17:b174:6d00:93a1/128
-2600:9000:288b:2e00:17:b174:6d00:93a1/128
-2600:9000:288b:6400:17:b174:6d00:93a1/128
-2600:9000:288b:9000:17:b174:6d00:93a1/128
-2600:9000:288b:a000:17:b174:6d00:93a1/128
-2600:9000:288b:b800:17:b174:6d00:93a1/128
-2600:9000:288b:e800:17:b174:6d00:93a1/128
-2600:9000:288b:ee00:17:b174:6d00:93a1/128
-2603:1010:3:3::5b/128
-2603:1020:201:10::10f/128
-2603:1030:20e:3::23c/128
-2603:1030:b:3::152/128
-2603:1030:c02:8::14/128
-2603:1036:301:300f::2/128
-2603:1036:301:3042::2/128
-2603:1036:301:30a4::2/128
-2603:1036:301:30a5::2/128
-2603:1036:301:4015::2/128
-2603:1036:5:441::2/128
-2603:1036:5:444::2/128
-2603:1036:5:451::2/128
-2603:1061:14:1c2::1/128
-2604:1580:fe00:0:dead:beef:cafe:fed1/128
-2604:cac0:a104:d::3/128
-2605:bc80:3010:600:dead:beef:cafe:fed9/128
-2606:4700:10::6814:424/128
-2606:4700:10::6814:524/128
-2606:4700:3030::6815:319d/128
-2606:4700:3030::ac43:bc43/128
-2606:4700:3031::ac43:d2b0/128
-2606:4700:3033::6815:138f/128
-2606:4700:3033::6815:28c1/128
-2606:4700:3033::ac43:ba7c/128
-2606:4700:3034::6815:45ae/128
-2606:4700:3035::6815:2027/128
-2606:4700:3036::ac43:bf30/128
-2606:4700:3037::ac43:b6c4/128
-2606:4700:4403::ac40:9045/128
-2606:4700:4408::6812:2940/128
-2606:4700:4408::ac40:9bd1/128
-2606:4700:440a::6812:21d9/128
-2606:4700:440c::ac40:9a27/128
-2606:4700:4b::a29f:eb7a/128
-2606:4700:4b::ac40:eb85/128
-2606:4700:7::2c3/128
-2606:4700:7::a29f:8806/128
-2606:4700:7::a29f:8906/128
-2606:4700:90:0:f22e:fbec:5bed:a9b9/128
-2606:4700::6810:1608/128
-2606:4700::6810:1708/128
-2606:4700::6810:351/128
-2606:4700::6810:451/128
-2606:4700::6810:84e5/128
-2606:4700::6810:85e5/128
-2606:4700::6810:f8f9/128
-2606:4700::6810:f9f9/128
-2606:4700::6811:8675/128
-2606:4700::6811:8775/128
-2606:4700::6812:1250/128
-2606:4700::6812:1350/128
-2606:4700::6812:14f/128
-2606:4700::6812:1623/128
-2606:4700::6812:1723/128
-2606:4700::6812:1a30/128
-2606:4700::6812:1b30/128
-2606:4700::6812:1c1d/128
-2606:4700::6812:1cea/128
-2606:4700::6812:1d1d/128
-2606:4700::6812:1dea/128
-2606:4700::6812:23c/128
-2606:4700::6812:33c/128
-2606:4700::6812:4f/128
-2606:4700::6812:a2f/128
-2606:4700::6812:b2f/128
-2606:4700::6812:c95/128
-2606:4700::6812:d95/128
-2606:4700::6813:ad44/128
-2606:4700::6813:ae44/128
-2606:f640:6000:651::7/128
-2606:f640:6000:651::8/128
-2607:6bc0::10/128
-2607:f8b0:4001:c00::63/128
-2607:f8b0:4001:c00::64/128
-2607:f8b0:4001:c00::65/128
-2607:f8b0:4001:c00::66/128
-2607:f8b0:4001:c00::67/128
-2607:f8b0:4001:c00::69/128
-2607:f8b0:4001:c00::71/128
-2607:f8b0:4001:c00::8a/128
-2607:f8b0:4001:c00::8b/128
-2607:f8b0:4001:c00::93/128
-2607:f8b0:4001:c05::5e/128
-2607:f8b0:4001:c05::78/128
-2607:f8b0:4001:c08::11/128
-2607:f8b0:4001:c08::12/128
-2607:f8b0:4001:c08::13/128
-2607:f8b0:4001:c08::53/128
-2607:f8b0:4001:c1e::5b/128
-2607:f8b0:4001:c1e::5d/128
-2607:f8b0:4001:c1e::64/128
-2607:f8b0:4001:c1e::65/128
-2607:f8b0:4001:c1e::71/128
-2607:f8b0:4001:c1e::88/128
-2607:f8b0:4001:c1e::8b/128
-2607:f8b0:4001:c1e::be/128
-2607:f8b0:4001:c66::63/128
-2607:f8b0:4001:c66::67/128
-2607:f8b0:4001:c66::6a/128
-2607:f8b0:4001:c66::93/128
-2607:f8b0:4001:c6e::5b/128
-2607:f8b0:4001:c6e::5d/128
-2607:f8b0:4001:c6e::88/128
-2607:f8b0:4001:c6e::be/128
-2607:f8b0:4001:c70::5b/128
-2607:f8b0:4001:c70::5d/128
-2607:f8b0:4001:c70::64/128
-2607:f8b0:4001:c70::65/128
-2607:f8b0:4001:c70::66/128
-2607:f8b0:4001:c70::88/128
-2607:f8b0:4001:c70::8b/128
-2607:f8b0:4001:c70::be/128
-2607:f8b0:4001:c74::64/128
-2607:f8b0:4001:c74::66/128
-2607:f8b0:4001:c74::8a/128
-2607:f8b0:4001:c74::8b/128
-2620:0:860:ed1a::1/128
-2620:100:6040:18::a27d:f812/128
-2620:12a:8000::4/128
-2620:12a:8001::4/128
-2620:149:af0::10/128
-2620:1ec:33:1::10/128
-2620:1ec:33::10/128
-2620:1ec:a92::156/128
-2620:2d:4000:1::101/128
-2620:2d:4000:1::102/128
-2620:2d:4000:1::103/128
-2620:2d:4000:1::26/128
-2620:2d:4000:1::27/128
-2620:2d:4000:1::28/128
-2620:2d:4002:1::101/128
-2620:2d:4002:1::102/128
-2620:2d:4002:1::103/128
-2620:52:6:1121:bead:cafe:feed:fed5/128
-2620:52:6:1121:bead:cafe:feed:fed6/128
-2620:52:6:1161::36/128
-2620:52:6:1161::37/128
-2a00:1148:9100:b000::1/128
-2a00:86c0:2042::1/128
-2a00:86c0:2043::1/128
-2a00:ab00:2000:2::1/128
-2a00:b4c0:9100:b000::1/128
-2a00:b4c0:9100:b000::1:b0/128
-2a01:4f8:0:1::7:4/128
-2a02:6b8:23::225/128
-2a02:6b8::186/128
-2a02:6b8::1f3/128
-2a02:6b8::2:22/128
+
+# Яндекс — ya.ru
 2a02:6b8::2:242/128
-2a02:6b8::2:50/128
-2a02:6b8::339/128
-2a02:6b8::473/128
-2a02:6b8::a4/128
+
+# Яндекс — yandex.com
 2a02:6b8:a::a/128
-2a03:2880:f31e:c0:face:b00c:0:43fe/128
-2a03:2880:f373:120:face:b00c:0:167/128
-2a03:2880:f373:1:face:b00c:0:25de/128
-2a03:2880:f373:22:face:b00c:0:4420/128
-2a03:720::173:2/128
-2a04:4e42:200::223/128
-2a04:4e42:200::313/128
-2a04:4e42:200::367/128
-2a04:4e42:200::396/128
-2a04:4e42:200::644/128
-2a04:4e42:200::649/128
-2a04:4e42:200::81/128
-2a04:4e42:400::223/128
-2a04:4e42:400::313/128
-2a04:4e42:400::367/128
-2a04:4e42:400::396/128
-2a04:4e42:400::644/128
-2a04:4e42:400::649/128
-2a04:4e42:400::81/128
-2a04:4e42:600::223/128
-2a04:4e42:600::313/128
-2a04:4e42:600::367/128
-2a04:4e42:600::396/128
-2a04:4e42:600::644/128
-2a04:4e42:600::649/128
-2a04:4e42:600::81/128
-2a04:4e42:8a::644/128
-2a04:4e42::223/128
-2a04:4e42::313/128
-2a04:4e42::367/128
-2a04:4e42::396/128
-2a04:4e42::644/128
-2a04:4e42::649/128
-2a04:4e42::81/128
-2a06:98c1:3101::6812:202f/128
-2a06:98c1:3102::ac40:98f1/128
-2a06:98c1:3103::ac40:92c0/128
-2a06:98c1:3108::6812:2bbb/128
-2a06:98c1:310d::6812:230f/128
-2a06:98c1:58::2c3/128
-2a06:bc80:0:1000::16/128
-2a06:bc80:0:1000::17/128
-2a06:bc80:0:1000::18/128
-2a0a:4580:103f:c0de::1/128
-2a0b:e46:1:144::5/128
-2a0b:e46:1:145::5/128
-2a10:e000:1::12/128
-2a14:25c0:9100:b000::1/128
+
+# Яндекс — yandex.ru
+2a02:6b8:a::a/128
+
+# Яндекс — yastatic.net
+2a02:6b8:23::225/128
+
+# Yandex Cloud — yandex.cloud
+2a02:6b8::339/128
+
+# Яндекс Диск — disk.yandex.ru
+2a02:6b8::2:50/128
+
+# Яндекс Go — go.yandex
+2a02:6b8::1f3/128
+
+# Яндекс Маркет — market.yandex.ru
+2a02:6b8::2:22/128
+
+# Яндекс Музыка — music.yandex.ru
+2a02:6b8::186/128
+
+# Яндекс Почта — mail.yandex.ru
+2a02:6b8::a4/128
+
+# YouPorn — youporn.com
+# (no public DNS addresses found)
+
+# YouTube — youtu.be
+2607:f8b0:4004:c21::5b/128
+2607:f8b0:4004:c21::5d/128
+2607:f8b0:4004:c21::88/128
+2607:f8b0:4004:c21::be/128
+
+# YouTube — youtube-nocookie.com
+2607:f8b0:4004:c29::5b/128
+2607:f8b0:4004:c29::5d/128
+2607:f8b0:4004:c29::88/128
+2607:f8b0:4004:c29::be/128
+
+# YouTube — youtube.com
+2607:f8b0:4004:c2f::5b/128
+2607:f8b0:4004:c2f::5d/128
+2607:f8b0:4004:c2f::88/128
+2607:f8b0:4004:c2f::be/128
+
+# YouTube Music — music.youtube.com
+2001:4860:4826:400::/128
+2001:4860:4827:400::/128
+2001:4860:4828:400::/128
+2001:4860:4829:400::/128
+2001:4860:482a:400::/128
+2001:4860:482b:400::/128
+2001:4860:482c:400::/128
+2001:4860:482d:400::/128
+
+# YTS — yts.mx
+# (no public DNS addresses found)
+
+# ЮMoney — yoomoney.ru
+# (no public DNS addresses found)
+
+# Zoho — zoho.com
+# (no public DNS addresses found)
+
+# Zona — zona.ru
+# (no public DNS addresses found)
+
+# Звук — zvuk.com
+# (no public DNS addresses found)

@@ -1,5 +1,8 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2606:4700::6812:1250/128
-2606:4700::6812:1350/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Grok — grok.com
 2606:4700::6812:1cea/128
 2606:4700::6812:1dea/128
+
+# Grok — x.ai
+2606:4700::6812:1250/128
+2606:4700::6812:1350/128

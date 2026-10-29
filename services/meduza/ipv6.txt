@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Meduza
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Meduza (meduza)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Meduza — meduza.io
 2606:4700::6812:14f
 2606:4700::6812:4f

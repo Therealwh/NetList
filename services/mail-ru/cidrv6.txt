@@ -1,4 +1,14 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Mail.ru — bk.ru
+# (no public DNS addresses found)
+
+# Mail.ru — inbox.ru
+# (no public DNS addresses found)
+
+# Mail.ru — list.ru
+# (no public DNS addresses found)
+
+# Mail.ru — mail.ru
 2a00:1148:9100:b000::1/128
 2a00:b4c0:9100:b000::1/128
 2a14:25c0:9100:b000::1/128

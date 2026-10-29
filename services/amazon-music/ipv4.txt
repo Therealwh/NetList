@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Amazon Music
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-3.167.169.67
+# DNS-derived IP snapshot for Amazon Music (amazon-music)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Amazon Music — music.amazon.com
+3.167.105.142

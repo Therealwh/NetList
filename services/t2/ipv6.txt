@@ -1,3 +1,8 @@
-# NetList DNS snapshot for Т2
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Т2 (t2)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Т2 — t2.ru
+# (no public DNS addresses found)
+
+# Т2 — tele2.ru
+# (no public DNS addresses found)

@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Betfair
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Betfair (betfair)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Betfair — betfair.com
 104.19.153.16
 104.19.154.16

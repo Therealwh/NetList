@@ -1,7 +1,8 @@
-# NetList DNS snapshot for JetBrains
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-3.162.163.42
-3.162.163.49
-3.162.163.79
-3.162.163.99
+# DNS-derived IP snapshot for JetBrains (jetbrains)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# JetBrains — jetbrains.com
+108.138.64.122
+108.138.64.30
+108.138.64.70
+108.138.64.89

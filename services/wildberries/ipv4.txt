@@ -1,7 +1,10 @@
-# NetList DNS snapshot for Wildberries
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Wildberries (wildberries)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Wildberries — wb.ru
 185.138.253.1
 185.138.255.1
-185.62.202.2
 213.184.155.142
+
+# Wildberries — wildberries.ru
+185.62.202.2

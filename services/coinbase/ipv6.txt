@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Coinbase
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Coinbase (coinbase)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Coinbase — coinbase.com
 2a06:98c1:3102::ac40:98f1
 2a06:98c1:310d::6812:230f

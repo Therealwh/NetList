@@ -1,3 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# X — twitter.com
 162.159.140.229/32
+
+# X — x.com
 172.66.0.227/32

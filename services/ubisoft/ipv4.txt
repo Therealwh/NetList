@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Ubisoft
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-18.238.132.103
-18.238.132.68
-18.238.132.71
-18.238.132.84
+# DNS-derived IP snapshot for Ubisoft (ubisoft)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Ubisoft — ubisoft.com
+18.67.76.106
+18.67.76.24
+18.67.76.67
+18.67.76.84

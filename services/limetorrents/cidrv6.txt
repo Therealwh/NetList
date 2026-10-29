@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# LimeTorrents — limetorrents.lol
 2606:4700:3033::6815:138f/128
 2606:4700:3033::ac43:ba7c/128

@@ -1,5 +1,8 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-104.16.132.229/32
-104.16.133.229/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Cloudflare — cloudflare-dns.com
 104.16.248.249/32
 104.16.249.249/32
+
+# Cloudflare — cloudflare.com
+104.16.132.229/32
+104.16.133.229/32

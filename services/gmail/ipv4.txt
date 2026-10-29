@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Gmail
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-173.194.64.17
-173.194.64.18
-173.194.64.19
-173.194.64.83
+# DNS-derived IP snapshot for Gmail (gmail)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Gmail — gmail.com
+172.253.122.17
+172.253.122.18
+172.253.122.19
+172.253.122.83

@@ -1,5 +1,8 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-104.18.18.80/32
-104.18.19.80/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Grok — grok.com
 104.18.28.234/32
 104.18.29.234/32
+
+# Grok — x.ai
+104.18.18.80/32
+104.18.19.80/32

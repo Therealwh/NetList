@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Pixeldrain — pixeldrain.com
 2401:3bc0:1001:2::1/128
 2401:3bc0:1001:3::1/128

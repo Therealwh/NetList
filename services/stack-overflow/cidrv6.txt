@@ -1,1 +1,6 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Stack Overflow — stackexchange.com
+# (no public DNS addresses found)
+
+# Stack Overflow — stackoverflow.com
+# (no public DNS addresses found)

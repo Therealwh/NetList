@@ -1,4 +1,5 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Yahoo — yahoo.com
 74.6.143.25/32
 74.6.143.26/32
 74.6.231.20/32

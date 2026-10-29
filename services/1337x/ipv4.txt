@@ -1,5 +1,6 @@
-# NetList DNS snapshot for 1337x
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for 1337x (1337x)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# 1337x — 1337x.to
 104.21.40.193
 172.67.188.67

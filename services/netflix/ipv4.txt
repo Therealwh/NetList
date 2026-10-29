@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Netflix
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Netflix (netflix)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Netflix — netflix.com
 207.45.72.1
 207.45.73.1

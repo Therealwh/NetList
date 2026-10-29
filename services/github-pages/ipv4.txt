@@ -1,6 +1,7 @@
-# NetList DNS snapshot for GitHub Pages
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for GitHub Pages (github-pages)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# GitHub Pages — github.io
 185.199.108.153
 185.199.109.153
 185.199.110.153

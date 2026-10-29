@@ -1,6 +1,9 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Filmix — filmix.ac
 104.21.49.157/32
+172.67.191.48/32
+
+# Filmix — filmix.my
 104.26.12.146/32
 104.26.13.146/32
-172.67.191.48/32
 172.67.73.254/32

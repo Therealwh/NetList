@@ -1,3 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# OVHcloud — ovh.com
 198.27.92.1/32
+
+# OVHcloud — ovhcloud.com
 198.27.92.14/32

@@ -1,6 +1,7 @@
-# NetList DNS snapshot for VK Мессенджер
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for VK Мессенджер (vk-messendzher)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# VK Мессенджер — vk.me
 87.240.129.133
 87.240.132.67
 87.240.132.72

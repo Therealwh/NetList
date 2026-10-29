@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Yandex Cloud
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Yandex Cloud (yandex-cloud)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Yandex Cloud — yandex.cloud
 2a02:6b8::339

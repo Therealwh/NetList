@@ -1,5 +1,8 @@
-# NetList DNS snapshot for Proton Mail
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-185.70.42.12
+# DNS-derived IP snapshot for Proton Mail (proton-mail)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Proton Mail — proton.me
 185.70.42.45
+
+# Proton Mail — protonmail.com
+185.70.42.12

@@ -1,2 +1,6 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Wildberries — wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — wildberries.ru
 2a03:720::173:2/128

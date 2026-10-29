@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2600:1f16:1a4:a001::1f5/128
-2600:1f16:1a4:a001::1f6/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Netlify — netlify.com
+2600:1f18:16e:df01::1f5/128
+2600:1f18:16e:df01::1f6/128

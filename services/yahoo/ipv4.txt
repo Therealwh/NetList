@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Yahoo
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Yahoo (yahoo)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Yahoo — yahoo.com
 74.6.143.25
 74.6.143.26
 74.6.231.20

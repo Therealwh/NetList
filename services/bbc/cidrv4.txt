@@ -1,4 +1,11 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# BBC — bbc.co.uk
+151.101.0.81/32
+151.101.128.81/32
+151.101.192.81/32
+151.101.64.81/32
+
+# BBC — bbc.com
 151.101.0.81/32
 151.101.128.81/32
 151.101.192.81/32

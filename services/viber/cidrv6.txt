@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Viber — viber.com
 2600:1f18:2092:1a04:3006:92dd:951a:bb07/128
 2600:1f18:2092:1a05:7f26:df99:4:bfa5/128

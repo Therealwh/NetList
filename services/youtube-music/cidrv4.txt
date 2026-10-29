@@ -1,4 +1,5 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# YouTube Music — music.youtube.com
 142.251.150.4/32
 142.251.151.4/32
 142.251.152.4/32

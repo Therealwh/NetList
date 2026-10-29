@@ -1,12 +1,19 @@
-# NetList DNS snapshot for Mail.ru
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-185.180.201.1
+# DNS-derived IP snapshot for Mail.ru (mail-ru)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Mail.ru — bk.ru
+95.163.50.30
+
+# Mail.ru — inbox.ru
+89.221.239.2
+90.156.232.41
+
+# Mail.ru — list.ru
 217.69.139.51
 217.69.139.52
 217.69.139.53
+
+# Mail.ru — mail.ru
+185.180.201.1
 89.221.239.1
-89.221.239.2
 90.156.232.4
-90.156.232.41
-95.163.50.30

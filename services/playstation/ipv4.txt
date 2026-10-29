@@ -1,7 +1,10 @@
-# NetList DNS snapshot for PlayStation
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-44.218.59.236
-52.6.127.76
+# DNS-derived IP snapshot for PlayStation (playstation)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# PlayStation — playstation.com
 54.183.13.56
 54.215.24.50
+
+# PlayStation — sony.com
+44.218.59.236
+52.6.127.76

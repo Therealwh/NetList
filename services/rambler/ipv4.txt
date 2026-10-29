@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Рамблер
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Рамблер (rambler)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Рамблер — rambler.ru
 81.19.82.0
 81.19.82.1
 81.19.82.2

@@ -1,5 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-13.226.53.18/32
-13.226.53.29/32
-13.226.53.89/32
-13.226.53.96/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Coursera — coursera.org
+13.226.238.108/32
+13.226.238.21/32
+13.226.238.65/32
+13.226.238.8/32

@@ -1,5 +1,6 @@
-# NetList DNS snapshot for Midjourney
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Midjourney (midjourney)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Midjourney — midjourney.com
 2606:4700:440a::6812:21d9
 2606:4700:440c::ac40:9a27

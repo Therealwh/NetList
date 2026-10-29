@@ -1,5 +1,6 @@
-# NetList DNS snapshot for SourceForge
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for SourceForge (sourceforge)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# SourceForge — sourceforge.net
 2606:4700::6812:c95
 2606:4700::6812:d95

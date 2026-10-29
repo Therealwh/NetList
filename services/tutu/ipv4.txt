@@ -1,4 +1,5 @@
-# NetList DNS snapshot for Туту
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Туту (tutu)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Туту — tutu.ru
 178.248.234.61

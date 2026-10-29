@@ -1,3 +1,4 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# 1337x — 1337x.to
 2606:4700:3030::ac43:bc43/128
 2606:4700:3033::6815:28c1/128

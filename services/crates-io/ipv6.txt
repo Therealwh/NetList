@@ -1,6 +1,7 @@
-# NetList DNS snapshot for crates.io
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for crates.io (crates-io)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# crates.io — crates.io
 2a04:4e42:200::649
 2a04:4e42:400::649
 2a04:4e42:600::649

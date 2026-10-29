@@ -1,4 +1,8 @@
-# NetList DNS snapshot for Claude
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Claude (claude)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Claude — anthropic.com
+2607:6bc0::10
+
+# Claude — claude.ai
 2607:6bc0::10

@@ -1,8 +1,11 @@
-# NetList DNS snapshot for TikTok
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-23.220.103.18
-23.220.103.21
-23.220.103.22
-23.220.103.4
-23.220.103.5
+# DNS-derived IP snapshot for TikTok (tiktok)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# TikTok — tiktok.com
+23.202.230.197
+23.202.230.199
+23.202.230.207
+23.202.230.213
+23.202.230.223
+23.202.230.224
+23.202.230.225

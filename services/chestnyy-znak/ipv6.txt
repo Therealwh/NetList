@@ -1,3 +1,5 @@
-# NetList DNS snapshot for Честный знак
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Честный знак (chestnyy-znak)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Честный знак — xn--80ajghhoc2aj1c8b.xn--p1ai
+# (no public DNS addresses found)

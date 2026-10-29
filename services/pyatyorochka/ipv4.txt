@@ -1,5 +1,8 @@
-# NetList DNS snapshot for Пятёрочка
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-91.206.100.17
+# DNS-derived IP snapshot for Пятёрочка (pyatyorochka)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Пятёрочка — 5ka.ru
 91.221.164.42
+
+# Пятёрочка — x5.ru
+91.206.100.17

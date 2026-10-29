@@ -1,5 +1,9 @@
-# NetList DNS snapshot for Microsoft Azure
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2600:1418:a000:389::439b
-2600:1418:a000:3a8::439b
+# DNS-derived IP snapshot for Microsoft Azure (microsoft-azure)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Microsoft Azure — azure.com
+# (no public DNS addresses found)
+
+# Microsoft Azure — azure.microsoft.com
+2600:1408:c400:f8a::439b
+2600:1408:c400:f95::439b

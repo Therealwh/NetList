@@ -1,3 +1,7 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2600:1418:a000:389::439b/128
-2600:1418:a000:3a8::439b/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Microsoft Azure — azure.com
+# (no public DNS addresses found)
+
+# Microsoft Azure — azure.microsoft.com
+2600:1408:c400:f8a::439b/128
+2600:1408:c400:f95::439b/128

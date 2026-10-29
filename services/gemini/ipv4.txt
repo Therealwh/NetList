@@ -1,6 +1,15 @@
-# NetList DNS snapshot for Gemini
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Gemini (gemini)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Gemini — ai.google.dev
+192.178.155.100
+192.178.155.101
+192.178.155.102
+192.178.155.113
+192.178.155.138
+192.178.155.139
+
+# Gemini — gemini.google.com
 142.251.150.2
 142.251.151.2
 142.251.152.2
@@ -9,9 +18,3 @@
 142.251.155.2
 142.251.156.2
 142.251.157.2
-192.179.17.100
-192.179.17.101
-192.179.17.102
-192.179.17.113
-192.179.17.138
-192.179.17.139

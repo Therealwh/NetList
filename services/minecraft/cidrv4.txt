@@ -1,2 +1,3 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-150.171.110.194/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Minecraft — minecraft.net
+150.171.109.74/32

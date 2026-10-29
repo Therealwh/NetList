@@ -1,5 +1,8 @@
-# Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges.
-2606:4700:4403::ac40:9045/128
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# Docker Hub — docker.com
 2620:12a:8000::4/128
 2620:12a:8001::4/128
+
+# Docker Hub — hub.docker.com
+2606:4700:4403::ac40:9045/128
 2a06:98c1:3108::6812:2bbb/128

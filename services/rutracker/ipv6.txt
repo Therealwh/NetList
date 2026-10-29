@@ -1,5 +1,6 @@
-# NetList DNS snapshot for RuTracker
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for RuTracker (rutracker)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# RuTracker — rutracker.org
 2606:4700:3035::6815:2027
 2606:4700:3037::ac43:b6c4

@@ -1,7 +1,10 @@
-# NetList DNS snapshot for Cloudflare
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-2606:4700::6810:84e5
-2606:4700::6810:85e5
+# DNS-derived IP snapshot for Cloudflare (cloudflare)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Cloudflare — cloudflare-dns.com
 2606:4700::6810:f8f9
 2606:4700::6810:f9f9
+
+# Cloudflare — cloudflare.com
+2606:4700::6810:84e5
+2606:4700::6810:85e5

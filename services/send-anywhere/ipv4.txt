@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Send Anywhere
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-13.225.47.110
-13.225.47.32
-13.225.47.61
-13.225.47.68
+# DNS-derived IP snapshot for Send Anywhere (send-anywhere)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Send Anywhere — send-anywhere.com
+18.67.65.101
+18.67.65.42
+18.67.65.5
+18.67.65.60

@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Deezer
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-18.154.110.125
-18.154.110.44
-18.154.110.47
-18.154.110.51
+# DNS-derived IP snapshot for Deezer (deezer)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Deezer — deezer.com
+18.160.10.36
+18.160.10.39
+18.160.10.84
+18.160.10.94

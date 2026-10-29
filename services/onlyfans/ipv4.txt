@@ -1,5 +1,6 @@
-# NetList DNS snapshot for OnlyFans
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for OnlyFans (onlyfans)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# OnlyFans — onlyfans.com
 162.159.140.146
 172.66.0.144

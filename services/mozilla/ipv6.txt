@@ -1,4 +1,8 @@
-# NetList DNS snapshot for Mozilla
-# Only globally routable IPv6 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Mozilla (mozilla)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Mozilla — firefox.com
+2600:1901:0:c197::
+
+# Mozilla — mozilla.org
 2600:1901:0:c197::

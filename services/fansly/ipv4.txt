@@ -1,7 +1,8 @@
-# NetList DNS snapshot for Fansly
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
-65.8.27.123
-65.8.27.24
-65.8.27.52
-65.8.27.83
+# DNS-derived IP snapshot for Fansly (fansly)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Fansly — fansly.com
+52.85.193.39
+52.85.193.44
+52.85.193.62
+52.85.193.76

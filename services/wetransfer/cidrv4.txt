@@ -1,5 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
-99.86.77.113/32
-99.86.77.51/32
-99.86.77.56/32
-99.86.77.80/32
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# WeTransfer — wetransfer.com
+13.226.238.12/32
+13.226.238.59/32
+13.226.238.76/32
+13.226.238.83/32

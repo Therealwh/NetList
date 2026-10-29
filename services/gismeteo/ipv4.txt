@@ -1,6 +1,7 @@
-# NetList DNS snapshot for Гисметео
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for Гисметео (gismeteo)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# Гисметео — gismeteo.ru
 31.172.76.57
 31.172.76.58
 31.172.76.59

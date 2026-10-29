@@ -1,2 +1,6 @@
-# Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges.
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# Claude — anthropic.com
+160.79.104.10/32
+
+# Claude — claude.ai
 160.79.104.10/32

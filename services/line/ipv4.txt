@@ -1,4 +1,5 @@
-# NetList DNS snapshot for LINE
-# Only globally routable IPv4 answers observed during this run.
-# Addresses may be shared, CDN-backed, or change over time.
+# DNS-derived IP snapshot for LINE (line)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# LINE — line.me
 147.92.243.206
