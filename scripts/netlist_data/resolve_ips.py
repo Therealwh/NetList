@@ -16,7 +16,7 @@ from .seed_import import load_registry
 
 # RFC 6598 shared address space: not globally routable despite platform/version
 # differences in ipaddress.is_global behavior.
-NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.64.0.0/10"),)
+NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.0.0.0/8"),)
 
 
 def resolve_domain(domain: str) -> tuple[set[str], set[str]]:
