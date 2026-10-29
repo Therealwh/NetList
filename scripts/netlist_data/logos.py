@@ -174,7 +174,17 @@ def build(repo_root: Path, discover: bool = False) -> dict:
         "logos": dict(sorted(manifest_entries.items())),
         "pending": pending,
     }
-    (logos_path / "manifest.json").write_text(
+    # generated_at стабилен при неизменном контенте — коммит только при изменениях
+    manifest_path = logos_path / "manifest.json"
+    if manifest_path.exists():
+        try:
+            previous = json.loads(manifest_path.read_text(encoding="utf-8"))
+            payload = lambda m: {k: v for k, v in m.items() if k != "generated_at"}
+            if payload(manifest) == payload(previous):
+                manifest["generated_at"] = previous.get("generated_at", manifest["generated_at"])
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            pass
+    manifest_path.write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
     save_sources(logos_path, sources)
