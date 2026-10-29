@@ -21,8 +21,8 @@
 # (no public DNS addresses found)
 
 # Akamai — akamai.com
-2600:141b:1c00:26::17ce:acbc
-2600:141b:1c00:26::17ce:acc6
+2600:1404:ec00:27::17df:f013
+2600:1404:ec00:27::17df:f015
 
 # Альфа-Банк — alfabank.ru
 # (no public DNS addresses found)
@@ -34,20 +34,17 @@
 # (no public DNS addresses found)
 
 # Amazon Music — music.amazon.com
-2600:9000:250b:0:1b:5d9a:8ad6:8f61
-2600:9000:250b:2200:1b:5d9a:8ad6:8f61
-2600:9000:250b:3400:1b:5d9a:8ad6:8f61
-2600:9000:250b:9e00:1b:5d9a:8ad6:8f61
-2600:9000:250b:a400:1b:5d9a:8ad6:8f61
-2600:9000:250b:c200:1b:5d9a:8ad6:8f61
-2600:9000:250b:c600:1b:5d9a:8ad6:8f61
-2600:9000:250b:ce00:1b:5d9a:8ad6:8f61
+2600:9000:2105:4800:1b:5d9a:8ad6:8f61
+2600:9000:2105:5a00:1b:5d9a:8ad6:8f61
+2600:9000:2105:a400:1b:5d9a:8ad6:8f61
+2600:9000:2105:b000:1b:5d9a:8ad6:8f61
+2600:9000:2105:e800:1b:5d9a:8ad6:8f61
+2600:9000:2105:ec00:1b:5d9a:8ad6:8f61
+2600:9000:2105:f200:1b:5d9a:8ad6:8f61
+2600:9000:2105:f600:1b:5d9a:8ad6:8f61
 
 # Android — android.com
-2607:f8b0:4004:c06::67
-2607:f8b0:4004:c06::68
-2607:f8b0:4004:c06::69
-2607:f8b0:4004:c06::93
+2607:f8b0:4007:804::2004
 
 # Android — android.googleapis.com
 2001:4860:4840:400::
@@ -70,7 +67,11 @@
 2620:149:af0::10
 
 # Apple Music — music.apple.com
-2a04:4e42:95::774
+2600:1405:8400:582::2a1
+2600:1405:8400:589::2a1
+2600:1405:8400:58a::2a1
+2600:1405:8400:58b::2a1
+2600:1405:8400:58f::2a1
 
 # Arch Linux — archlinux.org
 2604:cac0:a104:d::3
@@ -82,14 +83,14 @@
 # (no public DNS addresses found)
 
 # AWS — aws.amazon.com
-2600:9000:201f:3e00:1c:a813:8500:93a1
-2600:9000:201f:4800:1c:a813:8500:93a1
-2600:9000:201f:4e00:1c:a813:8500:93a1
-2600:9000:201f:8200:1c:a813:8500:93a1
-2600:9000:201f:ce00:1c:a813:8500:93a1
-2600:9000:201f:d000:1c:a813:8500:93a1
-2600:9000:201f:f200:1c:a813:8500:93a1
-2600:9000:201f:f600:1c:a813:8500:93a1
+2600:9000:2105:1a00:1c:a813:8500:93a1
+2600:9000:2105:1c00:1c:a813:8500:93a1
+2600:9000:2105:6000:1c:a813:8500:93a1
+2600:9000:2105:8000:1c:a813:8500:93a1
+2600:9000:2105:b600:1c:a813:8500:93a1
+2600:9000:2105:c800:1c:a813:8500:93a1
+2600:9000:2105:e800:1c:a813:8500:93a1
+2600:9000:2105:f800:1c:a813:8500:93a1
 
 # Baidu — baidu.com
 # (no public DNS addresses found)
@@ -143,12 +144,86 @@
 2401:1d80:321c:2:0:bbc:1:df7c
 2401:1d80:321c::bbc:1:df7c
 
+# ChatGPT — android.chat.openai.com
+2a06:98c1:3101::ac40:9bd6
+2a06:98c1:310c::6812:202a
+
+# ChatGPT — api.openai.com
+2606:4700:7::f3
+2a06:98c1:58::f3
+
+# ChatGPT — auth.openai.com
+2606:4700:4400::6812:29f1
+2a06:98c1:310c::ac40:920f
+
+# ChatGPT — auth0.openai.com
+2606:4700:78::90:0:140
+2606:4700:78::90:0:141
+2606:4700:78::90:0:142
+2606:4700:78::90:0:143
+
+# ChatGPT — cdn.openaimerge.com
+2606:4700::6812:288
+2606:4700::6812:388
+
+# ChatGPT — cdn.platform.openai.com
+2606:4700:440c::ac40:9ad3
+2a06:98c1:310d::6812:212d
+
+# ChatGPT — chat.openai.com
+2606:4700:4402::6812:25e4
+2606:4700:4409::ac40:961c
+
 # ChatGPT — chatgpt.com
 2606:4700:4408::ac40:9bd1
 2a06:98c1:3101::6812:202f
 
+# ChatGPT — desktop.chat.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — files.oaiusercontent.com
+2606:4700:440b::ac40:9034
+2a06:98c1:310d::6812:2bcc
+
+# ChatGPT — help.openai.com
+2606:4700:440c::ac40:9ad3
+2a06:98c1:310d::6812:212d
+
+# ChatGPT — ios.chat.openai.com
+2a06:98c1:3100::6812:2755
+2a06:98c1:3103::ac40:94ab
+
+# ChatGPT — oaistatic.com
+2a06:98c1:3108::6812:299e
+2a06:98c1:310b::ac40:9262
+
+# ChatGPT — oaistatsig.com
+2606:4700:4401::6812:2a99
+2606:4700:440d::ac40:9167
+
+# ChatGPT — oaiusercontent.com
+# (no public DNS addresses found)
+
 # ChatGPT — openai.com
 # (no public DNS addresses found)
+
+# ChatGPT — platform.openai.com
+2606:4700:440c::ac40:9ad3
+2a06:98c1:310d::6812:212d
+
+# ChatGPT — setup.auth.openai.com
+2606:4700:4400::6812:23e9
+2606:4700:440d::ac40:9817
+
+# ChatGPT — status.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — tcr9i.chat.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — ws.chatgpt.com
+2606:4700:4403::ac40:94eb
+2606:4700:440b::6812:2715
 
 # Честный знак — xn--80ajghhoc2aj1c8b.xn--p1ai
 # (no public DNS addresses found)
@@ -187,7 +262,7 @@
 # (no public DNS addresses found)
 
 # Debian — deb.debian.org
-2a04:4e42:95::644
+2a04:4e42:66::644
 
 # Debian — debian.org
 2a04:4e42:200::644
@@ -228,8 +303,188 @@
 # Домклик — domclick.ru
 # (no public DNS addresses found)
 
+# Dropbox — addtodropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — api-content-au.dropbox.com
+2620:100:601f:14::a27d:90e
+
+# Dropbox — api-content-eu.dropbox.com
+2620:100:601f:14::a27d:90e
+
+# Dropbox — api-content-jp.dropbox.com
+2620:100:601f:14::a27d:90e
+
+# Dropbox — api-content-photos.dropbox.com
+2620:100:601f:16::a27d:910
+
+# Dropbox — api-content-uk.dropbox.com
+2620:100:601f:14::a27d:90e
+
+# Dropbox — api-content.dropbox.com
+2620:100:6017:14::a27d:20e
+
+# Dropbox — api-content1-eu.dropbox.com
+2620:100:6017:14::a27d:20e
+
+# Dropbox — app.hellosign.com
+# (no public DNS addresses found)
+
+# Dropbox — bolt.dropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — content-au.dropboxapi.com
+2620:100:601f:14::a27d:90e
+
+# Dropbox — content-eu.dropboxapi.com
+2620:100:6017:14::a27d:20e
+
+# Dropbox — content-jp.dropboxapi.com
+2620:100:601f:14::a27d:90e
+
+# Dropbox — content-uk.dropboxapi.com
+2620:100:601f:14::a27d:90e
+
+# Dropbox — content.dropboxapi.com
+2620:100:601f:14::a27d:90e
+
+# Dropbox — dash.ai
+# (no public DNS addresses found)
+
+# Dropbox — db.tt
+2620:100:6040:21::a27d:f815
+
+# Dropbox — dl-au.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl-au.dropboxusercontent.com
+2620:100:601f:15::a27d:90f
+
+# Dropbox — dl-client.dropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — dl-doc.dropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — dl-doc.dropboxusercontent.com
+# (no public DNS addresses found)
+
+# Dropbox — dl-eu.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl-eu.dropboxusercontent.com
+2620:100:601f:15::a27d:90f
+
+# Dropbox — dl-jp.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl-jp.dropboxusercontent.com
+2620:100:601f:15::a27d:90f
+
+# Dropbox — dl-uk.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl-uk.dropboxusercontent.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl-web-au.dropbox.com
+2620:100:601f:15::a27d:90f
+
+# Dropbox — dl-web-eu.dropbox.com
+2620:100:601f:15::a27d:90f
+
+# Dropbox — dl-web-jp.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl-web-uk.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl-web.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — dl.dropboxusercontent.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — docsend.com
+# (no public DNS addresses found)
+
+# Dropbox — dropbox-dns.com
+# (no public DNS addresses found)
+
 # Dropbox — dropbox.com
 2620:100:6040:18::a27d:f812
+
+# Dropbox — dropbox.tech
+# (no public DNS addresses found)
+
+# Dropbox — dropbox.zendesk.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxapi.com
+2620:100:6040:21::a27d:f815
+
+# Dropbox — dropboxbusiness.com
+2620:100:6040:21::a27d:f815
+
+# Dropbox — dropboxcaptcha.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxexperiment.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxforum.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxforums.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxinsiders.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxlegal.com
+2620:100:6040:21::a27d:f815
+
+# Dropbox — dropboxmail.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxpartners.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxstatic.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxteam.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxusercontent.com
+# (no public DNS addresses found)
+
+# Dropbox — files-au.dropbox.com
+2620:100:601f:15::a27d:90f
+
+# Dropbox — files-eu.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — files-jp.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — files-uk.dropbox.com
+2620:100:6017:15::a27d:20f
+
+# Dropbox — getdropbox.com
+2620:100:6040:21::a27d:f815
+
+# Dropbox — hellofax.com
+# (no public DNS addresses found)
+
+# Dropbox — learn.dropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — links.dropbox.com
+2620:100:601f:18::a27d:912
 
 # DuckDuckGo — duckduckgo.com
 # (no public DNS addresses found)
@@ -238,8 +493,8 @@
 2a00:b4c0:9100:b000::1:b0
 
 # EA — ea.com
-2600:1408:5400:e8e::1127
-2600:1408:5400:e98::1127
+2600:1405:8400:391::1127
+2600:1405:8400:392::1127
 
 # eBay — ebay.com
 # (no public DNS addresses found)
@@ -261,7 +516,7 @@
 2606:4700:3034::6815:45ae
 
 # Facebook — facebook.com
-2a03:2880:f35a:1:face:b00c:0:25de
+2a03:2880:f364:1:face:b00c:0:25de
 
 # Faceit — faceit.com
 # (no public DNS addresses found)
@@ -305,10 +560,7 @@
 # (no public DNS addresses found)
 
 # Gemini — ai.google.dev
-2607:f8b0:4004:c23::66
-2607:f8b0:4004:c23::71
-2607:f8b0:4004:c23::8a
-2607:f8b0:4004:c23::8b
+2607:f8b0:4007:803::200e
 
 # Gemini — gemini.google.com
 2001:4860:4826:200::
@@ -342,44 +594,85 @@
 # (no public DNS addresses found)
 
 # Gmail — gmail.com
-2607:f8b0:4004:c09::11
-2607:f8b0:4004:c09::12
-2607:f8b0:4004:c09::13
-2607:f8b0:4004:c09::53
+2607:f8b0:4007:818::2005
+
+# Google — accounts.google.com
+2607:f8b0:4023:c0d::54
+
+# Google — admin.google.com
+2607:f8b0:4023:2009::64
+2607:f8b0:4023:2009::65
+2607:f8b0:4023:2009::66
+2607:f8b0:4023:2009::8b
+
+# Google — analytics.google.com
+2001:4860:4802:32::181
+2001:4860:4802:34::181
+2001:4860:4802:36::181
+2001:4860:4802:38::181
+
+# Google — doubleclick.net
+2607:f8b0:4023:2009::64
+2607:f8b0:4023:2009::65
+2607:f8b0:4023:2009::71
+2607:f8b0:4023:2009::8a
+
+# Google — g.co
+2607:f8b0:4023:200b::64
+2607:f8b0:4023:200b::65
+2607:f8b0:4023:200b::8a
+2607:f8b0:4023:200b::8b
+
+# Google — google-analytics.com
+2607:f8b0:4007:806::2004
+
+# Google — google.co.uk
+2607:f8b0:4023:200d::5e
 
 # Google — google.com
-2607:f8b0:4004:c09::66
-2607:f8b0:4004:c09::71
-2607:f8b0:4004:c09::8a
-2607:f8b0:4004:c09::8b
+2607:f8b0:4023:c0b::64
+2607:f8b0:4023:c0b::65
+2607:f8b0:4023:c0b::8a
+2607:f8b0:4023:c0b::8b
+
+# Google — googleadservices.com
+# (no public DNS addresses found)
 
 # Google — googleapis.com
-2607:f8b0:4004:c27::67
-2607:f8b0:4004:c27::69
-2607:f8b0:4004:c27::6a
-2607:f8b0:4004:c27::93
+2607:f8b0:4007:80b::2004
+
+# Google — googlemail.com
+2607:f8b0:4007:80c::2005
+
+# Google — googlesyndication.com
+2607:f8b0:4007:818::2004
+
+# Google — googletagmanager.com
+2607:f8b0:4023:200d::61
+
+# Google — googleusercontent.com
+2607:f8b0:4007:807::2001
+
+# Google — googlevideo.com
+2607:f8b0:4007:80d::2004
 
 # Google — gstatic.com
-2607:f8b0:4004:c1b::5e
-2607:f8b0:4004:c1b::78
+2607:f8b0:4007:817::2003
 
 # Google Cloud — cloud.google.com
-2607:f8b0:4004:c1f::64
-2607:f8b0:4004:c1f::66
-2607:f8b0:4004:c1f::71
-2607:f8b0:4004:c1f::8b
+2607:f8b0:4007:804::200e
 
 # Google Cloud — googlecloud.com
-2607:f8b0:4004:c07::64
-2607:f8b0:4004:c07::65
-2607:f8b0:4004:c07::71
-2607:f8b0:4004:c07::8a
+2607:f8b0:4023:c0d::64
+2607:f8b0:4023:c0d::65
+2607:f8b0:4023:c0d::66
+2607:f8b0:4023:c0d::71
 
 # Google Drive — drive.google.com
-2607:f8b0:4004:c27::64
-2607:f8b0:4004:c27::65
-2607:f8b0:4004:c27::71
-2607:f8b0:4004:c27::8b
+2607:f8b0:4023:c03::64
+2607:f8b0:4023:c03::65
+2607:f8b0:4023:c03::71
+2607:f8b0:4023:c03::8a
 
 # Госдума — duma.gov.ru
 # (no public DNS addresses found)
@@ -411,20 +704,20 @@
 2a01:4f8:0:1::7:4
 
 # Hugging Face — huggingface.co
-2600:9000:27d1:3800:17:b174:6d00:93a1
-2600:9000:27d1:4200:17:b174:6d00:93a1
-2600:9000:27d1:6600:17:b174:6d00:93a1
-2600:9000:27d1:8000:17:b174:6d00:93a1
-2600:9000:27d1:b800:17:b174:6d00:93a1
-2600:9000:27d1:ca00:17:b174:6d00:93a1
-2600:9000:27d1:ce00:17:b174:6d00:93a1
-2600:9000:27d1:e800:17:b174:6d00:93a1
+2600:9000:2073:1800:17:b174:6d00:93a1
+2600:9000:2073:4000:17:b174:6d00:93a1
+2600:9000:2073:4e00:17:b174:6d00:93a1
+2600:9000:2073:5200:17:b174:6d00:93a1
+2600:9000:2073:9200:17:b174:6d00:93a1
+2600:9000:2073:ac00:17:b174:6d00:93a1
+2600:9000:2073:ae00:17:b174:6d00:93a1
+2600:9000:2073:b400:17:b174:6d00:93a1
 
 # Hulu — hulu.com
 # (no public DNS addresses found)
 
 # Instagram — instagram.com
-2a03:2880:f35a:22:face:b00c:0:4420
+2a03:2880:f364:22:face:b00c:0:4420
 
 # Internet Archive — archive.org
 # (no public DNS addresses found)
@@ -486,8 +779,8 @@
 2600:1901:0:d5ad::
 
 # Linode — linode.com
-2600:1408:5400:35::17ca:e6de
-2600:1408:5400:35::17ca:e6e4
+2600:1405:8400:8::17d1:5487
+2600:1405:8400:8::17d1:5494
 
 # Магнит — magnit.ru
 # (no public DNS addresses found)
@@ -538,11 +831,110 @@
 # Мегамаркет — megamarket.ru
 # (no public DNS addresses found)
 
+# Microsoft — account.live.com
+# (no public DNS addresses found)
+
+# Microsoft — azureedge.net
+# (no public DNS addresses found)
+
+# Microsoft — cloud.microsoft
+2603:1010:3:3::5b
+2603:1020:201:10::10f
+2603:1030:20e:3::23c
+2603:1030:b:3::152
+2603:1030:c02:8::14
+
+# Microsoft — graph.microsoft.com
+2603:1036:3000:e8::80
+2603:1036:3000:f0::80
+2603:1036:3000:f8::80
+
+# Microsoft — live.com
+# (no public DNS addresses found)
+
+# Microsoft — login.microsoftonline.com
+2603:1036:3000:e8::1
+2603:1036:3000:e8::2
+2603:1036:3000:e8::4
+2603:1036:3000:f0::2
+2603:1036:3000:f0::3
+2603:1036:3000:f0::4
+2603:1036:3000:f8::2
+2603:1036:3000:f8::3
+
 # Microsoft — microsoft.com
-2603:1061:14:75::1
+2603:1061:14:96::1
+
+# Microsoft — microsoft365.com
+2620:1ec:a92::156
+
+# Microsoft — microsoftonline-p.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-p.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline.com
+# (no public DNS addresses found)
+
+# Microsoft — msappproxy.net
+# (no public DNS addresses found)
+
+# Microsoft — msauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msauthimages.net
+# (no public DNS addresses found)
+
+# Microsoft — msftauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msidentity.com
+# (no public DNS addresses found)
 
 # Microsoft — office.com
 2620:1ec:a92::156
+
+# Microsoft — office.net
+# (no public DNS addresses found)
+
+# Microsoft — office365.com
+# (no public DNS addresses found)
+
+# Microsoft — officecdn.microsoft.com
+2a04:4e42:66::684
+
+# Microsoft — onedrive.com
+# (no public DNS addresses found)
+
+# Microsoft — outlook.office365.com
+2603:1036:30c:4::2
+2603:1036:30c:84d::2
+2603:1036:30c:908::2
+2603:1036:30c:90c::2
+2603:1036:30c:90f::2
+2603:1036:30c:c74::2
+2603:1036:30c:c81::2
+2603:1036:30c:c96::2
+
+# Microsoft — sharepoint.com
+# (no public DNS addresses found)
+
+# Microsoft — sharepointonline.com
+# (no public DNS addresses found)
+
+# Microsoft — static.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — teams.microsoft.com
+2603:1063:27:1::14
+2603:1063:27:2::14
+
+# Microsoft — usercontent.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — windows.net
+# (no public DNS addresses found)
 
 # Microsoft — windowsupdate.com
 # (no public DNS addresses found)
@@ -551,8 +943,8 @@
 # (no public DNS addresses found)
 
 # Microsoft Azure — azure.microsoft.com
-2600:1408:c400:f8a::439b
-2600:1408:c400:f95::439b
+2600:1406:35:180::439b
+2600:1406:35:18a::439b
 
 # Midjourney — midjourney.com
 2606:4700:440a::6812:21d9
@@ -596,8 +988,8 @@
 2a00:86c0:2043::1
 
 # Netlify — netlify.com
-2600:1f18:16e:df01::1f5
-2600:1f18:16e:df01::1f6
+2600:1f1c:446:4900::1f5
+2600:1f1c:446:4900::1f6
 
 # Нетология — netology.ru
 # (no public DNS addresses found)
@@ -640,14 +1032,10 @@
 # (no public DNS addresses found)
 
 # Outlook — outlook.office.com
-2603:1036:207:45c::2
-2603:1036:302:4157::2
-2603:1036:302:415b::2
-2603:1036:302:4833::2
-2603:1036:302:4846::2
-2603:1036:302:505c::2
-2603:1036:302:505e::2
-2603:1036:302:5062::2
+2603:1036:30c:1000::2
+2603:1036:30c:1001::2
+2603:1036:30c:910::2
+2603:1036:30c:c77::2
 
 # OVHcloud — ovh.com
 # (no public DNS addresses found)
@@ -678,8 +1066,8 @@
 # (no public DNS addresses found)
 
 # Pixeldrain — pixeldrain.com
-2401:3bc0:1001:2::1
-2401:3bc0:1001:3::1
+2607:9280:a::214
+2607:9280:a::215
 
 # PlayStation — playstation.com
 # (no public DNS addresses found)
@@ -908,16 +1296,55 @@
 # ТАСС — tass.ru
 # (no public DNS addresses found)
 
+# Telegram — a.t.me
+2001:67c:4e8:f004::9
+
+# Telegram — contest.com
+2001:67c:4e8:1033:3:0:463:337
+2001:67c:4e8:1033:6:0:463:637
+
+# Telegram — fragment.com
+2606:4700:10::6814:1acb
+2606:4700:10::ac42:aa18
+
+# Telegram — k.t.me
+2001:67c:4e8:f004::9
+
+# Telegram — quiz.directory
+# (no public DNS addresses found)
+
+# Telegram — stel.com
+2001:67c:4e8:1033:3:100:0:a
+2001:67c:4e8:1033:6:100:0:a
+
 # Telegram — t.me
 2001:67c:4e8:f004::9
 
 # Telegram — telegra.ph
 # (no public DNS addresses found)
 
+# Telegram — telegram.dog
+# (no public DNS addresses found)
+
 # Telegram — telegram.me
 2001:67c:4e8:f004::9
 
 # Telegram — telegram.org
+2001:67c:4e8:f004::9
+
+# Telegram — telesco.pe
+# (no public DNS addresses found)
+
+# Telegram — tg.dev
+# (no public DNS addresses found)
+
+# Telegram — web.t.me
+2001:67c:4e8:f004::9
+
+# Telegram — web.telegram.org
+2001:67c:4e8:f004::9
+
+# Telegram — z.t.me
 2001:67c:4e8:f004::9
 
 # Тензор / СБИС — sbis.ru
@@ -937,7 +1364,7 @@
 2606:4700:7::a29f:8906
 
 # Threads — threads.net
-2a03:2880:f373:c0:face:b00c:0:43fe
+2a03:2880:f231:c5:face:b00c:0:43fe
 
 # Tidal — tidal.com
 # (no public DNS addresses found)
@@ -1035,13 +1462,13 @@
 # (no public DNS addresses found)
 
 # WhatsApp — wa.me
-2a03:2880:f35a:120:face:b00c:0:167
+2a03:2880:f231:c6:face:b00c:0:167
 
 # WhatsApp — whatsapp.com
-2a03:2880:f35a:120:face:b00c:0:167
+2a03:2880:f231:c6:face:b00c:0:167
 
 # Wikipedia — wikipedia.org
-2620:0:860:ed1a::1
+2620:0:863:ed1a::1
 
 # Wildberries — wb.ru
 # (no public DNS addresses found)
@@ -1123,22 +1550,16 @@
 # (no public DNS addresses found)
 
 # YouTube — youtu.be
-2607:f8b0:4004:c21::5b
-2607:f8b0:4004:c21::5d
-2607:f8b0:4004:c21::88
-2607:f8b0:4004:c21::be
+2607:f8b0:4007:808::200e
 
 # YouTube — youtube-nocookie.com
-2607:f8b0:4004:c29::5b
-2607:f8b0:4004:c29::5d
-2607:f8b0:4004:c29::88
-2607:f8b0:4004:c29::be
+2607:f8b0:4023:2007::5b
+2607:f8b0:4023:2007::5d
+2607:f8b0:4023:2007::88
+2607:f8b0:4023:2007::be
 
 # YouTube — youtube.com
-2607:f8b0:4004:c2f::5b
-2607:f8b0:4004:c2f::5d
-2607:f8b0:4004:c2f::88
-2607:f8b0:4004:c2f::be
+2607:f8b0:4007:812::200e
 
 # YouTube Music — music.youtube.com
 2001:4860:4826:400::

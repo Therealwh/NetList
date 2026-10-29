@@ -1,5 +1,18 @@
 # NetList seed candidates: Google
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+accounts.google.com
+admin.google.com
+analytics.google.com
+doubleclick.net
+g.co
+google-analytics.com
+google.co.uk
 google.com
+googleadservices.com
 googleapis.com
+googlemail.com
+googlesyndication.com
+googletagmanager.com
+googleusercontent.com
+googlevideo.com
 gstatic.com

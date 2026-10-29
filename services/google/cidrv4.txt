@@ -1,20 +1,56 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Google — accounts.google.com
+74.125.137.84/32
+
+# Google — admin.google.com
+142.251.34.78/32
+
+# Google — analytics.google.com
+216.239.32.181/32
+216.239.34.181/32
+216.239.36.181/32
+216.239.38.181/32
+
+# Google — doubleclick.net
+142.251.218.14/32
+
+# Google — g.co
+172.217.75.100/32
+172.217.75.101/32
+172.217.75.102/32
+172.217.75.113/32
+172.217.75.138/32
+172.217.75.139/32
+
+# Google — google-analytics.com
+142.251.40.100/32
+
+# Google — google.co.uk
+172.217.75.94/32
+
 # Google — google.com
-172.253.122.100/32
-172.253.122.101/32
-172.253.122.102/32
-172.253.122.113/32
-172.253.122.138/32
-172.253.122.139/32
+142.251.210.142/32
+
+# Google — googleadservices.com
+142.251.215.162/32
 
 # Google — googleapis.com
-172.253.62.103/32
-172.253.62.104/32
-172.253.62.105/32
-172.253.62.106/32
-172.253.62.147/32
-172.253.62.99/32
+142.251.215.196/32
+
+# Google — googlemail.com
+142.251.214.101/32
+
+# Google — googlesyndication.com
+142.251.41.4/32
+
+# Google — googletagmanager.com
+192.178.164.97/32
+
+# Google — googleusercontent.com
+142.251.34.65/32
+
+# Google — googlevideo.com
+142.251.32.164/32
 
 # Google — gstatic.com
-172.253.115.120/32
-172.253.115.94/32
+142.251.34.67/32

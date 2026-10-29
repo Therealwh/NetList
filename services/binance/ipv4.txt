@@ -2,6 +2,6 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Binance — binance.com
-13.193.58.71
-3.115.187.243
-35.76.34.224
+13.197.39.164
+52.69.222.148
+57.180.144.87

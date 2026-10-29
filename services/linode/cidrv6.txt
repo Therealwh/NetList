@@ -1,4 +1,4 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Linode — linode.com
-2600:1408:5400:35::17ca:e6de/128
-2600:1408:5400:35::17ca:e6e4/128
+2600:1405:8400:8::17d1:5487/128
+2600:1405:8400:8::17d1:5494/128

@@ -1,9 +1,83 @@
 # DNS-derived IP snapshot for ChatGPT (chatgpt)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# ChatGPT — android.chat.openai.com
+2a06:98c1:3101::ac40:9bd6
+2a06:98c1:310c::6812:202a
+
+# ChatGPT — api.openai.com
+2606:4700:7::f3
+2a06:98c1:58::f3
+
+# ChatGPT — auth.openai.com
+2606:4700:4400::6812:29f1
+2a06:98c1:310c::ac40:920f
+
+# ChatGPT — auth0.openai.com
+2606:4700:78::90:0:140
+2606:4700:78::90:0:141
+2606:4700:78::90:0:142
+2606:4700:78::90:0:143
+
+# ChatGPT — cdn.openaimerge.com
+2606:4700::6812:288
+2606:4700::6812:388
+
+# ChatGPT — cdn.platform.openai.com
+2606:4700:440c::ac40:9ad3
+2a06:98c1:310d::6812:212d
+
+# ChatGPT — chat.openai.com
+2606:4700:4402::6812:25e4
+2606:4700:4409::ac40:961c
+
 # ChatGPT — chatgpt.com
 2606:4700:4408::ac40:9bd1
 2a06:98c1:3101::6812:202f
 
+# ChatGPT — desktop.chat.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — files.oaiusercontent.com
+2606:4700:440b::ac40:9034
+2a06:98c1:310d::6812:2bcc
+
+# ChatGPT — help.openai.com
+2606:4700:440c::ac40:9ad3
+2a06:98c1:310d::6812:212d
+
+# ChatGPT — ios.chat.openai.com
+2a06:98c1:3100::6812:2755
+2a06:98c1:3103::ac40:94ab
+
+# ChatGPT — oaistatic.com
+2a06:98c1:3108::6812:299e
+2a06:98c1:310b::ac40:9262
+
+# ChatGPT — oaistatsig.com
+2606:4700:4401::6812:2a99
+2606:4700:440d::ac40:9167
+
+# ChatGPT — oaiusercontent.com
+# (no public DNS addresses found)
+
 # ChatGPT — openai.com
 # (no public DNS addresses found)
+
+# ChatGPT — platform.openai.com
+2606:4700:440c::ac40:9ad3
+2a06:98c1:310d::6812:212d
+
+# ChatGPT — setup.auth.openai.com
+2606:4700:4400::6812:23e9
+2606:4700:440d::ac40:9817
+
+# ChatGPT — status.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — tcr9i.chat.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — ws.chatgpt.com
+2606:4700:4403::ac40:94eb
+2606:4700:440b::6812:2715

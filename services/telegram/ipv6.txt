@@ -1,14 +1,53 @@
 # DNS-derived IP snapshot for Telegram (telegram)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Telegram — a.t.me
+2001:67c:4e8:f004::9
+
+# Telegram — contest.com
+2001:67c:4e8:1033:3:0:463:337
+2001:67c:4e8:1033:6:0:463:637
+
+# Telegram — fragment.com
+2606:4700:10::6814:1acb
+2606:4700:10::ac42:aa18
+
+# Telegram — k.t.me
+2001:67c:4e8:f004::9
+
+# Telegram — quiz.directory
+# (no public DNS addresses found)
+
+# Telegram — stel.com
+2001:67c:4e8:1033:3:100:0:a
+2001:67c:4e8:1033:6:100:0:a
+
 # Telegram — t.me
 2001:67c:4e8:f004::9
 
 # Telegram — telegra.ph
 # (no public DNS addresses found)
 
+# Telegram — telegram.dog
+# (no public DNS addresses found)
+
 # Telegram — telegram.me
 2001:67c:4e8:f004::9
 
 # Telegram — telegram.org
+2001:67c:4e8:f004::9
+
+# Telegram — telesco.pe
+# (no public DNS addresses found)
+
+# Telegram — tg.dev
+# (no public DNS addresses found)
+
+# Telegram — web.t.me
+2001:67c:4e8:f004::9
+
+# Telegram — web.telegram.org
+2001:67c:4e8:f004::9
+
+# Telegram — z.t.me
 2001:67c:4e8:f004::9

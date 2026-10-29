@@ -1,11 +1,119 @@
 # DNS-derived IP snapshot for Microsoft (microsoft)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Microsoft — account.live.com
+20.190.151.132
+20.190.151.133
+20.190.151.67
+20.190.151.68
+20.190.151.69
+20.190.151.7
+20.190.151.8
+20.190.151.9
+
+# Microsoft — azureedge.net
+# (no public DNS addresses found)
+
+# Microsoft — cloud.microsoft
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Microsoft — graph.microsoft.com
+20.190.190.161
+20.190.190.224
+40.126.62.160
+
+# Microsoft — live.com
+204.79.197.212
+
+# Microsoft — login.microsoftonline.com
+20.190.151.131
+20.190.151.133
+20.190.151.6
+20.190.151.68
+20.190.151.7
+20.190.151.70
+20.190.151.8
+20.190.151.9
+
 # Microsoft — microsoft.com
-150.171.109.74
+150.171.109.152
+
+# Microsoft — microsoft365.com
+13.107.6.156
+
+# Microsoft — microsoftonline-p.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-p.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline.com
+# (no public DNS addresses found)
+
+# Microsoft — msappproxy.net
+# (no public DNS addresses found)
+
+# Microsoft — msauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msauthimages.net
+# (no public DNS addresses found)
+
+# Microsoft — msftauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msidentity.com
+# (no public DNS addresses found)
 
 # Microsoft — office.com
 13.107.6.156
+
+# Microsoft — office.net
+# (no public DNS addresses found)
+
+# Microsoft — office365.com
+20.119.0.28
+40.112.243.53
+
+# Microsoft — officecdn.microsoft.com
+151.101.74.172
+
+# Microsoft — onedrive.com
+52.153.252.167
+
+# Microsoft — outlook.office365.com
+40.104.2.130
+40.104.2.194
+40.99.140.242
+52.96.104.194
+
+# Microsoft — sharepoint.com
+13.107.136.10
+13.107.138.10
+
+# Microsoft — sharepointonline.com
+65.55.93.60
+
+# Microsoft — static.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — teams.microsoft.com
+52.123.128.14
+52.123.129.14
+
+# Microsoft — usercontent.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — windows.net
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
 
 # Microsoft — windowsupdate.com
 # (no public DNS addresses found)

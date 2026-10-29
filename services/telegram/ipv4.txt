@@ -1,14 +1,51 @@
 # DNS-derived IP snapshot for Telegram (telegram)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Telegram — a.t.me
+149.154.167.99
+
+# Telegram — contest.com
+95.161.64.99
+
+# Telegram — fragment.com
+104.20.26.203
+172.66.170.24
+
+# Telegram — k.t.me
+149.154.167.99
+
+# Telegram — quiz.directory
+149.154.164.13
+
+# Telegram — stel.com
+149.154.167.117
+
 # Telegram — t.me
 149.154.167.99
 
 # Telegram — telegra.ph
 149.154.164.13
 
+# Telegram — telegram.dog
+149.154.167.99
+
 # Telegram — telegram.me
 149.154.167.99
 
 # Telegram — telegram.org
+149.154.167.99
+
+# Telegram — telesco.pe
+149.154.167.99
+
+# Telegram — tg.dev
+149.154.167.99
+
+# Telegram — web.t.me
+149.154.167.99
+
+# Telegram — web.telegram.org
+149.154.167.99
+
+# Telegram — z.t.me
 149.154.167.99

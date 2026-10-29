@@ -1,9 +1,6 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Gemini — ai.google.dev
-2607:f8b0:4004:c23::66/128
-2607:f8b0:4004:c23::71/128
-2607:f8b0:4004:c23::8a/128
-2607:f8b0:4004:c23::8b/128
+2607:f8b0:4007:803::200e/128
 
 # Gemini — gemini.google.com
 2001:4860:4826:200::/128

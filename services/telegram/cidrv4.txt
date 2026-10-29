@@ -1,12 +1,49 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Telegram — a.t.me
+149.154.167.99/32
+
+# Telegram — contest.com
+95.161.64.99/32
+
+# Telegram — fragment.com
+104.20.26.203/32
+172.66.170.24/32
+
+# Telegram — k.t.me
+149.154.167.99/32
+
+# Telegram — quiz.directory
+149.154.164.13/32
+
+# Telegram — stel.com
+149.154.167.117/32
+
 # Telegram — t.me
 149.154.167.99/32
 
 # Telegram — telegra.ph
 149.154.164.13/32
 
+# Telegram — telegram.dog
+149.154.167.99/32
+
 # Telegram — telegram.me
 149.154.167.99/32
 
 # Telegram — telegram.org
+149.154.167.99/32
+
+# Telegram — telesco.pe
+149.154.167.99/32
+
+# Telegram — tg.dev
+149.154.167.99/32
+
+# Telegram — web.t.me
+149.154.167.99/32
+
+# Telegram — web.telegram.org
+149.154.167.99/32
+
+# Telegram — z.t.me
 149.154.167.99/32

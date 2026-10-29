@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Hulu — hulu.com
-23.202.230.214
-23.202.230.218
+23.45.12.25
+23.45.12.32

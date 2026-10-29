@@ -1,12 +1,51 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Telegram — a.t.me
+2001:67c:4e8:f004::9/128
+
+# Telegram — contest.com
+2001:67c:4e8:1033:3:0:463:337/128
+2001:67c:4e8:1033:6:0:463:637/128
+
+# Telegram — fragment.com
+2606:4700:10::6814:1acb/128
+2606:4700:10::ac42:aa18/128
+
+# Telegram — k.t.me
+2001:67c:4e8:f004::9/128
+
+# Telegram — quiz.directory
+# (no public DNS addresses found)
+
+# Telegram — stel.com
+2001:67c:4e8:1033:3:100:0:a/128
+2001:67c:4e8:1033:6:100:0:a/128
+
 # Telegram — t.me
 2001:67c:4e8:f004::9/128
 
 # Telegram — telegra.ph
 # (no public DNS addresses found)
 
+# Telegram — telegram.dog
+# (no public DNS addresses found)
+
 # Telegram — telegram.me
 2001:67c:4e8:f004::9/128
 
 # Telegram — telegram.org
+2001:67c:4e8:f004::9/128
+
+# Telegram — telesco.pe
+# (no public DNS addresses found)
+
+# Telegram — tg.dev
+# (no public DNS addresses found)
+
+# Telegram — web.t.me
+2001:67c:4e8:f004::9/128
+
+# Telegram — web.telegram.org
+2001:67c:4e8:f004::9/128
+
+# Telegram — z.t.me
 2001:67c:4e8:f004::9/128

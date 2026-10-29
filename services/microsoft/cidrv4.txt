@@ -1,9 +1,117 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Microsoft — account.live.com
+20.190.151.132/32
+20.190.151.133/32
+20.190.151.67/32
+20.190.151.68/32
+20.190.151.69/32
+20.190.151.7/32
+20.190.151.8/32
+20.190.151.9/32
+
+# Microsoft — azureedge.net
+# (no public DNS addresses found)
+
+# Microsoft — cloud.microsoft
+20.112.250.133/32
+20.231.239.246/32
+20.236.44.162/32
+20.70.246.20/32
+20.76.201.171/32
+
+# Microsoft — graph.microsoft.com
+20.190.190.161/32
+20.190.190.224/32
+40.126.62.160/32
+
+# Microsoft — live.com
+204.79.197.212/32
+
+# Microsoft — login.microsoftonline.com
+20.190.151.131/32
+20.190.151.133/32
+20.190.151.6/32
+20.190.151.68/32
+20.190.151.7/32
+20.190.151.70/32
+20.190.151.8/32
+20.190.151.9/32
+
 # Microsoft — microsoft.com
-150.171.109.74/32
+150.171.109.152/32
+
+# Microsoft — microsoft365.com
+13.107.6.156/32
+
+# Microsoft — microsoftonline-p.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-p.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline.com
+# (no public DNS addresses found)
+
+# Microsoft — msappproxy.net
+# (no public DNS addresses found)
+
+# Microsoft — msauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msauthimages.net
+# (no public DNS addresses found)
+
+# Microsoft — msftauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msidentity.com
+# (no public DNS addresses found)
 
 # Microsoft — office.com
 13.107.6.156/32
+
+# Microsoft — office.net
+# (no public DNS addresses found)
+
+# Microsoft — office365.com
+20.119.0.28/32
+40.112.243.53/32
+
+# Microsoft — officecdn.microsoft.com
+151.101.74.172/32
+
+# Microsoft — onedrive.com
+52.153.252.167/32
+
+# Microsoft — outlook.office365.com
+40.104.2.130/32
+40.104.2.194/32
+40.99.140.242/32
+52.96.104.194/32
+
+# Microsoft — sharepoint.com
+13.107.136.10/32
+13.107.138.10/32
+
+# Microsoft — sharepointonline.com
+65.55.93.60/32
+
+# Microsoft — static.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — teams.microsoft.com
+52.123.128.14/32
+52.123.129.14/32
+
+# Microsoft — usercontent.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — windows.net
+20.112.250.133/32
+20.231.239.246/32
+20.236.44.162/32
+20.70.246.20/32
+20.76.201.171/32
 
 # Microsoft — windowsupdate.com
 # (no public DNS addresses found)

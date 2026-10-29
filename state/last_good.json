@@ -1,8 +1,8 @@
 {
   "counts": {
-    "services": 263,
+    "services": 264,
     "categories": 27,
-    "domains": 326
+    "domains": 456
   },
   "services": {
     "1337x": {
@@ -96,7 +96,7 @@
       "domain_count": 1
     },
     "chatgpt": {
-      "domain_count": 2
+      "domain_count": 21
     },
     "chestnyy-znak": {
       "domain_count": 1
@@ -153,7 +153,7 @@
       "domain_count": 1
     },
     "dropbox": {
-      "domain_count": 1
+      "domain_count": 61
     },
     "duckduckgo": {
       "domain_count": 1
@@ -234,7 +234,7 @@
       "domain_count": 1
     },
     "google": {
-      "domain_count": 3
+      "domain_count": 16
     },
     "google-cloud": {
       "domain_count": 2
@@ -363,7 +363,7 @@
       "domain_count": 1
     },
     "microsoft": {
-      "domain_count": 3
+      "domain_count": 29
     },
     "microsoft-azure": {
       "domain_count": 2
@@ -581,6 +581,9 @@
     "send-anywhere": {
       "domain_count": 1
     },
+    "shuffle-com": {
+      "domain_count": 1
+    },
     "signal": {
       "domain_count": 1
     },
@@ -639,7 +642,7 @@
       "domain_count": 1
     },
     "telegram": {
-      "domain_count": 4
+      "domain_count": 16
     },
     "tenzor-sbis": {
       "domain_count": 2

@@ -1,9 +1,108 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Microsoft — account.live.com
+# (no public DNS addresses found)
+
+# Microsoft — azureedge.net
+# (no public DNS addresses found)
+
+# Microsoft — cloud.microsoft
+2603:1010:3:3::5b/128
+2603:1020:201:10::10f/128
+2603:1030:20e:3::23c/128
+2603:1030:b:3::152/128
+2603:1030:c02:8::14/128
+
+# Microsoft — graph.microsoft.com
+2603:1036:3000:e8::80/128
+2603:1036:3000:f0::80/128
+2603:1036:3000:f8::80/128
+
+# Microsoft — live.com
+# (no public DNS addresses found)
+
+# Microsoft — login.microsoftonline.com
+2603:1036:3000:e8::1/128
+2603:1036:3000:e8::2/128
+2603:1036:3000:e8::4/128
+2603:1036:3000:f0::2/128
+2603:1036:3000:f0::3/128
+2603:1036:3000:f0::4/128
+2603:1036:3000:f8::2/128
+2603:1036:3000:f8::3/128
+
 # Microsoft — microsoft.com
-2603:1061:14:75::1/128
+2603:1061:14:96::1/128
+
+# Microsoft — microsoft365.com
+2620:1ec:a92::156/128
+
+# Microsoft — microsoftonline-p.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-p.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline.com
+# (no public DNS addresses found)
+
+# Microsoft — msappproxy.net
+# (no public DNS addresses found)
+
+# Microsoft — msauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msauthimages.net
+# (no public DNS addresses found)
+
+# Microsoft — msftauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msidentity.com
+# (no public DNS addresses found)
 
 # Microsoft — office.com
 2620:1ec:a92::156/128
+
+# Microsoft — office.net
+# (no public DNS addresses found)
+
+# Microsoft — office365.com
+# (no public DNS addresses found)
+
+# Microsoft — officecdn.microsoft.com
+2a04:4e42:66::684/128
+
+# Microsoft — onedrive.com
+# (no public DNS addresses found)
+
+# Microsoft — outlook.office365.com
+2603:1036:30c:4::2/128
+2603:1036:30c:84d::2/128
+2603:1036:30c:908::2/128
+2603:1036:30c:90c::2/128
+2603:1036:30c:90f::2/128
+2603:1036:30c:c74::2/128
+2603:1036:30c:c81::2/128
+2603:1036:30c:c96::2/128
+
+# Microsoft — sharepoint.com
+# (no public DNS addresses found)
+
+# Microsoft — sharepointonline.com
+# (no public DNS addresses found)
+
+# Microsoft — static.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — teams.microsoft.com
+2603:1063:27:1::14/128
+2603:1063:27:2::14/128
+
+# Microsoft — usercontent.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — windows.net
+# (no public DNS addresses found)
 
 # Microsoft — windowsupdate.com
 # (no public DNS addresses found)

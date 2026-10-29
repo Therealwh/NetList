@@ -1,328 +1,988 @@
-# NetList combined domains
+# NetList combined domains — grouped by service
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+# A domain may appear in more than one service group when the catalog links it to multiple services.
+
+# Service — 1337x
 1337x.to
-1c.ru
+
+# Service — 1xBet
 1xbet.com
+
+# Service — 1С
+1c.ru
+
+# Service — 2ГИС
 2gis.ru
-5ka.ru
-aeroflot.ru
-ai.google.dev
-aif.ru
+
+# Service — Akamai
 akamai.com
-alfabank.ru
+
+# Service — AliExpress
 aliexpress.com
+
+# Service — Amazon
 amazon.com
-amazonaws.com
+
+# Service — Amazon Music
+music.amazon.com
+
+# Service — Android
 android.com
 android.googleapis.com
-anthropic.com
+
+# Service — AP News
 apnews.com
+
+# Service — Apple
 apple.com
-archive.org
-archive.ubuntu.com
+icloud.com
+
+# Service — Apple Music
+music.apple.com
+
+# Service — Arch Linux
 archlinux.org
+
+# Service — Avito
 avito.ru
+
+# Service — AWS
+amazonaws.com
 aws.amazon.com
-azure.com
-azure.microsoft.com
+
+# Service — Baidu
 baidu.com
+
+# Service — Bandcamp
 bandcamp.com
+
+# Service — Battle.net
 battle.net
+blizzard.com
+
+# Service — BBC
 bbc.co.uk
 bbc.com
+
+# Service — BC.Game
 bc.game
-beeline.ru
+
+# Service — Bet365
 bet365.com
+
+# Service — Betfair
 betfair.com
+
+# Service — Binance
 binance.com
+
+# Service — Bing
 bing.com
+
+# Service — Bitbucket
 bitbucket.org
-bk.ru
-blizzard.com
-cbr.ru
-cdek.ru
+
+# Service — ChatGPT
+android.chat.openai.com
+api.openai.com
+auth.openai.com
+auth0.openai.com
+cdn.openaimerge.com
+cdn.platform.openai.com
+chat.openai.com
 chatgpt.com
-citydrive.ru
+desktop.chat.openai.com
+files.oaiusercontent.com
+help.openai.com
+ios.chat.openai.com
+oaistatic.com
+oaistatsig.com
+oaiusercontent.com
+openai.com
+platform.openai.com
+setup.auth.openai.com
+status.openai.com
+tcr9i.chat.openai.com
+ws.chatgpt.com
+
+# Service — Claude
+anthropic.com
 claude.ai
-cloud.google.com
-cloud.mail.ru
-cloud.vk.com
+
+# Service — Cloudflare
 cloudflare-dns.com
 cloudflare.com
+
+# Service — Codeberg
 codeberg.org
+
+# Service — Coinbase
 coinbase.com
-council.gov.ru
+
+# Service — Coursera
 coursera.org
+
+# Service — crates.io
 crates.io
+
+# Service — Dailymotion
 dailymotion.com
+
+# Service — Debian
 deb.debian.org
 debian.org
+
+# Service — DeepSeek
 deepseek.com
+
+# Service — Deezer
 deezer.com
-delimobil.ru
-digitalocean.com
-discord.com
-disk.yandex.ru
-disneyplus.com
-docker.com
-dom.gosuslugi.ru
-domclick.ru
-drive.google.com
-dropbox.com
-duckduckgo.com
-duma.gov.ru
+
+# Service — Deutsche Welle
 dw.com
-dzen.ru
+
+# Service — DigitalOcean
+digitalocean.com
+
+# Service — Discord
+discord.com
+
+# Service — Disney+
+disneyplus.com
+
+# Service — Docker Hub
+docker.com
+hub.docker.com
+
+# Service — Dropbox
+addtodropbox.com
+api-content-au.dropbox.com
+api-content-eu.dropbox.com
+api-content-jp.dropbox.com
+api-content-photos.dropbox.com
+api-content-uk.dropbox.com
+api-content.dropbox.com
+api-content1-eu.dropbox.com
+app.hellosign.com
+bolt.dropbox.com
+content-au.dropboxapi.com
+content-eu.dropboxapi.com
+content-jp.dropboxapi.com
+content-uk.dropboxapi.com
+content.dropboxapi.com
+dash.ai
+db.tt
+dl-au.dropbox.com
+dl-au.dropboxusercontent.com
+dl-client.dropbox.com
+dl-doc.dropbox.com
+dl-doc.dropboxusercontent.com
+dl-eu.dropbox.com
+dl-eu.dropboxusercontent.com
+dl-jp.dropbox.com
+dl-jp.dropboxusercontent.com
+dl-uk.dropbox.com
+dl-uk.dropboxusercontent.com
+dl-web-au.dropbox.com
+dl-web-eu.dropbox.com
+dl-web-jp.dropbox.com
+dl-web-uk.dropbox.com
+dl-web.dropbox.com
+dl.dropbox.com
+dl.dropboxusercontent.com
+docsend.com
+dropbox-dns.com
+dropbox.com
+dropbox.tech
+dropbox.zendesk.com
+dropboxapi.com
+dropboxbusiness.com
+dropboxcaptcha.com
+dropboxexperiment.com
+dropboxforum.com
+dropboxforums.com
+dropboxinsiders.com
+dropboxlegal.com
+dropboxmail.com
+dropboxpartners.com
+dropboxstatic.com
+dropboxteam.com
+dropboxusercontent.com
+files-au.dropbox.com
+files-eu.dropbox.com
+files-jp.dropbox.com
+files-uk.dropbox.com
+getdropbox.com
+hellofax.com
+learn.dropbox.com
+links.dropbox.com
+
+# Service — DuckDuckGo
+duckduckgo.com
+
+# Service — EA
 ea.com
+
+# Service — eBay
 ebay.com
+
+# Service — edX
 edx.org
+
+# Service — Epic Games
 epicgames.com
+
+# Service — ESET
 eset.com
+
+# Service — Etsy
 etsy.com
+
+# Service — EZTV
 eztv.re
+
+# Service — Facebook
 facebook.com
+
+# Service — Faceit
 faceit.com
+
+# Service — Fansly
 fansly.com
+
+# Service — Fastly
 fastly.com
+
+# Service — Fastmail
 fastmail.com
+
+# Service — Fedora
 fedoraproject.org
+
+# Service — Filmix
 filmix.ac
 filmix.my
-firefox.com
-gazprombank.ru
+
+# Service — Gemini
+ai.google.dev
 gemini.google.com
-gismeteo.ru
+
+# Service — GitHub
 github.com
-github.io
 githubusercontent.com
+
+# Service — GitHub Pages
+github.io
+
+# Service — GitLab
 gitlab.com
-glonass.ru
+
+# Service — Gmail
 gmail.com
-go.yandex
+
+# Service — Google
+accounts.google.com
+admin.google.com
+analytics.google.com
+doubleclick.net
+g.co
+google-analytics.com
+google.co.uk
 google.com
+googleadservices.com
 googleapis.com
-googlecloud.com
-gosuslugi.ru
-government.ru
-grok.com
+googlemail.com
+googlesyndication.com
+googletagmanager.com
+googleusercontent.com
+googlevideo.com
 gstatic.com
-habr.com
+
+# Service — Google Cloud
+cloud.google.com
+googlecloud.com
+
+# Service — Google Drive
+drive.google.com
+
+# Service — Grok
+grok.com
+x.ai
+
+# Service — HDRezka
 hdrezka.ag
 hdrezka.me
+
+# Service — HeadHunter
+hh.ru
+
+# Service — Hetzner
 hetzner.com
 hetzner.de
-hh.ru
-hub.docker.com
+
+# Service — Hugging Face
 huggingface.co
+
+# Service — Hulu
 hulu.com
-icloud.com
-inbox.ru
+
+# Service — Instagram
 instagram.com
-ivi.ru
+
+# Service — Internet Archive
+archive.org
+
+# Service — JetBrains
 jetbrains.com
-jtvnw.net
+
+# Service — Kaspersky
 kaspersky.com
+
+# Service — Khan Academy
 khanacademy.org
+
+# Service — KHL
 khl.ru
+
+# Service — Kick
 kick.com
-kinopoisk.ru
+
+# Service — KION
 kion.ru
-kommersant.ru
-kontur.ru
-kremlin.ru
-kuper.ru
+
+# Service — Last.fm
 last.fm
-leagueoflegends.com
-lenta.com
-lenta.ru
+
+# Service — LimeTorrents
 limetorrents.lol
+
+# Service — LINE
 line.me
+
+# Service — LinkedIn
 linkedin.com
+
+# Service — Linode
 linode.com
+
+# Service — Mail.ru
+bk.ru
+inbox.ru
 list.ru
-magnit.ru
 mail.ru
-mail.yandex.ru
+
+# Service — Malwarebytes
 malwarebytes.com
-market.yandex.ru
+
+# Service — MAX
 max.ru
-mchs.gov.ru
-mdclinics.ru
+
+# Service — MediaFire
 mediafire.com
-medsi.ru
+
+# Service — Meduza
 meduza.io
+
+# Service — MEGA
 mega.nz
-megafon.ru
-megamarket.ru
+
+# Service — Microsoft
+account.live.com
+azureedge.net
+cloud.microsoft
+graph.microsoft.com
+live.com
+login.microsoftonline.com
 microsoft.com
-midjourney.com
-minecraft.net
-mironline.ru
-mistral.ai
-mixcloud.com
-modrinth.com
-mozilla.org
-mts.ru
-music.amazon.com
-music.apple.com
-music.yandex.ru
-music.youtube.com
-mws.ru
-nalog.gov.ru
-netflix.com
-netlify.com
-netology.ru
-nexusmods.com
-nintendo.com
-npmjs.com
-nspk.ru
-nyaa.si
+microsoft365.com
+microsoftonline-p.com
+microsoftonline-p.net
+microsoftonline.com
+msappproxy.net
+msauth.net
+msauthimages.net
+msftauth.net
+msidentity.com
 office.com
-ok.ru
-okko.tv
+office.net
+office365.com
+officecdn.microsoft.com
+onedrive.com
+outlook.office365.com
+sharepoint.com
+sharepointonline.com
+static.microsoft
+teams.microsoft.com
+usercontent.microsoft
+windows.net
+windowsupdate.com
+
+# Service — Microsoft Azure
+azure.com
+azure.microsoft.com
+
+# Service — Midjourney
+midjourney.com
+
+# Service — Minecraft
+minecraft.net
+
+# Service — Mistral AI
+mistral.ai
+
+# Service — Mixcloud
+mixcloud.com
+
+# Service — Modrinth
+modrinth.com
+
+# Service — Mozilla
+firefox.com
+mozilla.org
+
+# Service — MTS Web Services
+mws.ru
+
+# Service — Netflix
+netflix.com
+
+# Service — Netlify
+netlify.com
+
+# Service — Nexus Mods
+nexusmods.com
+
+# Service — Nintendo
+nintendo.com
+
+# Service — npm
+npmjs.com
+
+# Service — Nyaa
+nyaa.si
+
+# Service — OneDrive
 onedrive.live.com
+sharepoint.com
+
+# Service — OnlyFans
 onlyfans.com
-openai.com
+
+# Service — Outlook
 outlook.com
 outlook.office.com
+
+# Service — OVHcloud
 ovh.com
 ovhcloud.com
+
+# Service — Ozon
 ozon.ru
 ozone.ru
 ozonusercontent.com
+
+# Service — PayPal
 paypal.com
+
+# Service — Perplexity
 perplexity.ai
+
+# Service — Pinnacle
 pinnacle.com
+
+# Service — Pinterest
 pinterest.com
+
+# Service — Pixeldrain
 pixeldrain.com
+
+# Service — PlayStation
 playstation.com
-pochta.ru
+sony.com
+
+# Service — PokerStars
 pokerstars.com
+
+# Service — Pornhub
 pornhub.com
+
+# Service — PREMIER
 premier.one
+
+# Service — Prime Video
 primevideo.com
+
+# Service — Proton Mail
 proton.me
 protonmail.com
-psbank.ru
+
+# Service — PyPI
 pypi.org
+
+# Service — Qwen
 qwen.ai
-rambler.ru
-rbc.ru
+
+# Service — Reddit
 reddit.com
+
+# Service — RedTube
 redtube.com
+
+# Service — Render
 render.com
+
+# Service — Replicate
 replicate.com
+
+# Service — Reuters
 reuters.com
+
+# Service — Revolut
 revolut.com
-ria.ru
+
+# Service — Riot Games
+leagueoflegends.com
 riotgames.com
+
+# Service — Roblox
 roblox.com
-rosreestr.gov.ru
-rostelecom.ru
-rt.ru
+
+# Service — Rumble
 rumble.com
+
+# Service — RuStore
 rustore.ru
+
+# Service — RuTor
 rutor.info
+
+# Service — RuTracker
 rutracker.org
+
+# Service — Rutube
 rutube.ru
-rzd.ru
-samokat.ru
-sber.ru
-sberbank.ru
-sbermobile.ru
-sbis.ru
-sbp.nspk.ru
-scdn.co
+
+# Service — Seansovar
 seansovar.com
+
+# Service — Selectel
 selectel.ru
+
+# Service — Send Anywhere
 send-anywhere.com
-sharepoint.com
+
+# Service — shuffle.com
+shuffle.com
+
+# Service — Signal
 signal.org
+
+# Service — Skillbox
 skillbox.ru
+
+# Service — Skype
 skype.com
+
+# Service — Snapchat
 snapchat.com
-sony.com
+
+# Service — SoundCloud
 soundcloud.com
+
+# Service — SourceForge
 sourceforge.net
-sportmaster.ru
+
+# Service — Spotify
+scdn.co
 spotify.com
+
+# Service — Stack Overflow
 stackexchange.com
 stackoverflow.com
+
+# Service — Stake
 stake.com
+
+# Service — Steam
 steamcommunity.com
 steampowered.com
 steamstatic.com
+
+# Service — Stepik
 stepik.org
+
+# Service — Stripe
 stripe.com
+
+# Service — SwissTransfer
 swisstransfer.com
+
+# Service — Telegram
+a.t.me
+contest.com
+fragment.com
+k.t.me
+quiz.directory
+stel.com
 t.me
-t2.ru
-tass.ru
-tbank.ru
-tele2.ru
 telegra.ph
+telegram.dog
 telegram.me
 telegram.org
-tensor.ru
+telesco.pe
+tg.dev
+web.t.me
+web.telegram.org
+z.t.me
+
+# Service — The Guardian
 theguardian.com
+
+# Service — The Pirate Bay
 thepiratebay.org
+
+# Service — Threads
 threads.net
+
+# Service — Tidal
 tidal.com
+
+# Service — TikTok
 tiktok.com
-tinkoff.ru
+
+# Service — TorrentGalaxy
 torrentgalaxy.to
+
+# Service — Tumblr
 tumblr.com
+
+# Service — Tuta
 tuta.com
-tutu.ru
+
+# Service — Twitch
+jtvnw.net
 twitch.tv
-twitter.com
+
+# Service — Ubisoft
 ubisoft.com
+
+# Service — Ubuntu
+archive.ubuntu.com
 ubuntu.com
-userapi.com
+
+# Service — Vercel
 vercel.com
+
+# Service — Viber
 viber.com
+
+# Service — Vimeo
 vimeo.com
+
+# Service — VK
+userapi.com
 vk.com
-vk.me
 vk.ru
 vkuserlive.net
-vkusvill.ru
+
+# Service — VK Cloud
+cloud.vk.com
+
+# Service — VK Видео
 vkvideo.ru
-vtb.ru
+
+# Service — VK Мессенджер
+vk.me
+
+# Service — Vultr
 vultr.com
-wa.me
-wb.ru
+
+# Service — WeChat
 wechat.com
 weixin.qq.com
+
+# Service — WeTransfer
 wetransfer.com
+
+# Service — WhatsApp
+wa.me
 whatsapp.com
+
+# Service — Wikipedia
 wikipedia.org
+
+# Service — Wildberries
+wb.ru
 wildberries.ru
-windowsupdate.com
+
+# Service — Wink
 wink.ru
+
+# Service — Wise
 wise.com
-x.ai
+
+# Service — X
+twitter.com
 x.com
-x5.ru
+
+# Service — Xbox
 xbox.com
 xboxlive.com
+
+# Service — XHamster
 xhamster.com
-xn--80ajghhoc2aj1c8b.xn--p1ai
-xn--b1aew.xn--p1ai
+
+# Service — XNXX
 xnxx.com
+
+# Service — XVideos
 xvideos.com
-ya.ru
+
+# Service — Yahoo
 yahoo.com
+
+# Service — Yandex Cloud
 yandex.cloud
-yandex.com
-yandex.ru
-yastatic.net
-yoomoney.ru
+
+# Service — YouPorn
 youporn.com
+
+# Service — YouTube
 youtu.be
 youtube-nocookie.com
 youtube.com
+
+# Service — YouTube Music
+music.youtube.com
+
+# Service — YTS
 yts.mx
+
+# Service — Zoho
 zoho.com
+
+# Service — Zona
 zona.ru
+
+# Service — АиФ
+aif.ru
+
+# Service — Альфа-Банк
+alfabank.ru
+
+# Service — Аэрофлот
+aeroflot.ru
+
+# Service — Банк России
+cbr.ru
+
+# Service — Билайн
+beeline.ru
+
+# Service — ВкусВилл
+vkusvill.ru
+
+# Service — ВТБ
+vtb.ru
+
+# Service — Газпромбанк
+gazprombank.ru
+
+# Service — ГИС ЖКХ
+dom.gosuslugi.ru
+
+# Service — Гисметео
+gismeteo.ru
+
+# Service — ГЛОНАСС
+glonass.ru
+
+# Service — Госдума
+duma.gov.ru
+
+# Service — Госуслуги
+gosuslugi.ru
+
+# Service — Делимобиль
+delimobil.ru
+
+# Service — Дзен
+dzen.ru
+
+# Service — Домклик
+domclick.ru
+
+# Service — Звук
 zvuk.com
+
+# Service — Иви
+ivi.ru
+
+# Service — Кинопоиск
+kinopoisk.ru
+
+# Service — Коммерсантъ
+kommersant.ru
+
+# Service — Контур
+kontur.ru
+
+# Service — Купер
+kuper.ru
+
+# Service — Лента
+lenta.com
+lenta.ru
+
+# Service — Магнит
+magnit.ru
+
+# Service — Мать и дитя
+mdclinics.ru
+
+# Service — МВД РФ
+xn--b1aew.xn--p1ai
+
+# Service — Мегамаркет
+megamarket.ru
+
+# Service — МегаФон
+megafon.ru
+
+# Service — Медси
+medsi.ru
+
+# Service — Мир
+mironline.ru
+
+# Service — МТС
+mts.ru
+
+# Service — МЧС
+mchs.gov.ru
+
+# Service — Нетология
+netology.ru
+
+# Service — НСПК
+nspk.ru
+
+# Service — Облако Mail.ru
+cloud.mail.ru
+
+# Service — Одноклассники
+ok.ru
+
+# Service — Окко
+okko.tv
+
+# Service — Почта России
+pochta.ru
+
+# Service — Правительство РФ
+government.ru
+
+# Service — Президент России
+kremlin.ru
+
+# Service — ПСБ
+psbank.ru
+
+# Service — Пятёрочка
+5ka.ru
+x5.ru
+
+# Service — Рамблер
+rambler.ru
+
+# Service — РБК
+rbc.ru
+
+# Service — РЖД
+rzd.ru
+
+# Service — РИА Новости
+ria.ru
+
+# Service — Росреестр
+rosreestr.gov.ru
+
+# Service — Ростелеком
+rostelecom.ru
+rt.ru
+
+# Service — Самокат
+samokat.ru
+
+# Service — Сбер
+sber.ru
+sberbank.ru
+
+# Service — СберМобайл
+sbermobile.ru
+
+# Service — СБП
+sbp.nspk.ru
+
+# Service — СДЭК
+cdek.ru
+
+# Service — Ситидрайв
+citydrive.ru
+
+# Service — Совет Федерации
+council.gov.ru
+
+# Service — Спортмастер
+sportmaster.ru
+
+# Service — Т-Банк
+tbank.ru
+tinkoff.ru
+
+# Service — Т2
+t2.ru
+tele2.ru
+
+# Service — ТАСС
+tass.ru
+
+# Service — Тензор / СБИС
+sbis.ru
+tensor.ru
+
+# Service — Туту
+tutu.ru
+
+# Service — ФНС
+nalog.gov.ru
+
+# Service — Хабр
+habr.com
+
+# Service — Честный знак
+xn--80ajghhoc2aj1c8b.xn--p1ai
+
+# Service — ЮMoney
+yoomoney.ru
+
+# Service — Яндекс
+ya.ru
+yandex.com
+yandex.ru
+yastatic.net
+
+# Service — Яндекс Go
+go.yandex
+
+# Service — Яндекс Диск
+disk.yandex.ru
+
+# Service — Яндекс Маркет
+market.yandex.ru
+
+# Service — Яндекс Музыка
+music.yandex.ru
+
+# Service — Яндекс Почта
+mail.yandex.ru

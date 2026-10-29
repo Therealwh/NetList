@@ -1,5 +1,31 @@
 # NetList seed candidates: Microsoft
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+account.live.com
+azureedge.net
+cloud.microsoft
+graph.microsoft.com
+live.com
+login.microsoftonline.com
 microsoft.com
+microsoft365.com
+microsoftonline-p.com
+microsoftonline-p.net
+microsoftonline.com
+msappproxy.net
+msauth.net
+msauthimages.net
+msftauth.net
+msidentity.com
 office.com
+office.net
+office365.com
+officecdn.microsoft.com
+onedrive.com
+outlook.office365.com
+sharepoint.com
+sharepointonline.com
+static.microsoft
+teams.microsoft.com
+usercontent.microsoft
+windows.net
 windowsupdate.com

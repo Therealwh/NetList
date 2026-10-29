@@ -1,3 +1,183 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Dropbox — addtodropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — api-content-au.dropbox.com
+2620:100:601f:14::a27d:90e/128
+
+# Dropbox — api-content-eu.dropbox.com
+2620:100:601f:14::a27d:90e/128
+
+# Dropbox — api-content-jp.dropbox.com
+2620:100:601f:14::a27d:90e/128
+
+# Dropbox — api-content-photos.dropbox.com
+2620:100:601f:16::a27d:910/128
+
+# Dropbox — api-content-uk.dropbox.com
+2620:100:601f:14::a27d:90e/128
+
+# Dropbox — api-content.dropbox.com
+2620:100:6017:14::a27d:20e/128
+
+# Dropbox — api-content1-eu.dropbox.com
+2620:100:6017:14::a27d:20e/128
+
+# Dropbox — app.hellosign.com
+# (no public DNS addresses found)
+
+# Dropbox — bolt.dropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — content-au.dropboxapi.com
+2620:100:601f:14::a27d:90e/128
+
+# Dropbox — content-eu.dropboxapi.com
+2620:100:6017:14::a27d:20e/128
+
+# Dropbox — content-jp.dropboxapi.com
+2620:100:601f:14::a27d:90e/128
+
+# Dropbox — content-uk.dropboxapi.com
+2620:100:601f:14::a27d:90e/128
+
+# Dropbox — content.dropboxapi.com
+2620:100:601f:14::a27d:90e/128
+
+# Dropbox — dash.ai
+# (no public DNS addresses found)
+
+# Dropbox — db.tt
+2620:100:6040:21::a27d:f815/128
+
+# Dropbox — dl-au.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl-au.dropboxusercontent.com
+2620:100:601f:15::a27d:90f/128
+
+# Dropbox — dl-client.dropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — dl-doc.dropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — dl-doc.dropboxusercontent.com
+# (no public DNS addresses found)
+
+# Dropbox — dl-eu.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl-eu.dropboxusercontent.com
+2620:100:601f:15::a27d:90f/128
+
+# Dropbox — dl-jp.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl-jp.dropboxusercontent.com
+2620:100:601f:15::a27d:90f/128
+
+# Dropbox — dl-uk.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl-uk.dropboxusercontent.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl-web-au.dropbox.com
+2620:100:601f:15::a27d:90f/128
+
+# Dropbox — dl-web-eu.dropbox.com
+2620:100:601f:15::a27d:90f/128
+
+# Dropbox — dl-web-jp.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl-web-uk.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl-web.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — dl.dropboxusercontent.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — docsend.com
+# (no public DNS addresses found)
+
+# Dropbox — dropbox-dns.com
+# (no public DNS addresses found)
+
 # Dropbox — dropbox.com
 2620:100:6040:18::a27d:f812/128
+
+# Dropbox — dropbox.tech
+# (no public DNS addresses found)
+
+# Dropbox — dropbox.zendesk.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxapi.com
+2620:100:6040:21::a27d:f815/128
+
+# Dropbox — dropboxbusiness.com
+2620:100:6040:21::a27d:f815/128
+
+# Dropbox — dropboxcaptcha.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxexperiment.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxforum.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxforums.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxinsiders.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxlegal.com
+2620:100:6040:21::a27d:f815/128
+
+# Dropbox — dropboxmail.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxpartners.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxstatic.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxteam.com
+# (no public DNS addresses found)
+
+# Dropbox — dropboxusercontent.com
+# (no public DNS addresses found)
+
+# Dropbox — files-au.dropbox.com
+2620:100:601f:15::a27d:90f/128
+
+# Dropbox — files-eu.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — files-jp.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — files-uk.dropbox.com
+2620:100:6017:15::a27d:20f/128
+
+# Dropbox — getdropbox.com
+2620:100:6040:21::a27d:f815/128
+
+# Dropbox — hellofax.com
+# (no public DNS addresses found)
+
+# Dropbox — learn.dropbox.com
+# (no public DNS addresses found)
+
+# Dropbox — links.dropbox.com
+2620:100:601f:18::a27d:912/128

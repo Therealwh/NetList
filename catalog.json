@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "dataset": "netlist",
-  "generated_at": "2026-10-29T15:25:48+00:00",
+  "generated_at": "2026-10-29T23:17:51+00:00",
   "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
   "counts": {
-    "services": 263,
+    "services": 264,
     "categories": 27,
-    "domains": 326
+    "domains": 456
   },
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "id": "ai",
       "services_count": 11,
-      "domains_count": 15
+      "domains_count": 34
     },
     {
       "id": "banks_payments",
@@ -37,7 +37,7 @@
     {
       "id": "file_sharing",
       "services_count": 11,
-      "domains_count": 12
+      "domains_count": 72
     },
     {
       "id": "finance_marketplaces",
@@ -46,8 +46,8 @@
     },
     {
       "id": "gambling",
-      "services_count": 7,
-      "domains_count": 7
+      "services_count": 8,
+      "domains_count": 8
     },
     {
       "id": "gaming",
@@ -82,7 +82,7 @@
     {
       "id": "messengers",
       "services_count": 8,
-      "domains_count": 13
+      "domains_count": 25
     },
     {
       "id": "messengers_telecom",
@@ -107,7 +107,7 @@
     {
       "id": "os_security",
       "services_count": 11,
-      "domains_count": 18
+      "domains_count": 44
     },
     {
       "id": "search_ecosystems",
@@ -117,7 +117,7 @@
     {
       "id": "search_portals",
       "services_count": 8,
-      "domains_count": 16
+      "domains_count": 29
     },
     {
       "id": "social",
@@ -637,12 +637,31 @@
     {
       "name": "ChatGPT",
       "slug": "chatgpt",
-      "primary_domain": "chatgpt.com",
+      "primary_domain": "android.chat.openai.com",
       "domains": [
+        "android.chat.openai.com",
+        "api.openai.com",
+        "auth.openai.com",
+        "auth0.openai.com",
+        "cdn.openaimerge.com",
+        "cdn.platform.openai.com",
+        "chat.openai.com",
         "chatgpt.com",
-        "openai.com"
+        "desktop.chat.openai.com",
+        "files.oaiusercontent.com",
+        "help.openai.com",
+        "ios.chat.openai.com",
+        "oaistatic.com",
+        "oaistatsig.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "platform.openai.com",
+        "setup.auth.openai.com",
+        "status.openai.com",
+        "tcr9i.chat.openai.com",
+        "ws.chatgpt.com"
       ],
-      "domain_count": 2,
+      "domain_count": 21,
       "categories": [
         "ai"
       ],
@@ -946,11 +965,71 @@
     {
       "name": "Dropbox",
       "slug": "dropbox",
-      "primary_domain": "dropbox.com",
+      "primary_domain": "addtodropbox.com",
       "domains": [
-        "dropbox.com"
+        "addtodropbox.com",
+        "api-content-au.dropbox.com",
+        "api-content-eu.dropbox.com",
+        "api-content-jp.dropbox.com",
+        "api-content-photos.dropbox.com",
+        "api-content-uk.dropbox.com",
+        "api-content.dropbox.com",
+        "api-content1-eu.dropbox.com",
+        "app.hellosign.com",
+        "bolt.dropbox.com",
+        "content-au.dropboxapi.com",
+        "content-eu.dropboxapi.com",
+        "content-jp.dropboxapi.com",
+        "content-uk.dropboxapi.com",
+        "content.dropboxapi.com",
+        "dash.ai",
+        "db.tt",
+        "dl-au.dropbox.com",
+        "dl-au.dropboxusercontent.com",
+        "dl-client.dropbox.com",
+        "dl-doc.dropbox.com",
+        "dl-doc.dropboxusercontent.com",
+        "dl-eu.dropbox.com",
+        "dl-eu.dropboxusercontent.com",
+        "dl-jp.dropbox.com",
+        "dl-jp.dropboxusercontent.com",
+        "dl-uk.dropbox.com",
+        "dl-uk.dropboxusercontent.com",
+        "dl-web-au.dropbox.com",
+        "dl-web-eu.dropbox.com",
+        "dl-web-jp.dropbox.com",
+        "dl-web-uk.dropbox.com",
+        "dl-web.dropbox.com",
+        "dl.dropbox.com",
+        "dl.dropboxusercontent.com",
+        "docsend.com",
+        "dropbox-dns.com",
+        "dropbox.com",
+        "dropbox.tech",
+        "dropbox.zendesk.com",
+        "dropboxapi.com",
+        "dropboxbusiness.com",
+        "dropboxcaptcha.com",
+        "dropboxexperiment.com",
+        "dropboxforum.com",
+        "dropboxforums.com",
+        "dropboxinsiders.com",
+        "dropboxlegal.com",
+        "dropboxmail.com",
+        "dropboxpartners.com",
+        "dropboxstatic.com",
+        "dropboxteam.com",
+        "dropboxusercontent.com",
+        "files-au.dropbox.com",
+        "files-eu.dropbox.com",
+        "files-jp.dropbox.com",
+        "files-uk.dropbox.com",
+        "getdropbox.com",
+        "hellofax.com",
+        "learn.dropbox.com",
+        "links.dropbox.com"
       ],
-      "domain_count": 1,
+      "domain_count": 61,
       "categories": [
         "file_sharing"
       ],
@@ -1381,13 +1460,26 @@
     {
       "name": "Google",
       "slug": "google",
-      "primary_domain": "google.com",
+      "primary_domain": "accounts.google.com",
       "domains": [
+        "accounts.google.com",
+        "admin.google.com",
+        "analytics.google.com",
+        "doubleclick.net",
+        "g.co",
+        "google-analytics.com",
+        "google.co.uk",
         "google.com",
+        "googleadservices.com",
         "googleapis.com",
+        "googlemail.com",
+        "googlesyndication.com",
+        "googletagmanager.com",
+        "googleusercontent.com",
+        "googlevideo.com",
         "gstatic.com"
       ],
-      "domain_count": 3,
+      "domain_count": 16,
       "categories": [
         "search_portals"
       ],
@@ -2090,13 +2182,39 @@
     {
       "name": "Microsoft",
       "slug": "microsoft",
-      "primary_domain": "microsoft.com",
+      "primary_domain": "account.live.com",
       "domains": [
+        "account.live.com",
+        "azureedge.net",
+        "cloud.microsoft",
+        "graph.microsoft.com",
+        "live.com",
+        "login.microsoftonline.com",
         "microsoft.com",
+        "microsoft365.com",
+        "microsoftonline-p.com",
+        "microsoftonline-p.net",
+        "microsoftonline.com",
+        "msappproxy.net",
+        "msauth.net",
+        "msauthimages.net",
+        "msftauth.net",
+        "msidentity.com",
         "office.com",
+        "office.net",
+        "office365.com",
+        "officecdn.microsoft.com",
+        "onedrive.com",
+        "outlook.office365.com",
+        "sharepoint.com",
+        "sharepointonline.com",
+        "static.microsoft",
+        "teams.microsoft.com",
+        "usercontent.microsoft",
+        "windows.net",
         "windowsupdate.com"
       ],
-      "domain_count": 3,
+      "domain_count": 29,
       "categories": [
         "os_security"
       ],
@@ -3285,6 +3403,22 @@
       "seed_status": "candidate_unverified"
     },
     {
+      "name": "shuffle.com",
+      "slug": "shuffle-com",
+      "primary_domain": "shuffle.com",
+      "domains": [
+        "shuffle.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "user"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
       "name": "Signal",
       "slug": "signal",
       "primary_domain": "signal.org",
@@ -3601,14 +3735,26 @@
     {
       "name": "Telegram",
       "slug": "telegram",
-      "primary_domain": "t.me",
+      "primary_domain": "a.t.me",
       "domains": [
+        "a.t.me",
+        "contest.com",
+        "fragment.com",
+        "k.t.me",
+        "quiz.directory",
+        "stel.com",
         "t.me",
         "telegra.ph",
+        "telegram.dog",
         "telegram.me",
-        "telegram.org"
+        "telegram.org",
+        "telesco.pe",
+        "tg.dev",
+        "web.t.me",
+        "web.telegram.org",
+        "z.t.me"
       ],
-      "domain_count": 4,
+      "domain_count": 16,
       "categories": [
         "messengers"
       ],

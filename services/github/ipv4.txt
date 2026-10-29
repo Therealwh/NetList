@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # GitHub — github.com
-140.82.114.4
+140.82.112.4
 
 # GitHub — githubusercontent.com
 # (no public DNS addresses found)

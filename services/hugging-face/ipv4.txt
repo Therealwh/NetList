@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Hugging Face — huggingface.co
-3.167.112.25
-3.167.112.38
-3.167.112.45
-3.167.112.96
+52.85.132.22
+52.85.132.34
+52.85.132.54
+52.85.132.6

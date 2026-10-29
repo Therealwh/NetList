@@ -1,22 +1,58 @@
 # DNS-derived IP snapshot for Google (google)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Google — accounts.google.com
+74.125.137.84
+
+# Google — admin.google.com
+142.251.34.78
+
+# Google — analytics.google.com
+216.239.32.181
+216.239.34.181
+216.239.36.181
+216.239.38.181
+
+# Google — doubleclick.net
+142.251.218.14
+
+# Google — g.co
+172.217.75.100
+172.217.75.101
+172.217.75.102
+172.217.75.113
+172.217.75.138
+172.217.75.139
+
+# Google — google-analytics.com
+142.251.40.100
+
+# Google — google.co.uk
+172.217.75.94
+
 # Google — google.com
-172.253.122.100
-172.253.122.101
-172.253.122.102
-172.253.122.113
-172.253.122.138
-172.253.122.139
+142.251.210.142
+
+# Google — googleadservices.com
+142.251.215.162
 
 # Google — googleapis.com
-172.253.62.103
-172.253.62.104
-172.253.62.105
-172.253.62.106
-172.253.62.147
-172.253.62.99
+142.251.215.196
+
+# Google — googlemail.com
+142.251.214.101
+
+# Google — googlesyndication.com
+142.251.41.4
+
+# Google — googletagmanager.com
+192.178.164.97
+
+# Google — googleusercontent.com
+142.251.34.65
+
+# Google — googlevideo.com
+142.251.32.164
 
 # Google — gstatic.com
-172.253.115.120
-172.253.115.94
+142.251.34.67

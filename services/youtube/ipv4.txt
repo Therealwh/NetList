@@ -2,19 +2,13 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # YouTube — youtu.be
-142.250.31.136
-142.250.31.190
-142.250.31.91
-142.250.31.93
+142.251.215.206
 
 # YouTube — youtube-nocookie.com
-142.251.16.136
-142.251.16.190
-142.251.16.91
-142.251.16.93
+142.251.32.174
 
 # YouTube — youtube.com
-172.253.63.136
-172.253.63.190
-172.253.63.91
-172.253.63.93
+192.178.231.136
+192.178.231.190
+192.178.231.91
+192.178.231.93

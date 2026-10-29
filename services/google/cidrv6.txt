@@ -1,16 +1,63 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Google — accounts.google.com
+2607:f8b0:4023:c0d::54/128
+
+# Google — admin.google.com
+2607:f8b0:4023:2009::64/128
+2607:f8b0:4023:2009::65/128
+2607:f8b0:4023:2009::66/128
+2607:f8b0:4023:2009::8b/128
+
+# Google — analytics.google.com
+2001:4860:4802:32::181/128
+2001:4860:4802:34::181/128
+2001:4860:4802:36::181/128
+2001:4860:4802:38::181/128
+
+# Google — doubleclick.net
+2607:f8b0:4023:2009::64/128
+2607:f8b0:4023:2009::65/128
+2607:f8b0:4023:2009::71/128
+2607:f8b0:4023:2009::8a/128
+
+# Google — g.co
+2607:f8b0:4023:200b::64/128
+2607:f8b0:4023:200b::65/128
+2607:f8b0:4023:200b::8a/128
+2607:f8b0:4023:200b::8b/128
+
+# Google — google-analytics.com
+2607:f8b0:4007:806::2004/128
+
+# Google — google.co.uk
+2607:f8b0:4023:200d::5e/128
+
 # Google — google.com
-2607:f8b0:4004:c09::66/128
-2607:f8b0:4004:c09::71/128
-2607:f8b0:4004:c09::8a/128
-2607:f8b0:4004:c09::8b/128
+2607:f8b0:4023:c0b::64/128
+2607:f8b0:4023:c0b::65/128
+2607:f8b0:4023:c0b::8a/128
+2607:f8b0:4023:c0b::8b/128
+
+# Google — googleadservices.com
+# (no public DNS addresses found)
 
 # Google — googleapis.com
-2607:f8b0:4004:c27::67/128
-2607:f8b0:4004:c27::69/128
-2607:f8b0:4004:c27::6a/128
-2607:f8b0:4004:c27::93/128
+2607:f8b0:4007:80b::2004/128
+
+# Google — googlemail.com
+2607:f8b0:4007:80c::2005/128
+
+# Google — googlesyndication.com
+2607:f8b0:4007:818::2004/128
+
+# Google — googletagmanager.com
+2607:f8b0:4023:200d::61/128
+
+# Google — googleusercontent.com
+2607:f8b0:4007:807::2001/128
+
+# Google — googlevideo.com
+2607:f8b0:4007:80d::2004/128
 
 # Google — gstatic.com
-2607:f8b0:4004:c1b::5e/128
-2607:f8b0:4004:c1b::78/128
+2607:f8b0:4007:817::2003/128

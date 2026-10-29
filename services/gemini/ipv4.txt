@@ -2,12 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Gemini — ai.google.dev
-192.178.155.100
-192.178.155.101
-192.178.155.102
-192.178.155.113
-192.178.155.138
-192.178.155.139
+142.251.34.78
 
 # Gemini — gemini.google.com
 142.251.150.2

@@ -1,7 +1,81 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# ChatGPT — android.chat.openai.com
+2a06:98c1:3101::ac40:9bd6/128
+2a06:98c1:310c::6812:202a/128
+
+# ChatGPT — api.openai.com
+2606:4700:7::f3/128
+2a06:98c1:58::f3/128
+
+# ChatGPT — auth.openai.com
+2606:4700:4400::6812:29f1/128
+2a06:98c1:310c::ac40:920f/128
+
+# ChatGPT — auth0.openai.com
+2606:4700:78::90:0:140/128
+2606:4700:78::90:0:141/128
+2606:4700:78::90:0:142/128
+2606:4700:78::90:0:143/128
+
+# ChatGPT — cdn.openaimerge.com
+2606:4700::6812:288/128
+2606:4700::6812:388/128
+
+# ChatGPT — cdn.platform.openai.com
+2606:4700:440c::ac40:9ad3/128
+2a06:98c1:310d::6812:212d/128
+
+# ChatGPT — chat.openai.com
+2606:4700:4402::6812:25e4/128
+2606:4700:4409::ac40:961c/128
+
 # ChatGPT — chatgpt.com
 2606:4700:4408::ac40:9bd1/128
 2a06:98c1:3101::6812:202f/128
 
+# ChatGPT — desktop.chat.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — files.oaiusercontent.com
+2606:4700:440b::ac40:9034/128
+2a06:98c1:310d::6812:2bcc/128
+
+# ChatGPT — help.openai.com
+2606:4700:440c::ac40:9ad3/128
+2a06:98c1:310d::6812:212d/128
+
+# ChatGPT — ios.chat.openai.com
+2a06:98c1:3100::6812:2755/128
+2a06:98c1:3103::ac40:94ab/128
+
+# ChatGPT — oaistatic.com
+2a06:98c1:3108::6812:299e/128
+2a06:98c1:310b::ac40:9262/128
+
+# ChatGPT — oaistatsig.com
+2606:4700:4401::6812:2a99/128
+2606:4700:440d::ac40:9167/128
+
+# ChatGPT — oaiusercontent.com
+# (no public DNS addresses found)
+
 # ChatGPT — openai.com
 # (no public DNS addresses found)
+
+# ChatGPT — platform.openai.com
+2606:4700:440c::ac40:9ad3/128
+2a06:98c1:310d::6812:212d/128
+
+# ChatGPT — setup.auth.openai.com
+2606:4700:4400::6812:23e9/128
+2606:4700:440d::ac40:9817/128
+
+# ChatGPT — status.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — tcr9i.chat.openai.com
+# (no public DNS addresses found)
+
+# ChatGPT — ws.chatgpt.com
+2606:4700:4403::ac40:94eb/128
+2606:4700:440b::6812:2715/128
