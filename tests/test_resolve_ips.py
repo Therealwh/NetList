@@ -102,8 +102,8 @@ class ResolveIpsTest(unittest.TestCase):
                 generate(root)
 
             common = (root / "common/ipv4.txt").read_text(encoding="utf-8")
-            self.assertIn("# YouTube — youtube.com\\n142.250.1.1", common)
-            self.assertIn("# YouTube — youtu.be\\n142.250.1.2", common)
+            self.assertIn("# YouTube — youtube.com\n142.250.1.1", common)
+            self.assertIn("# YouTube — youtu.be\n142.250.1.2", common)
             service = (root / "services/youtube/ipv4.txt").read_text(encoding="utf-8")
             self.assertLess(service.index("# YouTube — youtube.com"), service.index("142.250.1.1"))
             self.assertIn("# YouTube — youtu.be", service)
