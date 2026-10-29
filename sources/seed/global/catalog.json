@@ -4,117 +4,1042 @@
   "notice": "Стартовые кандидаты для проверки; список не подтверждает текущую блокировку или доступность.",
   "categories": [
     {
-      "id": "social",
-      "name": "Социальные сети",
+      "id": "adult_18",
+      "name": "Взрослые сайты 18+",
       "services": [
         {
-          "name": "Facebook",
-          "slug": "facebook",
+          "name": "Pornhub",
+          "slug": "pornhub",
           "domains": [
-            "facebook.com"
+            "pornhub.com"
           ],
-          "category": "social"
+          "category": "adult_18"
         },
         {
-          "name": "Instagram",
-          "slug": "instagram",
+          "name": "XVideos",
+          "slug": "xvideos",
           "domains": [
-            "instagram.com"
+            "xvideos.com"
           ],
-          "category": "social"
+          "category": "adult_18"
         },
         {
-          "name": "X",
-          "slug": "x",
+          "name": "XHamster",
+          "slug": "xhamster",
           "domains": [
-            "x.com",
-            "twitter.com"
+            "xhamster.com"
           ],
-          "category": "social"
+          "category": "adult_18"
         },
         {
-          "name": "TikTok",
-          "slug": "tiktok",
+          "name": "XNXX",
+          "slug": "xnxx",
           "domains": [
-            "tiktok.com"
+            "xnxx.com"
           ],
-          "category": "social"
+          "category": "adult_18"
         },
         {
-          "name": "Reddit",
-          "slug": "reddit",
+          "name": "RedTube",
+          "slug": "redtube",
           "domains": [
-            "reddit.com"
+            "redtube.com"
           ],
-          "category": "social"
+          "category": "adult_18"
         },
         {
-          "name": "Pinterest",
-          "slug": "pinterest",
+          "name": "YouPorn",
+          "slug": "youporn",
           "domains": [
-            "pinterest.com"
+            "youporn.com"
           ],
-          "category": "social"
+          "category": "adult_18"
         },
         {
-          "name": "LinkedIn",
-          "slug": "linkedin",
+          "name": "OnlyFans",
+          "slug": "onlyfans",
           "domains": [
-            "linkedin.com"
+            "onlyfans.com"
           ],
-          "category": "social"
+          "category": "adult_18"
         },
         {
-          "name": "Tumblr",
-          "slug": "tumblr",
+          "name": "Fansly",
+          "slug": "fansly",
           "domains": [
-            "tumblr.com"
+            "fansly.com"
           ],
-          "category": "social"
+          "category": "adult_18"
+        }
+      ],
+      "seed_domain_count": 8
+    },
+    {
+      "id": "ai",
+      "name": "Искусственный интеллект",
+      "services": [
+        {
+          "name": "ChatGPT",
+          "slug": "chatgpt",
+          "domains": [
+            "android.chat.openai.com",
+            "api.openai.com",
+            "auth.openai.com",
+            "auth0.openai.com",
+            "cdn.openaimerge.com",
+            "cdn.platform.openai.com",
+            "chat.openai.com",
+            "chatgpt.com",
+            "desktop.chat.openai.com",
+            "files.oaiusercontent.com",
+            "help.openai.com",
+            "ios.chat.openai.com",
+            "oaistatic.com",
+            "oaistatsig.com",
+            "oaiusercontent.com",
+            "openai.com",
+            "platform.openai.com",
+            "setup.auth.openai.com",
+            "status.openai.com",
+            "tcr9i.chat.openai.com",
+            "ws.chatgpt.com"
+          ],
+          "category": "ai"
         },
         {
-          "name": "Threads",
-          "slug": "threads",
+          "name": "Claude",
+          "slug": "claude",
           "domains": [
-            "threads.net"
+            "claude.ai",
+            "anthropic.com"
           ],
-          "category": "social"
+          "category": "ai"
         },
         {
-          "name": "Snapchat",
-          "slug": "snapchat",
+          "name": "Gemini",
+          "slug": "gemini",
           "domains": [
-            "snapchat.com"
+            "gemini.google.com",
+            "ai.google.dev"
           ],
-          "category": "social"
+          "category": "ai"
         },
         {
-          "name": "Discord",
-          "slug": "discord",
+          "name": "Perplexity",
+          "slug": "perplexity",
           "domains": [
-            "discord.com"
+            "perplexity.ai"
           ],
-          "category": "social"
+          "category": "ai"
         },
         {
-          "name": "VK",
-          "slug": "vk",
+          "name": "Midjourney",
+          "slug": "midjourney",
           "domains": [
-            "vk.com",
-            "vk.ru"
+            "midjourney.com"
           ],
-          "category": "social"
+          "category": "ai"
         },
         {
-          "name": "Одноклассники",
-          "slug": "service",
+          "name": "Hugging Face",
+          "slug": "hugging-face",
           "domains": [
-            "ok.ru"
+            "huggingface.co"
           ],
-          "category": "social"
+          "category": "ai"
+        },
+        {
+          "name": "Replicate",
+          "slug": "replicate",
+          "domains": [
+            "replicate.com"
+          ],
+          "category": "ai"
+        },
+        {
+          "name": "Mistral AI",
+          "slug": "mistral-ai",
+          "domains": [
+            "mistral.ai"
+          ],
+          "category": "ai"
+        },
+        {
+          "name": "DeepSeek",
+          "slug": "deepseek",
+          "domains": [
+            "deepseek.com"
+          ],
+          "category": "ai"
+        },
+        {
+          "name": "Grok",
+          "slug": "grok",
+          "domains": [
+            "grok.com",
+            "x.ai"
+          ],
+          "category": "ai"
+        },
+        {
+          "name": "Qwen",
+          "slug": "qwen",
+          "domains": [
+            "qwen.ai"
+          ],
+          "category": "ai"
+        },
+        {
+          "name": "OpenRouter",
+          "slug": "openrouter",
+          "domains": [
+            "openrouter.ai"
+          ]
         }
       ],
       "seed_domain_count": 15
+    },
+    {
+      "id": "cloud_cdn",
+      "name": "Хостинг, VPS, облака и CDN",
+      "services": [
+        {
+          "name": "AWS",
+          "slug": "aws",
+          "domains": [
+            "aws.amazon.com",
+            "amazonaws.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Google Cloud",
+          "slug": "google-cloud",
+          "domains": [
+            "cloud.google.com",
+            "googlecloud.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Microsoft Azure",
+          "slug": "microsoft-azure",
+          "domains": [
+            "azure.microsoft.com",
+            "azure.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Cloudflare",
+          "slug": "cloudflare",
+          "domains": [
+            "cloudflare.com",
+            "cloudflare-dns.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Fastly",
+          "slug": "fastly",
+          "domains": [
+            "fastly.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Akamai",
+          "slug": "akamai",
+          "domains": [
+            "akamai.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "DigitalOcean",
+          "slug": "digitalocean",
+          "domains": [
+            "digitalocean.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Hetzner",
+          "slug": "hetzner",
+          "domains": [
+            "hetzner.com",
+            "hetzner.de"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "OVHcloud",
+          "slug": "ovhcloud",
+          "domains": [
+            "ovhcloud.com",
+            "ovh.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Vultr",
+          "slug": "vultr",
+          "domains": [
+            "vultr.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Linode",
+          "slug": "linode",
+          "domains": [
+            "linode.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Vercel",
+          "slug": "vercel",
+          "domains": [
+            "vercel.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Netlify",
+          "slug": "netlify",
+          "domains": [
+            "netlify.com"
+          ],
+          "category": "cloud_cdn"
+        },
+        {
+          "name": "Render",
+          "slug": "render",
+          "domains": [
+            "render.com"
+          ],
+          "category": "cloud_cdn"
+        }
+      ],
+      "seed_domain_count": 20
+    },
+    {
+      "id": "developer_tools",
+      "name": "Разработка и репозитории",
+      "services": [
+        {
+          "name": "GitHub",
+          "slug": "github",
+          "domains": [
+            "github.blog",
+            "github.com",
+            "github.dev",
+            "github.io",
+            "githubassets.com",
+            "githubstatus.com",
+            "githubusercontent.com"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "GitLab",
+          "slug": "gitlab",
+          "domains": [
+            "gitlab.com"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "Bitbucket",
+          "slug": "bitbucket",
+          "domains": [
+            "bitbucket.org"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "SourceForge",
+          "slug": "sourceforge",
+          "domains": [
+            "sourceforge.net"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "Stack Overflow",
+          "slug": "stack-overflow",
+          "domains": [
+            "stackoverflow.com",
+            "stackexchange.com"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "npm",
+          "slug": "npm",
+          "domains": [
+            "npmjs.com"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "PyPI",
+          "slug": "pypi",
+          "domains": [
+            "pypi.org"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "crates.io",
+          "slug": "crates-io",
+          "domains": [
+            "crates.io"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "Docker Hub",
+          "slug": "docker-hub",
+          "domains": [
+            "hub.docker.com",
+            "docker.com"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "JetBrains",
+          "slug": "jetbrains",
+          "domains": [
+            "jetbrains.com"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "Codeberg",
+          "slug": "codeberg",
+          "domains": [
+            "codeberg.org"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "GitHub Pages",
+          "slug": "github-pages",
+          "domains": [
+            "github.io"
+          ],
+          "category": "developer_tools"
+        },
+        {
+          "name": "Linear",
+          "slug": "linear",
+          "domains": [
+            "linear.app"
+          ]
+        }
+      ],
+      "seed_domain_count": 15
+    },
+    {
+      "id": "file_sharing",
+      "name": "Файлообменники и облака",
+      "services": [
+        {
+          "name": "Google Drive",
+          "slug": "google-drive",
+          "domains": [
+            "drive.google.com"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "Dropbox",
+          "slug": "dropbox",
+          "domains": [
+            "addtodropbox.com",
+            "api-content-au.dropbox.com",
+            "api-content-eu.dropbox.com",
+            "api-content-jp.dropbox.com",
+            "api-content-photos.dropbox.com",
+            "api-content-uk.dropbox.com",
+            "api-content.dropbox.com",
+            "api-content1-eu.dropbox.com",
+            "app.hellosign.com",
+            "bolt.dropbox.com",
+            "content-au.dropboxapi.com",
+            "content-eu.dropboxapi.com",
+            "content-jp.dropboxapi.com",
+            "content-uk.dropboxapi.com",
+            "content.dropboxapi.com",
+            "dash.ai",
+            "db.tt",
+            "dl-au.dropbox.com",
+            "dl-au.dropboxusercontent.com",
+            "dl-client.dropbox.com",
+            "dl-doc.dropbox.com",
+            "dl-doc.dropboxusercontent.com",
+            "dl-eu.dropbox.com",
+            "dl-eu.dropboxusercontent.com",
+            "dl-jp.dropbox.com",
+            "dl-jp.dropboxusercontent.com",
+            "dl-uk.dropbox.com",
+            "dl-uk.dropboxusercontent.com",
+            "dl-web-au.dropbox.com",
+            "dl-web-eu.dropbox.com",
+            "dl-web-jp.dropbox.com",
+            "dl-web-uk.dropbox.com",
+            "dl-web.dropbox.com",
+            "dl.dropbox.com",
+            "dl.dropboxusercontent.com",
+            "docsend.com",
+            "dropbox-dns.com",
+            "dropbox.com",
+            "dropbox.tech",
+            "dropbox.zendesk.com",
+            "dropboxapi.com",
+            "dropboxbusiness.com",
+            "dropboxcaptcha.com",
+            "dropboxexperiment.com",
+            "dropboxforum.com",
+            "dropboxforums.com",
+            "dropboxinsiders.com",
+            "dropboxlegal.com",
+            "dropboxmail.com",
+            "dropboxpartners.com",
+            "dropboxstatic.com",
+            "dropboxteam.com",
+            "dropboxusercontent.com",
+            "files-au.dropbox.com",
+            "files-eu.dropbox.com",
+            "files-jp.dropbox.com",
+            "files-uk.dropbox.com",
+            "getdropbox.com",
+            "hellofax.com",
+            "learn.dropbox.com",
+            "links.dropbox.com"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "OneDrive",
+          "slug": "onedrive",
+          "domains": [
+            "onedrive.live.com",
+            "sharepoint.com"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "MEGA",
+          "slug": "mega",
+          "domains": [
+            "mega.nz"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "MediaFire",
+          "slug": "mediafire",
+          "domains": [
+            "mediafire.com"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "WeTransfer",
+          "slug": "wetransfer",
+          "domains": [
+            "wetransfer.com"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "SwissTransfer",
+          "slug": "swisstransfer",
+          "domains": [
+            "swisstransfer.com"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "Pixeldrain",
+          "slug": "pixeldrain",
+          "domains": [
+            "pixeldrain.com"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "Send Anywhere",
+          "slug": "send-anywhere",
+          "domains": [
+            "send-anywhere.com"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "Яндекс Диск",
+          "slug": "service",
+          "domains": [
+            "disk.yandex.ru"
+          ],
+          "category": "file_sharing"
+        },
+        {
+          "name": "Облако Mail.ru",
+          "slug": "mail-ru",
+          "domains": [
+            "cloud.mail.ru"
+          ],
+          "category": "file_sharing"
+        }
+      ],
+      "seed_domain_count": 12
+    },
+    {
+      "id": "finance_marketplaces",
+      "name": "Финансы, платежи и маркетплейсы",
+      "services": [
+        {
+          "name": "PayPal",
+          "slug": "paypal",
+          "domains": [
+            "paypal.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Stripe",
+          "slug": "stripe",
+          "domains": [
+            "stripe.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Wise",
+          "slug": "wise",
+          "domains": [
+            "wise.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Revolut",
+          "slug": "revolut",
+          "domains": [
+            "revolut.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Binance",
+          "slug": "binance",
+          "domains": [
+            "binance.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Coinbase",
+          "slug": "coinbase",
+          "domains": [
+            "coinbase.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Amazon",
+          "slug": "amazon",
+          "domains": [
+            "amazon.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "eBay",
+          "slug": "ebay",
+          "domains": [
+            "ebay.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Etsy",
+          "slug": "etsy",
+          "domains": [
+            "etsy.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "AliExpress",
+          "slug": "aliexpress",
+          "domains": [
+            "aliexpress.com"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Ozon",
+          "slug": "ozon",
+          "domains": [
+            "ozon.ru"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Wildberries",
+          "slug": "wildberries",
+          "domains": [
+            "wildberries.ru",
+            "wb.ru"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Avito",
+          "slug": "avito",
+          "domains": [
+            "avito.ru"
+          ],
+          "category": "finance_marketplaces"
+        },
+        {
+          "name": "Яндекс Маркет",
+          "slug": "service",
+          "domains": [
+            "market.yandex.ru"
+          ],
+          "category": "finance_marketplaces"
+        }
+      ],
+      "seed_domain_count": 15
+    },
+    {
+      "id": "gambling",
+      "name": "Казино и азартные игры",
+      "services": [
+        {
+          "name": "Stake",
+          "slug": "stake",
+          "domains": [
+            "stake.com"
+          ],
+          "category": "gambling"
+        },
+        {
+          "name": "1xBet",
+          "slug": "1xbet",
+          "domains": [
+            "1xbet.com"
+          ],
+          "category": "gambling"
+        },
+        {
+          "name": "Bet365",
+          "slug": "bet365",
+          "domains": [
+            "bet365.com"
+          ],
+          "category": "gambling"
+        },
+        {
+          "name": "Betfair",
+          "slug": "betfair",
+          "domains": [
+            "betfair.com"
+          ],
+          "category": "gambling"
+        },
+        {
+          "name": "Pinnacle",
+          "slug": "pinnacle",
+          "domains": [
+            "pinnacle.com"
+          ],
+          "category": "gambling"
+        },
+        {
+          "name": "PokerStars",
+          "slug": "pokerstars",
+          "domains": [
+            "pokerstars.com"
+          ],
+          "category": "gambling"
+        },
+        {
+          "name": "BC.Game",
+          "slug": "bc-game",
+          "domains": [
+            "bc.game"
+          ],
+          "category": "gambling"
+        }
+      ],
+      "seed_domain_count": 7
+    },
+    {
+      "id": "gaming",
+      "name": "Игры и игровые платформы",
+      "services": [
+        {
+          "name": "Steam",
+          "slug": "steam",
+          "domains": [
+            "steampowered.com",
+            "steamcommunity.com",
+            "steamstatic.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Epic Games",
+          "slug": "epic-games",
+          "domains": [
+            "epicgames.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "EA",
+          "slug": "ea",
+          "domains": [
+            "ea.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Ubisoft",
+          "slug": "ubisoft",
+          "domains": [
+            "ubisoft.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Battle.net",
+          "slug": "battle-net",
+          "domains": [
+            "battle.net",
+            "blizzard.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "PlayStation",
+          "slug": "playstation",
+          "domains": [
+            "playstation.com",
+            "sony.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Xbox",
+          "slug": "xbox",
+          "domains": [
+            "xbox.com",
+            "xboxlive.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Nintendo",
+          "slug": "nintendo",
+          "domains": [
+            "nintendo.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Riot Games",
+          "slug": "riot-games",
+          "domains": [
+            "riotgames.com",
+            "leagueoflegends.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Minecraft",
+          "slug": "minecraft",
+          "domains": [
+            "minecraft.net"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Roblox",
+          "slug": "roblox",
+          "domains": [
+            "roblox.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Faceit",
+          "slug": "faceit",
+          "domains": [
+            "faceit.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Modrinth",
+          "slug": "modrinth",
+          "domains": [
+            "modrinth.com"
+          ],
+          "category": "gaming"
+        },
+        {
+          "name": "Nexus Mods",
+          "slug": "nexus-mods",
+          "domains": [
+            "nexusmods.com"
+          ],
+          "category": "gaming"
+        }
+      ],
+      "seed_domain_count": 20
+    },
+    {
+      "id": "it_business_education",
+      "name": "IT, бизнес и образование",
+      "services": [
+        {
+          "name": "Figma",
+          "slug": "figma",
+          "domains": [
+            "figma-gov.com",
+            "figma-gov.site",
+            "figma.app",
+            "figma.com",
+            "figma.site",
+            "figmaweave.com",
+            "makeproxy-c.figma.site",
+            "makeproxy-m.figma.site"
+          ]
+        },
+        {
+          "name": "Slack",
+          "slug": "slack",
+          "domains": [
+            "slack.com",
+            "wss-backup.slack.com",
+            "wss-mobile.slack.com",
+            "wss-primary.slack.com"
+          ]
+        },
+        {
+          "name": "Zoom",
+          "slug": "zoom",
+          "domains": [
+            "zoom.com",
+            "zoom.us",
+            "zoomapp.cloud",
+            "zoomstatus.com"
+          ]
+        },
+        {
+          "name": "Notion",
+          "slug": "notion",
+          "domains": [
+            "notion.site",
+            "notion.so"
+          ]
+        },
+        {
+          "name": "Canva",
+          "slug": "canva",
+          "domains": [
+            "canva.com"
+          ]
+        },
+        {
+          "name": "DeepL",
+          "slug": "deepl",
+          "domains": [
+            "deepl.com"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mail",
+      "name": "Почта и коммуникации",
+      "services": [
+        {
+          "name": "Gmail",
+          "slug": "gmail",
+          "domains": [
+            "gmail.com"
+          ],
+          "category": "mail"
+        },
+        {
+          "name": "Outlook",
+          "slug": "outlook",
+          "domains": [
+            "outlook.com",
+            "outlook.office.com"
+          ],
+          "category": "mail"
+        },
+        {
+          "name": "Proton Mail",
+          "slug": "proton-mail",
+          "domains": [
+            "proton.me",
+            "protonmail.com"
+          ],
+          "category": "mail"
+        },
+        {
+          "name": "Tuta",
+          "slug": "tuta",
+          "domains": [
+            "tuta.com"
+          ],
+          "category": "mail"
+        },
+        {
+          "name": "Fastmail",
+          "slug": "fastmail",
+          "domains": [
+            "fastmail.com"
+          ],
+          "category": "mail"
+        },
+        {
+          "name": "Яндекс Почта",
+          "slug": "service",
+          "domains": [
+            "mail.yandex.ru"
+          ],
+          "category": "mail"
+        },
+        {
+          "name": "Mail.ru",
+          "slug": "mail-ru",
+          "domains": [
+            "mail.ru"
+          ],
+          "category": "mail"
+        },
+        {
+          "name": "Zoho",
+          "slug": "zoho",
+          "domains": [
+            "zoho.com"
+          ],
+          "category": "mail"
+        }
+      ],
+      "seed_domain_count": 10
     },
     {
       "id": "messengers",
@@ -203,200 +1128,6 @@
         }
       ],
       "seed_domain_count": 13
-    },
-    {
-      "id": "search_portals",
-      "name": "Поиск и порталы",
-      "services": [
-        {
-          "name": "Google",
-          "slug": "google",
-          "domains": [
-            "accounts.google.com",
-            "admin.google.com",
-            "analytics.google.com",
-            "doubleclick.net",
-            "g.co",
-            "google-analytics.com",
-            "google.co.uk",
-            "google.com",
-            "googleadservices.com",
-            "googleapis.com",
-            "googlemail.com",
-            "googlesyndication.com",
-            "googletagmanager.com",
-            "googleusercontent.com",
-            "googlevideo.com",
-            "gstatic.com"
-          ],
-          "category": "search_portals"
-        },
-        {
-          "name": "Bing",
-          "slug": "bing",
-          "domains": [
-            "bing.com"
-          ],
-          "category": "search_portals"
-        },
-        {
-          "name": "Yahoo",
-          "slug": "yahoo",
-          "domains": [
-            "yahoo.com"
-          ],
-          "category": "search_portals"
-        },
-        {
-          "name": "DuckDuckGo",
-          "slug": "duckduckgo",
-          "domains": [
-            "duckduckgo.com"
-          ],
-          "category": "search_portals"
-        },
-        {
-          "name": "Baidu",
-          "slug": "baidu",
-          "domains": [
-            "baidu.com"
-          ],
-          "category": "search_portals"
-        },
-        {
-          "name": "Wikipedia",
-          "slug": "wikipedia",
-          "domains": [
-            "wikipedia.org"
-          ],
-          "category": "search_portals"
-        },
-        {
-          "name": "Яндекс",
-          "slug": "service",
-          "domains": [
-            "yandex.ru",
-            "ya.ru",
-            "yandex.com"
-          ],
-          "category": "search_portals"
-        },
-        {
-          "name": "Mail.ru",
-          "slug": "mail-ru",
-          "domains": [
-            "mail.ru"
-          ],
-          "category": "search_portals"
-        }
-      ],
-      "seed_domain_count": 12
-    },
-    {
-      "id": "video_streaming",
-      "name": "Видео и стриминг",
-      "services": [
-        {
-          "name": "YouTube",
-          "slug": "youtube",
-          "domains": [
-            "youtube.com",
-            "youtu.be",
-            "youtube-nocookie.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Twitch",
-          "slug": "twitch",
-          "domains": [
-            "twitch.tv",
-            "jtvnw.net"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Netflix",
-          "slug": "netflix",
-          "domains": [
-            "netflix.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Prime Video",
-          "slug": "prime-video",
-          "domains": [
-            "primevideo.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Disney+",
-          "slug": "disney",
-          "domains": [
-            "disneyplus.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Hulu",
-          "slug": "hulu",
-          "domains": [
-            "hulu.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Kick",
-          "slug": "kick",
-          "domains": [
-            "kick.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Rumble",
-          "slug": "rumble",
-          "domains": [
-            "rumble.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Vimeo",
-          "slug": "vimeo",
-          "domains": [
-            "vimeo.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Dailymotion",
-          "slug": "dailymotion",
-          "domains": [
-            "dailymotion.com"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "Rutube",
-          "slug": "rutube",
-          "domains": [
-            "rutube.ru"
-          ],
-          "category": "video_streaming"
-        },
-        {
-          "name": "VK Видео",
-          "slug": "vk",
-          "domains": [
-            "vkvideo.ru"
-          ],
-          "category": "video_streaming"
-        }
-      ],
-      "seed_domain_count": 15
     },
     {
       "id": "movies",
@@ -632,857 +1363,6 @@
       "seed_domain_count": 13
     },
     {
-      "id": "torrents_p2p",
-      "name": "Торренты и P2P",
-      "services": [
-        {
-          "name": "The Pirate Bay",
-          "slug": "the-pirate-bay",
-          "domains": [
-            "thepiratebay.org"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "1337x",
-          "slug": "1337x",
-          "domains": [
-            "1337x.to"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "TorrentGalaxy",
-          "slug": "torrentgalaxy",
-          "domains": [
-            "torrentgalaxy.to"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "YTS",
-          "slug": "yts",
-          "domains": [
-            "yts.mx"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "EZTV",
-          "slug": "eztv",
-          "domains": [
-            "eztv.re"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "LimeTorrents",
-          "slug": "limetorrents",
-          "domains": [
-            "limetorrents.lol"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "Nyaa",
-          "slug": "nyaa",
-          "domains": [
-            "nyaa.si"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "RuTracker",
-          "slug": "rutracker",
-          "domains": [
-            "rutracker.org"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "RuTor",
-          "slug": "rutor",
-          "domains": [
-            "rutor.info"
-          ],
-          "category": "torrents_p2p"
-        },
-        {
-          "name": "Internet Archive",
-          "slug": "internet-archive",
-          "domains": [
-            "archive.org"
-          ],
-          "category": "torrents_p2p"
-        }
-      ],
-      "seed_domain_count": 10
-    },
-    {
-      "id": "file_sharing",
-      "name": "Файлообменники и облака",
-      "services": [
-        {
-          "name": "Google Drive",
-          "slug": "google-drive",
-          "domains": [
-            "drive.google.com"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "Dropbox",
-          "slug": "dropbox",
-          "domains": [
-            "addtodropbox.com",
-            "api-content-au.dropbox.com",
-            "api-content-eu.dropbox.com",
-            "api-content-jp.dropbox.com",
-            "api-content-photos.dropbox.com",
-            "api-content-uk.dropbox.com",
-            "api-content.dropbox.com",
-            "api-content1-eu.dropbox.com",
-            "app.hellosign.com",
-            "bolt.dropbox.com",
-            "content-au.dropboxapi.com",
-            "content-eu.dropboxapi.com",
-            "content-jp.dropboxapi.com",
-            "content-uk.dropboxapi.com",
-            "content.dropboxapi.com",
-            "dash.ai",
-            "db.tt",
-            "dl-au.dropbox.com",
-            "dl-au.dropboxusercontent.com",
-            "dl-client.dropbox.com",
-            "dl-doc.dropbox.com",
-            "dl-doc.dropboxusercontent.com",
-            "dl-eu.dropbox.com",
-            "dl-eu.dropboxusercontent.com",
-            "dl-jp.dropbox.com",
-            "dl-jp.dropboxusercontent.com",
-            "dl-uk.dropbox.com",
-            "dl-uk.dropboxusercontent.com",
-            "dl-web-au.dropbox.com",
-            "dl-web-eu.dropbox.com",
-            "dl-web-jp.dropbox.com",
-            "dl-web-uk.dropbox.com",
-            "dl-web.dropbox.com",
-            "dl.dropbox.com",
-            "dl.dropboxusercontent.com",
-            "docsend.com",
-            "dropbox-dns.com",
-            "dropbox.com",
-            "dropbox.tech",
-            "dropbox.zendesk.com",
-            "dropboxapi.com",
-            "dropboxbusiness.com",
-            "dropboxcaptcha.com",
-            "dropboxexperiment.com",
-            "dropboxforum.com",
-            "dropboxforums.com",
-            "dropboxinsiders.com",
-            "dropboxlegal.com",
-            "dropboxmail.com",
-            "dropboxpartners.com",
-            "dropboxstatic.com",
-            "dropboxteam.com",
-            "dropboxusercontent.com",
-            "files-au.dropbox.com",
-            "files-eu.dropbox.com",
-            "files-jp.dropbox.com",
-            "files-uk.dropbox.com",
-            "getdropbox.com",
-            "hellofax.com",
-            "learn.dropbox.com",
-            "links.dropbox.com"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "OneDrive",
-          "slug": "onedrive",
-          "domains": [
-            "onedrive.live.com",
-            "sharepoint.com"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "MEGA",
-          "slug": "mega",
-          "domains": [
-            "mega.nz"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "MediaFire",
-          "slug": "mediafire",
-          "domains": [
-            "mediafire.com"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "WeTransfer",
-          "slug": "wetransfer",
-          "domains": [
-            "wetransfer.com"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "SwissTransfer",
-          "slug": "swisstransfer",
-          "domains": [
-            "swisstransfer.com"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "Pixeldrain",
-          "slug": "pixeldrain",
-          "domains": [
-            "pixeldrain.com"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "Send Anywhere",
-          "slug": "send-anywhere",
-          "domains": [
-            "send-anywhere.com"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "Яндекс Диск",
-          "slug": "service",
-          "domains": [
-            "disk.yandex.ru"
-          ],
-          "category": "file_sharing"
-        },
-        {
-          "name": "Облако Mail.ru",
-          "slug": "mail-ru",
-          "domains": [
-            "cloud.mail.ru"
-          ],
-          "category": "file_sharing"
-        }
-      ],
-      "seed_domain_count": 12
-    },
-    {
-      "id": "ai",
-      "name": "Искусственный интеллект",
-      "services": [
-        {
-          "name": "ChatGPT",
-          "slug": "chatgpt",
-          "domains": [
-            "android.chat.openai.com",
-            "api.openai.com",
-            "auth.openai.com",
-            "auth0.openai.com",
-            "cdn.openaimerge.com",
-            "cdn.platform.openai.com",
-            "chat.openai.com",
-            "chatgpt.com",
-            "desktop.chat.openai.com",
-            "files.oaiusercontent.com",
-            "help.openai.com",
-            "ios.chat.openai.com",
-            "oaistatic.com",
-            "oaistatsig.com",
-            "oaiusercontent.com",
-            "openai.com",
-            "platform.openai.com",
-            "setup.auth.openai.com",
-            "status.openai.com",
-            "tcr9i.chat.openai.com",
-            "ws.chatgpt.com"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Claude",
-          "slug": "claude",
-          "domains": [
-            "claude.ai",
-            "anthropic.com"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Gemini",
-          "slug": "gemini",
-          "domains": [
-            "gemini.google.com",
-            "ai.google.dev"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Perplexity",
-          "slug": "perplexity",
-          "domains": [
-            "perplexity.ai"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Midjourney",
-          "slug": "midjourney",
-          "domains": [
-            "midjourney.com"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Hugging Face",
-          "slug": "hugging-face",
-          "domains": [
-            "huggingface.co"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Replicate",
-          "slug": "replicate",
-          "domains": [
-            "replicate.com"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Mistral AI",
-          "slug": "mistral-ai",
-          "domains": [
-            "mistral.ai"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "DeepSeek",
-          "slug": "deepseek",
-          "domains": [
-            "deepseek.com"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Grok",
-          "slug": "grok",
-          "domains": [
-            "grok.com",
-            "x.ai"
-          ],
-          "category": "ai"
-        },
-        {
-          "name": "Qwen",
-          "slug": "qwen",
-          "domains": [
-            "qwen.ai"
-          ],
-          "category": "ai"
-        }
-      ],
-      "seed_domain_count": 15
-    },
-    {
-      "id": "developer_tools",
-      "name": "Разработка и репозитории",
-      "services": [
-        {
-          "name": "GitHub",
-          "slug": "github",
-          "domains": [
-            "github.com",
-            "githubusercontent.com"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "GitLab",
-          "slug": "gitlab",
-          "domains": [
-            "gitlab.com"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "Bitbucket",
-          "slug": "bitbucket",
-          "domains": [
-            "bitbucket.org"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "SourceForge",
-          "slug": "sourceforge",
-          "domains": [
-            "sourceforge.net"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "Stack Overflow",
-          "slug": "stack-overflow",
-          "domains": [
-            "stackoverflow.com",
-            "stackexchange.com"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "npm",
-          "slug": "npm",
-          "domains": [
-            "npmjs.com"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "PyPI",
-          "slug": "pypi",
-          "domains": [
-            "pypi.org"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "crates.io",
-          "slug": "crates-io",
-          "domains": [
-            "crates.io"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "Docker Hub",
-          "slug": "docker-hub",
-          "domains": [
-            "hub.docker.com",
-            "docker.com"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "JetBrains",
-          "slug": "jetbrains",
-          "domains": [
-            "jetbrains.com"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "Codeberg",
-          "slug": "codeberg",
-          "domains": [
-            "codeberg.org"
-          ],
-          "category": "developer_tools"
-        },
-        {
-          "name": "GitHub Pages",
-          "slug": "github-pages",
-          "domains": [
-            "github.io"
-          ],
-          "category": "developer_tools"
-        }
-      ],
-      "seed_domain_count": 15
-    },
-    {
-      "id": "cloud_cdn",
-      "name": "Хостинг, VPS, облака и CDN",
-      "services": [
-        {
-          "name": "AWS",
-          "slug": "aws",
-          "domains": [
-            "aws.amazon.com",
-            "amazonaws.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Google Cloud",
-          "slug": "google-cloud",
-          "domains": [
-            "cloud.google.com",
-            "googlecloud.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Microsoft Azure",
-          "slug": "microsoft-azure",
-          "domains": [
-            "azure.microsoft.com",
-            "azure.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Cloudflare",
-          "slug": "cloudflare",
-          "domains": [
-            "cloudflare.com",
-            "cloudflare-dns.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Fastly",
-          "slug": "fastly",
-          "domains": [
-            "fastly.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Akamai",
-          "slug": "akamai",
-          "domains": [
-            "akamai.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "DigitalOcean",
-          "slug": "digitalocean",
-          "domains": [
-            "digitalocean.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Hetzner",
-          "slug": "hetzner",
-          "domains": [
-            "hetzner.com",
-            "hetzner.de"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "OVHcloud",
-          "slug": "ovhcloud",
-          "domains": [
-            "ovhcloud.com",
-            "ovh.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Vultr",
-          "slug": "vultr",
-          "domains": [
-            "vultr.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Linode",
-          "slug": "linode",
-          "domains": [
-            "linode.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Vercel",
-          "slug": "vercel",
-          "domains": [
-            "vercel.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Netlify",
-          "slug": "netlify",
-          "domains": [
-            "netlify.com"
-          ],
-          "category": "cloud_cdn"
-        },
-        {
-          "name": "Render",
-          "slug": "render",
-          "domains": [
-            "render.com"
-          ],
-          "category": "cloud_cdn"
-        }
-      ],
-      "seed_domain_count": 20
-    },
-    {
-      "id": "gaming",
-      "name": "Игры и игровые платформы",
-      "services": [
-        {
-          "name": "Steam",
-          "slug": "steam",
-          "domains": [
-            "steampowered.com",
-            "steamcommunity.com",
-            "steamstatic.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Epic Games",
-          "slug": "epic-games",
-          "domains": [
-            "epicgames.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "EA",
-          "slug": "ea",
-          "domains": [
-            "ea.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Ubisoft",
-          "slug": "ubisoft",
-          "domains": [
-            "ubisoft.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Battle.net",
-          "slug": "battle-net",
-          "domains": [
-            "battle.net",
-            "blizzard.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "PlayStation",
-          "slug": "playstation",
-          "domains": [
-            "playstation.com",
-            "sony.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Xbox",
-          "slug": "xbox",
-          "domains": [
-            "xbox.com",
-            "xboxlive.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Nintendo",
-          "slug": "nintendo",
-          "domains": [
-            "nintendo.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Riot Games",
-          "slug": "riot-games",
-          "domains": [
-            "riotgames.com",
-            "leagueoflegends.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Minecraft",
-          "slug": "minecraft",
-          "domains": [
-            "minecraft.net"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Roblox",
-          "slug": "roblox",
-          "domains": [
-            "roblox.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Faceit",
-          "slug": "faceit",
-          "domains": [
-            "faceit.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Modrinth",
-          "slug": "modrinth",
-          "domains": [
-            "modrinth.com"
-          ],
-          "category": "gaming"
-        },
-        {
-          "name": "Nexus Mods",
-          "slug": "nexus-mods",
-          "domains": [
-            "nexusmods.com"
-          ],
-          "category": "gaming"
-        }
-      ],
-      "seed_domain_count": 20
-    },
-    {
-      "id": "adult_18",
-      "name": "Взрослые сайты 18+",
-      "services": [
-        {
-          "name": "Pornhub",
-          "slug": "pornhub",
-          "domains": [
-            "pornhub.com"
-          ],
-          "category": "adult_18"
-        },
-        {
-          "name": "XVideos",
-          "slug": "xvideos",
-          "domains": [
-            "xvideos.com"
-          ],
-          "category": "adult_18"
-        },
-        {
-          "name": "XHamster",
-          "slug": "xhamster",
-          "domains": [
-            "xhamster.com"
-          ],
-          "category": "adult_18"
-        },
-        {
-          "name": "XNXX",
-          "slug": "xnxx",
-          "domains": [
-            "xnxx.com"
-          ],
-          "category": "adult_18"
-        },
-        {
-          "name": "RedTube",
-          "slug": "redtube",
-          "domains": [
-            "redtube.com"
-          ],
-          "category": "adult_18"
-        },
-        {
-          "name": "YouPorn",
-          "slug": "youporn",
-          "domains": [
-            "youporn.com"
-          ],
-          "category": "adult_18"
-        },
-        {
-          "name": "OnlyFans",
-          "slug": "onlyfans",
-          "domains": [
-            "onlyfans.com"
-          ],
-          "category": "adult_18"
-        },
-        {
-          "name": "Fansly",
-          "slug": "fansly",
-          "domains": [
-            "fansly.com"
-          ],
-          "category": "adult_18"
-        }
-      ],
-      "seed_domain_count": 8
-    },
-    {
-      "id": "gambling",
-      "name": "Казино и азартные игры",
-      "services": [
-        {
-          "name": "Stake",
-          "slug": "stake",
-          "domains": [
-            "stake.com"
-          ],
-          "category": "gambling"
-        },
-        {
-          "name": "1xBet",
-          "slug": "1xbet",
-          "domains": [
-            "1xbet.com"
-          ],
-          "category": "gambling"
-        },
-        {
-          "name": "Bet365",
-          "slug": "bet365",
-          "domains": [
-            "bet365.com"
-          ],
-          "category": "gambling"
-        },
-        {
-          "name": "Betfair",
-          "slug": "betfair",
-          "domains": [
-            "betfair.com"
-          ],
-          "category": "gambling"
-        },
-        {
-          "name": "Pinnacle",
-          "slug": "pinnacle",
-          "domains": [
-            "pinnacle.com"
-          ],
-          "category": "gambling"
-        },
-        {
-          "name": "PokerStars",
-          "slug": "pokerstars",
-          "domains": [
-            "pokerstars.com"
-          ],
-          "category": "gambling"
-        },
-        {
-          "name": "BC.Game",
-          "slug": "bc-game",
-          "domains": [
-            "bc.game"
-          ],
-          "category": "gambling"
-        }
-      ],
-      "seed_domain_count": 7
-    },
-    {
       "id": "news_education",
       "name": "Новости, справка и образование",
       "services": [
@@ -1595,126 +1475,6 @@
       "seed_domain_count": 14
     },
     {
-      "id": "finance_marketplaces",
-      "name": "Финансы, платежи и маркетплейсы",
-      "services": [
-        {
-          "name": "PayPal",
-          "slug": "paypal",
-          "domains": [
-            "paypal.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Stripe",
-          "slug": "stripe",
-          "domains": [
-            "stripe.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Wise",
-          "slug": "wise",
-          "domains": [
-            "wise.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Revolut",
-          "slug": "revolut",
-          "domains": [
-            "revolut.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Binance",
-          "slug": "binance",
-          "domains": [
-            "binance.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Coinbase",
-          "slug": "coinbase",
-          "domains": [
-            "coinbase.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Amazon",
-          "slug": "amazon",
-          "domains": [
-            "amazon.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "eBay",
-          "slug": "ebay",
-          "domains": [
-            "ebay.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Etsy",
-          "slug": "etsy",
-          "domains": [
-            "etsy.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "AliExpress",
-          "slug": "aliexpress",
-          "domains": [
-            "aliexpress.com"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Ozon",
-          "slug": "ozon",
-          "domains": [
-            "ozon.ru"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Wildberries",
-          "slug": "wildberries",
-          "domains": [
-            "wildberries.ru",
-            "wb.ru"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Avito",
-          "slug": "avito",
-          "domains": [
-            "avito.ru"
-          ],
-          "category": "finance_marketplaces"
-        },
-        {
-          "name": "Яндекс Маркет",
-          "slug": "service",
-          "domains": [
-            "market.yandex.ru"
-          ],
-          "category": "finance_marketplaces"
-        }
-      ],
-      "seed_domain_count": 15
-    },
-    {
       "id": "os_security",
       "name": "ОС, обновления и безопасность",
       "services": [
@@ -1758,8 +1518,20 @@
           "name": "Apple",
           "slug": "apple",
           "domains": [
+            "apple-cloudkit.com",
+            "apple-dns.net",
+            "apple-livephotoskit.com",
+            "apple-native-relay.apple.com",
             "apple.com",
-            "icloud.com"
+            "cdn-apple.com",
+            "gc.apple.com",
+            "icloud-content.com",
+            "icloud.apple.com",
+            "icloud.com",
+            "iwork.apple.com",
+            "metrics.icloud.com",
+            "pong.icloud.com",
+            "probe.icloud.com"
           ],
           "category": "os_security"
         },
@@ -1843,58 +1615,92 @@
       "seed_domain_count": 18
     },
     {
-      "id": "mail",
-      "name": "Почта и коммуникации",
+      "id": "search_portals",
+      "name": "Поиск и порталы",
       "services": [
         {
-          "name": "Gmail",
-          "slug": "gmail",
+          "name": "Google",
+          "slug": "google",
           "domains": [
-            "gmail.com"
+            "accounts.google.com",
+            "admin.google.com",
+            "aistudio.google.com",
+            "analytics.google.com",
+            "calendar.google.com",
+            "docs.google.com",
+            "doubleclick.net",
+            "g.co",
+            "google-analytics.com",
+            "google.co.uk",
+            "google.com",
+            "googleadservices.com",
+            "googleapis.com",
+            "googlemail.com",
+            "googlesyndication.com",
+            "googletagmanager.com",
+            "googleusercontent.com",
+            "googlevideo.com",
+            "gstatic.com",
+            "keep.google.com",
+            "mail.google.com",
+            "meet.google.com",
+            "notebook.google.com",
+            "script.google.com",
+            "sheets.google.com",
+            "sites.google.com",
+            "slides.google.com"
           ],
-          "category": "mail"
+          "category": "search_portals"
         },
         {
-          "name": "Outlook",
-          "slug": "outlook",
+          "name": "Bing",
+          "slug": "bing",
           "domains": [
-            "outlook.com",
-            "outlook.office.com"
+            "bing.com"
           ],
-          "category": "mail"
+          "category": "search_portals"
         },
         {
-          "name": "Proton Mail",
-          "slug": "proton-mail",
+          "name": "Yahoo",
+          "slug": "yahoo",
           "domains": [
-            "proton.me",
-            "protonmail.com"
+            "yahoo.com"
           ],
-          "category": "mail"
+          "category": "search_portals"
         },
         {
-          "name": "Tuta",
-          "slug": "tuta",
+          "name": "DuckDuckGo",
+          "slug": "duckduckgo",
           "domains": [
-            "tuta.com"
+            "duckduckgo.com"
           ],
-          "category": "mail"
+          "category": "search_portals"
         },
         {
-          "name": "Fastmail",
-          "slug": "fastmail",
+          "name": "Baidu",
+          "slug": "baidu",
           "domains": [
-            "fastmail.com"
+            "baidu.com"
           ],
-          "category": "mail"
+          "category": "search_portals"
         },
         {
-          "name": "Яндекс Почта",
+          "name": "Wikipedia",
+          "slug": "wikipedia",
+          "domains": [
+            "wikipedia.org"
+          ],
+          "category": "search_portals"
+        },
+        {
+          "name": "Яндекс",
           "slug": "service",
           "domains": [
-            "mail.yandex.ru"
+            "yandex.ru",
+            "ya.ru",
+            "yandex.com"
           ],
-          "category": "mail"
+          "category": "search_portals"
         },
         {
           "name": "Mail.ru",
@@ -1902,18 +1708,324 @@
           "domains": [
             "mail.ru"
           ],
-          "category": "mail"
+          "category": "search_portals"
         },
         {
-          "name": "Zoho",
-          "slug": "zoho",
+          "name": "Brave",
+          "slug": "brave",
           "domains": [
-            "zoho.com"
+            "brave.com",
+            "search.brave.com"
+          ]
+        }
+      ],
+      "seed_domain_count": 12
+    },
+    {
+      "id": "social",
+      "name": "Социальные сети",
+      "services": [
+        {
+          "name": "Facebook",
+          "slug": "facebook",
+          "domains": [
+            "facebook.com"
           ],
-          "category": "mail"
+          "category": "social"
+        },
+        {
+          "name": "Instagram",
+          "slug": "instagram",
+          "domains": [
+            "instagram.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "X",
+          "slug": "x",
+          "domains": [
+            "x.com",
+            "twitter.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "TikTok",
+          "slug": "tiktok",
+          "domains": [
+            "tiktok.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "Reddit",
+          "slug": "reddit",
+          "domains": [
+            "reddit.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "Pinterest",
+          "slug": "pinterest",
+          "domains": [
+            "pinterest.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "LinkedIn",
+          "slug": "linkedin",
+          "domains": [
+            "linkedin.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "Tumblr",
+          "slug": "tumblr",
+          "domains": [
+            "tumblr.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "Threads",
+          "slug": "threads",
+          "domains": [
+            "threads.net"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "Snapchat",
+          "slug": "snapchat",
+          "domains": [
+            "snapchat.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "Discord",
+          "slug": "discord",
+          "domains": [
+            "discord.com"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "VK",
+          "slug": "vk",
+          "domains": [
+            "vk.com",
+            "vk.ru"
+          ],
+          "category": "social"
+        },
+        {
+          "name": "Одноклассники",
+          "slug": "service",
+          "domains": [
+            "ok.ru"
+          ],
+          "category": "social"
+        }
+      ],
+      "seed_domain_count": 15
+    },
+    {
+      "id": "torrents_p2p",
+      "name": "Торренты и P2P",
+      "services": [
+        {
+          "name": "The Pirate Bay",
+          "slug": "the-pirate-bay",
+          "domains": [
+            "thepiratebay.org"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "1337x",
+          "slug": "1337x",
+          "domains": [
+            "1337x.to"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "TorrentGalaxy",
+          "slug": "torrentgalaxy",
+          "domains": [
+            "torrentgalaxy.to"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "YTS",
+          "slug": "yts",
+          "domains": [
+            "yts.mx"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "EZTV",
+          "slug": "eztv",
+          "domains": [
+            "eztv.re"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "LimeTorrents",
+          "slug": "limetorrents",
+          "domains": [
+            "limetorrents.lol"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "Nyaa",
+          "slug": "nyaa",
+          "domains": [
+            "nyaa.si"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "RuTracker",
+          "slug": "rutracker",
+          "domains": [
+            "rutracker.org"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "RuTor",
+          "slug": "rutor",
+          "domains": [
+            "rutor.info"
+          ],
+          "category": "torrents_p2p"
+        },
+        {
+          "name": "Internet Archive",
+          "slug": "internet-archive",
+          "domains": [
+            "archive.org"
+          ],
+          "category": "torrents_p2p"
         }
       ],
       "seed_domain_count": 10
+    },
+    {
+      "id": "video_streaming",
+      "name": "Видео и стриминг",
+      "services": [
+        {
+          "name": "YouTube",
+          "slug": "youtube",
+          "domains": [
+            "youtube.com",
+            "youtu.be",
+            "youtube-nocookie.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Twitch",
+          "slug": "twitch",
+          "domains": [
+            "twitch.tv",
+            "jtvnw.net"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Netflix",
+          "slug": "netflix",
+          "domains": [
+            "netflix.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Prime Video",
+          "slug": "prime-video",
+          "domains": [
+            "primevideo.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Disney+",
+          "slug": "disney",
+          "domains": [
+            "disneyplus.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Hulu",
+          "slug": "hulu",
+          "domains": [
+            "hulu.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Kick",
+          "slug": "kick",
+          "domains": [
+            "kick.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Rumble",
+          "slug": "rumble",
+          "domains": [
+            "rumble.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Vimeo",
+          "slug": "vimeo",
+          "domains": [
+            "vimeo.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Dailymotion",
+          "slug": "dailymotion",
+          "domains": [
+            "dailymotion.com"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "Rutube",
+          "slug": "rutube",
+          "domains": [
+            "rutube.ru"
+          ],
+          "category": "video_streaming"
+        },
+        {
+          "name": "VK Видео",
+          "slug": "vk",
+          "domains": [
+            "vkvideo.ru"
+          ],
+          "category": "video_streaming"
+        }
+      ],
+      "seed_domain_count": 15
     }
   ]
 }

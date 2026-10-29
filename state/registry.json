@@ -215,8 +215,20 @@
       "name": "Apple",
       "slug": "apple",
       "domains": [
+        "apple-cloudkit.com",
+        "apple-dns.net",
+        "apple-livephotoskit.com",
+        "apple-native-relay.apple.com",
         "apple.com",
-        "icloud.com"
+        "cdn-apple.com",
+        "gc.apple.com",
+        "icloud-content.com",
+        "icloud.apple.com",
+        "icloud.com",
+        "iwork.apple.com",
+        "metrics.icloud.com",
+        "pong.icloud.com",
+        "probe.icloud.com"
       ],
       "categories": [
         "os_security"
@@ -226,7 +238,19 @@
       ],
       "counts": {
         "apple.com": 1,
-        "icloud.com": 1
+        "icloud.com": 1,
+        "probe.icloud.com": 1,
+        "pong.icloud.com": 1,
+        "metrics.icloud.com": 1,
+        "apple-native-relay.apple.com": 1,
+        "apple-dns.net": 1,
+        "icloud-content.com": 1,
+        "icloud.apple.com": 1,
+        "cdn-apple.com": 1,
+        "apple-cloudkit.com": 1,
+        "apple-livephotoskit.com": 1,
+        "gc.apple.com": 1,
+        "iwork.apple.com": 1
       }
     },
     {
@@ -494,6 +518,40 @@
       }
     },
     {
+      "name": "Brave",
+      "slug": "brave",
+      "domains": [
+        "brave.com",
+        "search.brave.com"
+      ],
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "brave.com": 1,
+        "search.brave.com": 1
+      }
+    },
+    {
+      "name": "Canva",
+      "slug": "canva",
+      "domains": [
+        "canva.com"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "canva.com": 1
+      }
+    },
+    {
       "name": "ChatGPT",
       "slug": "chatgpt",
       "domains": [
@@ -697,6 +755,22 @@
       "counts": {
         "deb.debian.org": 1,
         "debian.org": 1
+      }
+    },
+    {
+      "name": "DeepL",
+      "slug": "deepl",
+      "domains": [
+        "deepl.com"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "deepl.com": 1
       }
     },
     {
@@ -1222,6 +1296,36 @@
       }
     },
     {
+      "name": "Figma",
+      "slug": "figma",
+      "domains": [
+        "figma-gov.com",
+        "figma-gov.site",
+        "figma.app",
+        "figma.com",
+        "figma.site",
+        "figmaweave.com",
+        "makeproxy-c.figma.site",
+        "makeproxy-m.figma.site"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "figma.com": 1,
+        "figma.site": 1,
+        "figma.app": 1,
+        "figmaweave.com": 1,
+        "figma-gov.com": 1,
+        "figma-gov.site": 1,
+        "makeproxy-c.figma.site": 1,
+        "makeproxy-m.figma.site": 1
+      }
+    },
+    {
       "name": "Filmix",
       "slug": "filmix",
       "domains": [
@@ -1325,7 +1429,12 @@
       "name": "GitHub",
       "slug": "github",
       "domains": [
+        "github.blog",
         "github.com",
+        "github.dev",
+        "github.io",
+        "githubassets.com",
+        "githubstatus.com",
         "githubusercontent.com"
       ],
       "categories": [
@@ -1336,7 +1445,12 @@
       ],
       "counts": {
         "github.com": 1,
-        "githubusercontent.com": 1
+        "githubusercontent.com": 1,
+        "githubassets.com": 1,
+        "github.dev": 1,
+        "github.io": 1,
+        "github.blog": 1,
+        "githubstatus.com": 1
       }
     },
     {
@@ -1409,7 +1523,10 @@
       "domains": [
         "accounts.google.com",
         "admin.google.com",
+        "aistudio.google.com",
         "analytics.google.com",
+        "calendar.google.com",
+        "docs.google.com",
         "doubleclick.net",
         "g.co",
         "google-analytics.com",
@@ -1422,7 +1539,15 @@
         "googletagmanager.com",
         "googleusercontent.com",
         "googlevideo.com",
-        "gstatic.com"
+        "gstatic.com",
+        "keep.google.com",
+        "mail.google.com",
+        "meet.google.com",
+        "notebook.google.com",
+        "script.google.com",
+        "sheets.google.com",
+        "sites.google.com",
+        "slides.google.com"
       ],
       "categories": [
         "search_portals"
@@ -1446,7 +1571,18 @@
         "doubleclick.net": 1,
         "analytics.google.com": 1,
         "admin.google.com": 1,
-        "accounts.google.com": 1
+        "accounts.google.com": 1,
+        "docs.google.com": 1,
+        "sheets.google.com": 1,
+        "slides.google.com": 1,
+        "sites.google.com": 1,
+        "meet.google.com": 1,
+        "calendar.google.com": 1,
+        "keep.google.com": 1,
+        "script.google.com": 1,
+        "notebook.google.com": 1,
+        "aistudio.google.com": 1,
+        "mail.google.com": 1
       }
     },
     {
@@ -1911,6 +2047,22 @@
       ],
       "counts": {
         "line.me": 1
+      }
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "domains": [
+        "linear.app"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "linear.app": 1
       }
     },
     {
@@ -2481,6 +2633,24 @@
       }
     },
     {
+      "name": "Notion",
+      "slug": "notion",
+      "domains": [
+        "notion.site",
+        "notion.so"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "notion.so": 1,
+        "notion.site": 1
+      }
+    },
+    {
       "name": "npm",
       "slug": "npm",
       "domains": [
@@ -2612,6 +2782,22 @@
       ],
       "counts": {
         "onlyfans.com": 1
+      }
+    },
+    {
+      "name": "OpenRouter",
+      "slug": "openrouter",
+      "domains": [
+        "openrouter.ai"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "openrouter.ai": 1
       }
     },
     {
@@ -3474,6 +3660,28 @@
       ],
       "counts": {
         "skype.com": 1
+      }
+    },
+    {
+      "name": "Slack",
+      "slug": "slack",
+      "domains": [
+        "slack.com",
+        "wss-backup.slack.com",
+        "wss-mobile.slack.com",
+        "wss-primary.slack.com"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "slack.com": 1,
+        "wss-primary.slack.com": 1,
+        "wss-backup.slack.com": 1,
+        "wss-mobile.slack.com": 1
       }
     },
     {
@@ -4622,6 +4830,28 @@
       ],
       "counts": {
         "zona.ru": 1
+      }
+    },
+    {
+      "name": "Zoom",
+      "slug": "zoom",
+      "domains": [
+        "zoom.com",
+        "zoom.us",
+        "zoomapp.cloud",
+        "zoomstatus.com"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "zoom.us": 1,
+        "zoom.com": 1,
+        "zoomstatus.com": 1,
+        "zoomapp.cloud": 1
       }
     },
     {

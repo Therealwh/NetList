@@ -1336,5 +1336,68 @@
     ],
     "license": "CC0",
     "source": "simple-icons"
+  },
+  "figma": {
+    "candidates": [
+      "figma"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
+  },
+  "slack": {
+    "candidates": [
+      "slack"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
+  },
+  "zoom": {
+    "candidates": [
+      "zoom"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
+  },
+  "notion": {
+    "candidates": [
+      "notion"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
+  },
+  "canva": {
+    "candidates": [
+      "canva"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
+  },
+  "linear": {
+    "candidates": [
+      "linear"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
+  },
+  "deepl": {
+    "candidates": [
+      "deepl"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
+  },
+  "brave": {
+    "candidates": [
+      "brave"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
+  },
+  "openrouter": {
+    "candidates": [
+      "openrouter"
+    ],
+    "source": "simple-icons",
+    "license": "CC0"
   }
 }

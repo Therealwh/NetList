@@ -1,4 +1,4 @@
-﻿category_id,category_name,service_name,domain,seed_status
+category_id,category_name,service_name,domain,seed_status
 social,Социальные сети,Facebook,facebook.com,candidate_unverified
 social,Социальные сети,Instagram,instagram.com,candidate_unverified
 social,Социальные сети,X,x.com,candidate_unverified
@@ -378,3 +378,55 @@ search_portals,Поиск и порталы,Google,doubleclick.net,candidate_unv
 search_portals,Поиск и порталы,Google,analytics.google.com,candidate_unverified
 search_portals,Поиск и порталы,Google,admin.google.com,candidate_unverified
 search_portals,Поиск и порталы,Google,accounts.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,docs.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,sheets.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,slides.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,sites.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,meet.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,calendar.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,keep.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,script.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,notebook.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,aistudio.google.com,candidate_unverified
+search_portals,Поисковые порталы,Google,mail.google.com,candidate_unverified
+developer_tools,Инструменты разработчика,GitHub,githubassets.com,candidate_unverified
+developer_tools,Инструменты разработчика,GitHub,github.dev,candidate_unverified
+developer_tools,Инструменты разработчика,GitHub,github.io,candidate_unverified
+developer_tools,Инструменты разработчика,GitHub,github.blog,candidate_unverified
+developer_tools,Инструменты разработчика,GitHub,githubstatus.com,candidate_unverified
+os_security,ОС и безопасность,Apple,probe.icloud.com,candidate_unverified
+os_security,ОС и безопасность,Apple,pong.icloud.com,candidate_unverified
+os_security,ОС и безопасность,Apple,metrics.icloud.com,candidate_unverified
+os_security,ОС и безопасность,Apple,apple-native-relay.apple.com,candidate_unverified
+os_security,ОС и безопасность,Apple,apple-dns.net,candidate_unverified
+os_security,ОС и безопасность,Apple,icloud-content.com,candidate_unverified
+os_security,ОС и безопасность,Apple,icloud.apple.com,candidate_unverified
+os_security,ОС и безопасность,Apple,cdn-apple.com,candidate_unverified
+os_security,ОС и безопасность,Apple,apple-cloudkit.com,candidate_unverified
+os_security,ОС и безопасность,Apple,apple-livephotoskit.com,candidate_unverified
+os_security,ОС и безопасность,Apple,gc.apple.com,candidate_unverified
+os_security,ОС и безопасность,Apple,iwork.apple.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Figma,figma.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Figma,figma.site,candidate_unverified
+it_business_education,IT, бизнес и образование,Figma,figma.app,candidate_unverified
+it_business_education,IT, бизнес и образование,Figma,figmaweave.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Figma,figma-gov.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Figma,figma-gov.site,candidate_unverified
+it_business_education,IT, бизнес и образование,Figma,makeproxy-c.figma.site,candidate_unverified
+it_business_education,IT, бизнес и образование,Figma,makeproxy-m.figma.site,candidate_unverified
+it_business_education,IT, бизнес и образование,Slack,slack.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Slack,wss-primary.slack.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Slack,wss-backup.slack.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Slack,wss-mobile.slack.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Zoom,zoom.us,candidate_unverified
+it_business_education,IT, бизнес и образование,Zoom,zoom.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Zoom,zoomstatus.com,candidate_unverified
+it_business_education,IT, бизнес и образование,Zoom,zoomapp.cloud,candidate_unverified
+it_business_education,IT, бизнес и образование,Notion,notion.so,candidate_unverified
+it_business_education,IT, бизнес и образование,Notion,notion.site,candidate_unverified
+it_business_education,IT, бизнес и образование,Canva,canva.com,candidate_unverified
+developer_tools,Инструменты разработчика,Linear,linear.app,candidate_unverified
+it_business_education,IT, бизнес и образование,DeepL,deepl.com,candidate_unverified
+search_portals,Поисковые порталы,Brave,brave.com,candidate_unverified
+search_portals,Поисковые порталы,Brave,search.brave.com,candidate_unverified
+ai,Искусственный интеллект,OpenRouter,openrouter.ai,candidate_unverified
