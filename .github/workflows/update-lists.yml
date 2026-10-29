@@ -32,6 +32,9 @@ jobs:
       - name: Пересборка каталога из источников
         run: python -m scripts.netlist_data build
 
+      - name: Логотипы — поиск и сборка манифеста (§15.5)
+        run: python -m scripts.netlist_data logos discover
+
       - name: Защита от потери данных
         run: python -m scripts.netlist_data guards
 

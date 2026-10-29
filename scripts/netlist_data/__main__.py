@@ -62,6 +62,10 @@ def cmd_check_structure(args: argparse.Namespace) -> int:
 
 
 def main(argv: list[str] | None = None) -> int:
+    import sys
+
+    if argv is None:
+        argv = sys.argv[1:]
     parser = argparse.ArgumentParser(prog="netlist_data")
     parser.add_argument("--repo-root", default=".")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -80,6 +84,12 @@ def main(argv: list[str] | None = None) -> int:
     sub.add_parser("check-structure", help="запрещённые файлы").set_defaults(
         func=cmd_check_structure
     )
+
+    if argv and argv[0] == "logos":
+        from . import logos
+
+        return logos.main(argv)
+
     args = parser.parse_args(argv)
     return args.func(args)
 

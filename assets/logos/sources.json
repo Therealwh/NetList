@@ -1,0 +1,1027 @@
+{
+  "aeroflot": {
+    "candidates": [
+      "aeroflot"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "akamai": {
+    "candidates": [
+      "akamai"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "aliexpress": {
+    "candidates": [
+      "aliexpress"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "amazon": {
+    "candidates": [
+      "amazonprime",
+      "amazon"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "amazon-music": {
+    "candidates": [
+      "amazonmusic",
+      "amazon"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "android": {
+    "candidates": [
+      "android"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "apple": {
+    "candidates": [
+      "apple"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "apple-music": {
+    "candidates": [
+      "applemusic"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "arch-linux": {
+    "candidates": [
+      "archlinux"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "aws": {
+    "candidates": [
+      "amazonwebservices",
+      "amazonaws",
+      "aws"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "baidu": {
+    "candidates": [
+      "baidu"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "bandcamp": {
+    "candidates": [
+      "bandcamp"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "battle-net": {
+    "candidates": [
+      "battledotnet"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "betfair": {
+    "candidates": [
+      "betfair"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "binance": {
+    "candidates": [
+      "binance"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "bing": {
+    "candidates": [
+      "microsoftbing",
+      "bing"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "bitbucket": {
+    "candidates": [
+      "bitbucket"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "chatgpt": {
+    "candidates": [
+      "openai"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "claude": {
+    "candidates": [
+      "claude",
+      "anthropic"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "cloudflare": {
+    "candidates": [
+      "cloudflare"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "codeberg": {
+    "candidates": [
+      "codeberg"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "coinbase": {
+    "candidates": [
+      "coinbase"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "coursera": {
+    "candidates": [
+      "coursera"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "dailymotion": {
+    "candidates": [
+      "dailymotion"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "debian": {
+    "candidates": [
+      "debian"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "deepseek": {
+    "candidates": [
+      "deepseek"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "deezer": {
+    "candidates": [
+      "deezer"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "deutsche-welle": {
+    "candidates": [
+      "deutschewelle"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "digitalocean": {
+    "candidates": [
+      "digitalocean"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "discord": {
+    "candidates": [
+      "discord"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "disney": {
+    "candidates": [
+      "disneyplus",
+      "disney"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "docker-hub": {
+    "candidates": [
+      "docker"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "dropbox": {
+    "candidates": [
+      "dropbox"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "duckduckgo": {
+    "candidates": [
+      "duckduckgo"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "ea": {
+    "candidates": [
+      "ea"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "ebay": {
+    "candidates": [
+      "ebay"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "edx": {
+    "candidates": [
+      "edx"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "epic-games": {
+    "candidates": [
+      "epicgames"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "etsy": {
+    "candidates": [
+      "etsy"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "facebook": {
+    "candidates": [
+      "facebook"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "faceit": {
+    "candidates": [
+      "faceit"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "fastly": {
+    "candidates": [
+      "fastly"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "fedora": {
+    "candidates": [
+      "fedora"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "gemini": {
+    "candidates": [
+      "googlegemini",
+      "gemini"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "github": {
+    "candidates": [
+      "github"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "github-pages": {
+    "candidates": [
+      "githubpages",
+      "github"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "gitlab": {
+    "candidates": [
+      "gitlab"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "gmail": {
+    "candidates": [
+      "gmail"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "google": {
+    "candidates": [
+      "google"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "google-cloud": {
+    "candidates": [
+      "googlecloud"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "google-drive": {
+    "candidates": [
+      "googledrive"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "grok": {
+    "candidates": [
+      "grok",
+      "x"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "headhunter": {
+    "candidates": [
+      "headhunter"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "hetzner": {
+    "candidates": [
+      "hetzner"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "hugging-face": {
+    "candidates": [
+      "huggingface"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "hulu": {
+    "candidates": [
+      "hulu"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "instagram": {
+    "candidates": [
+      "instagram"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "internet-archive": {
+    "candidates": [
+      "internetarchive"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "jetbrains": {
+    "candidates": [
+      "jetbrains"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "kaspersky": {
+    "candidates": [
+      "kaspersky"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "khan-academy": {
+    "candidates": [
+      "khanacademy"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "kick": {
+    "candidates": [
+      "kick"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "kinopoisk": {
+    "candidates": [
+      "kinopoisk"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "last-fm": {
+    "candidates": [
+      "lastdotfm"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "line": {
+    "candidates": [
+      "line"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "linkedin": {
+    "candidates": [
+      "linkedin"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "linode": {
+    "candidates": [
+      "linode",
+      "akamai"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "malwarebytes": {
+    "candidates": [
+      "malwarebytes"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "max": {
+    "candidates": [
+      "max"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "mediafire": {
+    "candidates": [
+      "mediafire"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "mega": {
+    "candidates": [
+      "mega"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "microsoft-azure": {
+    "candidates": [
+      "azure",
+      "microsoftazure"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "midjourney": {
+    "candidates": [
+      "midjourney"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "mistral-ai": {
+    "candidates": [
+      "mistralai"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "mixcloud": {
+    "candidates": [
+      "mixcloud"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "modrinth": {
+    "candidates": [
+      "modrinth"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "mozilla": {
+    "candidates": [
+      "mozilla"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "netflix": {
+    "candidates": [
+      "netflix"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "netlify": {
+    "candidates": [
+      "netlify"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "nexus-mods": {
+    "candidates": [
+      "nexusmods"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "nintendo": {
+    "candidates": [
+      "nintendo3ds",
+      "nintendo"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "npm": {
+    "candidates": [
+      "npm"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "odnoklassniki": {
+    "candidates": [
+      "odnoklassnikiclassifier",
+      "odnoklassniki"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "onedrive": {
+    "candidates": [
+      "microsoftonedrive",
+      "onedrive"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "onlyfans": {
+    "candidates": [
+      "onlyfans"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "outlook": {
+    "candidates": [
+      "microsoftoutlook",
+      "outlook"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "ovhcloud": {
+    "candidates": [
+      "ovhcloud"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "paypal": {
+    "candidates": [
+      "paypal"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "perplexity": {
+    "candidates": [
+      "perplexity"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "pinterest": {
+    "candidates": [
+      "pinterest"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "playstation": {
+    "candidates": [
+      "playstation"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "prime-video": {
+    "candidates": [
+      "primevideo"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "proton-mail": {
+    "candidates": [
+      "protonmail"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "pypi": {
+    "candidates": [
+      "pypi"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "qwen": {
+    "candidates": [
+      "qwen"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "reddit": {
+    "candidates": [
+      "reddit"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "render": {
+    "candidates": [
+      "render"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "replicate": {
+    "candidates": [
+      "replicate"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "revolut": {
+    "candidates": [
+      "revolut"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "riot-games": {
+    "candidates": [
+      "riotgames"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "roblox": {
+    "candidates": [
+      "roblox"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "rumble": {
+    "candidates": [
+      "rumble"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "selectel": {
+    "candidates": [
+      "selectel"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "signal": {
+    "candidates": [
+      "signal"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "skype": {
+    "candidates": [
+      "skype"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "snapchat": {
+    "candidates": [
+      "snapchat"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "soundcloud": {
+    "candidates": [
+      "soundcloud"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "sourceforge": {
+    "candidates": [
+      "sourceforge"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "spotify": {
+    "candidates": [
+      "spotify"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "stack-overflow": {
+    "candidates": [
+      "stackoverflow"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "steam": {
+    "candidates": [
+      "steam"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "stripe": {
+    "candidates": [
+      "stripe"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "telegram": {
+    "candidates": [
+      "telegram"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "the-guardian": {
+    "candidates": [
+      "theguardian"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "the-pirate-bay": {
+    "candidates": [
+      "thepiratebay"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "threads": {
+    "candidates": [
+      "threads"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "tidal": {
+    "candidates": [
+      "tidal"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "tiktok": {
+    "candidates": [
+      "tiktok"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "tumblr": {
+    "candidates": [
+      "tumblr"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "tuta": {
+    "candidates": [
+      "tutanota",
+      "tuta"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "twitch": {
+    "candidates": [
+      "twitch"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "ubisoft": {
+    "candidates": [
+      "ubisoft"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "ubuntu": {
+    "candidates": [
+      "ubuntu"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "vercel": {
+    "candidates": [
+      "vercel"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "viber": {
+    "candidates": [
+      "viber"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "vimeo": {
+    "candidates": [
+      "vimeo"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "vk": {
+    "candidates": [
+      "vk"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "vk-messendzher": {
+    "candidates": [
+      "vk"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "vk-video": {
+    "candidates": [
+      "vk"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "vultr": {
+    "candidates": [
+      "vultr"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "wechat": {
+    "candidates": [
+      "wechat"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "wetransfer": {
+    "candidates": [
+      "wetransfer"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "whatsapp": {
+    "candidates": [
+      "whatsapp"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "wikipedia": {
+    "candidates": [
+      "wikipedia"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "wise": {
+    "candidates": [
+      "wise"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "x": {
+    "candidates": [
+      "x"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "xbox": {
+    "candidates": [
+      "xbox"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "yahoo": {
+    "candidates": [
+      "yahoo"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "yandex": {
+    "candidates": [
+      "yandex"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "yandex-cloud": {
+    "candidates": [
+      "yandexcloud"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "yandex-go": {
+    "candidates": [
+      "go"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "youtube": {
+    "candidates": [
+      "youtube"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "youtube-music": {
+    "candidates": [
+      "youtubemusic"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
+  "zoho": {
+    "candidates": [
+      "zoho"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  }
+}

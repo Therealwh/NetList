@@ -1,0 +1,2487 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-29T17:04:10+00:00",
+  "source": "netlist-data",
+  "logos": {
+    "aeroflot": {
+      "service_id": "aeroflot",
+      "name": "Аэрофлот",
+      "primary_domain": "aeroflot.ru",
+      "file": "aeroflot.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:33+00:00",
+      "sha256": "cc3babc53e5ebd6e94444180810ff40d2ad6b483eeb599ecdb6b0465fae328e3"
+    },
+    "akamai": {
+      "service_id": "akamai",
+      "name": "Akamai",
+      "primary_domain": "akamai.com",
+      "file": "akamai.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:33+00:00",
+      "sha256": "6ad08dc2620f4a6bafae34cd3c8787ddf01c1cda5f0d940a53ae1800b820382c"
+    },
+    "aliexpress": {
+      "service_id": "aliexpress",
+      "name": "AliExpress",
+      "primary_domain": "aliexpress.com",
+      "file": "aliexpress.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:33+00:00",
+      "sha256": "ae4737b9194b8e714548e593b641f10721c0af5de96368bc6b43aece48051d08"
+    },
+    "android": {
+      "service_id": "android",
+      "name": "Android",
+      "primary_domain": "android.com",
+      "file": "android.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:34+00:00",
+      "sha256": "ff571c5e21163f07dd7176d4670411344f55409d36eb6346b402210ad7c02c4b"
+    },
+    "apple": {
+      "service_id": "apple",
+      "name": "Apple",
+      "primary_domain": "apple.com",
+      "file": "apple.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:34+00:00",
+      "sha256": "2a1509dccd25e6d2bc7a11a8e52941077e1a48555e192ce638699b9f083c2a7c"
+    },
+    "apple-music": {
+      "service_id": "apple-music",
+      "name": "Apple Music",
+      "primary_domain": "music.apple.com",
+      "file": "apple-music.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:34+00:00",
+      "sha256": "365264bcf032a1acb6f18554cf7d34b1b2a75f7e571848629173bbfd0e1cadbb"
+    },
+    "arch-linux": {
+      "service_id": "arch-linux",
+      "name": "Arch Linux",
+      "primary_domain": "archlinux.org",
+      "file": "arch-linux.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:34+00:00",
+      "sha256": "2b1d26b4a1194c40dc068b2aba4b3a5f9ea83b6a8f1da04c229d03fe80308bfa"
+    },
+    "baidu": {
+      "service_id": "baidu",
+      "name": "Baidu",
+      "primary_domain": "baidu.com",
+      "file": "baidu.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:35+00:00",
+      "sha256": "e2eeaca4c5273ecff775ee4b357091678a7587b2d606190f8e5b7dce4d93a781"
+    },
+    "bandcamp": {
+      "service_id": "bandcamp",
+      "name": "Bandcamp",
+      "primary_domain": "bandcamp.com",
+      "file": "bandcamp.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:35+00:00",
+      "sha256": "d8aba588023c3dc412ec4f8780b1f1c5c49c5079bc3b8b05ad4e175e9445a4d8"
+    },
+    "battle-net": {
+      "service_id": "battle-net",
+      "name": "Battle.net",
+      "primary_domain": "battle.net",
+      "file": "battle-net.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:35+00:00",
+      "sha256": "78206c9c5e7fd24803cd50cd5c71c3bb1b02def42ca4f5d186e318eb9e247b7e"
+    },
+    "betfair": {
+      "service_id": "betfair",
+      "name": "Betfair",
+      "primary_domain": "betfair.com",
+      "file": "betfair.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:36+00:00",
+      "sha256": "cafcd36e81ea953bc8f947601d376f920d857931e93b62f74a9167409eda03dd"
+    },
+    "binance": {
+      "service_id": "binance",
+      "name": "Binance",
+      "primary_domain": "binance.com",
+      "file": "binance.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:36+00:00",
+      "sha256": "a788deaeb7860bd15518ba5c7e062607b5256cfb8d2c464cb0f2779b74806405"
+    },
+    "bitbucket": {
+      "service_id": "bitbucket",
+      "name": "Bitbucket",
+      "primary_domain": "bitbucket.org",
+      "file": "bitbucket.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "887f3bbce5d63f56958fb3dbe3c1b850314ef71a1f21dd5f2099637f01e4b241"
+    },
+    "chatgpt": {
+      "service_id": "chatgpt",
+      "name": "ChatGPT",
+      "primary_domain": "chatgpt.com",
+      "file": "chatgpt.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "2b4a04ddc2395b20d168694d3850ce2050a702c4a0cdeb4d8b31b9a970481a8c"
+    },
+    "claude": {
+      "service_id": "claude",
+      "name": "Claude",
+      "primary_domain": "anthropic.com",
+      "file": "claude.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "2d6fda79eb18ddccca35b799eeb3cece0dfabc22520ce3b10abd25668df9fa93"
+    },
+    "cloudflare": {
+      "service_id": "cloudflare",
+      "name": "Cloudflare",
+      "primary_domain": "cloudflare-dns.com",
+      "file": "cloudflare.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "408096d99907fd99e0863cb5d73f77a72537c6a85fd8d5e2704178a83a891f08"
+    },
+    "codeberg": {
+      "service_id": "codeberg",
+      "name": "Codeberg",
+      "primary_domain": "codeberg.org",
+      "file": "codeberg.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "eaf747a2f672831a4ede8f01435500340c6ee92705c80d148ec3ddcb233bce08"
+    },
+    "coinbase": {
+      "service_id": "coinbase",
+      "name": "Coinbase",
+      "primary_domain": "coinbase.com",
+      "file": "coinbase.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "94dd360e4a750ce3a902c8bd7c83d9db8078bf923e4a040b538d92e0967a9d4d"
+    },
+    "coursera": {
+      "service_id": "coursera",
+      "name": "Coursera",
+      "primary_domain": "coursera.org",
+      "file": "coursera.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "18771614094903a590de01de89d01fbfcc250fb2c94a409bbc7aba648c9123f8"
+    },
+    "dailymotion": {
+      "service_id": "dailymotion",
+      "name": "Dailymotion",
+      "primary_domain": "dailymotion.com",
+      "file": "dailymotion.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "4abf1802dcfbfff5b5e59f6db57f6cb8fdb7c7a2769a4a44352433f7e2d4f109"
+    },
+    "debian": {
+      "service_id": "debian",
+      "name": "Debian",
+      "primary_domain": "deb.debian.org",
+      "file": "debian.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:37+00:00",
+      "sha256": "8835536d63c80990f9c90c935982ba329d163e707c894278ca6bd73258d1962b"
+    },
+    "deutsche-welle": {
+      "service_id": "deutsche-welle",
+      "name": "Deutsche Welle",
+      "primary_domain": "dw.com",
+      "file": "deutsche-welle.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:38+00:00",
+      "sha256": "1a5bceed71715a308ad8b31677bcc39103ad2be7ff584e69011636c990e4d32e"
+    },
+    "digitalocean": {
+      "service_id": "digitalocean",
+      "name": "DigitalOcean",
+      "primary_domain": "digitalocean.com",
+      "file": "digitalocean.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:38+00:00",
+      "sha256": "21c374a43a70f8a833ea6c84c904e64f5a20586714b1e0a16b34cb1d9cf29998"
+    },
+    "discord": {
+      "service_id": "discord",
+      "name": "Discord",
+      "primary_domain": "discord.com",
+      "file": "discord.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:38+00:00",
+      "sha256": "1d364b72c9eaf1fe37d17ca88cd8fb541308dc0f3b09e2ab3b824f380b3493d5"
+    },
+    "docker-hub": {
+      "service_id": "docker-hub",
+      "name": "Docker Hub",
+      "primary_domain": "docker.com",
+      "file": "docker-hub.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:39+00:00",
+      "sha256": "65571291c261ef869c31540a38f3ca0f0ee3bb73f179c172211c8860f19a6359"
+    },
+    "dropbox": {
+      "service_id": "dropbox",
+      "name": "Dropbox",
+      "primary_domain": "dropbox.com",
+      "file": "dropbox.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:39+00:00",
+      "sha256": "1c9ea4ac8e318f3f6a598568df1a38ece03b7bc52a3a72d48c9e760340d7aeec"
+    },
+    "duckduckgo": {
+      "service_id": "duckduckgo",
+      "name": "DuckDuckGo",
+      "primary_domain": "duckduckgo.com",
+      "file": "duckduckgo.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:39+00:00",
+      "sha256": "82648474f6ddd359747a4bdb843b326bca081d6c0fa15230d0fe3451d2316d63"
+    },
+    "ea": {
+      "service_id": "ea",
+      "name": "EA",
+      "primary_domain": "ea.com",
+      "file": "ea.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:39+00:00",
+      "sha256": "b44e7f78dcb26868c4f55bd06519b195055eccdb9937b053dc0b4da14301e77a"
+    },
+    "ebay": {
+      "service_id": "ebay",
+      "name": "eBay",
+      "primary_domain": "ebay.com",
+      "file": "ebay.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:39+00:00",
+      "sha256": "846e8d8ac6cea49766e7c62e095e739d115ed355f9b63bf46067f14c9343c745"
+    },
+    "edx": {
+      "service_id": "edx",
+      "name": "edX",
+      "primary_domain": "edx.org",
+      "file": "edx.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:39+00:00",
+      "sha256": "8e2c4537e3acc8f6a9fc2629414d3165e2c09e79e190fd305078c5178bc7f3aa"
+    },
+    "epic-games": {
+      "service_id": "epic-games",
+      "name": "Epic Games",
+      "primary_domain": "epicgames.com",
+      "file": "epic-games.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:39+00:00",
+      "sha256": "a19b1eb5a46edc11a7dc7f1ce6fa1701ea4e4cf451feec88441c523f4b50cde3"
+    },
+    "etsy": {
+      "service_id": "etsy",
+      "name": "Etsy",
+      "primary_domain": "etsy.com",
+      "file": "etsy.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:39+00:00",
+      "sha256": "4780de1a0c4949e614557a1fe1d3deb5f57fc0f1f901d19cafcf77091b7d5202"
+    },
+    "facebook": {
+      "service_id": "facebook",
+      "name": "Facebook",
+      "primary_domain": "facebook.com",
+      "file": "facebook.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:40+00:00",
+      "sha256": "b06d18d844ed621b89faffb1a33440cc0ec4f1ffea9f36191f50db19a47c59a6"
+    },
+    "faceit": {
+      "service_id": "faceit",
+      "name": "Faceit",
+      "primary_domain": "faceit.com",
+      "file": "faceit.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:40+00:00",
+      "sha256": "570dd8a10febd6f18a0aacf67d44149f50b6e8300d510a8facafc97f3163f684"
+    },
+    "fastly": {
+      "service_id": "fastly",
+      "name": "Fastly",
+      "primary_domain": "fastly.com",
+      "file": "fastly.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:40+00:00",
+      "sha256": "fabacbab5d67d7d7d99517d9fad7fb15d29cfed7b2fb3bfa70522b95416d6cba"
+    },
+    "fedora": {
+      "service_id": "fedora",
+      "name": "Fedora",
+      "primary_domain": "fedoraproject.org",
+      "file": "fedora.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:40+00:00",
+      "sha256": "c234757373cab5ed80d7b2df8ff26ea039bcec16a9e9a47adbd29f5d0e94489a"
+    },
+    "gemini": {
+      "service_id": "gemini",
+      "name": "Gemini",
+      "primary_domain": "ai.google.dev",
+      "file": "gemini.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:41+00:00",
+      "sha256": "a6228d8846040401e941a39ed17459785e8324dbb7b870ce84233c9b3e9863a0"
+    },
+    "github": {
+      "service_id": "github",
+      "name": "GitHub",
+      "primary_domain": "github.com",
+      "file": "github.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "3bf8cceead820aec50d4ee825a3fd02c5a1cd6665cc9cf4cbf3d9c8861a204bb"
+    },
+    "github-pages": {
+      "service_id": "github-pages",
+      "name": "GitHub Pages",
+      "primary_domain": "github.io",
+      "file": "github-pages.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "3a01e00a019d4a5003be15b119884bad940a0e3bffa47dbb5f69b8e0827c356a"
+    },
+    "gitlab": {
+      "service_id": "gitlab",
+      "name": "GitLab",
+      "primary_domain": "gitlab.com",
+      "file": "gitlab.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "c7c39058bd1b6f9f40334383bd5136bb8c5ba5e6a24200f2d1f18365e2526e28"
+    },
+    "gmail": {
+      "service_id": "gmail",
+      "name": "Gmail",
+      "primary_domain": "gmail.com",
+      "file": "gmail.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "a537f5d85d9a27efa3a5d6086e8df6072ee93f76b4d176639a5e483f74b74b9f"
+    },
+    "google": {
+      "service_id": "google",
+      "name": "Google",
+      "primary_domain": "google.com",
+      "file": "google.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "d8cf9fb2d5e234e03254f1d6400d8cc8160c309b010d031a64f37084b5a21d01"
+    },
+    "google-cloud": {
+      "service_id": "google-cloud",
+      "name": "Google Cloud",
+      "primary_domain": "cloud.google.com",
+      "file": "google-cloud.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "534a0359c2784e152f5c88ce64a56976036d7336c7831775c995977fd3432713"
+    },
+    "google-drive": {
+      "service_id": "google-drive",
+      "name": "Google Drive",
+      "primary_domain": "drive.google.com",
+      "file": "google-drive.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "7e678aba9e463140ec8603f0e6cc78bb80f6caf9cd3ee73335026a90729a1a40"
+    },
+    "grok": {
+      "service_id": "grok",
+      "name": "Grok",
+      "primary_domain": "grok.com",
+      "file": "grok.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "693e68863eceb8dc9f72e2acd386ab9c20a10858dab2c076212f7084cb7a32fe"
+    },
+    "hetzner": {
+      "service_id": "hetzner",
+      "name": "Hetzner",
+      "primary_domain": "hetzner.com",
+      "file": "hetzner.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "df276671b4076812a5a4b46f4113b0c38f56109f6bd368d1a6f09915b67961b4"
+    },
+    "hugging-face": {
+      "service_id": "hugging-face",
+      "name": "Hugging Face",
+      "primary_domain": "huggingface.co",
+      "file": "hugging-face.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:42+00:00",
+      "sha256": "aa81744034eecf4ac6b3fb7108dd71223965c7af3c534932391314563b150109"
+    },
+    "instagram": {
+      "service_id": "instagram",
+      "name": "Instagram",
+      "primary_domain": "instagram.com",
+      "file": "instagram.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:43+00:00",
+      "sha256": "f53af2d1fc5292ba1433b5c1faf50005ce6a997fa302d1816989929f379a59dc"
+    },
+    "internet-archive": {
+      "service_id": "internet-archive",
+      "name": "Internet Archive",
+      "primary_domain": "archive.org",
+      "file": "internet-archive.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:43+00:00",
+      "sha256": "a6b0b13a291eae8579ab4481c2737df320002a563e185f5cd534a808f8073222"
+    },
+    "jetbrains": {
+      "service_id": "jetbrains",
+      "name": "JetBrains",
+      "primary_domain": "jetbrains.com",
+      "file": "jetbrains.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:43+00:00",
+      "sha256": "7086a4a78912dc77e73a951cc1b047b049701406574b9d8eedf3b17d307621fb"
+    },
+    "kaspersky": {
+      "service_id": "kaspersky",
+      "name": "Kaspersky",
+      "primary_domain": "kaspersky.com",
+      "file": "kaspersky.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:43+00:00",
+      "sha256": "edf5e5c9b8f8940ef3689750ad81359f080f8eb742df2a10a6806f3d5a745d0d"
+    },
+    "khan-academy": {
+      "service_id": "khan-academy",
+      "name": "Khan Academy",
+      "primary_domain": "khanacademy.org",
+      "file": "khan-academy.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:44+00:00",
+      "sha256": "1b774b49ca6e402dc51ad46670fa1b0f5bc409e1d5d6b6965ca86d67ecaa3afc"
+    },
+    "kick": {
+      "service_id": "kick",
+      "name": "Kick",
+      "primary_domain": "kick.com",
+      "file": "kick.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:44+00:00",
+      "sha256": "ef6002e2eedaeb685a23ccabcafa970f04b53f109bf931d6c645fc1957a0d135"
+    },
+    "kinopoisk": {
+      "service_id": "kinopoisk",
+      "name": "Кинопоиск",
+      "primary_domain": "kinopoisk.ru",
+      "file": "kinopoisk.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:44+00:00",
+      "sha256": "c17362c835f79f2cbf7402e26de22bec71e555dc9df8a77844b0c9dff226b3de"
+    },
+    "last-fm": {
+      "service_id": "last-fm",
+      "name": "Last.fm",
+      "primary_domain": "last.fm",
+      "file": "last-fm.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:45+00:00",
+      "sha256": "a592d8b976d76e7aa768dcbf71d75dd2df4f4a28d6b0eae628f08f7cf477c71f"
+    },
+    "line": {
+      "service_id": "line",
+      "name": "LINE",
+      "primary_domain": "line.me",
+      "file": "line.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:45+00:00",
+      "sha256": "b62430462354f95914536d7205128647d5563cdb805bc9aca000300aaed816c8"
+    },
+    "linode": {
+      "service_id": "linode",
+      "name": "Linode",
+      "primary_domain": "linode.com",
+      "file": "linode.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:45+00:00",
+      "sha256": "6ad08dc2620f4a6bafae34cd3c8787ddf01c1cda5f0d940a53ae1800b820382c"
+    },
+    "malwarebytes": {
+      "service_id": "malwarebytes",
+      "name": "Malwarebytes",
+      "primary_domain": "malwarebytes.com",
+      "file": "malwarebytes.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:46+00:00",
+      "sha256": "15e31892dd33b2a53fb1e2c9a003012a8976352f64dfe494e045e7113f534457"
+    },
+    "max": {
+      "service_id": "max",
+      "name": "MAX",
+      "primary_domain": "max.ru",
+      "file": "max.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:46+00:00",
+      "sha256": "526c55b90b2ccd9a8120e4687e1eaf5aee696c804eb6b600c8ef5c368e5c2879"
+    },
+    "mediafire": {
+      "service_id": "mediafire",
+      "name": "MediaFire",
+      "primary_domain": "mediafire.com",
+      "file": "mediafire.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:47+00:00",
+      "sha256": "d8a34c27e2febb2a8eade8b43fceb4f7f5c77060061dd369fe9950d70de9092c"
+    },
+    "mega": {
+      "service_id": "mega",
+      "name": "MEGA",
+      "primary_domain": "mega.nz",
+      "file": "mega.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:47+00:00",
+      "sha256": "9005a4d39cd8e5f40e1f547d96b548d6ea75a0b30faba377d9cbbe16b929bdab"
+    },
+    "mistral-ai": {
+      "service_id": "mistral-ai",
+      "name": "Mistral AI",
+      "primary_domain": "mistral.ai",
+      "file": "mistral-ai.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:49+00:00",
+      "sha256": "88f00cf2e82e4d36bb4fdd0e913df200c6e7d6162ec627cc58cfdd6a4eb17d18"
+    },
+    "mixcloud": {
+      "service_id": "mixcloud",
+      "name": "Mixcloud",
+      "primary_domain": "mixcloud.com",
+      "file": "mixcloud.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:49+00:00",
+      "sha256": "5d35d9c13ca9f923bbeec3f6de40023d1ceca60a3faf5f20d18f90a1b21a93cb"
+    },
+    "modrinth": {
+      "service_id": "modrinth",
+      "name": "Modrinth",
+      "primary_domain": "modrinth.com",
+      "file": "modrinth.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:49+00:00",
+      "sha256": "e6f41f76d4c11dc32ba1b89ec6f3338c2a8d06599dc28a88fb4ed93955e2d96f"
+    },
+    "mozilla": {
+      "service_id": "mozilla",
+      "name": "Mozilla",
+      "primary_domain": "firefox.com",
+      "file": "mozilla.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:49+00:00",
+      "sha256": "46810871b03036f74eda75215bfd1d1880524bbe65054495c5a55210236d7011"
+    },
+    "netflix": {
+      "service_id": "netflix",
+      "name": "Netflix",
+      "primary_domain": "netflix.com",
+      "file": "netflix.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:49+00:00",
+      "sha256": "67dbc495988bd5667a09ed4f56e14db4070a44c7a74e297b146c229f70fd6f6e"
+    },
+    "netlify": {
+      "service_id": "netlify",
+      "name": "Netlify",
+      "primary_domain": "netlify.com",
+      "file": "netlify.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:49+00:00",
+      "sha256": "adbe4ef3579ca1ef95e1903ff8599a5a55e5c6531fab3f7edaf2b4adee0f4ef9"
+    },
+    "nexus-mods": {
+      "service_id": "nexus-mods",
+      "name": "Nexus Mods",
+      "primary_domain": "nexusmods.com",
+      "file": "nexus-mods.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:50+00:00",
+      "sha256": "1884b71c273478004c1e8f2c5278e555e1d097c9a08c59c6b2a544cbee7c5ff4"
+    },
+    "npm": {
+      "service_id": "npm",
+      "name": "npm",
+      "primary_domain": "npmjs.com",
+      "file": "npm.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:50+00:00",
+      "sha256": "00b410dc2c839cfa62910a065eaf28a48cbdb4babe503cf34d475cc94ba03be1"
+    },
+    "odnoklassniki": {
+      "service_id": "odnoklassniki",
+      "name": "Одноклассники",
+      "primary_domain": "ok.ru",
+      "file": "odnoklassniki.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:51+00:00",
+      "sha256": "8c8724f011e6ac7cd9757add2ef151fa4c534aa84f08706b2cd748e288d13fab"
+    },
+    "onlyfans": {
+      "service_id": "onlyfans",
+      "name": "OnlyFans",
+      "primary_domain": "onlyfans.com",
+      "file": "onlyfans.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:52+00:00",
+      "sha256": "92c908fa21e545b68874793d47b92139be2a4df354b18de88efbec8b22bcb6c0"
+    },
+    "paypal": {
+      "service_id": "paypal",
+      "name": "PayPal",
+      "primary_domain": "paypal.com",
+      "file": "paypal.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:52+00:00",
+      "sha256": "e8ea6928d3386f81dc6d4c1f58b48e7a29d29bb578b2e3dd808638bd97c63d33"
+    },
+    "perplexity": {
+      "service_id": "perplexity",
+      "name": "Perplexity",
+      "primary_domain": "perplexity.ai",
+      "file": "perplexity.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:52+00:00",
+      "sha256": "57220c29378ce5e615e7244d2fdfcf5a44fad40dad81a99f2e0e4260c726ca74"
+    },
+    "pinterest": {
+      "service_id": "pinterest",
+      "name": "Pinterest",
+      "primary_domain": "pinterest.com",
+      "file": "pinterest.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:53+00:00",
+      "sha256": "d0736c4b1390f895ed9bc156cc887d3bd65c5b66258c00ad07888e9ec7d729ad"
+    },
+    "playstation": {
+      "service_id": "playstation",
+      "name": "PlayStation",
+      "primary_domain": "playstation.com",
+      "file": "playstation.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:53+00:00",
+      "sha256": "b68b4d7b63443759b9c4d77a5501c5758eeae06a6d594d278d5eb6cb4d3dbbe4"
+    },
+    "proton-mail": {
+      "service_id": "proton-mail",
+      "name": "Proton Mail",
+      "primary_domain": "proton.me",
+      "file": "proton-mail.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:54+00:00",
+      "sha256": "7fa6d416e63c3d538e77ad0f89c82250c3373ccbae96eb96278e5ff26bdf4994"
+    },
+    "pypi": {
+      "service_id": "pypi",
+      "name": "PyPI",
+      "primary_domain": "pypi.org",
+      "file": "pypi.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:55+00:00",
+      "sha256": "d4069a4a013461e1d433114d0bece715c979afe502996cc5770c9ee05c24fae6"
+    },
+    "reddit": {
+      "service_id": "reddit",
+      "name": "Reddit",
+      "primary_domain": "reddit.com",
+      "file": "reddit.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:55+00:00",
+      "sha256": "00e5008d56567543cf956561e61d5bf9bf629f520c7488a4d9a00164c29dd8ba"
+    },
+    "render": {
+      "service_id": "render",
+      "name": "Render",
+      "primary_domain": "render.com",
+      "file": "render.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:55+00:00",
+      "sha256": "bd1597c44b4417a0f22f4ae6df79f935b4afd850f7a6a6717090b6f46f28e6d6"
+    },
+    "replicate": {
+      "service_id": "replicate",
+      "name": "Replicate",
+      "primary_domain": "replicate.com",
+      "file": "replicate.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:55+00:00",
+      "sha256": "e59687194f210fc30319202cc66185e83a0bd8962c0d60ab4257bb10b07050d8"
+    },
+    "revolut": {
+      "service_id": "revolut",
+      "name": "Revolut",
+      "primary_domain": "revolut.com",
+      "file": "revolut.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:56+00:00",
+      "sha256": "cfb3427243ad5a0315fa2b20ef3302d290a3cb55529c994485dd78ae7d4cb646"
+    },
+    "riot-games": {
+      "service_id": "riot-games",
+      "name": "Riot Games",
+      "primary_domain": "leagueoflegends.com",
+      "file": "riot-games.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:56+00:00",
+      "sha256": "b80c5880b88b8e489b2da7753bed612b3ce6b2948a3f995ad5d31050f443b520"
+    },
+    "roblox": {
+      "service_id": "roblox",
+      "name": "Roblox",
+      "primary_domain": "roblox.com",
+      "file": "roblox.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:56+00:00",
+      "sha256": "9245b2f23fde91a5ef34f36aea32c1bf08a1a1254c08b86e7f060a4f72986234"
+    },
+    "rumble": {
+      "service_id": "rumble",
+      "name": "Rumble",
+      "primary_domain": "rumble.com",
+      "file": "rumble.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:56+00:00",
+      "sha256": "41f49b393dc0e8895e473a52ae061770ca4c68ac4aae5fb23778ca539255553c"
+    },
+    "signal": {
+      "service_id": "signal",
+      "name": "Signal",
+      "primary_domain": "signal.org",
+      "file": "signal.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:03:59+00:00",
+      "sha256": "391f46b8feaef281a44dfdf40035d9a4546ded17d2c3eb88d6614762779f1930"
+    },
+    "snapchat": {
+      "service_id": "snapchat",
+      "name": "Snapchat",
+      "primary_domain": "snapchat.com",
+      "file": "snapchat.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:00+00:00",
+      "sha256": "fbbc31c5544954fbf7525dddbc0d3e79990bb89461f54a94917b6dffc2c5130e"
+    },
+    "soundcloud": {
+      "service_id": "soundcloud",
+      "name": "SoundCloud",
+      "primary_domain": "soundcloud.com",
+      "file": "soundcloud.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:00+00:00",
+      "sha256": "02bac3d2cb8c1091aeae61219803dadbb4364dd636e50f60567d25dfcde7c12c"
+    },
+    "sourceforge": {
+      "service_id": "sourceforge",
+      "name": "SourceForge",
+      "primary_domain": "sourceforge.net",
+      "file": "sourceforge.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:00+00:00",
+      "sha256": "0426151116623904c5e1b888ae4d29aeb67cdf26bcd17ba4eac8627f3312c0ca"
+    },
+    "spotify": {
+      "service_id": "spotify",
+      "name": "Spotify",
+      "primary_domain": "scdn.co",
+      "file": "spotify.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:00+00:00",
+      "sha256": "b9ec9bec7769c35643981586d6ea0d675aaf3871b32f8a291bcac7a87fff0bc1"
+    },
+    "stack-overflow": {
+      "service_id": "stack-overflow",
+      "name": "Stack Overflow",
+      "primary_domain": "stackexchange.com",
+      "file": "stack-overflow.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:00+00:00",
+      "sha256": "a074c44f111abcb2413908af449687304ab0d77e6dc579743aca2592f677e3d7"
+    },
+    "steam": {
+      "service_id": "steam",
+      "name": "Steam",
+      "primary_domain": "steamcommunity.com",
+      "file": "steam.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:01+00:00",
+      "sha256": "5eef8f31106b81956ed908490bcf8c73abe476aa58bb9041acdf70b0d42ebcae"
+    },
+    "stripe": {
+      "service_id": "stripe",
+      "name": "Stripe",
+      "primary_domain": "stripe.com",
+      "file": "stripe.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:01+00:00",
+      "sha256": "130c6d957b8977f5eda2928267b9df531ca038a400a801765d263801bb1bd870"
+    },
+    "telegram": {
+      "service_id": "telegram",
+      "name": "Telegram",
+      "primary_domain": "t.me",
+      "file": "telegram.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:02+00:00",
+      "sha256": "147fd8f8923e7e5f463fe98c0eb9913bead6b2ae59935728cda141002ec8a7c9"
+    },
+    "the-guardian": {
+      "service_id": "the-guardian",
+      "name": "The Guardian",
+      "primary_domain": "theguardian.com",
+      "file": "the-guardian.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "a825c263da5a085c4d8a1960a85071a23ab73d847a9d2a7b132ef268c39b1e00"
+    },
+    "threads": {
+      "service_id": "threads",
+      "name": "Threads",
+      "primary_domain": "threads.net",
+      "file": "threads.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "8d4e0be28b72e417b02ae2e8f1d1ca4e3ab4adc025e6a1e2451b6d979f16d47a"
+    },
+    "tidal": {
+      "service_id": "tidal",
+      "name": "Tidal",
+      "primary_domain": "tidal.com",
+      "file": "tidal.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "99f2c0efba4e756b58da03fa35b5d163f1033e77671f1bf2931df29f8694e4af"
+    },
+    "tiktok": {
+      "service_id": "tiktok",
+      "name": "TikTok",
+      "primary_domain": "tiktok.com",
+      "file": "tiktok.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "6f54ac8d325faacea8935bdc44cbed60206a6b408641799e5fea1cba7c1a0af7"
+    },
+    "tumblr": {
+      "service_id": "tumblr",
+      "name": "Tumblr",
+      "primary_domain": "tumblr.com",
+      "file": "tumblr.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "25c6d78e5606fab85d0d3a8424108be7ddd70bee872cb9cff472568107a34bfc"
+    },
+    "tuta": {
+      "service_id": "tuta",
+      "name": "Tuta",
+      "primary_domain": "tuta.com",
+      "file": "tuta.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "654132ba3d5ff3c510b2a8290f8cebdd4df5caecbe358f18394723fc485f0af1"
+    },
+    "twitch": {
+      "service_id": "twitch",
+      "name": "Twitch",
+      "primary_domain": "jtvnw.net",
+      "file": "twitch.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "dbe27bc02a01b8d89b6259cacef328c9fa70bb13c29f38c36eb1421863f6f0b6"
+    },
+    "ubisoft": {
+      "service_id": "ubisoft",
+      "name": "Ubisoft",
+      "primary_domain": "ubisoft.com",
+      "file": "ubisoft.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "acc82ae60c2615201906e42f6bdbaa4d78379c43b07a3c74f98a6c630ff1e0b8"
+    },
+    "ubuntu": {
+      "service_id": "ubuntu",
+      "name": "Ubuntu",
+      "primary_domain": "archive.ubuntu.com",
+      "file": "ubuntu.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "b0aca674c881a07bb60b26afbcee07093ae419e29ee38e376f938817fa66ae03"
+    },
+    "vercel": {
+      "service_id": "vercel",
+      "name": "Vercel",
+      "primary_domain": "vercel.com",
+      "file": "vercel.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "57f1e4135486c566e9878fddd259f7f6bf8ec43f31e7e6e38a36d9e814a1c0e0"
+    },
+    "viber": {
+      "service_id": "viber",
+      "name": "Viber",
+      "primary_domain": "viber.com",
+      "file": "viber.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "2cc123deda743aeb31e3a9cba6bdd73bee79475704dfba9cf0c7b46023095914"
+    },
+    "vimeo": {
+      "service_id": "vimeo",
+      "name": "Vimeo",
+      "primary_domain": "vimeo.com",
+      "file": "vimeo.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "8769e0252009f9babc5f1de2ba6c0638411a2104e7f6f3af6b13cc8310cbd992"
+    },
+    "vk": {
+      "service_id": "vk",
+      "name": "VK",
+      "primary_domain": "vk.com",
+      "file": "vk.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:03+00:00",
+      "sha256": "2d8fae863c9fdf5937f49326708dcf6cff0f5617ee67b502776b426bbe2cace8"
+    },
+    "vk-messendzher": {
+      "service_id": "vk-messendzher",
+      "name": "VK Мессенджер",
+      "primary_domain": "vk.me",
+      "file": "vk-messendzher.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:04+00:00",
+      "sha256": "2d8fae863c9fdf5937f49326708dcf6cff0f5617ee67b502776b426bbe2cace8"
+    },
+    "vk-video": {
+      "service_id": "vk-video",
+      "name": "VK Видео",
+      "primary_domain": "vkvideo.ru",
+      "file": "vk-video.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:04+00:00",
+      "sha256": "2d8fae863c9fdf5937f49326708dcf6cff0f5617ee67b502776b426bbe2cace8"
+    },
+    "vultr": {
+      "service_id": "vultr",
+      "name": "Vultr",
+      "primary_domain": "vultr.com",
+      "file": "vultr.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:05+00:00",
+      "sha256": "eabba9b156f25d9bc9c1379d05c5b5e9433b88e38146beaa16769c2089b6065a"
+    },
+    "wechat": {
+      "service_id": "wechat",
+      "name": "WeChat",
+      "primary_domain": "wechat.com",
+      "file": "wechat.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:05+00:00",
+      "sha256": "74b48b3d315337ce79cb644933b5f975e19996f564fcc4138ed67d45674c43ca"
+    },
+    "wetransfer": {
+      "service_id": "wetransfer",
+      "name": "WeTransfer",
+      "primary_domain": "wetransfer.com",
+      "file": "wetransfer.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:05+00:00",
+      "sha256": "7602945e6ad3c538544c6bbc92c556b0d4dd3f30210799f2f58bcaa68d6c1c50"
+    },
+    "whatsapp": {
+      "service_id": "whatsapp",
+      "name": "WhatsApp",
+      "primary_domain": "wa.me",
+      "file": "whatsapp.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:05+00:00",
+      "sha256": "8fb209a53a61618c3483594b3e070481a35575d6aaecbe00a6fe386670c8fb1c"
+    },
+    "wikipedia": {
+      "service_id": "wikipedia",
+      "name": "Wikipedia",
+      "primary_domain": "wikipedia.org",
+      "file": "wikipedia.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:05+00:00",
+      "sha256": "2b2acdcf513d7e4d4d6a137bc047d64162ab55955602a01984edf81019efa9f4"
+    },
+    "wise": {
+      "service_id": "wise",
+      "name": "Wise",
+      "primary_domain": "wise.com",
+      "file": "wise.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:06+00:00",
+      "sha256": "910c96635631906e3a2f502d6a43a7155b987f6ce46a44198c51f0877b2fc70c"
+    },
+    "x": {
+      "service_id": "x",
+      "name": "X",
+      "primary_domain": "twitter.com",
+      "file": "x.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:06+00:00",
+      "sha256": "693e68863eceb8dc9f72e2acd386ab9c20a10858dab2c076212f7084cb7a32fe"
+    },
+    "yandex-cloud": {
+      "service_id": "yandex-cloud",
+      "name": "Yandex Cloud",
+      "primary_domain": "yandex.cloud",
+      "file": "yandex-cloud.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:07+00:00",
+      "sha256": "bddc5cca56a4bfbd859ac8565b50f271bec4f7a214adca40e00662ce44d30ab6"
+    },
+    "yandex-go": {
+      "service_id": "yandex-go",
+      "name": "Яндекс Go",
+      "primary_domain": "go.yandex",
+      "file": "yandex-go.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:07+00:00",
+      "sha256": "36a745fe15584bf138d02ae6abcbdd155bc1cd4f4976634ad34861b2059db559"
+    },
+    "youtube": {
+      "service_id": "youtube",
+      "name": "YouTube",
+      "primary_domain": "youtu.be",
+      "file": "youtube.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:09+00:00",
+      "sha256": "5038808acbbc4e6edda16cbeb1cc6dec80e4e4ee4e227e039c41229fa222aa8c"
+    },
+    "youtube-music": {
+      "service_id": "youtube-music",
+      "name": "YouTube Music",
+      "primary_domain": "music.youtube.com",
+      "file": "youtube-music.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:09+00:00",
+      "sha256": "f96c8a67f93717df8f9f57b0e96638b19e8fd80a165ddf83598592b5342612f5"
+    },
+    "zoho": {
+      "service_id": "zoho",
+      "name": "Zoho",
+      "primary_domain": "zoho.com",
+      "file": "zoho.svg",
+      "source": "simple-icons",
+      "license": "CC0",
+      "checked_at": "2026-10-29T17:04:09+00:00",
+      "sha256": "6571537c1ebb1c0cbea06d94c403d7e4e0685499c963996b559485d5aa013b9b"
+    }
+  },
+  "pending": [
+    {
+      "service_id": "1337x",
+      "primary_domain": "1337x.to",
+      "tried": [
+        "1337x",
+        "1337x"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "1c",
+      "primary_domain": "1c.ru",
+      "tried": [
+        "1c",
+        "1c",
+        "1"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "1xbet",
+      "primary_domain": "1xbet.com",
+      "tried": [
+        "1xbet",
+        "1xbet"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "2gis",
+      "primary_domain": "2gis.ru",
+      "tried": [
+        "2gis",
+        "2gis",
+        "2"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "aif",
+      "primary_domain": "aif.ru",
+      "tried": [
+        "aif",
+        "aif"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "alfa-bank",
+      "primary_domain": "alfabank.ru",
+      "tried": [
+        "alfa-bank",
+        "alfabank"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "amazon",
+      "primary_domain": "amazon.com",
+      "tried": [
+        "amazonprime",
+        "amazon"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "amazon-music",
+      "primary_domain": "music.amazon.com",
+      "tried": [
+        "amazonmusic",
+        "amazon"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "ap-news",
+      "primary_domain": "apnews.com",
+      "tried": [
+        "ap-news",
+        "apnews"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "avito",
+      "primary_domain": "avito.ru",
+      "tried": [
+        "avito",
+        "avito"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "aws",
+      "primary_domain": "amazonaws.com",
+      "tried": [
+        "amazonwebservices",
+        "amazonaws",
+        "aws"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "bank-rossii",
+      "primary_domain": "cbr.ru",
+      "tried": [
+        "bank-rossii",
+        "bankrossii"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "bbc",
+      "primary_domain": "bbc.co.uk",
+      "tried": [
+        "bbc",
+        "bbc"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "bc-game",
+      "primary_domain": "bc.game",
+      "tried": [
+        "bc-game",
+        "bcgame"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "bet365",
+      "primary_domain": "bet365.com",
+      "tried": [
+        "bet365",
+        "bet365"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "bilayn",
+      "primary_domain": "beeline.ru",
+      "tried": [
+        "bilayn",
+        "bilayn"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "bing",
+      "primary_domain": "bing.com",
+      "tried": [
+        "microsoftbing",
+        "bing"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "chestnyy-znak",
+      "primary_domain": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+      "tried": [
+        "chestnyy-znak",
+        "chestnyyznak"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "crates-io",
+      "primary_domain": "crates.io",
+      "tried": [
+        "crates-io",
+        "cratesio"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "deepseek",
+      "primary_domain": "deepseek.com",
+      "tried": [
+        "deepseek"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "deezer",
+      "primary_domain": "deezer.com",
+      "tried": [
+        "deezer"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "delimobil",
+      "primary_domain": "delimobil.ru",
+      "tried": [
+        "delimobil",
+        "delimobil"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "disney",
+      "primary_domain": "disneyplus.com",
+      "tried": [
+        "disneyplus",
+        "disney"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "domklik",
+      "primary_domain": "domclick.ru",
+      "tried": [
+        "domklik",
+        "domklik"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "dzen",
+      "primary_domain": "dzen.ru",
+      "tried": [
+        "dzen",
+        "dzen"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "eset",
+      "primary_domain": "eset.com",
+      "tried": [
+        "eset",
+        "eset"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "eztv",
+      "primary_domain": "eztv.re",
+      "tried": [
+        "eztv",
+        "eztv"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "fansly",
+      "primary_domain": "fansly.com",
+      "tried": [
+        "fansly",
+        "fansly"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "fastmail",
+      "primary_domain": "fastmail.com",
+      "tried": [
+        "fastmail",
+        "fastmail"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "filmix",
+      "primary_domain": "filmix.ac",
+      "tried": [
+        "filmix",
+        "filmix"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "fns",
+      "primary_domain": "nalog.gov.ru",
+      "tried": [
+        "fns",
+        "fns"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "gazprombank",
+      "primary_domain": "gazprombank.ru",
+      "tried": [
+        "gazprombank",
+        "gazprombank"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "gis-zhkkh",
+      "primary_domain": "dom.gosuslugi.ru",
+      "tried": [
+        "gis-zhkkh",
+        "giszhkkh"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "gismeteo",
+      "primary_domain": "gismeteo.ru",
+      "tried": [
+        "gismeteo",
+        "gismeteo"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "glonass",
+      "primary_domain": "glonass.ru",
+      "tried": [
+        "glonass",
+        "glonass"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "gosduma",
+      "primary_domain": "duma.gov.ru",
+      "tried": [
+        "gosduma",
+        "gosduma"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "gosuslugi",
+      "primary_domain": "gosuslugi.ru",
+      "tried": [
+        "gosuslugi",
+        "gosuslugi"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "hdrezka",
+      "primary_domain": "hdrezka.ag",
+      "tried": [
+        "hdrezka",
+        "hdrezka"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "headhunter",
+      "primary_domain": "hh.ru",
+      "tried": [
+        "headhunter"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "hulu",
+      "primary_domain": "hulu.com",
+      "tried": [
+        "hulu"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "ivi",
+      "primary_domain": "ivi.ru",
+      "tried": [
+        "ivi",
+        "ivi"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "khabr",
+      "primary_domain": "habr.com",
+      "tried": [
+        "khabr",
+        "khabr"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "khl",
+      "primary_domain": "khl.ru",
+      "tried": [
+        "khl",
+        "khl"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "kion",
+      "primary_domain": "kion.ru",
+      "tried": [
+        "kion",
+        "kion"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "kommersant",
+      "primary_domain": "kommersant.ru",
+      "tried": [
+        "kommersant",
+        "kommersant"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "kontur",
+      "primary_domain": "kontur.ru",
+      "tried": [
+        "kontur",
+        "kontur"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "kuper",
+      "primary_domain": "kuper.ru",
+      "tried": [
+        "kuper",
+        "kuper"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "lenta",
+      "primary_domain": "lenta.com",
+      "tried": [
+        "lenta",
+        "lenta"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "limetorrents",
+      "primary_domain": "limetorrents.lol",
+      "tried": [
+        "limetorrents",
+        "limetorrents"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "linkedin",
+      "primary_domain": "linkedin.com",
+      "tried": [
+        "linkedin"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "magnit",
+      "primary_domain": "magnit.ru",
+      "tried": [
+        "magnit",
+        "magnit"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "mail-ru",
+      "primary_domain": "mail.ru",
+      "tried": [
+        "mail-ru",
+        "mailru"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "mat-i-ditya",
+      "primary_domain": "mdclinics.ru",
+      "tried": [
+        "mat-i-ditya",
+        "matiditya"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "mchs",
+      "primary_domain": "mchs.gov.ru",
+      "tried": [
+        "mchs",
+        "mchs"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "medsi",
+      "primary_domain": "medsi.ru",
+      "tried": [
+        "medsi",
+        "medsi"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "meduza",
+      "primary_domain": "meduza.io",
+      "tried": [
+        "meduza",
+        "meduza"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "megafon",
+      "primary_domain": "megafon.ru",
+      "tried": [
+        "megafon",
+        "megafon"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "megamarket",
+      "primary_domain": "megamarket.ru",
+      "tried": [
+        "megamarket",
+        "megamarket"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "microsoft",
+      "primary_domain": "microsoft.com",
+      "tried": [
+        "microsoft",
+        "microsoft"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "microsoft-azure",
+      "primary_domain": "azure.com",
+      "tried": [
+        "azure",
+        "microsoftazure"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "midjourney",
+      "primary_domain": "midjourney.com",
+      "tried": [
+        "midjourney"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "minecraft",
+      "primary_domain": "minecraft.net",
+      "tried": [
+        "minecraft",
+        "minecraft"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "mir",
+      "primary_domain": "mironline.ru",
+      "tried": [
+        "mir",
+        "mir"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "mts",
+      "primary_domain": "mts.ru",
+      "tried": [
+        "mts",
+        "mts"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "mts-web-services",
+      "primary_domain": "mws.ru",
+      "tried": [
+        "mts-web-services",
+        "mtswebservices"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "mvd-rf",
+      "primary_domain": "xn--b1aew.xn--p1ai",
+      "tried": [
+        "mvd-rf",
+        "mvdrf"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "netologiya",
+      "primary_domain": "netology.ru",
+      "tried": [
+        "netologiya",
+        "netologiya"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "nintendo",
+      "primary_domain": "nintendo.com",
+      "tried": [
+        "nintendo3ds",
+        "nintendo"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "nspk",
+      "primary_domain": "nspk.ru",
+      "tried": [
+        "nspk",
+        "nspk"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "nyaa",
+      "primary_domain": "nyaa.si",
+      "tried": [
+        "nyaa",
+        "nyaa"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "oblako-mail-ru",
+      "primary_domain": "cloud.mail.ru",
+      "tried": [
+        "oblako-mail-ru",
+        "oblakomailru",
+        "mailru"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "okko",
+      "primary_domain": "okko.tv",
+      "tried": [
+        "okko",
+        "okko"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "onedrive",
+      "primary_domain": "onedrive.live.com",
+      "tried": [
+        "microsoftonedrive",
+        "onedrive"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "outlook",
+      "primary_domain": "outlook.com",
+      "tried": [
+        "microsoftoutlook",
+        "outlook"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "ovhcloud",
+      "primary_domain": "ovh.com",
+      "tried": [
+        "ovhcloud"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "ozon",
+      "primary_domain": "ozon.ru",
+      "tried": [
+        "ozon",
+        "ozon"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "pinnacle",
+      "primary_domain": "pinnacle.com",
+      "tried": [
+        "pinnacle",
+        "pinnacle"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "pixeldrain",
+      "primary_domain": "pixeldrain.com",
+      "tried": [
+        "pixeldrain",
+        "pixeldrain"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "pochta-rossii",
+      "primary_domain": "pochta.ru",
+      "tried": [
+        "pochta-rossii",
+        "pochtarossii"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "pokerstars",
+      "primary_domain": "pokerstars.com",
+      "tried": [
+        "pokerstars",
+        "pokerstars"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "pornhub",
+      "primary_domain": "pornhub.com",
+      "tried": [
+        "pornhub",
+        "pornhub"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "pravitelstvo-rf",
+      "primary_domain": "government.ru",
+      "tried": [
+        "pravitelstvo-rf",
+        "pravitelstvorf"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "premier",
+      "primary_domain": "premier.one",
+      "tried": [
+        "premier",
+        "premier"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "prezident-rossii",
+      "primary_domain": "kremlin.ru",
+      "tried": [
+        "prezident-rossii",
+        "prezidentrossii"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "prime-video",
+      "primary_domain": "primevideo.com",
+      "tried": [
+        "primevideo"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "psb",
+      "primary_domain": "psbank.ru",
+      "tried": [
+        "psb",
+        "psb"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "pyatyorochka",
+      "primary_domain": "5ka.ru",
+      "tried": [
+        "pyatyorochka",
+        "pyatyorochka"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "qwen",
+      "primary_domain": "qwen.ai",
+      "tried": [
+        "qwen"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rambler",
+      "primary_domain": "rambler.ru",
+      "tried": [
+        "rambler",
+        "rambler"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rbk",
+      "primary_domain": "rbc.ru",
+      "tried": [
+        "rbk",
+        "rbk"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "redtube",
+      "primary_domain": "redtube.com",
+      "tried": [
+        "redtube",
+        "redtube"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "reuters",
+      "primary_domain": "reuters.com",
+      "tried": [
+        "reuters",
+        "reuters"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "ria-novosti",
+      "primary_domain": "ria.ru",
+      "tried": [
+        "ria-novosti",
+        "rianovosti"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rosreestr",
+      "primary_domain": "rosreestr.gov.ru",
+      "tried": [
+        "rosreestr",
+        "rosreestr"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rostelekom",
+      "primary_domain": "rostelecom.ru",
+      "tried": [
+        "rostelekom",
+        "rostelekom"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rustore",
+      "primary_domain": "rustore.ru",
+      "tried": [
+        "rustore",
+        "rustore"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rutor",
+      "primary_domain": "rutor.info",
+      "tried": [
+        "rutor",
+        "rutor"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rutracker",
+      "primary_domain": "rutracker.org",
+      "tried": [
+        "rutracker",
+        "rutracker"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rutube",
+      "primary_domain": "rutube.ru",
+      "tried": [
+        "rutube",
+        "rutube"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "rzhd",
+      "primary_domain": "rzd.ru",
+      "tried": [
+        "rzhd",
+        "rzhd"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "samokat",
+      "primary_domain": "samokat.ru",
+      "tried": [
+        "samokat",
+        "samokat"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "sber",
+      "primary_domain": "sber.ru",
+      "tried": [
+        "sber",
+        "sber"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "sbermobayl",
+      "primary_domain": "sbermobile.ru",
+      "tried": [
+        "sbermobayl",
+        "sbermobayl"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "sbp",
+      "primary_domain": "sbp.nspk.ru",
+      "tried": [
+        "sbp",
+        "sbp"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "sdek",
+      "primary_domain": "cdek.ru",
+      "tried": [
+        "sdek",
+        "sdek"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "seansovar",
+      "primary_domain": "seansovar.com",
+      "tried": [
+        "seansovar",
+        "seansovar"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "selectel",
+      "primary_domain": "selectel.ru",
+      "tried": [
+        "selectel"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "send-anywhere",
+      "primary_domain": "send-anywhere.com",
+      "tried": [
+        "send-anywhere",
+        "sendanywhere"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "sitidrayv",
+      "primary_domain": "citydrive.ru",
+      "tried": [
+        "sitidrayv",
+        "sitidrayv"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "skillbox",
+      "primary_domain": "skillbox.ru",
+      "tried": [
+        "skillbox",
+        "skillbox"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "skype",
+      "primary_domain": "skype.com",
+      "tried": [
+        "skype"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "sovet-federatsii",
+      "primary_domain": "council.gov.ru",
+      "tried": [
+        "sovet-federatsii",
+        "sovetfederatsii"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "sportmaster",
+      "primary_domain": "sportmaster.ru",
+      "tried": [
+        "sportmaster",
+        "sportmaster"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "stake",
+      "primary_domain": "stake.com",
+      "tried": [
+        "stake",
+        "stake"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "stepik",
+      "primary_domain": "stepik.org",
+      "tried": [
+        "stepik",
+        "stepik"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "swisstransfer",
+      "primary_domain": "swisstransfer.com",
+      "tried": [
+        "swisstransfer",
+        "swisstransfer"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "t-bank",
+      "primary_domain": "tbank.ru",
+      "tried": [
+        "t-bank",
+        "tbank"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "t2",
+      "primary_domain": "t2.ru",
+      "tried": [
+        "t2",
+        "t2",
+        "2"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "tass",
+      "primary_domain": "tass.ru",
+      "tried": [
+        "tass",
+        "tass"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "tenzor-sbis",
+      "primary_domain": "sbis.ru",
+      "tried": [
+        "tenzor-sbis",
+        "tenzorsbis"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "the-pirate-bay",
+      "primary_domain": "thepiratebay.org",
+      "tried": [
+        "thepiratebay"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "torrentgalaxy",
+      "primary_domain": "torrentgalaxy.to",
+      "tried": [
+        "torrentgalaxy",
+        "torrentgalaxy"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "tutu",
+      "primary_domain": "tutu.ru",
+      "tried": [
+        "tutu",
+        "tutu"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "vk-cloud",
+      "primary_domain": "cloud.vk.com",
+      "tried": [
+        "vk-cloud",
+        "vkcloud"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "vkusvill",
+      "primary_domain": "vkusvill.ru",
+      "tried": [
+        "vkusvill",
+        "vkusvill"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "vtb",
+      "primary_domain": "vtb.ru",
+      "tried": [
+        "vtb",
+        "vtb"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "wildberries",
+      "primary_domain": "wb.ru",
+      "tried": [
+        "wildberries",
+        "wildberries"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "wink",
+      "primary_domain": "wink.ru",
+      "tried": [
+        "wink",
+        "wink"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "xbox",
+      "primary_domain": "xbox.com",
+      "tried": [
+        "xbox"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "xhamster",
+      "primary_domain": "xhamster.com",
+      "tried": [
+        "xhamster",
+        "xhamster"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "xnxx",
+      "primary_domain": "xnxx.com",
+      "tried": [
+        "xnxx",
+        "xnxx"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "xvideos",
+      "primary_domain": "xvideos.com",
+      "tried": [
+        "xvideos",
+        "xvideos"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "yahoo",
+      "primary_domain": "yahoo.com",
+      "tried": [
+        "yahoo"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "yandex",
+      "primary_domain": "ya.ru",
+      "tried": [
+        "yandex"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "yandex-disk",
+      "primary_domain": "disk.yandex.ru",
+      "tried": [
+        "yandex-disk",
+        "yandexdisk"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "yandex-market",
+      "primary_domain": "market.yandex.ru",
+      "tried": [
+        "yandex-market",
+        "yandexmarket"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "yandex-muzyka",
+      "primary_domain": "music.yandex.ru",
+      "tried": [
+        "yandex-muzyka",
+        "yandexmuzyka"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "yandex-pochta",
+      "primary_domain": "mail.yandex.ru",
+      "tried": [
+        "yandex-pochta",
+        "yandexpochta"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "youporn",
+      "primary_domain": "youporn.com",
+      "tried": [
+        "youporn",
+        "youporn"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "yts",
+      "primary_domain": "yts.mx",
+      "tried": [
+        "yts",
+        "yts"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "yumoney",
+      "primary_domain": "yoomoney.ru",
+      "tried": [
+        "yumoney",
+        "yumoney",
+        "money"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "zona",
+      "primary_domain": "zona.ru",
+      "tried": [
+        "zona",
+        "zona"
+      ],
+      "reason": "не найден в Simple Icons"
+    },
+    {
+      "service_id": "zvuk",
+      "primary_domain": "zvuk.com",
+      "tried": [
+        "zvuk",
+        "zvuk"
+      ],
+      "reason": "не найден в Simple Icons"
+    }
+  ]
+}
