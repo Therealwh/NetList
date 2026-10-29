@@ -248,3 +248,133 @@ mail,Почта и коммуникации,Fastmail,fastmail.com,candidate_unve
 mail,Почта и коммуникации,Яндекс Почта,mail.yandex.ru,candidate_unverified
 mail,Почта и коммуникации,Mail.ru,mail.ru,candidate_unverified
 mail,Почта и коммуникации,Zoho,zoho.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,addtodropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,app.hellosign.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dash.ai,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,db.tt,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,docsend.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxapi.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxbusiness.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxcaptcha.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxexperiment.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxforums.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxforum.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxinsiders.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxlegal.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxmail.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxpartners.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxstatic.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxteam.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropbox.tech,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropbox.zendesk.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,getdropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,hellofax.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,learn.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,links.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropboxusercontent.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl.dropboxusercontent.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-eu.dropboxusercontent.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-au.dropboxusercontent.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-jp.dropboxusercontent.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-uk.dropboxusercontent.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-eu.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-au.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-jp.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-uk.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-web.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-web-eu.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-web-au.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-web-jp.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-web-uk.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-client.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-doc.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dl-doc.dropboxusercontent.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,api-content.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,api-content-eu.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,api-content1-eu.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,api-content-au.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,api-content-jp.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,api-content-uk.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,content.dropboxapi.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,content-eu.dropboxapi.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,content-au.dropboxapi.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,content-jp.dropboxapi.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,content-uk.dropboxapi.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,api-content-photos.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,files-eu.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,files-au.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,files-jp.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,files-uk.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,bolt.dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropbox-dns.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,api.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,auth.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,auth0.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,chat.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,android.chat.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,desktop.chat.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,ios.chat.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,tcr9i.chat.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,cdn.openaimerge.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,cdn.platform.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,oaistatic.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,oaiusercontent.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,oaistatsig.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,files.oaiusercontent.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,help.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,platform.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,status.openai.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,ws.chatgpt.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,setup.auth.openai.com,candidate_unverified
+messengers,Мессенджеры,Telegram,telegram.dog,candidate_unverified
+messengers,Мессенджеры,Telegram,telesco.pe,candidate_unverified
+messengers,Мессенджеры,Telegram,tg.dev,candidate_unverified
+messengers,Мессенджеры,Telegram,stel.com,candidate_unverified
+messengers,Мессенджеры,Telegram,contest.com,candidate_unverified
+messengers,Мессенджеры,Telegram,quiz.directory,candidate_unverified
+messengers,Мессенджеры,Telegram,fragment.com,candidate_unverified
+messengers,Мессенджеры,Telegram,web.telegram.org,candidate_unverified
+messengers,Мессенджеры,Telegram,web.t.me,candidate_unverified
+messengers,Мессенджеры,Telegram,k.t.me,candidate_unverified
+messengers,Мессенджеры,Telegram,z.t.me,candidate_unverified
+messengers,Мессенджеры,Telegram,a.t.me,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,cloud.microsoft,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,static.microsoft,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,usercontent.microsoft,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,microsoftonline-p.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,microsoftonline-p.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,microsoft365.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,office365.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,office.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,msauth.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,msauthimages.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,msftauth.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,msidentity.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,login.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,graph.microsoft.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,outlook.office365.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,officecdn.microsoft.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,teams.microsoft.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,sharepoint.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,sharepointonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,onedrive.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,windows.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,azureedge.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,account.live.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,live.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,msappproxy.net,candidate_unverified
+search_portals,Поиск и порталы,Google,googleusercontent.com,candidate_unverified
+search_portals,Поиск и порталы,Google,googlevideo.com,candidate_unverified
+search_portals,Поиск и порталы,Google,googlemail.com,candidate_unverified
+search_portals,Поиск и порталы,Google,g.co,candidate_unverified
+search_portals,Поиск и порталы,Google,google.co.uk,candidate_unverified
+search_portals,Поиск и порталы,Google,googletagmanager.com,candidate_unverified
+search_portals,Поиск и порталы,Google,google-analytics.com,candidate_unverified
+search_portals,Поиск и порталы,Google,googleadservices.com,candidate_unverified
+search_portals,Поиск и порталы,Google,googlesyndication.com,candidate_unverified
+search_portals,Поиск и порталы,Google,doubleclick.net,candidate_unverified
+search_portals,Поиск и порталы,Google,analytics.google.com,candidate_unverified
+search_portals,Поиск и порталы,Google,admin.google.com,candidate_unverified
+search_portals,Поиск и порталы,Google,accounts.google.com,candidate_unverified
