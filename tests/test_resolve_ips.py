@@ -79,5 +79,35 @@ class ResolveIpsTest(unittest.TestCase):
         self.assertEqual(v6, set())
 
 
+    def test_common_lists_group_addresses_under_domain_comments(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            registry = root / "state" / "registry.json"
+            registry.parent.mkdir(parents=True)
+            registry.write_text(json.dumps({"services": [{
+                "name": "YouTube",
+                "slug": "youtube",
+                "domains": ["youtube.com", "youtu.be"],
+                "categories": ["video"],
+                "datasets": ["test"],
+                "counts": {"youtube.com": 1, "youtu.be": 1},
+            }]}), encoding="utf-8")
+
+            def fake_resolve(domain):
+                if domain == "youtube.com":
+                    return {"142.250.1.1"}, {"2607:f8b0::1"}
+                return {"142.250.1.2"}, set()
+
+            with patch("scripts.netlist_data.resolve_ips.resolve_domain", side_effect=fake_resolve):
+                generate(root)
+
+            common = (root / "common/ipv4.txt").read_text(encoding="utf-8")
+            self.assertIn("# YouTube — youtube.com\n142.250.1.1", common)
+            self.assertIn("# YouTube — youtu.be\n142.250.1.2", common)
+            service = (root / "services/youtube/ipv4.txt").read_text(encoding="utf-8")
+            self.assertLess(service.index("# YouTube — youtube.com"), service.index("142.250.1.1"))
+            self.assertIn("# YouTube — youtu.be", service)
+
+
 if __name__ == "__main__":
     unittest.main()

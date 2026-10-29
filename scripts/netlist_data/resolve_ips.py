@@ -1,8 +1,8 @@
-"""Генерация актуальных IP-снимков из DNS доменов NetList.
+"""Generate DNS-derived IP lists grouped by service and domain.
 
-IPv4/IPv6 — адреса, полученные через системный DNS-резолвер CI.
-CIDR — точные маршруты хостов (/32 и /128), а не предполагаемые сети сервиса.
-При полном сбое DNS для сервиса сохраняются прошлые файлы, чтобы не публиковать пустоту.
+Common files are human-readable: each domain is introduced by a comment such
+as '# YouTube — youtube.com', followed by its resolved IPs. Shared CDN answers
+may appear under multiple domains; consumers can deduplicate when needed.
 """
 from __future__ import annotations
 
@@ -11,11 +11,9 @@ import socket
 import sys
 from pathlib import Path
 
-from .io_lists import read_list, write_list
+from .io_lists import read_list
 from .seed_import import load_registry
 
-# The 100.0.0.0/8 block is not a general public unicast allocation; explicitly
-# exclude it because some Python versions classify individual addresses as global.
 NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.0.0.0/8"),)
 
 
@@ -23,29 +21,35 @@ def resolve_domain(domain: str) -> tuple[set[str], set[str]]:
     v4: set[str] = set()
     v6: set[str] = set()
     try:
-        records = socket.getaddrinfo(
-            domain, None, family=socket.AF_UNSPEC, type=socket.SOCK_STREAM
-        )
+        records = socket.getaddrinfo(domain, None, family=socket.AF_UNSPEC, type=socket.SOCK_STREAM)
     except (OSError, UnicodeError):
         return v4, v6
-
     for record in records:
         try:
             address = ipaddress.ip_address(record[4][0].split("%", 1)[0])
         except ValueError:
             continue
-        # Public routing lists must not include private, local, reserved or
-        # otherwise non-global addresses.
         if not address.is_global or any(
             address.version == network.version and address in network
             for network in NON_PUBLIC_NETWORKS
         ):
             continue
-        if address.version == 4:
-            v4.add(str(address))
-        else:
-            v6.add(str(address))
+        (v4 if address.version == 4 else v6).add(str(address))
     return v4, v6
+
+
+def write_grouped_list(path: Path, groups: list[tuple[str, set[str]]], comments: list[str] | None = None) -> None:
+    """Atomically write labelled groups without sorting away group boundaries."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    lines = [f"# {comment}" for comment in (comments or [])]
+    for label, entries in groups:
+        lines.append(f"# {label}")
+        clean_entries = sorted(set(entries))
+        lines.extend(clean_entries if clean_entries else ["# (no public DNS addresses found)"])
+        lines.append("")
+    tmp = path.with_name(path.name + ".tmp")
+    tmp.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8", newline="\n")
+    tmp.replace(path)
 
 
 def generate(repo_root: Path) -> dict[str, int]:
@@ -53,70 +57,72 @@ def generate(repo_root: Path) -> dict[str, int]:
     registry = load_registry(root / "state" / "registry.json")
     all_v4: set[str] = set()
     all_v6: set[str] = set()
-    resolved_services = 0
-    stale_services = 0
+    common_groups: dict[str, list[tuple[str, set[str]]]] = {
+        name: [] for name in ("ipv4", "ipv6", "cidrv4", "cidrv6")
+    }
+    resolved_services = stale_services = 0
 
     for slug, service in sorted(registry.items()):
-        v4: set[str] = set()
-        v6: set[str] = set()
+        service_v4: set[str] = set()
+        service_v6: set[str] = set()
+        service_groups: dict[str, list[tuple[str, set[str]]]] = {
+            name: [] for name in ("ipv4", "ipv6", "cidrv4", "cidrv6")
+        }
         for domain in sorted(service.domains):
-            domain_v4, domain_v6 = resolve_domain(domain)
-            v4.update(domain_v4)
-            v6.update(domain_v6)
+            v4, v6 = resolve_domain(domain)
+            service_v4.update(v4)
+            service_v6.update(v6)
+            label = f"{service.name} — {domain}"
+            groups = {
+                "ipv4": v4,
+                "ipv6": v6,
+                "cidrv4": {f"{address}/32" for address in v4},
+                "cidrv6": {f"{address}/128" for address in v6},
+            }
+            for kind, entries in groups.items():
+                service_groups[kind].append((label, entries))
+                common_groups[kind].append((label, entries))
 
         service_dir = root / "services" / slug
         old_v4 = set(read_list(service_dir / "ipv4.txt"))
         old_v6 = set(read_list(service_dir / "ipv6.txt"))
-        if v4 or v6:
+        if service_v4 or service_v6:
             resolved_services += 1
         else:
-            # Don't turn transient DNS/network failure into destructive empty
-            # output. Previous values remain clearly marked as last-known.
-            v4, v6 = old_v4, old_v6
-            if v4 or v6:
+            service_v4, service_v6 = old_v4, old_v6
+            if service_v4 or service_v6:
                 stale_services += 1
+                label = f"{service.name} — last known snapshot (DNS unavailable)"
+                groups = {
+                    "ipv4": service_v4,
+                    "ipv6": service_v6,
+                    "cidrv4": {f"{address}/32" for address in service_v4},
+                    "cidrv6": {f"{address}/128" for address in service_v6},
+                }
+                for kind, entries in groups.items():
+                    service_groups[kind] = [(label, entries)]
+                    common_groups[kind].append((label, entries))
 
-        write_list(
-            service_dir / "ipv4.txt",
-            sorted(v4),
-            comments=[
-                f"NetList DNS snapshot for {service.name}",
-                "Only globally routable IPv4 answers observed during this run.",
-                "Addresses may be shared, CDN-backed, or change over time.",
-            ],
-        )
-        write_list(
-            service_dir / "ipv6.txt",
-            sorted(v6),
-            comments=[
-                f"NetList DNS snapshot for {service.name}",
-                "Only globally routable IPv6 answers observed during this run.",
-                "Addresses may be shared, CDN-backed, or change over time.",
-            ],
-        )
-        write_list(
-            service_dir / "cidrv4.txt",
-            [f"{address}/32" for address in v4],
-            comments=["Exact host routes derived from current/last-known IPv4 answers; not service-owned ranges."],
-        )
-        write_list(
-            service_dir / "cidrv6.txt",
-            [f"{address}/128" for address in v6],
-            comments=["Exact host routes derived from current/last-known IPv6 answers; not service-owned ranges."],
-        )
-        all_v4.update(v4)
-        all_v6.update(v6)
+        headers = [
+            f"DNS-derived IP snapshot for {service.name} ({slug})",
+            "Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.",
+            "DNS answers change and do not prove exclusive service ownership.",
+        ]
+        write_grouped_list(service_dir / "ipv4.txt", service_groups["ipv4"], headers)
+        write_grouped_list(service_dir / "ipv6.txt", service_groups["ipv6"], headers)
+        write_grouped_list(service_dir / "cidrv4.txt", service_groups["cidrv4"], ["Exact IPv4 host routes (/32); not service-owned ranges."])
+        write_grouped_list(service_dir / "cidrv6.txt", service_groups["cidrv6"], ["Exact IPv6 host routes (/128); not service-owned ranges."])
+        all_v4.update(service_v4)
+        all_v6.update(service_v6)
 
-    write_list(root / "common" / "ipv4.txt", sorted(all_v4), comments=[
-        "Unique globally routable IPv4 DNS answers across NetList services.",
-        "May include shared hosting/CDN addresses; not proof of service ownership.",
-    ])
-    write_list(root / "common" / "ipv6.txt", sorted(all_v6), comments=[
-        "Unique globally routable IPv6 DNS answers across NetList services.",
-        "May include shared hosting/CDN addresses; not proof of service ownership.",
-    ])
-    write_list(root / "common" / "cidrv4.txt", [f"{address}/32" for address in all_v4])
-    write_list(root / "common" / "cidrv6.txt", [f"{address}/128" for address in all_v6])
+    common_headers = [
+        "Grouped by service and domain for readability; an IP may appear in multiple groups.",
+        "DNS answers may be shared by CDNs/hosting providers and do not prove exclusive ownership.",
+    ]
+    write_grouped_list(root / "common" / "ipv4.txt", common_groups["ipv4"], common_headers)
+    write_grouped_list(root / "common" / "ipv6.txt", common_groups["ipv6"], common_headers)
+    write_grouped_list(root / "common" / "cidrv4.txt", common_groups["cidrv4"], ["Exact IPv4 host routes (/32), grouped by source domain; not service-owned ranges."])
+    write_grouped_list(root / "common" / "cidrv6.txt", common_groups["cidrv6"], ["Exact IPv6 host routes (/128), grouped by source domain; not service-owned ranges."])
 
     if not all_v4 and not all_v6:
         raise RuntimeError("DNS produced no IP addresses and no previous IP snapshot exists")
