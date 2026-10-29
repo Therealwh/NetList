@@ -1,4 +1,4 @@
-"""Единая система логотипов NetList (ТЗ deasing §15).
+"""Единая система логотипов NetList (ТЗ §15).
 
 GitHub-репозиторий данных — единственный источник истины: assets/logos/<slug>.svg
 + assets/logos/manifest.json + assets/logos/sources.json (конфиг кандидатов).
