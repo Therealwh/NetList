@@ -1,0 +1,22 @@
+# NetList collection: cloud_cdn
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+akamai.com
+amazonaws.com
+aws.amazon.com
+azure.com
+azure.microsoft.com
+cloud.google.com
+cloudflare-dns.com
+cloudflare.com
+digitalocean.com
+fastly.com
+googlecloud.com
+hetzner.com
+hetzner.de
+linode.com
+netlify.com
+ovh.com
+ovhcloud.com
+render.com
+vercel.com
+vultr.com

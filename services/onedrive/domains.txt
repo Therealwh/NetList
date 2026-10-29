@@ -1,0 +1,4 @@
+# NetList seed candidates: OneDrive
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+onedrive.live.com
+sharepoint.com

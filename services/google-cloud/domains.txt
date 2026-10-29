@@ -1,0 +1,4 @@
+# NetList seed candidates: Google Cloud
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+cloud.google.com
+googlecloud.com

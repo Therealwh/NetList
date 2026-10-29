@@ -1,0 +1,5 @@
+# NetList seed candidates: Steam
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+steamcommunity.com
+steampowered.com
+steamstatic.com

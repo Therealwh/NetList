@@ -1,0 +1,825 @@
+{
+  "schema_version": 1,
+  "dataset": "russian",
+  "notice": "Стартовые кандидаты для проверки; список не подтверждает текущую блокировку или доступность.",
+  "categories": [
+    {
+      "id": "search_ecosystems",
+      "name": "Поиск и экосистемы",
+      "services": [
+        {
+          "name": "Яндекс",
+          "slug": "service",
+          "domains": [
+            "yandex.ru",
+            "ya.ru",
+            "yandex.com",
+            "yastatic.net"
+          ],
+          "category": "search_ecosystems"
+        },
+        {
+          "name": "VK",
+          "slug": "vk",
+          "domains": [
+            "vk.com",
+            "vk.ru",
+            "userapi.com",
+            "vkuserlive.net"
+          ],
+          "category": "search_ecosystems"
+        },
+        {
+          "name": "Mail.ru",
+          "slug": "mail-ru",
+          "domains": [
+            "mail.ru",
+            "bk.ru",
+            "list.ru",
+            "inbox.ru"
+          ],
+          "category": "search_ecosystems"
+        },
+        {
+          "name": "Дзен",
+          "slug": "service",
+          "domains": [
+            "dzen.ru"
+          ],
+          "category": "search_ecosystems"
+        },
+        {
+          "name": "Одноклассники",
+          "slug": "service",
+          "domains": [
+            "ok.ru"
+          ],
+          "category": "search_ecosystems"
+        },
+        {
+          "name": "Рамблер",
+          "slug": "service",
+          "domains": [
+            "rambler.ru"
+          ],
+          "category": "search_ecosystems"
+        },
+        {
+          "name": "2ГИС",
+          "slug": "2",
+          "domains": [
+            "2gis.ru"
+          ],
+          "category": "search_ecosystems"
+        }
+      ],
+      "seed_domain_count": 16
+    },
+    {
+      "id": "messengers_telecom",
+      "name": "Мессенджеры и связь",
+      "services": [
+        {
+          "name": "MAX",
+          "slug": "max",
+          "domains": [
+            "max.ru"
+          ],
+          "category": "messengers_telecom"
+        },
+        {
+          "name": "VK Мессенджер",
+          "slug": "vk",
+          "domains": [
+            "vk.me"
+          ],
+          "category": "messengers_telecom"
+        },
+        {
+          "name": "МТС",
+          "slug": "service",
+          "domains": [
+            "mts.ru"
+          ],
+          "category": "messengers_telecom"
+        },
+        {
+          "name": "МегаФон",
+          "slug": "service",
+          "domains": [
+            "megafon.ru"
+          ],
+          "category": "messengers_telecom"
+        },
+        {
+          "name": "Билайн",
+          "slug": "service",
+          "domains": [
+            "beeline.ru"
+          ],
+          "category": "messengers_telecom"
+        },
+        {
+          "name": "Ростелеком",
+          "slug": "service",
+          "domains": [
+            "rt.ru",
+            "rostelecom.ru"
+          ],
+          "category": "messengers_telecom"
+        },
+        {
+          "name": "Т2",
+          "slug": "2",
+          "domains": [
+            "t2.ru",
+            "tele2.ru"
+          ],
+          "category": "messengers_telecom"
+        },
+        {
+          "name": "СберМобайл",
+          "slug": "service",
+          "domains": [
+            "sbermobile.ru"
+          ],
+          "category": "messengers_telecom"
+        }
+      ],
+      "seed_domain_count": 10
+    },
+    {
+      "id": "video_music_media",
+      "name": "Видео, музыка и медиа",
+      "services": [
+        {
+          "name": "Rutube",
+          "slug": "rutube",
+          "domains": [
+            "rutube.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "VK Видео",
+          "slug": "vk",
+          "domains": [
+            "vkvideo.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "Кинопоиск",
+          "slug": "service",
+          "domains": [
+            "kinopoisk.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "Иви",
+          "slug": "service",
+          "domains": [
+            "ivi.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "Окко",
+          "slug": "service",
+          "domains": [
+            "okko.tv"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "Wink",
+          "slug": "wink",
+          "domains": [
+            "wink.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "KION",
+          "slug": "kion",
+          "domains": [
+            "kion.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "PREMIER",
+          "slug": "premier",
+          "domains": [
+            "premier.one"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "Яндекс Музыка",
+          "slug": "service",
+          "domains": [
+            "music.yandex.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "Звук",
+          "slug": "service",
+          "domains": [
+            "zvuk.com"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "РБК",
+          "slug": "service",
+          "domains": [
+            "rbc.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "ТАСС",
+          "slug": "service",
+          "domains": [
+            "tass.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "РИА Новости",
+          "slug": "service",
+          "domains": [
+            "ria.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "Коммерсантъ",
+          "slug": "service",
+          "domains": [
+            "kommersant.ru"
+          ],
+          "category": "video_music_media"
+        },
+        {
+          "name": "АиФ",
+          "slug": "service",
+          "domains": [
+            "aif.ru"
+          ],
+          "category": "video_music_media"
+        }
+      ],
+      "seed_domain_count": 15
+    },
+    {
+      "id": "marketplaces_delivery",
+      "name": "Маркетплейсы, магазины и доставка",
+      "services": [
+        {
+          "name": "Ozon",
+          "slug": "ozon",
+          "domains": [
+            "ozon.ru",
+            "ozone.ru",
+            "ozonusercontent.com"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Wildberries",
+          "slug": "wildberries",
+          "domains": [
+            "wildberries.ru",
+            "wb.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Avito",
+          "slug": "avito",
+          "domains": [
+            "avito.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Мегамаркет",
+          "slug": "service",
+          "domains": [
+            "megamarket.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Яндекс Маркет",
+          "slug": "service",
+          "domains": [
+            "market.yandex.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Магнит",
+          "slug": "service",
+          "domains": [
+            "magnit.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Пятёрочка",
+          "slug": "service",
+          "domains": [
+            "5ka.ru",
+            "x5.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "ВкусВилл",
+          "slug": "service",
+          "domains": [
+            "vkusvill.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Самокат",
+          "slug": "service",
+          "domains": [
+            "samokat.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Купер",
+          "slug": "service",
+          "domains": [
+            "kuper.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "Лента",
+          "slug": "service",
+          "domains": [
+            "lenta.com",
+            "lenta.ru"
+          ],
+          "category": "marketplaces_delivery"
+        },
+        {
+          "name": "СДЭК",
+          "slug": "service",
+          "domains": [
+            "cdek.ru"
+          ],
+          "category": "marketplaces_delivery"
+        }
+      ],
+      "seed_domain_count": 17
+    },
+    {
+      "id": "banks_payments",
+      "name": "Банки и платежи",
+      "services": [
+        {
+          "name": "Сбер",
+          "slug": "service",
+          "domains": [
+            "sberbank.ru",
+            "sber.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "ВТБ",
+          "slug": "service",
+          "domains": [
+            "vtb.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "Т-Банк",
+          "slug": "service",
+          "domains": [
+            "tbank.ru",
+            "tinkoff.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "Альфа-Банк",
+          "slug": "service",
+          "domains": [
+            "alfabank.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "Газпромбанк",
+          "slug": "service",
+          "domains": [
+            "gazprombank.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "ПСБ",
+          "slug": "service",
+          "domains": [
+            "psbank.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "Банк России",
+          "slug": "service",
+          "domains": [
+            "cbr.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "НСПК",
+          "slug": "service",
+          "domains": [
+            "nspk.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "Мир",
+          "slug": "service",
+          "domains": [
+            "mironline.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "СБП",
+          "slug": "service",
+          "domains": [
+            "sbp.nspk.ru"
+          ],
+          "category": "banks_payments"
+        },
+        {
+          "name": "ЮMoney",
+          "slug": "money",
+          "domains": [
+            "yoomoney.ru"
+          ],
+          "category": "banks_payments"
+        }
+      ],
+      "seed_domain_count": 13
+    },
+    {
+      "id": "government",
+      "name": "Государственные сервисы",
+      "services": [
+        {
+          "name": "Госуслуги",
+          "slug": "service",
+          "domains": [
+            "gosuslugi.ru"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "Правительство РФ",
+          "slug": "service",
+          "domains": [
+            "government.ru"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "Президент России",
+          "slug": "service",
+          "domains": [
+            "kremlin.ru"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "ФНС",
+          "slug": "service",
+          "domains": [
+            "nalog.gov.ru"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "МВД РФ",
+          "slug": "service",
+          "domains": [
+            "мвд.рф"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "МЧС",
+          "slug": "service",
+          "domains": [
+            "mchs.gov.ru"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "Госдума",
+          "slug": "service",
+          "domains": [
+            "duma.gov.ru"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "Совет Федерации",
+          "slug": "service",
+          "domains": [
+            "council.gov.ru"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "Честный знак",
+          "slug": "service",
+          "domains": [
+            "честныйзнак.рф"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "ГИС ЖКХ",
+          "slug": "service",
+          "domains": [
+            "dom.gosuslugi.ru"
+          ],
+          "category": "government"
+        },
+        {
+          "name": "Росреестр",
+          "slug": "service",
+          "domains": [
+            "rosreestr.gov.ru"
+          ],
+          "category": "government"
+        }
+      ],
+      "seed_domain_count": 11
+    },
+    {
+      "id": "transport",
+      "name": "Транспорт и путешествия",
+      "services": [
+        {
+          "name": "РЖД",
+          "slug": "service",
+          "domains": [
+            "rzd.ru"
+          ],
+          "category": "transport"
+        },
+        {
+          "name": "Аэрофлот",
+          "slug": "service",
+          "domains": [
+            "aeroflot.ru"
+          ],
+          "category": "transport"
+        },
+        {
+          "name": "Туту",
+          "slug": "service",
+          "domains": [
+            "tutu.ru"
+          ],
+          "category": "transport"
+        },
+        {
+          "name": "Яндекс Go",
+          "slug": "go",
+          "domains": [
+            "go.yandex"
+          ],
+          "category": "transport"
+        },
+        {
+          "name": "2ГИС",
+          "slug": "2",
+          "domains": [
+            "2gis.ru"
+          ],
+          "category": "transport"
+        },
+        {
+          "name": "Делимобиль",
+          "slug": "service",
+          "domains": [
+            "delimobil.ru"
+          ],
+          "category": "transport"
+        },
+        {
+          "name": "Ситидрайв",
+          "slug": "service",
+          "domains": [
+            "citydrive.ru"
+          ],
+          "category": "transport"
+        },
+        {
+          "name": "Почта России",
+          "slug": "service",
+          "domains": [
+            "pochta.ru"
+          ],
+          "category": "transport"
+        },
+        {
+          "name": "ГЛОНАСС",
+          "slug": "service",
+          "domains": [
+            "glonass.ru"
+          ],
+          "category": "transport"
+        }
+      ],
+      "seed_domain_count": 9
+    },
+    {
+      "id": "it_business_education",
+      "name": "IT, работа и образование",
+      "services": [
+        {
+          "name": "HeadHunter",
+          "slug": "headhunter",
+          "domains": [
+            "hh.ru"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "Хабр",
+          "slug": "service",
+          "domains": [
+            "habr.com"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "1С",
+          "slug": "1",
+          "domains": [
+            "1c.ru"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "Контур",
+          "slug": "service",
+          "domains": [
+            "kontur.ru"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "Тензор / СБИС",
+          "slug": "service",
+          "domains": [
+            "sbis.ru",
+            "tensor.ru"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "RuStore",
+          "slug": "rustore",
+          "domains": [
+            "rustore.ru"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "VK Cloud",
+          "slug": "vk-cloud",
+          "domains": [
+            "cloud.vk.com"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "Selectel",
+          "slug": "selectel",
+          "domains": [
+            "selectel.ru"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "Yandex Cloud",
+          "slug": "yandex-cloud",
+          "domains": [
+            "yandex.cloud"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "MTS Web Services",
+          "slug": "mts-web-services",
+          "domains": [
+            "mws.ru"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "Stepik",
+          "slug": "stepik",
+          "domains": [
+            "stepik.org"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "Нетология",
+          "slug": "service",
+          "domains": [
+            "netology.ru"
+          ],
+          "category": "it_business_education"
+        },
+        {
+          "name": "Skillbox",
+          "slug": "skillbox",
+          "domains": [
+            "skillbox.ru"
+          ],
+          "category": "it_business_education"
+        }
+      ],
+      "seed_domain_count": 14
+    },
+    {
+      "id": "health_sport",
+      "name": "Здоровье, спорт и прочее",
+      "services": [
+        {
+          "name": "Медси",
+          "slug": "service",
+          "domains": [
+            "medsi.ru"
+          ],
+          "category": "health_sport"
+        },
+        {
+          "name": "Мать и дитя",
+          "slug": "service",
+          "domains": [
+            "mdclinics.ru"
+          ],
+          "category": "health_sport"
+        },
+        {
+          "name": "Спортмастер",
+          "slug": "service",
+          "domains": [
+            "sportmaster.ru"
+          ],
+          "category": "health_sport"
+        },
+        {
+          "name": "KHL",
+          "slug": "khl",
+          "domains": [
+            "khl.ru"
+          ],
+          "category": "health_sport"
+        },
+        {
+          "name": "Гисметео",
+          "slug": "service",
+          "domains": [
+            "gismeteo.ru"
+          ],
+          "category": "health_sport"
+        },
+        {
+          "name": "Домклик",
+          "slug": "service",
+          "domains": [
+            "domclick.ru"
+          ],
+          "category": "health_sport"
+        }
+      ],
+      "seed_domain_count": 6
+    }
+  ]
+}

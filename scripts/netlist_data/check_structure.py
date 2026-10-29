@@ -7,7 +7,7 @@ from pathlib import Path
 
 ALLOWED_TOP_LEVEL = {
     "services", "common", "collections", "sources", "schemas",
-    "scripts", "tests", "state", ".github", ".gitignore",
+    "scripts", "tests", "state", ".github", ".gitignore", ".gitattributes",
     "README_RU.md", "catalog.json",
 }
 FORBIDDEN_RE = re.compile(

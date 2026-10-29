@@ -1,0 +1,19 @@
+# NetList collection: finance_marketplaces
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+aliexpress.com
+amazon.com
+avito.ru
+binance.com
+coinbase.com
+ebay.com
+etsy.com
+market.yandex.ru
+ozon.ru
+ozone.ru
+ozonusercontent.com
+paypal.com
+revolut.com
+stripe.com
+wb.ru
+wildberries.ru
+wise.com

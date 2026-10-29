@@ -1,0 +1,16 @@
+# NetList collection: it_business_education
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+1c.ru
+cloud.vk.com
+habr.com
+hh.ru
+kontur.ru
+mws.ru
+netology.ru
+rustore.ru
+sbis.ru
+selectel.ru
+skillbox.ru
+stepik.org
+tensor.ru
+yandex.cloud

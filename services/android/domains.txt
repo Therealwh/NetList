@@ -1,0 +1,4 @@
+# NetList seed candidates: Android
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+android.com
+android.googleapis.com

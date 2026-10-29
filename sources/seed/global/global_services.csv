@@ -1,0 +1,250 @@
+﻿category_id,category_name,service_name,domain,seed_status
+social,Социальные сети,Facebook,facebook.com,candidate_unverified
+social,Социальные сети,Instagram,instagram.com,candidate_unverified
+social,Социальные сети,X,x.com,candidate_unverified
+social,Социальные сети,X,twitter.com,candidate_unverified
+social,Социальные сети,TikTok,tiktok.com,candidate_unverified
+social,Социальные сети,Reddit,reddit.com,candidate_unverified
+social,Социальные сети,Pinterest,pinterest.com,candidate_unverified
+social,Социальные сети,LinkedIn,linkedin.com,candidate_unverified
+social,Социальные сети,Tumblr,tumblr.com,candidate_unverified
+social,Социальные сети,Threads,threads.net,candidate_unverified
+social,Социальные сети,Snapchat,snapchat.com,candidate_unverified
+social,Социальные сети,Discord,discord.com,candidate_unverified
+social,Социальные сети,VK,vk.com,candidate_unverified
+social,Социальные сети,VK,vk.ru,candidate_unverified
+social,Социальные сети,Одноклассники,ok.ru,candidate_unverified
+messengers,Мессенджеры,Telegram,telegram.org,candidate_unverified
+messengers,Мессенджеры,Telegram,t.me,candidate_unverified
+messengers,Мессенджеры,Telegram,telegram.me,candidate_unverified
+messengers,Мессенджеры,Telegram,telegra.ph,candidate_unverified
+messengers,Мессенджеры,WhatsApp,whatsapp.com,candidate_unverified
+messengers,Мессенджеры,WhatsApp,wa.me,candidate_unverified
+messengers,Мессенджеры,Signal,signal.org,candidate_unverified
+messengers,Мессенджеры,Viber,viber.com,candidate_unverified
+messengers,Мессенджеры,WeChat,wechat.com,candidate_unverified
+messengers,Мессенджеры,WeChat,weixin.qq.com,candidate_unverified
+messengers,Мессенджеры,LINE,line.me,candidate_unverified
+messengers,Мессенджеры,Skype,skype.com,candidate_unverified
+messengers,Мессенджеры,MAX,max.ru,candidate_unverified
+search_portals,Поиск и порталы,Google,google.com,candidate_unverified
+search_portals,Поиск и порталы,Google,googleapis.com,candidate_unverified
+search_portals,Поиск и порталы,Google,gstatic.com,candidate_unverified
+search_portals,Поиск и порталы,Bing,bing.com,candidate_unverified
+search_portals,Поиск и порталы,Yahoo,yahoo.com,candidate_unverified
+search_portals,Поиск и порталы,DuckDuckGo,duckduckgo.com,candidate_unverified
+search_portals,Поиск и порталы,Baidu,baidu.com,candidate_unverified
+search_portals,Поиск и порталы,Wikipedia,wikipedia.org,candidate_unverified
+search_portals,Поиск и порталы,Яндекс,yandex.ru,candidate_unverified
+search_portals,Поиск и порталы,Яндекс,ya.ru,candidate_unverified
+search_portals,Поиск и порталы,Яндекс,yandex.com,candidate_unverified
+search_portals,Поиск и порталы,Mail.ru,mail.ru,candidate_unverified
+video_streaming,Видео и стриминг,YouTube,youtube.com,candidate_unverified
+video_streaming,Видео и стриминг,YouTube,youtu.be,candidate_unverified
+video_streaming,Видео и стриминг,YouTube,youtube-nocookie.com,candidate_unverified
+video_streaming,Видео и стриминг,Twitch,twitch.tv,candidate_unverified
+video_streaming,Видео и стриминг,Twitch,jtvnw.net,candidate_unverified
+video_streaming,Видео и стриминг,Netflix,netflix.com,candidate_unverified
+video_streaming,Видео и стриминг,Prime Video,primevideo.com,candidate_unverified
+video_streaming,Видео и стриминг,Disney+,disneyplus.com,candidate_unverified
+video_streaming,Видео и стриминг,Hulu,hulu.com,candidate_unverified
+video_streaming,Видео и стриминг,Kick,kick.com,candidate_unverified
+video_streaming,Видео и стриминг,Rumble,rumble.com,candidate_unverified
+video_streaming,Видео и стриминг,Vimeo,vimeo.com,candidate_unverified
+video_streaming,Видео и стриминг,Dailymotion,dailymotion.com,candidate_unverified
+video_streaming,Видео и стриминг,Rutube,rutube.ru,candidate_unverified
+video_streaming,Видео и стриминг,VK Видео,vkvideo.ru,candidate_unverified
+movies,Киносайты и онлайн-кино,HDRezka,hdrezka.ag,candidate_unverified
+movies,Киносайты и онлайн-кино,HDRezka,hdrezka.me,candidate_unverified
+movies,Киносайты и онлайн-кино,Filmix,filmix.my,candidate_unverified
+movies,Киносайты и онлайн-кино,Filmix,filmix.ac,candidate_unverified
+movies,Киносайты и онлайн-кино,Seansovar,seansovar.com,candidate_unverified
+movies,Киносайты и онлайн-кино,Lordfilm — шаблон поиска зеркал,lordfilm.*,candidate_unverified
+movies,Киносайты и онлайн-кино,Kinogo — шаблон поиска зеркал,kinogo.*,candidate_unverified
+movies,Киносайты и онлайн-кино,Kinokrad — шаблон поиска зеркал,kinokrad.*,candidate_unverified
+movies,Киносайты и онлайн-кино,Baskino — шаблон поиска зеркал,baskino.*,candidate_unverified
+movies,Киносайты и онлайн-кино,KinoKong — шаблон поиска зеркал,kinokong.*,candidate_unverified
+movies,Киносайты и онлайн-кино,Zona,zona.ru,candidate_unverified
+movies,Киносайты и онлайн-кино,Кинопоиск,kinopoisk.ru,candidate_unverified
+movies,Киносайты и онлайн-кино,Иви,ivi.ru,candidate_unverified
+movies,Киносайты и онлайн-кино,Окко,okko.tv,candidate_unverified
+movies,Киносайты и онлайн-кино,Wink,wink.ru,candidate_unverified
+movies,Киносайты и онлайн-кино,KION,kion.ru,candidate_unverified
+movies,Киносайты и онлайн-кино,PREMIER,premier.one,candidate_unverified
+music,Музыка и аудио,Spotify,spotify.com,candidate_unverified
+music,Музыка и аудио,Spotify,scdn.co,candidate_unverified
+music,Музыка и аудио,SoundCloud,soundcloud.com,candidate_unverified
+music,Музыка и аудио,Deezer,deezer.com,candidate_unverified
+music,Музыка и аудио,Bandcamp,bandcamp.com,candidate_unverified
+music,Музыка и аудио,Last.fm,last.fm,candidate_unverified
+music,Музыка и аудио,Tidal,tidal.com,candidate_unverified
+music,Музыка и аудио,Apple Music,music.apple.com,candidate_unverified
+music,Музыка и аудио,YouTube Music,music.youtube.com,candidate_unverified
+music,Музыка и аудио,Mixcloud,mixcloud.com,candidate_unverified
+music,Музыка и аудио,Amazon Music,music.amazon.com,candidate_unverified
+music,Музыка и аудио,Яндекс Музыка,music.yandex.ru,candidate_unverified
+music,Музыка и аудио,Звук,zvuk.com,candidate_unverified
+torrents_p2p,Торренты и P2P,The Pirate Bay,thepiratebay.org,candidate_unverified
+torrents_p2p,Торренты и P2P,1337x,1337x.to,candidate_unverified
+torrents_p2p,Торренты и P2P,TorrentGalaxy,torrentgalaxy.to,candidate_unverified
+torrents_p2p,Торренты и P2P,YTS,yts.mx,candidate_unverified
+torrents_p2p,Торренты и P2P,EZTV,eztv.re,candidate_unverified
+torrents_p2p,Торренты и P2P,LimeTorrents,limetorrents.lol,candidate_unverified
+torrents_p2p,Торренты и P2P,Nyaa,nyaa.si,candidate_unverified
+torrents_p2p,Торренты и P2P,RuTracker,rutracker.org,candidate_unverified
+torrents_p2p,Торренты и P2P,RuTor,rutor.info,candidate_unverified
+torrents_p2p,Торренты и P2P,Internet Archive,archive.org,candidate_unverified
+file_sharing,Файлообменники и облака,Google Drive,drive.google.com,candidate_unverified
+file_sharing,Файлообменники и облака,Dropbox,dropbox.com,candidate_unverified
+file_sharing,Файлообменники и облака,OneDrive,onedrive.live.com,candidate_unverified
+file_sharing,Файлообменники и облака,OneDrive,sharepoint.com,candidate_unverified
+file_sharing,Файлообменники и облака,MEGA,mega.nz,candidate_unverified
+file_sharing,Файлообменники и облака,MediaFire,mediafire.com,candidate_unverified
+file_sharing,Файлообменники и облака,WeTransfer,wetransfer.com,candidate_unverified
+file_sharing,Файлообменники и облака,SwissTransfer,swisstransfer.com,candidate_unverified
+file_sharing,Файлообменники и облака,Pixeldrain,pixeldrain.com,candidate_unverified
+file_sharing,Файлообменники и облака,Send Anywhere,send-anywhere.com,candidate_unverified
+file_sharing,Файлообменники и облака,Яндекс Диск,disk.yandex.ru,candidate_unverified
+file_sharing,Файлообменники и облака,Облако Mail.ru,cloud.mail.ru,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,chatgpt.com,candidate_unverified
+ai,Искусственный интеллект,ChatGPT,openai.com,candidate_unverified
+ai,Искусственный интеллект,Claude,claude.ai,candidate_unverified
+ai,Искусственный интеллект,Claude,anthropic.com,candidate_unverified
+ai,Искусственный интеллект,Gemini,gemini.google.com,candidate_unverified
+ai,Искусственный интеллект,Gemini,ai.google.dev,candidate_unverified
+ai,Искусственный интеллект,Perplexity,perplexity.ai,candidate_unverified
+ai,Искусственный интеллект,Midjourney,midjourney.com,candidate_unverified
+ai,Искусственный интеллект,Hugging Face,huggingface.co,candidate_unverified
+ai,Искусственный интеллект,Replicate,replicate.com,candidate_unverified
+ai,Искусственный интеллект,Mistral AI,mistral.ai,candidate_unverified
+ai,Искусственный интеллект,DeepSeek,deepseek.com,candidate_unverified
+ai,Искусственный интеллект,Grok,grok.com,candidate_unverified
+ai,Искусственный интеллект,Grok,x.ai,candidate_unverified
+ai,Искусственный интеллект,Qwen,qwen.ai,candidate_unverified
+developer_tools,Разработка и репозитории,GitHub,github.com,candidate_unverified
+developer_tools,Разработка и репозитории,GitHub,githubusercontent.com,candidate_unverified
+developer_tools,Разработка и репозитории,GitLab,gitlab.com,candidate_unverified
+developer_tools,Разработка и репозитории,Bitbucket,bitbucket.org,candidate_unverified
+developer_tools,Разработка и репозитории,SourceForge,sourceforge.net,candidate_unverified
+developer_tools,Разработка и репозитории,Stack Overflow,stackoverflow.com,candidate_unverified
+developer_tools,Разработка и репозитории,Stack Overflow,stackexchange.com,candidate_unverified
+developer_tools,Разработка и репозитории,npm,npmjs.com,candidate_unverified
+developer_tools,Разработка и репозитории,PyPI,pypi.org,candidate_unverified
+developer_tools,Разработка и репозитории,crates.io,crates.io,candidate_unverified
+developer_tools,Разработка и репозитории,Docker Hub,hub.docker.com,candidate_unverified
+developer_tools,Разработка и репозитории,Docker Hub,docker.com,candidate_unverified
+developer_tools,Разработка и репозитории,JetBrains,jetbrains.com,candidate_unverified
+developer_tools,Разработка и репозитории,Codeberg,codeberg.org,candidate_unverified
+developer_tools,Разработка и репозитории,GitHub Pages,github.io,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",AWS,aws.amazon.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",AWS,amazonaws.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Google Cloud,cloud.google.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Google Cloud,googlecloud.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Microsoft Azure,azure.microsoft.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Microsoft Azure,azure.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Cloudflare,cloudflare.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Cloudflare,cloudflare-dns.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Fastly,fastly.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Akamai,akamai.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",DigitalOcean,digitalocean.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Hetzner,hetzner.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Hetzner,hetzner.de,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",OVHcloud,ovhcloud.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",OVHcloud,ovh.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Vultr,vultr.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Linode,linode.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Vercel,vercel.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Netlify,netlify.com,candidate_unverified
+cloud_cdn,"Хостинг, VPS, облака и CDN",Render,render.com,candidate_unverified
+gaming,Игры и игровые платформы,Steam,steampowered.com,candidate_unverified
+gaming,Игры и игровые платформы,Steam,steamcommunity.com,candidate_unverified
+gaming,Игры и игровые платформы,Steam,steamstatic.com,candidate_unverified
+gaming,Игры и игровые платформы,Epic Games,epicgames.com,candidate_unverified
+gaming,Игры и игровые платформы,EA,ea.com,candidate_unverified
+gaming,Игры и игровые платформы,Ubisoft,ubisoft.com,candidate_unverified
+gaming,Игры и игровые платформы,Battle.net,battle.net,candidate_unverified
+gaming,Игры и игровые платформы,Battle.net,blizzard.com,candidate_unverified
+gaming,Игры и игровые платформы,PlayStation,playstation.com,candidate_unverified
+gaming,Игры и игровые платформы,PlayStation,sony.com,candidate_unverified
+gaming,Игры и игровые платформы,Xbox,xbox.com,candidate_unverified
+gaming,Игры и игровые платформы,Xbox,xboxlive.com,candidate_unverified
+gaming,Игры и игровые платформы,Nintendo,nintendo.com,candidate_unverified
+gaming,Игры и игровые платформы,Riot Games,riotgames.com,candidate_unverified
+gaming,Игры и игровые платформы,Riot Games,leagueoflegends.com,candidate_unverified
+gaming,Игры и игровые платформы,Minecraft,minecraft.net,candidate_unverified
+gaming,Игры и игровые платформы,Roblox,roblox.com,candidate_unverified
+gaming,Игры и игровые платформы,Faceit,faceit.com,candidate_unverified
+gaming,Игры и игровые платформы,Modrinth,modrinth.com,candidate_unverified
+gaming,Игры и игровые платформы,Nexus Mods,nexusmods.com,candidate_unverified
+adult_18,Взрослые сайты 18+,Pornhub,pornhub.com,candidate_unverified
+adult_18,Взрослые сайты 18+,XVideos,xvideos.com,candidate_unverified
+adult_18,Взрослые сайты 18+,XHamster,xhamster.com,candidate_unverified
+adult_18,Взрослые сайты 18+,XNXX,xnxx.com,candidate_unverified
+adult_18,Взрослые сайты 18+,RedTube,redtube.com,candidate_unverified
+adult_18,Взрослые сайты 18+,YouPorn,youporn.com,candidate_unverified
+adult_18,Взрослые сайты 18+,OnlyFans,onlyfans.com,candidate_unverified
+adult_18,Взрослые сайты 18+,Fansly,fansly.com,candidate_unverified
+gambling,Казино и азартные игры,Stake,stake.com,candidate_unverified
+gambling,Казино и азартные игры,1xBet,1xbet.com,candidate_unverified
+gambling,Казино и азартные игры,Bet365,bet365.com,candidate_unverified
+gambling,Казино и азартные игры,Betfair,betfair.com,candidate_unverified
+gambling,Казино и азартные игры,Pinnacle,pinnacle.com,candidate_unverified
+gambling,Казино и азартные игры,PokerStars,pokerstars.com,candidate_unverified
+gambling,Казино и азартные игры,BC.Game,bc.game,candidate_unverified
+news_education,"Новости, справка и образование",BBC,bbc.com,candidate_unverified
+news_education,"Новости, справка и образование",BBC,bbc.co.uk,candidate_unverified
+news_education,"Новости, справка и образование",Reuters,reuters.com,candidate_unverified
+news_education,"Новости, справка и образование",AP News,apnews.com,candidate_unverified
+news_education,"Новости, справка и образование",The Guardian,theguardian.com,candidate_unverified
+news_education,"Новости, справка и образование",Deutsche Welle,dw.com,candidate_unverified
+news_education,"Новости, справка и образование",Meduza,meduza.io,candidate_unverified
+news_education,"Новости, справка и образование",РБК,rbc.ru,candidate_unverified
+news_education,"Новости, справка и образование",ТАСС,tass.ru,candidate_unverified
+news_education,"Новости, справка и образование",РИА Новости,ria.ru,candidate_unverified
+news_education,"Новости, справка и образование",Coursera,coursera.org,candidate_unverified
+news_education,"Новости, справка и образование",edX,edx.org,candidate_unverified
+news_education,"Новости, справка и образование",Khan Academy,khanacademy.org,candidate_unverified
+news_education,"Новости, справка и образование",Stepik,stepik.org,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",PayPal,paypal.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Stripe,stripe.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Wise,wise.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Revolut,revolut.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Binance,binance.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Coinbase,coinbase.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Amazon,amazon.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",eBay,ebay.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Etsy,etsy.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",AliExpress,aliexpress.com,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Ozon,ozon.ru,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Wildberries,wildberries.ru,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Wildberries,wb.ru,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Avito,avito.ru,candidate_unverified
+finance_marketplaces,"Финансы, платежи и маркетплейсы",Яндекс Маркет,market.yandex.ru,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,microsoft.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,windowsupdate.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,office.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,icloud.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Android,android.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Android,android.googleapis.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Mozilla,mozilla.org,candidate_unverified
+os_security,"ОС, обновления и безопасность",Mozilla,firefox.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Ubuntu,ubuntu.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Ubuntu,archive.ubuntu.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Debian,debian.org,candidate_unverified
+os_security,"ОС, обновления и безопасность",Debian,deb.debian.org,candidate_unverified
+os_security,"ОС, обновления и безопасность",Fedora,fedoraproject.org,candidate_unverified
+os_security,"ОС, обновления и безопасность",Arch Linux,archlinux.org,candidate_unverified
+os_security,"ОС, обновления и безопасность",Kaspersky,kaspersky.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",ESET,eset.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Malwarebytes,malwarebytes.com,candidate_unverified
+mail,Почта и коммуникации,Gmail,gmail.com,candidate_unverified
+mail,Почта и коммуникации,Outlook,outlook.com,candidate_unverified
+mail,Почта и коммуникации,Outlook,outlook.office.com,candidate_unverified
+mail,Почта и коммуникации,Proton Mail,proton.me,candidate_unverified
+mail,Почта и коммуникации,Proton Mail,protonmail.com,candidate_unverified
+mail,Почта и коммуникации,Tuta,tuta.com,candidate_unverified
+mail,Почта и коммуникации,Fastmail,fastmail.com,candidate_unverified
+mail,Почта и коммуникации,Яндекс Почта,mail.yandex.ru,candidate_unverified
+mail,Почта и коммуникации,Mail.ru,mail.ru,candidate_unverified
+mail,Почта и коммуникации,Zoho,zoho.com,candidate_unverified

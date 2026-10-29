@@ -1,0 +1,8 @@
+# NetList collection: health_sport
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+domclick.ru
+gismeteo.ru
+khl.ru
+mdclinics.ru
+medsi.ru
+sportmaster.ru

@@ -1,0 +1,112 @@
+﻿category_id,category_name,service_name,domain,seed_status
+search_ecosystems,Поиск и экосистемы,Яндекс,yandex.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Яндекс,ya.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Яндекс,yandex.com,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Яндекс,yastatic.net,candidate_unverified
+search_ecosystems,Поиск и экосистемы,VK,vk.com,candidate_unverified
+search_ecosystems,Поиск и экосистемы,VK,vk.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,VK,userapi.com,candidate_unverified
+search_ecosystems,Поиск и экосистемы,VK,vkuserlive.net,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Mail.ru,mail.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Mail.ru,bk.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Mail.ru,list.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Mail.ru,inbox.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Дзен,dzen.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Одноклассники,ok.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,Рамблер,rambler.ru,candidate_unverified
+search_ecosystems,Поиск и экосистемы,2ГИС,2gis.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,MAX,max.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,VK Мессенджер,vk.me,candidate_unverified
+messengers_telecom,Мессенджеры и связь,МТС,mts.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,МегаФон,megafon.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,Билайн,beeline.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,Ростелеком,rt.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,Ростелеком,rostelecom.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,Т2,t2.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,Т2,tele2.ru,candidate_unverified
+messengers_telecom,Мессенджеры и связь,СберМобайл,sbermobile.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",Rutube,rutube.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",VK Видео,vkvideo.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",Кинопоиск,kinopoisk.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",Иви,ivi.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",Окко,okko.tv,candidate_unverified
+video_music_media,"Видео, музыка и медиа",Wink,wink.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",KION,kion.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",PREMIER,premier.one,candidate_unverified
+video_music_media,"Видео, музыка и медиа",Яндекс Музыка,music.yandex.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",Звук,zvuk.com,candidate_unverified
+video_music_media,"Видео, музыка и медиа",РБК,rbc.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",ТАСС,tass.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",РИА Новости,ria.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",Коммерсантъ,kommersant.ru,candidate_unverified
+video_music_media,"Видео, музыка и медиа",АиФ,aif.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Ozon,ozon.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Ozon,ozone.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Ozon,ozonusercontent.com,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Wildberries,wildberries.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Wildberries,wb.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Avito,avito.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Мегамаркет,megamarket.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Яндекс Маркет,market.yandex.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Магнит,magnit.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Пятёрочка,5ka.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Пятёрочка,x5.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",ВкусВилл,vkusvill.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Самокат,samokat.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Купер,kuper.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Лента,lenta.com,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",Лента,lenta.ru,candidate_unverified
+marketplaces_delivery,"Маркетплейсы, магазины и доставка",СДЭК,cdek.ru,candidate_unverified
+banks_payments,Банки и платежи,Сбер,sberbank.ru,candidate_unverified
+banks_payments,Банки и платежи,Сбер,sber.ru,candidate_unverified
+banks_payments,Банки и платежи,ВТБ,vtb.ru,candidate_unverified
+banks_payments,Банки и платежи,Т-Банк,tbank.ru,candidate_unverified
+banks_payments,Банки и платежи,Т-Банк,tinkoff.ru,candidate_unverified
+banks_payments,Банки и платежи,Альфа-Банк,alfabank.ru,candidate_unverified
+banks_payments,Банки и платежи,Газпромбанк,gazprombank.ru,candidate_unverified
+banks_payments,Банки и платежи,ПСБ,psbank.ru,candidate_unverified
+banks_payments,Банки и платежи,Банк России,cbr.ru,candidate_unverified
+banks_payments,Банки и платежи,НСПК,nspk.ru,candidate_unverified
+banks_payments,Банки и платежи,Мир,mironline.ru,candidate_unverified
+banks_payments,Банки и платежи,СБП,sbp.nspk.ru,candidate_unverified
+banks_payments,Банки и платежи,ЮMoney,yoomoney.ru,candidate_unverified
+government,Государственные сервисы,Госуслуги,gosuslugi.ru,candidate_unverified
+government,Государственные сервисы,Правительство РФ,government.ru,candidate_unverified
+government,Государственные сервисы,Президент России,kremlin.ru,candidate_unverified
+government,Государственные сервисы,ФНС,nalog.gov.ru,candidate_unverified
+government,Государственные сервисы,МВД РФ,мвд.рф,candidate_unverified
+government,Государственные сервисы,МЧС,mchs.gov.ru,candidate_unverified
+government,Государственные сервисы,Госдума,duma.gov.ru,candidate_unverified
+government,Государственные сервисы,Совет Федерации,council.gov.ru,candidate_unverified
+government,Государственные сервисы,Честный знак,честныйзнак.рф,candidate_unverified
+government,Государственные сервисы,ГИС ЖКХ,dom.gosuslugi.ru,candidate_unverified
+government,Государственные сервисы,Росреестр,rosreestr.gov.ru,candidate_unverified
+transport,Транспорт и путешествия,РЖД,rzd.ru,candidate_unverified
+transport,Транспорт и путешествия,Аэрофлот,aeroflot.ru,candidate_unverified
+transport,Транспорт и путешествия,Туту,tutu.ru,candidate_unverified
+transport,Транспорт и путешествия,Яндекс Go,go.yandex,candidate_unverified
+transport,Транспорт и путешествия,2ГИС,2gis.ru,candidate_unverified
+transport,Транспорт и путешествия,Делимобиль,delimobil.ru,candidate_unverified
+transport,Транспорт и путешествия,Ситидрайв,citydrive.ru,candidate_unverified
+transport,Транспорт и путешествия,Почта России,pochta.ru,candidate_unverified
+transport,Транспорт и путешествия,ГЛОНАСС,glonass.ru,candidate_unverified
+it_business_education,"IT, работа и образование",HeadHunter,hh.ru,candidate_unverified
+it_business_education,"IT, работа и образование",Хабр,habr.com,candidate_unverified
+it_business_education,"IT, работа и образование",1С,1c.ru,candidate_unverified
+it_business_education,"IT, работа и образование",Контур,kontur.ru,candidate_unverified
+it_business_education,"IT, работа и образование",Тензор / СБИС,sbis.ru,candidate_unverified
+it_business_education,"IT, работа и образование",Тензор / СБИС,tensor.ru,candidate_unverified
+it_business_education,"IT, работа и образование",RuStore,rustore.ru,candidate_unverified
+it_business_education,"IT, работа и образование",VK Cloud,cloud.vk.com,candidate_unverified
+it_business_education,"IT, работа и образование",Selectel,selectel.ru,candidate_unverified
+it_business_education,"IT, работа и образование",Yandex Cloud,yandex.cloud,candidate_unverified
+it_business_education,"IT, работа и образование",MTS Web Services,mws.ru,candidate_unverified
+it_business_education,"IT, работа и образование",Stepik,stepik.org,candidate_unverified
+it_business_education,"IT, работа и образование",Нетология,netology.ru,candidate_unverified
+it_business_education,"IT, работа и образование",Skillbox,skillbox.ru,candidate_unverified
+health_sport,"Здоровье, спорт и прочее",Медси,medsi.ru,candidate_unverified
+health_sport,"Здоровье, спорт и прочее",Мать и дитя,mdclinics.ru,candidate_unverified
+health_sport,"Здоровье, спорт и прочее",Спортмастер,sportmaster.ru,candidate_unverified
+health_sport,"Здоровье, спорт и прочее",KHL,khl.ru,candidate_unverified
+health_sport,"Здоровье, спорт и прочее",Гисметео,gismeteo.ru,candidate_unverified
+health_sport,"Здоровье, спорт и прочее",Домклик,domclick.ru,candidate_unverified

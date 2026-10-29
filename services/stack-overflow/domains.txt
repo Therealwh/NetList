@@ -1,0 +1,4 @@
+# NetList seed candidates: Stack Overflow
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+stackexchange.com
+stackoverflow.com

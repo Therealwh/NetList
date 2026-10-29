@@ -1,0 +1,17 @@
+# NetList collection: video_streaming
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+dailymotion.com
+disneyplus.com
+hulu.com
+jtvnw.net
+kick.com
+netflix.com
+primevideo.com
+rumble.com
+rutube.ru
+twitch.tv
+vimeo.com
+vkvideo.ru
+youtu.be
+youtube-nocookie.com
+youtube.com

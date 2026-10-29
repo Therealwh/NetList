@@ -1,0 +1,15 @@
+# NetList collection: messengers
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+line.me
+max.ru
+signal.org
+skype.com
+t.me
+telegra.ph
+telegram.me
+telegram.org
+viber.com
+wa.me
+wechat.com
+weixin.qq.com
+whatsapp.com

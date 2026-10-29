@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NetList catalog",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "notice", "counts", "categories", "services"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "dataset": {"type": "string"},
+    "generated_at": {"type": "string", "format": "date-time"},
+    "notice": {"type": "string", "minLength": 20},
+    "counts": {
+      "type": "object",
+      "required": ["services", "categories", "domains"],
+      "properties": {
+        "services": {"type": "integer", "minimum": 0},
+        "categories": {"type": "integer", "minimum": 0},
+        "domains": {"type": "integer", "minimum": 0}
+      }
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "services_count", "domains_count"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+          "services_count": {"type": "integer", "minimum": 0},
+          "domains_count": {"type": "integer", "minimum": 0}
+        }
+      }
+    },
+    "services": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "slug", "primary_domain", "domains", "categories", "datasets", "seed_status"],
+        "properties": {
+          "name": {"type": "string", "minLength": 1},
+          "slug": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+          "primary_domain": {"type": "string"},
+          "domains": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+          "domain_count": {"type": "integer", "minimum": 1},
+          "categories": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+          "datasets": {"type": "array", "items": {"enum": ["global", "russian"]}},
+          "seed_status": {"enum": ["candidate_unverified"]}
+        }
+      }
+    }
+  }
+}

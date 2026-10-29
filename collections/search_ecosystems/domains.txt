@@ -1,0 +1,18 @@
+# NetList collection: search_ecosystems
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+2gis.ru
+bk.ru
+dzen.ru
+inbox.ru
+list.ru
+mail.ru
+ok.ru
+rambler.ru
+userapi.com
+vk.com
+vk.ru
+vkuserlive.net
+ya.ru
+yandex.com
+yandex.ru
+yastatic.net

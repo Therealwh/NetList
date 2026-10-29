@@ -1,0 +1,17 @@
+# NetList collection: ai
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+ai.google.dev
+anthropic.com
+chatgpt.com
+claude.ai
+deepseek.com
+gemini.google.com
+grok.com
+huggingface.co
+midjourney.com
+mistral.ai
+openai.com
+perplexity.ai
+qwen.ai
+replicate.com
+x.ai

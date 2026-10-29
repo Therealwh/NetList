@@ -1,0 +1,4 @@
+# NetList seed candidates: PlayStation
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+playstation.com
+sony.com

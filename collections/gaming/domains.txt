@@ -1,0 +1,22 @@
+# NetList collection: gaming
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+battle.net
+blizzard.com
+ea.com
+epicgames.com
+faceit.com
+leagueoflegends.com
+minecraft.net
+modrinth.com
+nexusmods.com
+nintendo.com
+playstation.com
+riotgames.com
+roblox.com
+sony.com
+steamcommunity.com
+steampowered.com
+steamstatic.com
+ubisoft.com
+xbox.com
+xboxlive.com

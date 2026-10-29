@@ -1,0 +1,16 @@
+# NetList collection: news_education
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+apnews.com
+bbc.co.uk
+bbc.com
+coursera.org
+dw.com
+edx.org
+khanacademy.org
+meduza.io
+rbc.ru
+reuters.com
+ria.ru
+stepik.org
+tass.ru
+theguardian.com

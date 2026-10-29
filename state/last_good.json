@@ -1,0 +1,798 @@
+{
+  "counts": {
+    "services": 263,
+    "categories": 27,
+    "domains": 326
+  },
+  "services": {
+    "1337x": {
+      "domain_count": 1
+    },
+    "1c": {
+      "domain_count": 1
+    },
+    "1xbet": {
+      "domain_count": 1
+    },
+    "2gis": {
+      "domain_count": 1
+    },
+    "aeroflot": {
+      "domain_count": 1
+    },
+    "aif": {
+      "domain_count": 1
+    },
+    "akamai": {
+      "domain_count": 1
+    },
+    "alfa-bank": {
+      "domain_count": 1
+    },
+    "aliexpress": {
+      "domain_count": 1
+    },
+    "amazon": {
+      "domain_count": 1
+    },
+    "amazon-music": {
+      "domain_count": 1
+    },
+    "android": {
+      "domain_count": 2
+    },
+    "ap-news": {
+      "domain_count": 1
+    },
+    "apple": {
+      "domain_count": 2
+    },
+    "apple-music": {
+      "domain_count": 1
+    },
+    "arch-linux": {
+      "domain_count": 1
+    },
+    "avito": {
+      "domain_count": 1
+    },
+    "aws": {
+      "domain_count": 2
+    },
+    "baidu": {
+      "domain_count": 1
+    },
+    "bandcamp": {
+      "domain_count": 1
+    },
+    "bank-rossii": {
+      "domain_count": 1
+    },
+    "battle-net": {
+      "domain_count": 2
+    },
+    "bbc": {
+      "domain_count": 2
+    },
+    "bc-game": {
+      "domain_count": 1
+    },
+    "bet365": {
+      "domain_count": 1
+    },
+    "betfair": {
+      "domain_count": 1
+    },
+    "bilayn": {
+      "domain_count": 1
+    },
+    "binance": {
+      "domain_count": 1
+    },
+    "bing": {
+      "domain_count": 1
+    },
+    "bitbucket": {
+      "domain_count": 1
+    },
+    "chatgpt": {
+      "domain_count": 2
+    },
+    "chestnyy-znak": {
+      "domain_count": 1
+    },
+    "claude": {
+      "domain_count": 2
+    },
+    "cloudflare": {
+      "domain_count": 2
+    },
+    "codeberg": {
+      "domain_count": 1
+    },
+    "coinbase": {
+      "domain_count": 1
+    },
+    "coursera": {
+      "domain_count": 1
+    },
+    "crates-io": {
+      "domain_count": 1
+    },
+    "dailymotion": {
+      "domain_count": 1
+    },
+    "debian": {
+      "domain_count": 2
+    },
+    "deepseek": {
+      "domain_count": 1
+    },
+    "deezer": {
+      "domain_count": 1
+    },
+    "delimobil": {
+      "domain_count": 1
+    },
+    "deutsche-welle": {
+      "domain_count": 1
+    },
+    "digitalocean": {
+      "domain_count": 1
+    },
+    "discord": {
+      "domain_count": 1
+    },
+    "disney": {
+      "domain_count": 1
+    },
+    "docker-hub": {
+      "domain_count": 2
+    },
+    "domklik": {
+      "domain_count": 1
+    },
+    "dropbox": {
+      "domain_count": 1
+    },
+    "duckduckgo": {
+      "domain_count": 1
+    },
+    "dzen": {
+      "domain_count": 1
+    },
+    "ea": {
+      "domain_count": 1
+    },
+    "ebay": {
+      "domain_count": 1
+    },
+    "edx": {
+      "domain_count": 1
+    },
+    "epic-games": {
+      "domain_count": 1
+    },
+    "eset": {
+      "domain_count": 1
+    },
+    "etsy": {
+      "domain_count": 1
+    },
+    "eztv": {
+      "domain_count": 1
+    },
+    "facebook": {
+      "domain_count": 1
+    },
+    "faceit": {
+      "domain_count": 1
+    },
+    "fansly": {
+      "domain_count": 1
+    },
+    "fastly": {
+      "domain_count": 1
+    },
+    "fastmail": {
+      "domain_count": 1
+    },
+    "fedora": {
+      "domain_count": 1
+    },
+    "filmix": {
+      "domain_count": 2
+    },
+    "fns": {
+      "domain_count": 1
+    },
+    "gazprombank": {
+      "domain_count": 1
+    },
+    "gemini": {
+      "domain_count": 2
+    },
+    "gis-zhkkh": {
+      "domain_count": 1
+    },
+    "gismeteo": {
+      "domain_count": 1
+    },
+    "github": {
+      "domain_count": 2
+    },
+    "github-pages": {
+      "domain_count": 1
+    },
+    "gitlab": {
+      "domain_count": 1
+    },
+    "glonass": {
+      "domain_count": 1
+    },
+    "gmail": {
+      "domain_count": 1
+    },
+    "google": {
+      "domain_count": 3
+    },
+    "google-cloud": {
+      "domain_count": 2
+    },
+    "google-drive": {
+      "domain_count": 1
+    },
+    "gosduma": {
+      "domain_count": 1
+    },
+    "gosuslugi": {
+      "domain_count": 1
+    },
+    "grok": {
+      "domain_count": 2
+    },
+    "hdrezka": {
+      "domain_count": 2
+    },
+    "headhunter": {
+      "domain_count": 1
+    },
+    "hetzner": {
+      "domain_count": 2
+    },
+    "hugging-face": {
+      "domain_count": 1
+    },
+    "hulu": {
+      "domain_count": 1
+    },
+    "instagram": {
+      "domain_count": 1
+    },
+    "internet-archive": {
+      "domain_count": 1
+    },
+    "ivi": {
+      "domain_count": 1
+    },
+    "jetbrains": {
+      "domain_count": 1
+    },
+    "kaspersky": {
+      "domain_count": 1
+    },
+    "khabr": {
+      "domain_count": 1
+    },
+    "khan-academy": {
+      "domain_count": 1
+    },
+    "khl": {
+      "domain_count": 1
+    },
+    "kick": {
+      "domain_count": 1
+    },
+    "kinopoisk": {
+      "domain_count": 1
+    },
+    "kion": {
+      "domain_count": 1
+    },
+    "kommersant": {
+      "domain_count": 1
+    },
+    "kontur": {
+      "domain_count": 1
+    },
+    "kuper": {
+      "domain_count": 1
+    },
+    "last-fm": {
+      "domain_count": 1
+    },
+    "lenta": {
+      "domain_count": 2
+    },
+    "limetorrents": {
+      "domain_count": 1
+    },
+    "line": {
+      "domain_count": 1
+    },
+    "linkedin": {
+      "domain_count": 1
+    },
+    "linode": {
+      "domain_count": 1
+    },
+    "magnit": {
+      "domain_count": 1
+    },
+    "mail-ru": {
+      "domain_count": 4
+    },
+    "malwarebytes": {
+      "domain_count": 1
+    },
+    "mat-i-ditya": {
+      "domain_count": 1
+    },
+    "max": {
+      "domain_count": 1
+    },
+    "mchs": {
+      "domain_count": 1
+    },
+    "mediafire": {
+      "domain_count": 1
+    },
+    "medsi": {
+      "domain_count": 1
+    },
+    "meduza": {
+      "domain_count": 1
+    },
+    "mega": {
+      "domain_count": 1
+    },
+    "megafon": {
+      "domain_count": 1
+    },
+    "megamarket": {
+      "domain_count": 1
+    },
+    "microsoft": {
+      "domain_count": 3
+    },
+    "microsoft-azure": {
+      "domain_count": 2
+    },
+    "midjourney": {
+      "domain_count": 1
+    },
+    "minecraft": {
+      "domain_count": 1
+    },
+    "mir": {
+      "domain_count": 1
+    },
+    "mistral-ai": {
+      "domain_count": 1
+    },
+    "mixcloud": {
+      "domain_count": 1
+    },
+    "modrinth": {
+      "domain_count": 1
+    },
+    "mozilla": {
+      "domain_count": 2
+    },
+    "mts": {
+      "domain_count": 1
+    },
+    "mts-web-services": {
+      "domain_count": 1
+    },
+    "mvd-rf": {
+      "domain_count": 1
+    },
+    "netflix": {
+      "domain_count": 1
+    },
+    "netlify": {
+      "domain_count": 1
+    },
+    "netologiya": {
+      "domain_count": 1
+    },
+    "nexus-mods": {
+      "domain_count": 1
+    },
+    "nintendo": {
+      "domain_count": 1
+    },
+    "npm": {
+      "domain_count": 1
+    },
+    "nspk": {
+      "domain_count": 1
+    },
+    "nyaa": {
+      "domain_count": 1
+    },
+    "oblako-mail-ru": {
+      "domain_count": 1
+    },
+    "odnoklassniki": {
+      "domain_count": 1
+    },
+    "okko": {
+      "domain_count": 1
+    },
+    "onedrive": {
+      "domain_count": 2
+    },
+    "onlyfans": {
+      "domain_count": 1
+    },
+    "outlook": {
+      "domain_count": 2
+    },
+    "ovhcloud": {
+      "domain_count": 2
+    },
+    "ozon": {
+      "domain_count": 3
+    },
+    "paypal": {
+      "domain_count": 1
+    },
+    "perplexity": {
+      "domain_count": 1
+    },
+    "pinnacle": {
+      "domain_count": 1
+    },
+    "pinterest": {
+      "domain_count": 1
+    },
+    "pixeldrain": {
+      "domain_count": 1
+    },
+    "playstation": {
+      "domain_count": 2
+    },
+    "pochta-rossii": {
+      "domain_count": 1
+    },
+    "pokerstars": {
+      "domain_count": 1
+    },
+    "pornhub": {
+      "domain_count": 1
+    },
+    "pravitelstvo-rf": {
+      "domain_count": 1
+    },
+    "premier": {
+      "domain_count": 1
+    },
+    "prezident-rossii": {
+      "domain_count": 1
+    },
+    "prime-video": {
+      "domain_count": 1
+    },
+    "proton-mail": {
+      "domain_count": 2
+    },
+    "psb": {
+      "domain_count": 1
+    },
+    "pyatyorochka": {
+      "domain_count": 2
+    },
+    "pypi": {
+      "domain_count": 1
+    },
+    "qwen": {
+      "domain_count": 1
+    },
+    "rambler": {
+      "domain_count": 1
+    },
+    "rbk": {
+      "domain_count": 1
+    },
+    "reddit": {
+      "domain_count": 1
+    },
+    "redtube": {
+      "domain_count": 1
+    },
+    "render": {
+      "domain_count": 1
+    },
+    "replicate": {
+      "domain_count": 1
+    },
+    "reuters": {
+      "domain_count": 1
+    },
+    "revolut": {
+      "domain_count": 1
+    },
+    "ria-novosti": {
+      "domain_count": 1
+    },
+    "riot-games": {
+      "domain_count": 2
+    },
+    "roblox": {
+      "domain_count": 1
+    },
+    "rosreestr": {
+      "domain_count": 1
+    },
+    "rostelekom": {
+      "domain_count": 2
+    },
+    "rumble": {
+      "domain_count": 1
+    },
+    "rustore": {
+      "domain_count": 1
+    },
+    "rutor": {
+      "domain_count": 1
+    },
+    "rutracker": {
+      "domain_count": 1
+    },
+    "rutube": {
+      "domain_count": 1
+    },
+    "rzhd": {
+      "domain_count": 1
+    },
+    "samokat": {
+      "domain_count": 1
+    },
+    "sber": {
+      "domain_count": 2
+    },
+    "sbermobayl": {
+      "domain_count": 1
+    },
+    "sbp": {
+      "domain_count": 1
+    },
+    "sdek": {
+      "domain_count": 1
+    },
+    "seansovar": {
+      "domain_count": 1
+    },
+    "selectel": {
+      "domain_count": 1
+    },
+    "send-anywhere": {
+      "domain_count": 1
+    },
+    "signal": {
+      "domain_count": 1
+    },
+    "sitidrayv": {
+      "domain_count": 1
+    },
+    "skillbox": {
+      "domain_count": 1
+    },
+    "skype": {
+      "domain_count": 1
+    },
+    "snapchat": {
+      "domain_count": 1
+    },
+    "soundcloud": {
+      "domain_count": 1
+    },
+    "sourceforge": {
+      "domain_count": 1
+    },
+    "sovet-federatsii": {
+      "domain_count": 1
+    },
+    "sportmaster": {
+      "domain_count": 1
+    },
+    "spotify": {
+      "domain_count": 2
+    },
+    "stack-overflow": {
+      "domain_count": 2
+    },
+    "stake": {
+      "domain_count": 1
+    },
+    "steam": {
+      "domain_count": 3
+    },
+    "stepik": {
+      "domain_count": 1
+    },
+    "stripe": {
+      "domain_count": 1
+    },
+    "swisstransfer": {
+      "domain_count": 1
+    },
+    "t-bank": {
+      "domain_count": 2
+    },
+    "t2": {
+      "domain_count": 2
+    },
+    "tass": {
+      "domain_count": 1
+    },
+    "telegram": {
+      "domain_count": 4
+    },
+    "tenzor-sbis": {
+      "domain_count": 2
+    },
+    "the-guardian": {
+      "domain_count": 1
+    },
+    "the-pirate-bay": {
+      "domain_count": 1
+    },
+    "threads": {
+      "domain_count": 1
+    },
+    "tidal": {
+      "domain_count": 1
+    },
+    "tiktok": {
+      "domain_count": 1
+    },
+    "torrentgalaxy": {
+      "domain_count": 1
+    },
+    "tumblr": {
+      "domain_count": 1
+    },
+    "tuta": {
+      "domain_count": 1
+    },
+    "tutu": {
+      "domain_count": 1
+    },
+    "twitch": {
+      "domain_count": 2
+    },
+    "ubisoft": {
+      "domain_count": 1
+    },
+    "ubuntu": {
+      "domain_count": 2
+    },
+    "vercel": {
+      "domain_count": 1
+    },
+    "viber": {
+      "domain_count": 1
+    },
+    "vimeo": {
+      "domain_count": 1
+    },
+    "vk": {
+      "domain_count": 4
+    },
+    "vk-cloud": {
+      "domain_count": 1
+    },
+    "vk-messendzher": {
+      "domain_count": 1
+    },
+    "vk-video": {
+      "domain_count": 1
+    },
+    "vkusvill": {
+      "domain_count": 1
+    },
+    "vtb": {
+      "domain_count": 1
+    },
+    "vultr": {
+      "domain_count": 1
+    },
+    "wechat": {
+      "domain_count": 2
+    },
+    "wetransfer": {
+      "domain_count": 1
+    },
+    "whatsapp": {
+      "domain_count": 2
+    },
+    "wikipedia": {
+      "domain_count": 1
+    },
+    "wildberries": {
+      "domain_count": 2
+    },
+    "wink": {
+      "domain_count": 1
+    },
+    "wise": {
+      "domain_count": 1
+    },
+    "x": {
+      "domain_count": 2
+    },
+    "xbox": {
+      "domain_count": 2
+    },
+    "xhamster": {
+      "domain_count": 1
+    },
+    "xnxx": {
+      "domain_count": 1
+    },
+    "xvideos": {
+      "domain_count": 1
+    },
+    "yahoo": {
+      "domain_count": 1
+    },
+    "yandex": {
+      "domain_count": 4
+    },
+    "yandex-cloud": {
+      "domain_count": 1
+    },
+    "yandex-disk": {
+      "domain_count": 1
+    },
+    "yandex-go": {
+      "domain_count": 1
+    },
+    "yandex-market": {
+      "domain_count": 1
+    },
+    "yandex-muzyka": {
+      "domain_count": 1
+    },
+    "yandex-pochta": {
+      "domain_count": 1
+    },
+    "youporn": {
+      "domain_count": 1
+    },
+    "youtube": {
+      "domain_count": 3
+    },
+    "youtube-music": {
+      "domain_count": 1
+    },
+    "yts": {
+      "domain_count": 1
+    },
+    "yumoney": {
+      "domain_count": 1
+    },
+    "zoho": {
+      "domain_count": 1
+    },
+    "zona": {
+      "domain_count": 1
+    },
+    "zvuk": {
+      "domain_count": 1
+    }
+  }
+}

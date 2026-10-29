@@ -1,0 +1,4469 @@
+{
+  "schema_version": 1,
+  "dataset": "netlist",
+  "generated_at": "2026-10-29T15:25:48+00:00",
+  "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
+  "counts": {
+    "services": 263,
+    "categories": 27,
+    "domains": 326
+  },
+  "categories": [
+    {
+      "id": "adult_18",
+      "services_count": 8,
+      "domains_count": 8
+    },
+    {
+      "id": "ai",
+      "services_count": 11,
+      "domains_count": 15
+    },
+    {
+      "id": "banks_payments",
+      "services_count": 11,
+      "domains_count": 13
+    },
+    {
+      "id": "cloud_cdn",
+      "services_count": 14,
+      "domains_count": 20
+    },
+    {
+      "id": "developer_tools",
+      "services_count": 12,
+      "domains_count": 15
+    },
+    {
+      "id": "file_sharing",
+      "services_count": 11,
+      "domains_count": 12
+    },
+    {
+      "id": "finance_marketplaces",
+      "services_count": 14,
+      "domains_count": 17
+    },
+    {
+      "id": "gambling",
+      "services_count": 7,
+      "domains_count": 7
+    },
+    {
+      "id": "gaming",
+      "services_count": 14,
+      "domains_count": 20
+    },
+    {
+      "id": "government",
+      "services_count": 11,
+      "domains_count": 11
+    },
+    {
+      "id": "health_sport",
+      "services_count": 6,
+      "domains_count": 6
+    },
+    {
+      "id": "it_business_education",
+      "services_count": 13,
+      "domains_count": 14
+    },
+    {
+      "id": "mail",
+      "services_count": 8,
+      "domains_count": 13
+    },
+    {
+      "id": "marketplaces_delivery",
+      "services_count": 12,
+      "domains_count": 17
+    },
+    {
+      "id": "messengers",
+      "services_count": 8,
+      "domains_count": 13
+    },
+    {
+      "id": "messengers_telecom",
+      "services_count": 8,
+      "domains_count": 10
+    },
+    {
+      "id": "movies",
+      "services_count": 10,
+      "domains_count": 12
+    },
+    {
+      "id": "music",
+      "services_count": 12,
+      "domains_count": 13
+    },
+    {
+      "id": "news_education",
+      "services_count": 13,
+      "domains_count": 14
+    },
+    {
+      "id": "os_security",
+      "services_count": 11,
+      "domains_count": 18
+    },
+    {
+      "id": "search_ecosystems",
+      "services_count": 7,
+      "domains_count": 16
+    },
+    {
+      "id": "search_portals",
+      "services_count": 8,
+      "domains_count": 16
+    },
+    {
+      "id": "social",
+      "services_count": 13,
+      "domains_count": 17
+    },
+    {
+      "id": "torrents_p2p",
+      "services_count": 10,
+      "domains_count": 10
+    },
+    {
+      "id": "transport",
+      "services_count": 9,
+      "domains_count": 9
+    },
+    {
+      "id": "video_music_media",
+      "services_count": 15,
+      "domains_count": 15
+    },
+    {
+      "id": "video_streaming",
+      "services_count": 12,
+      "domains_count": 15
+    }
+  ],
+  "services": [
+    {
+      "name": "1337x",
+      "slug": "1337x",
+      "primary_domain": "1337x.to",
+      "domains": [
+        "1337x.to"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "1С",
+      "slug": "1c",
+      "primary_domain": "1c.ru",
+      "domains": [
+        "1c.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "1xBet",
+      "slug": "1xbet",
+      "primary_domain": "1xbet.com",
+      "domains": [
+        "1xbet.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "2ГИС",
+      "slug": "2gis",
+      "primary_domain": "2gis.ru",
+      "domains": [
+        "2gis.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_ecosystems",
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Аэрофлот",
+      "slug": "aeroflot",
+      "primary_domain": "aeroflot.ru",
+      "domains": [
+        "aeroflot.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "АиФ",
+      "slug": "aif",
+      "primary_domain": "aif.ru",
+      "domains": [
+        "aif.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_music_media"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Akamai",
+      "slug": "akamai",
+      "primary_domain": "akamai.com",
+      "domains": [
+        "akamai.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Альфа-Банк",
+      "slug": "alfa-bank",
+      "primary_domain": "alfabank.ru",
+      "domains": [
+        "alfabank.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "AliExpress",
+      "slug": "aliexpress",
+      "primary_domain": "aliexpress.com",
+      "domains": [
+        "aliexpress.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "primary_domain": "amazon.com",
+      "domains": [
+        "amazon.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Amazon Music",
+      "slug": "amazon-music",
+      "primary_domain": "music.amazon.com",
+      "domains": [
+        "music.amazon.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Android",
+      "slug": "android",
+      "primary_domain": "android.com",
+      "domains": [
+        "android.com",
+        "android.googleapis.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "AP News",
+      "slug": "ap-news",
+      "primary_domain": "apnews.com",
+      "domains": [
+        "apnews.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Apple",
+      "slug": "apple",
+      "primary_domain": "apple.com",
+      "domains": [
+        "apple.com",
+        "icloud.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Apple Music",
+      "slug": "apple-music",
+      "primary_domain": "music.apple.com",
+      "domains": [
+        "music.apple.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Arch Linux",
+      "slug": "arch-linux",
+      "primary_domain": "archlinux.org",
+      "domains": [
+        "archlinux.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Avito",
+      "slug": "avito",
+      "primary_domain": "avito.ru",
+      "domains": [
+        "avito.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces",
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "AWS",
+      "slug": "aws",
+      "primary_domain": "amazonaws.com",
+      "domains": [
+        "amazonaws.com",
+        "aws.amazon.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Baidu",
+      "slug": "baidu",
+      "primary_domain": "baidu.com",
+      "domains": [
+        "baidu.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Bandcamp",
+      "slug": "bandcamp",
+      "primary_domain": "bandcamp.com",
+      "domains": [
+        "bandcamp.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Банк России",
+      "slug": "bank-rossii",
+      "primary_domain": "cbr.ru",
+      "domains": [
+        "cbr.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Battle.net",
+      "slug": "battle-net",
+      "primary_domain": "battle.net",
+      "domains": [
+        "battle.net",
+        "blizzard.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "BBC",
+      "slug": "bbc",
+      "primary_domain": "bbc.co.uk",
+      "domains": [
+        "bbc.co.uk",
+        "bbc.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "BC.Game",
+      "slug": "bc-game",
+      "primary_domain": "bc.game",
+      "domains": [
+        "bc.game"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Bet365",
+      "slug": "bet365",
+      "primary_domain": "bet365.com",
+      "domains": [
+        "bet365.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Betfair",
+      "slug": "betfair",
+      "primary_domain": "betfair.com",
+      "domains": [
+        "betfair.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Билайн",
+      "slug": "bilayn",
+      "primary_domain": "beeline.ru",
+      "domains": [
+        "beeline.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Binance",
+      "slug": "binance",
+      "primary_domain": "binance.com",
+      "domains": [
+        "binance.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Bing",
+      "slug": "bing",
+      "primary_domain": "bing.com",
+      "domains": [
+        "bing.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Bitbucket",
+      "slug": "bitbucket",
+      "primary_domain": "bitbucket.org",
+      "domains": [
+        "bitbucket.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ChatGPT",
+      "slug": "chatgpt",
+      "primary_domain": "chatgpt.com",
+      "domains": [
+        "chatgpt.com",
+        "openai.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Честный знак",
+      "slug": "chestnyy-znak",
+      "primary_domain": "xn--80ajghhoc2aj1c8b.xn--p1ai",
+      "domains": [
+        "xn--80ajghhoc2aj1c8b.xn--p1ai"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Claude",
+      "slug": "claude",
+      "primary_domain": "anthropic.com",
+      "domains": [
+        "anthropic.com",
+        "claude.ai"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "primary_domain": "cloudflare-dns.com",
+      "domains": [
+        "cloudflare-dns.com",
+        "cloudflare.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Codeberg",
+      "slug": "codeberg",
+      "primary_domain": "codeberg.org",
+      "domains": [
+        "codeberg.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "primary_domain": "coinbase.com",
+      "domains": [
+        "coinbase.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Coursera",
+      "slug": "coursera",
+      "primary_domain": "coursera.org",
+      "domains": [
+        "coursera.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "crates.io",
+      "slug": "crates-io",
+      "primary_domain": "crates.io",
+      "domains": [
+        "crates.io"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Dailymotion",
+      "slug": "dailymotion",
+      "primary_domain": "dailymotion.com",
+      "domains": [
+        "dailymotion.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Debian",
+      "slug": "debian",
+      "primary_domain": "deb.debian.org",
+      "domains": [
+        "deb.debian.org",
+        "debian.org"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "DeepSeek",
+      "slug": "deepseek",
+      "primary_domain": "deepseek.com",
+      "domains": [
+        "deepseek.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Deezer",
+      "slug": "deezer",
+      "primary_domain": "deezer.com",
+      "domains": [
+        "deezer.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Делимобиль",
+      "slug": "delimobil",
+      "primary_domain": "delimobil.ru",
+      "domains": [
+        "delimobil.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Deutsche Welle",
+      "slug": "deutsche-welle",
+      "primary_domain": "dw.com",
+      "domains": [
+        "dw.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "DigitalOcean",
+      "slug": "digitalocean",
+      "primary_domain": "digitalocean.com",
+      "domains": [
+        "digitalocean.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Discord",
+      "slug": "discord",
+      "primary_domain": "discord.com",
+      "domains": [
+        "discord.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Disney+",
+      "slug": "disney",
+      "primary_domain": "disneyplus.com",
+      "domains": [
+        "disneyplus.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Docker Hub",
+      "slug": "docker-hub",
+      "primary_domain": "docker.com",
+      "domains": [
+        "docker.com",
+        "hub.docker.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Домклик",
+      "slug": "domklik",
+      "primary_domain": "domclick.ru",
+      "domains": [
+        "domclick.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Dropbox",
+      "slug": "dropbox",
+      "primary_domain": "dropbox.com",
+      "domains": [
+        "dropbox.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "DuckDuckGo",
+      "slug": "duckduckgo",
+      "primary_domain": "duckduckgo.com",
+      "domains": [
+        "duckduckgo.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Дзен",
+      "slug": "dzen",
+      "primary_domain": "dzen.ru",
+      "domains": [
+        "dzen.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_ecosystems"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "EA",
+      "slug": "ea",
+      "primary_domain": "ea.com",
+      "domains": [
+        "ea.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "eBay",
+      "slug": "ebay",
+      "primary_domain": "ebay.com",
+      "domains": [
+        "ebay.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "edX",
+      "slug": "edx",
+      "primary_domain": "edx.org",
+      "domains": [
+        "edx.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Epic Games",
+      "slug": "epic-games",
+      "primary_domain": "epicgames.com",
+      "domains": [
+        "epicgames.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ESET",
+      "slug": "eset",
+      "primary_domain": "eset.com",
+      "domains": [
+        "eset.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Etsy",
+      "slug": "etsy",
+      "primary_domain": "etsy.com",
+      "domains": [
+        "etsy.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "EZTV",
+      "slug": "eztv",
+      "primary_domain": "eztv.re",
+      "domains": [
+        "eztv.re"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Facebook",
+      "slug": "facebook",
+      "primary_domain": "facebook.com",
+      "domains": [
+        "facebook.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Faceit",
+      "slug": "faceit",
+      "primary_domain": "faceit.com",
+      "domains": [
+        "faceit.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Fansly",
+      "slug": "fansly",
+      "primary_domain": "fansly.com",
+      "domains": [
+        "fansly.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Fastly",
+      "slug": "fastly",
+      "primary_domain": "fastly.com",
+      "domains": [
+        "fastly.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Fastmail",
+      "slug": "fastmail",
+      "primary_domain": "fastmail.com",
+      "domains": [
+        "fastmail.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Fedora",
+      "slug": "fedora",
+      "primary_domain": "fedoraproject.org",
+      "domains": [
+        "fedoraproject.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Filmix",
+      "slug": "filmix",
+      "primary_domain": "filmix.ac",
+      "domains": [
+        "filmix.ac",
+        "filmix.my"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ФНС",
+      "slug": "fns",
+      "primary_domain": "nalog.gov.ru",
+      "domains": [
+        "nalog.gov.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Газпромбанк",
+      "slug": "gazprombank",
+      "primary_domain": "gazprombank.ru",
+      "domains": [
+        "gazprombank.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Gemini",
+      "slug": "gemini",
+      "primary_domain": "ai.google.dev",
+      "domains": [
+        "ai.google.dev",
+        "gemini.google.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ГИС ЖКХ",
+      "slug": "gis-zhkkh",
+      "primary_domain": "dom.gosuslugi.ru",
+      "domains": [
+        "dom.gosuslugi.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Гисметео",
+      "slug": "gismeteo",
+      "primary_domain": "gismeteo.ru",
+      "domains": [
+        "gismeteo.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "GitHub",
+      "slug": "github",
+      "primary_domain": "github.com",
+      "domains": [
+        "github.com",
+        "githubusercontent.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "GitHub Pages",
+      "slug": "github-pages",
+      "primary_domain": "github.io",
+      "domains": [
+        "github.io"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "GitLab",
+      "slug": "gitlab",
+      "primary_domain": "gitlab.com",
+      "domains": [
+        "gitlab.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ГЛОНАСС",
+      "slug": "glonass",
+      "primary_domain": "glonass.ru",
+      "domains": [
+        "glonass.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Gmail",
+      "slug": "gmail",
+      "primary_domain": "gmail.com",
+      "domains": [
+        "gmail.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Google",
+      "slug": "google",
+      "primary_domain": "google.com",
+      "domains": [
+        "google.com",
+        "googleapis.com",
+        "gstatic.com"
+      ],
+      "domain_count": 3,
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Google Cloud",
+      "slug": "google-cloud",
+      "primary_domain": "cloud.google.com",
+      "domains": [
+        "cloud.google.com",
+        "googlecloud.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Google Drive",
+      "slug": "google-drive",
+      "primary_domain": "drive.google.com",
+      "domains": [
+        "drive.google.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Госдума",
+      "slug": "gosduma",
+      "primary_domain": "duma.gov.ru",
+      "domains": [
+        "duma.gov.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Госуслуги",
+      "slug": "gosuslugi",
+      "primary_domain": "gosuslugi.ru",
+      "domains": [
+        "gosuslugi.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Grok",
+      "slug": "grok",
+      "primary_domain": "grok.com",
+      "domains": [
+        "grok.com",
+        "x.ai"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "HDRezka",
+      "slug": "hdrezka",
+      "primary_domain": "hdrezka.ag",
+      "domains": [
+        "hdrezka.ag",
+        "hdrezka.me"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "HeadHunter",
+      "slug": "headhunter",
+      "primary_domain": "hh.ru",
+      "domains": [
+        "hh.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Hetzner",
+      "slug": "hetzner",
+      "primary_domain": "hetzner.com",
+      "domains": [
+        "hetzner.com",
+        "hetzner.de"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Hugging Face",
+      "slug": "hugging-face",
+      "primary_domain": "huggingface.co",
+      "domains": [
+        "huggingface.co"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Hulu",
+      "slug": "hulu",
+      "primary_domain": "hulu.com",
+      "domains": [
+        "hulu.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Instagram",
+      "slug": "instagram",
+      "primary_domain": "instagram.com",
+      "domains": [
+        "instagram.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Internet Archive",
+      "slug": "internet-archive",
+      "primary_domain": "archive.org",
+      "domains": [
+        "archive.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Иви",
+      "slug": "ivi",
+      "primary_domain": "ivi.ru",
+      "domains": [
+        "ivi.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "JetBrains",
+      "slug": "jetbrains",
+      "primary_domain": "jetbrains.com",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Kaspersky",
+      "slug": "kaspersky",
+      "primary_domain": "kaspersky.com",
+      "domains": [
+        "kaspersky.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Хабр",
+      "slug": "khabr",
+      "primary_domain": "habr.com",
+      "domains": [
+        "habr.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Khan Academy",
+      "slug": "khan-academy",
+      "primary_domain": "khanacademy.org",
+      "domains": [
+        "khanacademy.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "KHL",
+      "slug": "khl",
+      "primary_domain": "khl.ru",
+      "domains": [
+        "khl.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Kick",
+      "slug": "kick",
+      "primary_domain": "kick.com",
+      "domains": [
+        "kick.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Кинопоиск",
+      "slug": "kinopoisk",
+      "primary_domain": "kinopoisk.ru",
+      "domains": [
+        "kinopoisk.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "KION",
+      "slug": "kion",
+      "primary_domain": "kion.ru",
+      "domains": [
+        "kion.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Коммерсантъ",
+      "slug": "kommersant",
+      "primary_domain": "kommersant.ru",
+      "domains": [
+        "kommersant.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_music_media"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Контур",
+      "slug": "kontur",
+      "primary_domain": "kontur.ru",
+      "domains": [
+        "kontur.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Купер",
+      "slug": "kuper",
+      "primary_domain": "kuper.ru",
+      "domains": [
+        "kuper.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Last.fm",
+      "slug": "last-fm",
+      "primary_domain": "last.fm",
+      "domains": [
+        "last.fm"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Лента",
+      "slug": "lenta",
+      "primary_domain": "lenta.com",
+      "domains": [
+        "lenta.com",
+        "lenta.ru"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "LimeTorrents",
+      "slug": "limetorrents",
+      "primary_domain": "limetorrents.lol",
+      "domains": [
+        "limetorrents.lol"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "LINE",
+      "slug": "line",
+      "primary_domain": "line.me",
+      "domains": [
+        "line.me"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "LinkedIn",
+      "slug": "linkedin",
+      "primary_domain": "linkedin.com",
+      "domains": [
+        "linkedin.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Linode",
+      "slug": "linode",
+      "primary_domain": "linode.com",
+      "domains": [
+        "linode.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Магнит",
+      "slug": "magnit",
+      "primary_domain": "magnit.ru",
+      "domains": [
+        "magnit.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Mail.ru",
+      "slug": "mail-ru",
+      "primary_domain": "mail.ru",
+      "domains": [
+        "bk.ru",
+        "inbox.ru",
+        "list.ru",
+        "mail.ru"
+      ],
+      "domain_count": 4,
+      "categories": [
+        "mail",
+        "search_ecosystems",
+        "search_portals"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Malwarebytes",
+      "slug": "malwarebytes",
+      "primary_domain": "malwarebytes.com",
+      "domains": [
+        "malwarebytes.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Мать и дитя",
+      "slug": "mat-i-ditya",
+      "primary_domain": "mdclinics.ru",
+      "domains": [
+        "mdclinics.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "MAX",
+      "slug": "max",
+      "primary_domain": "max.ru",
+      "domains": [
+        "max.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers",
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "МЧС",
+      "slug": "mchs",
+      "primary_domain": "mchs.gov.ru",
+      "domains": [
+        "mchs.gov.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "MediaFire",
+      "slug": "mediafire",
+      "primary_domain": "mediafire.com",
+      "domains": [
+        "mediafire.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Медси",
+      "slug": "medsi",
+      "primary_domain": "medsi.ru",
+      "domains": [
+        "medsi.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Meduza",
+      "slug": "meduza",
+      "primary_domain": "meduza.io",
+      "domains": [
+        "meduza.io"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "MEGA",
+      "slug": "mega",
+      "primary_domain": "mega.nz",
+      "domains": [
+        "mega.nz"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "МегаФон",
+      "slug": "megafon",
+      "primary_domain": "megafon.ru",
+      "domains": [
+        "megafon.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Мегамаркет",
+      "slug": "megamarket",
+      "primary_domain": "megamarket.ru",
+      "domains": [
+        "megamarket.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Microsoft",
+      "slug": "microsoft",
+      "primary_domain": "microsoft.com",
+      "domains": [
+        "microsoft.com",
+        "office.com",
+        "windowsupdate.com"
+      ],
+      "domain_count": 3,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Microsoft Azure",
+      "slug": "microsoft-azure",
+      "primary_domain": "azure.com",
+      "domains": [
+        "azure.com",
+        "azure.microsoft.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Midjourney",
+      "slug": "midjourney",
+      "primary_domain": "midjourney.com",
+      "domains": [
+        "midjourney.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Minecraft",
+      "slug": "minecraft",
+      "primary_domain": "minecraft.net",
+      "domains": [
+        "minecraft.net"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Мир",
+      "slug": "mir",
+      "primary_domain": "mironline.ru",
+      "domains": [
+        "mironline.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Mistral AI",
+      "slug": "mistral-ai",
+      "primary_domain": "mistral.ai",
+      "domains": [
+        "mistral.ai"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Mixcloud",
+      "slug": "mixcloud",
+      "primary_domain": "mixcloud.com",
+      "domains": [
+        "mixcloud.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Modrinth",
+      "slug": "modrinth",
+      "primary_domain": "modrinth.com",
+      "domains": [
+        "modrinth.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Mozilla",
+      "slug": "mozilla",
+      "primary_domain": "firefox.com",
+      "domains": [
+        "firefox.com",
+        "mozilla.org"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "МТС",
+      "slug": "mts",
+      "primary_domain": "mts.ru",
+      "domains": [
+        "mts.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "MTS Web Services",
+      "slug": "mts-web-services",
+      "primary_domain": "mws.ru",
+      "domains": [
+        "mws.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "МВД РФ",
+      "slug": "mvd-rf",
+      "primary_domain": "xn--b1aew.xn--p1ai",
+      "domains": [
+        "xn--b1aew.xn--p1ai"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Netflix",
+      "slug": "netflix",
+      "primary_domain": "netflix.com",
+      "domains": [
+        "netflix.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Netlify",
+      "slug": "netlify",
+      "primary_domain": "netlify.com",
+      "domains": [
+        "netlify.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Нетология",
+      "slug": "netologiya",
+      "primary_domain": "netology.ru",
+      "domains": [
+        "netology.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Nexus Mods",
+      "slug": "nexus-mods",
+      "primary_domain": "nexusmods.com",
+      "domains": [
+        "nexusmods.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Nintendo",
+      "slug": "nintendo",
+      "primary_domain": "nintendo.com",
+      "domains": [
+        "nintendo.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "npm",
+      "slug": "npm",
+      "primary_domain": "npmjs.com",
+      "domains": [
+        "npmjs.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "НСПК",
+      "slug": "nspk",
+      "primary_domain": "nspk.ru",
+      "domains": [
+        "nspk.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Nyaa",
+      "slug": "nyaa",
+      "primary_domain": "nyaa.si",
+      "domains": [
+        "nyaa.si"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Облако Mail.ru",
+      "slug": "oblako-mail-ru",
+      "primary_domain": "cloud.mail.ru",
+      "domains": [
+        "cloud.mail.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Одноклассники",
+      "slug": "odnoklassniki",
+      "primary_domain": "ok.ru",
+      "domains": [
+        "ok.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_ecosystems",
+        "social"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Окко",
+      "slug": "okko",
+      "primary_domain": "okko.tv",
+      "domains": [
+        "okko.tv"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "OneDrive",
+      "slug": "onedrive",
+      "primary_domain": "onedrive.live.com",
+      "domains": [
+        "onedrive.live.com",
+        "sharepoint.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "OnlyFans",
+      "slug": "onlyfans",
+      "primary_domain": "onlyfans.com",
+      "domains": [
+        "onlyfans.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Outlook",
+      "slug": "outlook",
+      "primary_domain": "outlook.com",
+      "domains": [
+        "outlook.com",
+        "outlook.office.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "OVHcloud",
+      "slug": "ovhcloud",
+      "primary_domain": "ovh.com",
+      "domains": [
+        "ovh.com",
+        "ovhcloud.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Ozon",
+      "slug": "ozon",
+      "primary_domain": "ozon.ru",
+      "domains": [
+        "ozon.ru",
+        "ozone.ru",
+        "ozonusercontent.com"
+      ],
+      "domain_count": 3,
+      "categories": [
+        "finance_marketplaces",
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "PayPal",
+      "slug": "paypal",
+      "primary_domain": "paypal.com",
+      "domains": [
+        "paypal.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Perplexity",
+      "slug": "perplexity",
+      "primary_domain": "perplexity.ai",
+      "domains": [
+        "perplexity.ai"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Pinnacle",
+      "slug": "pinnacle",
+      "primary_domain": "pinnacle.com",
+      "domains": [
+        "pinnacle.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Pinterest",
+      "slug": "pinterest",
+      "primary_domain": "pinterest.com",
+      "domains": [
+        "pinterest.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Pixeldrain",
+      "slug": "pixeldrain",
+      "primary_domain": "pixeldrain.com",
+      "domains": [
+        "pixeldrain.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "PlayStation",
+      "slug": "playstation",
+      "primary_domain": "playstation.com",
+      "domains": [
+        "playstation.com",
+        "sony.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Почта России",
+      "slug": "pochta-rossii",
+      "primary_domain": "pochta.ru",
+      "domains": [
+        "pochta.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "PokerStars",
+      "slug": "pokerstars",
+      "primary_domain": "pokerstars.com",
+      "domains": [
+        "pokerstars.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Pornhub",
+      "slug": "pornhub",
+      "primary_domain": "pornhub.com",
+      "domains": [
+        "pornhub.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Правительство РФ",
+      "slug": "pravitelstvo-rf",
+      "primary_domain": "government.ru",
+      "domains": [
+        "government.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "PREMIER",
+      "slug": "premier",
+      "primary_domain": "premier.one",
+      "domains": [
+        "premier.one"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Президент России",
+      "slug": "prezident-rossii",
+      "primary_domain": "kremlin.ru",
+      "domains": [
+        "kremlin.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Prime Video",
+      "slug": "prime-video",
+      "primary_domain": "primevideo.com",
+      "domains": [
+        "primevideo.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Proton Mail",
+      "slug": "proton-mail",
+      "primary_domain": "proton.me",
+      "domains": [
+        "proton.me",
+        "protonmail.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ПСБ",
+      "slug": "psb",
+      "primary_domain": "psbank.ru",
+      "domains": [
+        "psbank.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Пятёрочка",
+      "slug": "pyatyorochka",
+      "primary_domain": "5ka.ru",
+      "domains": [
+        "5ka.ru",
+        "x5.ru"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "PyPI",
+      "slug": "pypi",
+      "primary_domain": "pypi.org",
+      "domains": [
+        "pypi.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Qwen",
+      "slug": "qwen",
+      "primary_domain": "qwen.ai",
+      "domains": [
+        "qwen.ai"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Рамблер",
+      "slug": "rambler",
+      "primary_domain": "rambler.ru",
+      "domains": [
+        "rambler.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_ecosystems"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "РБК",
+      "slug": "rbk",
+      "primary_domain": "rbc.ru",
+      "domains": [
+        "rbc.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Reddit",
+      "slug": "reddit",
+      "primary_domain": "reddit.com",
+      "domains": [
+        "reddit.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "RedTube",
+      "slug": "redtube",
+      "primary_domain": "redtube.com",
+      "domains": [
+        "redtube.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Render",
+      "slug": "render",
+      "primary_domain": "render.com",
+      "domains": [
+        "render.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Replicate",
+      "slug": "replicate",
+      "primary_domain": "replicate.com",
+      "domains": [
+        "replicate.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Reuters",
+      "slug": "reuters",
+      "primary_domain": "reuters.com",
+      "domains": [
+        "reuters.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Revolut",
+      "slug": "revolut",
+      "primary_domain": "revolut.com",
+      "domains": [
+        "revolut.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "РИА Новости",
+      "slug": "ria-novosti",
+      "primary_domain": "ria.ru",
+      "domains": [
+        "ria.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Riot Games",
+      "slug": "riot-games",
+      "primary_domain": "leagueoflegends.com",
+      "domains": [
+        "leagueoflegends.com",
+        "riotgames.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Roblox",
+      "slug": "roblox",
+      "primary_domain": "roblox.com",
+      "domains": [
+        "roblox.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Росреестр",
+      "slug": "rosreestr",
+      "primary_domain": "rosreestr.gov.ru",
+      "domains": [
+        "rosreestr.gov.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Ростелеком",
+      "slug": "rostelekom",
+      "primary_domain": "rostelecom.ru",
+      "domains": [
+        "rostelecom.ru",
+        "rt.ru"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Rumble",
+      "slug": "rumble",
+      "primary_domain": "rumble.com",
+      "domains": [
+        "rumble.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "RuStore",
+      "slug": "rustore",
+      "primary_domain": "rustore.ru",
+      "domains": [
+        "rustore.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "RuTor",
+      "slug": "rutor",
+      "primary_domain": "rutor.info",
+      "domains": [
+        "rutor.info"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "RuTracker",
+      "slug": "rutracker",
+      "primary_domain": "rutracker.org",
+      "domains": [
+        "rutracker.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Rutube",
+      "slug": "rutube",
+      "primary_domain": "rutube.ru",
+      "domains": [
+        "rutube.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_music_media",
+        "video_streaming"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "РЖД",
+      "slug": "rzhd",
+      "primary_domain": "rzd.ru",
+      "domains": [
+        "rzd.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Самокат",
+      "slug": "samokat",
+      "primary_domain": "samokat.ru",
+      "domains": [
+        "samokat.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Сбер",
+      "slug": "sber",
+      "primary_domain": "sber.ru",
+      "domains": [
+        "sber.ru",
+        "sberbank.ru"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "СберМобайл",
+      "slug": "sbermobayl",
+      "primary_domain": "sbermobile.ru",
+      "domains": [
+        "sbermobile.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "СБП",
+      "slug": "sbp",
+      "primary_domain": "sbp.nspk.ru",
+      "domains": [
+        "sbp.nspk.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "СДЭК",
+      "slug": "sdek",
+      "primary_domain": "cdek.ru",
+      "domains": [
+        "cdek.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Seansovar",
+      "slug": "seansovar",
+      "primary_domain": "seansovar.com",
+      "domains": [
+        "seansovar.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Selectel",
+      "slug": "selectel",
+      "primary_domain": "selectel.ru",
+      "domains": [
+        "selectel.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Send Anywhere",
+      "slug": "send-anywhere",
+      "primary_domain": "send-anywhere.com",
+      "domains": [
+        "send-anywhere.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Signal",
+      "slug": "signal",
+      "primary_domain": "signal.org",
+      "domains": [
+        "signal.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Ситидрайв",
+      "slug": "sitidrayv",
+      "primary_domain": "citydrive.ru",
+      "domains": [
+        "citydrive.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Skillbox",
+      "slug": "skillbox",
+      "primary_domain": "skillbox.ru",
+      "domains": [
+        "skillbox.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Skype",
+      "slug": "skype",
+      "primary_domain": "skype.com",
+      "domains": [
+        "skype.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Snapchat",
+      "slug": "snapchat",
+      "primary_domain": "snapchat.com",
+      "domains": [
+        "snapchat.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "SoundCloud",
+      "slug": "soundcloud",
+      "primary_domain": "soundcloud.com",
+      "domains": [
+        "soundcloud.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "SourceForge",
+      "slug": "sourceforge",
+      "primary_domain": "sourceforge.net",
+      "domains": [
+        "sourceforge.net"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Совет Федерации",
+      "slug": "sovet-federatsii",
+      "primary_domain": "council.gov.ru",
+      "domains": [
+        "council.gov.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Спортмастер",
+      "slug": "sportmaster",
+      "primary_domain": "sportmaster.ru",
+      "domains": [
+        "sportmaster.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Spotify",
+      "slug": "spotify",
+      "primary_domain": "scdn.co",
+      "domains": [
+        "scdn.co",
+        "spotify.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Stack Overflow",
+      "slug": "stack-overflow",
+      "primary_domain": "stackexchange.com",
+      "domains": [
+        "stackexchange.com",
+        "stackoverflow.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Stake",
+      "slug": "stake",
+      "primary_domain": "stake.com",
+      "domains": [
+        "stake.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Steam",
+      "slug": "steam",
+      "primary_domain": "steamcommunity.com",
+      "domains": [
+        "steamcommunity.com",
+        "steampowered.com",
+        "steamstatic.com"
+      ],
+      "domain_count": 3,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Stepik",
+      "slug": "stepik",
+      "primary_domain": "stepik.org",
+      "domains": [
+        "stepik.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education",
+        "news_education"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Stripe",
+      "slug": "stripe",
+      "primary_domain": "stripe.com",
+      "domains": [
+        "stripe.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "SwissTransfer",
+      "slug": "swisstransfer",
+      "primary_domain": "swisstransfer.com",
+      "domains": [
+        "swisstransfer.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Т-Банк",
+      "slug": "t-bank",
+      "primary_domain": "tbank.ru",
+      "domains": [
+        "tbank.ru",
+        "tinkoff.ru"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Т2",
+      "slug": "t2",
+      "primary_domain": "t2.ru",
+      "domains": [
+        "t2.ru",
+        "tele2.ru"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ТАСС",
+      "slug": "tass",
+      "primary_domain": "tass.ru",
+      "domains": [
+        "tass.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Telegram",
+      "slug": "telegram",
+      "primary_domain": "t.me",
+      "domains": [
+        "t.me",
+        "telegra.ph",
+        "telegram.me",
+        "telegram.org"
+      ],
+      "domain_count": 4,
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Тензор / СБИС",
+      "slug": "tenzor-sbis",
+      "primary_domain": "sbis.ru",
+      "domains": [
+        "sbis.ru",
+        "tensor.ru"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "The Guardian",
+      "slug": "the-guardian",
+      "primary_domain": "theguardian.com",
+      "domains": [
+        "theguardian.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "The Pirate Bay",
+      "slug": "the-pirate-bay",
+      "primary_domain": "thepiratebay.org",
+      "domains": [
+        "thepiratebay.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Threads",
+      "slug": "threads",
+      "primary_domain": "threads.net",
+      "domains": [
+        "threads.net"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Tidal",
+      "slug": "tidal",
+      "primary_domain": "tidal.com",
+      "domains": [
+        "tidal.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "TikTok",
+      "slug": "tiktok",
+      "primary_domain": "tiktok.com",
+      "domains": [
+        "tiktok.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "TorrentGalaxy",
+      "slug": "torrentgalaxy",
+      "primary_domain": "torrentgalaxy.to",
+      "domains": [
+        "torrentgalaxy.to"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Tumblr",
+      "slug": "tumblr",
+      "primary_domain": "tumblr.com",
+      "domains": [
+        "tumblr.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Tuta",
+      "slug": "tuta",
+      "primary_domain": "tuta.com",
+      "domains": [
+        "tuta.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Туту",
+      "slug": "tutu",
+      "primary_domain": "tutu.ru",
+      "domains": [
+        "tutu.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Twitch",
+      "slug": "twitch",
+      "primary_domain": "jtvnw.net",
+      "domains": [
+        "jtvnw.net",
+        "twitch.tv"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Ubisoft",
+      "slug": "ubisoft",
+      "primary_domain": "ubisoft.com",
+      "domains": [
+        "ubisoft.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Ubuntu",
+      "slug": "ubuntu",
+      "primary_domain": "archive.ubuntu.com",
+      "domains": [
+        "archive.ubuntu.com",
+        "ubuntu.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Vercel",
+      "slug": "vercel",
+      "primary_domain": "vercel.com",
+      "domains": [
+        "vercel.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Viber",
+      "slug": "viber",
+      "primary_domain": "viber.com",
+      "domains": [
+        "viber.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Vimeo",
+      "slug": "vimeo",
+      "primary_domain": "vimeo.com",
+      "domains": [
+        "vimeo.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "VK",
+      "slug": "vk",
+      "primary_domain": "vk.com",
+      "domains": [
+        "userapi.com",
+        "vk.com",
+        "vk.ru",
+        "vkuserlive.net"
+      ],
+      "domain_count": 4,
+      "categories": [
+        "search_ecosystems",
+        "social"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "VK Cloud",
+      "slug": "vk-cloud",
+      "primary_domain": "cloud.vk.com",
+      "domains": [
+        "cloud.vk.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "VK Мессенджер",
+      "slug": "vk-messendzher",
+      "primary_domain": "vk.me",
+      "domains": [
+        "vk.me"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "VK Видео",
+      "slug": "vk-video",
+      "primary_domain": "vkvideo.ru",
+      "domains": [
+        "vkvideo.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "video_music_media",
+        "video_streaming"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ВкусВилл",
+      "slug": "vkusvill",
+      "primary_domain": "vkusvill.ru",
+      "domains": [
+        "vkusvill.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ВТБ",
+      "slug": "vtb",
+      "primary_domain": "vtb.ru",
+      "domains": [
+        "vtb.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Vultr",
+      "slug": "vultr",
+      "primary_domain": "vultr.com",
+      "domains": [
+        "vultr.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "WeChat",
+      "slug": "wechat",
+      "primary_domain": "wechat.com",
+      "domains": [
+        "wechat.com",
+        "weixin.qq.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "WeTransfer",
+      "slug": "wetransfer",
+      "primary_domain": "wetransfer.com",
+      "domains": [
+        "wetransfer.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "WhatsApp",
+      "slug": "whatsapp",
+      "primary_domain": "wa.me",
+      "domains": [
+        "wa.me",
+        "whatsapp.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Wikipedia",
+      "slug": "wikipedia",
+      "primary_domain": "wikipedia.org",
+      "domains": [
+        "wikipedia.org"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Wildberries",
+      "slug": "wildberries",
+      "primary_domain": "wb.ru",
+      "domains": [
+        "wb.ru",
+        "wildberries.ru"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "finance_marketplaces",
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Wink",
+      "slug": "wink",
+      "primary_domain": "wink.ru",
+      "domains": [
+        "wink.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Wise",
+      "slug": "wise",
+      "primary_domain": "wise.com",
+      "domains": [
+        "wise.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "X",
+      "slug": "x",
+      "primary_domain": "twitter.com",
+      "domains": [
+        "twitter.com",
+        "x.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Xbox",
+      "slug": "xbox",
+      "primary_domain": "xbox.com",
+      "domains": [
+        "xbox.com",
+        "xboxlive.com"
+      ],
+      "domain_count": 2,
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "XHamster",
+      "slug": "xhamster",
+      "primary_domain": "xhamster.com",
+      "domains": [
+        "xhamster.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "XNXX",
+      "slug": "xnxx",
+      "primary_domain": "xnxx.com",
+      "domains": [
+        "xnxx.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "XVideos",
+      "slug": "xvideos",
+      "primary_domain": "xvideos.com",
+      "domains": [
+        "xvideos.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Yahoo",
+      "slug": "yahoo",
+      "primary_domain": "yahoo.com",
+      "domains": [
+        "yahoo.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Яндекс",
+      "slug": "yandex",
+      "primary_domain": "ya.ru",
+      "domains": [
+        "ya.ru",
+        "yandex.com",
+        "yandex.ru",
+        "yastatic.net"
+      ],
+      "domain_count": 4,
+      "categories": [
+        "search_ecosystems",
+        "search_portals"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Yandex Cloud",
+      "slug": "yandex-cloud",
+      "primary_domain": "yandex.cloud",
+      "domains": [
+        "yandex.cloud"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Яндекс Диск",
+      "slug": "yandex-disk",
+      "primary_domain": "disk.yandex.ru",
+      "domains": [
+        "disk.yandex.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Яндекс Go",
+      "slug": "yandex-go",
+      "primary_domain": "go.yandex",
+      "domains": [
+        "go.yandex"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Яндекс Маркет",
+      "slug": "yandex-market",
+      "primary_domain": "market.yandex.ru",
+      "domains": [
+        "market.yandex.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "finance_marketplaces",
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Яндекс Музыка",
+      "slug": "yandex-muzyka",
+      "primary_domain": "music.yandex.ru",
+      "domains": [
+        "music.yandex.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Яндекс Почта",
+      "slug": "yandex-pochta",
+      "primary_domain": "mail.yandex.ru",
+      "domains": [
+        "mail.yandex.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "YouPorn",
+      "slug": "youporn",
+      "primary_domain": "youporn.com",
+      "domains": [
+        "youporn.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "YouTube",
+      "slug": "youtube",
+      "primary_domain": "youtu.be",
+      "domains": [
+        "youtu.be",
+        "youtube-nocookie.com",
+        "youtube.com"
+      ],
+      "domain_count": 3,
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "YouTube Music",
+      "slug": "youtube-music",
+      "primary_domain": "music.youtube.com",
+      "domains": [
+        "music.youtube.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "YTS",
+      "slug": "yts",
+      "primary_domain": "yts.mx",
+      "domains": [
+        "yts.mx"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "ЮMoney",
+      "slug": "yumoney",
+      "primary_domain": "yoomoney.ru",
+      "domains": [
+        "yoomoney.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Zoho",
+      "slug": "zoho",
+      "primary_domain": "zoho.com",
+      "domains": [
+        "zoho.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Zona",
+      "slug": "zona",
+      "primary_domain": "zona.ru",
+      "domains": [
+        "zona.ru"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "Звук",
+      "slug": "zvuk",
+      "primary_domain": "zvuk.com",
+      "domains": [
+        "zvuk.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "music",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    }
+  ]
+}

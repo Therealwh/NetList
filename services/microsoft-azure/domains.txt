@@ -1,0 +1,4 @@
+# NetList seed candidates: Microsoft Azure
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+azure.com
+azure.microsoft.com

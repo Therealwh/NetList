@@ -1,0 +1,4 @@
+# NetList seed candidates: Gemini
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+ai.google.dev
+gemini.google.com

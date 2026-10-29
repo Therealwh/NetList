@@ -1,0 +1,13 @@
+# NetList collection: government
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+council.gov.ru
+dom.gosuslugi.ru
+duma.gov.ru
+gosuslugi.ru
+government.ru
+kremlin.ru
+mchs.gov.ru
+nalog.gov.ru
+rosreestr.gov.ru
+xn--80ajghhoc2aj1c8b.xn--p1ai
+xn--b1aew.xn--p1ai

@@ -1,0 +1,18 @@
+# NetList collection: search_portals
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+baidu.com
+bing.com
+bk.ru
+duckduckgo.com
+google.com
+googleapis.com
+gstatic.com
+inbox.ru
+list.ru
+mail.ru
+wikipedia.org
+ya.ru
+yahoo.com
+yandex.com
+yandex.ru
+yastatic.net

@@ -1,0 +1,5 @@
+# NetList seed candidates: Microsoft
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+microsoft.com
+office.com
+windowsupdate.com

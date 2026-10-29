@@ -1,0 +1,15 @@
+# NetList collection: mail
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+bk.ru
+fastmail.com
+gmail.com
+inbox.ru
+list.ru
+mail.ru
+mail.yandex.ru
+outlook.com
+outlook.office.com
+proton.me
+protonmail.com
+tuta.com
+zoho.com

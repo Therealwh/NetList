@@ -1,0 +1,11 @@
+# NetList collection: transport
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+2gis.ru
+aeroflot.ru
+citydrive.ru
+delimobil.ru
+glonass.ru
+go.yandex
+pochta.ru
+rzd.ru
+tutu.ru

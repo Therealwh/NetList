@@ -1,0 +1,17 @@
+# NetList collection: video_music_media
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+aif.ru
+ivi.ru
+kinopoisk.ru
+kion.ru
+kommersant.ru
+music.yandex.ru
+okko.tv
+premier.one
+rbc.ru
+ria.ru
+rutube.ru
+tass.ru
+vkvideo.ru
+wink.ru
+zvuk.com

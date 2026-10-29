@@ -1,0 +1,5 @@
+# NetList seed candidates: Google
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+google.com
+googleapis.com
+gstatic.com

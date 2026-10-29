@@ -1,0 +1,10 @@
+# NetList collection: adult_18
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+fansly.com
+onlyfans.com
+pornhub.com
+redtube.com
+xhamster.com
+xnxx.com
+xvideos.com
+youporn.com

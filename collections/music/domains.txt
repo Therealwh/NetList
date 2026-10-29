@@ -1,0 +1,15 @@
+# NetList collection: music
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+bandcamp.com
+deezer.com
+last.fm
+mixcloud.com
+music.amazon.com
+music.apple.com
+music.yandex.ru
+music.youtube.com
+scdn.co
+soundcloud.com
+spotify.com
+tidal.com
+zvuk.com

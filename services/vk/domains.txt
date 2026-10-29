@@ -1,0 +1,6 @@
+# NetList seed candidates: VK
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+userapi.com
+vk.com
+vk.ru
+vkuserlive.net

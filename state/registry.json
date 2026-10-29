@@ -1,0 +1,4386 @@
+{
+  "services": [
+    {
+      "name": "1337x",
+      "slug": "1337x",
+      "domains": [
+        "1337x.to"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "1337x.to": 1
+      }
+    },
+    {
+      "name": "1С",
+      "slug": "1c",
+      "domains": [
+        "1c.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "1c.ru": 1
+      }
+    },
+    {
+      "name": "1xBet",
+      "slug": "1xbet",
+      "domains": [
+        "1xbet.com"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "1xbet.com": 1
+      }
+    },
+    {
+      "name": "2ГИС",
+      "slug": "2gis",
+      "domains": [
+        "2gis.ru"
+      ],
+      "categories": [
+        "search_ecosystems",
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "2gis.ru": 2
+      }
+    },
+    {
+      "name": "Аэрофлот",
+      "slug": "aeroflot",
+      "domains": [
+        "aeroflot.ru"
+      ],
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "aeroflot.ru": 1
+      }
+    },
+    {
+      "name": "АиФ",
+      "slug": "aif",
+      "domains": [
+        "aif.ru"
+      ],
+      "categories": [
+        "video_music_media"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "aif.ru": 1
+      }
+    },
+    {
+      "name": "Akamai",
+      "slug": "akamai",
+      "domains": [
+        "akamai.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "akamai.com": 1
+      }
+    },
+    {
+      "name": "Альфа-Банк",
+      "slug": "alfa-bank",
+      "domains": [
+        "alfabank.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "alfabank.ru": 1
+      }
+    },
+    {
+      "name": "AliExpress",
+      "slug": "aliexpress",
+      "domains": [
+        "aliexpress.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "aliexpress.com": 1
+      }
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "domains": [
+        "amazon.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "amazon.com": 1
+      }
+    },
+    {
+      "name": "Amazon Music",
+      "slug": "amazon-music",
+      "domains": [
+        "music.amazon.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "music.amazon.com": 1
+      }
+    },
+    {
+      "name": "Android",
+      "slug": "android",
+      "domains": [
+        "android.com",
+        "android.googleapis.com"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "android.com": 1,
+        "android.googleapis.com": 1
+      }
+    },
+    {
+      "name": "AP News",
+      "slug": "ap-news",
+      "domains": [
+        "apnews.com"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "apnews.com": 1
+      }
+    },
+    {
+      "name": "Apple",
+      "slug": "apple",
+      "domains": [
+        "apple.com",
+        "icloud.com"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "apple.com": 1,
+        "icloud.com": 1
+      }
+    },
+    {
+      "name": "Apple Music",
+      "slug": "apple-music",
+      "domains": [
+        "music.apple.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "music.apple.com": 1
+      }
+    },
+    {
+      "name": "Arch Linux",
+      "slug": "arch-linux",
+      "domains": [
+        "archlinux.org"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "archlinux.org": 1
+      }
+    },
+    {
+      "name": "Avito",
+      "slug": "avito",
+      "domains": [
+        "avito.ru"
+      ],
+      "categories": [
+        "finance_marketplaces",
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "avito.ru": 2
+      }
+    },
+    {
+      "name": "AWS",
+      "slug": "aws",
+      "domains": [
+        "amazonaws.com",
+        "aws.amazon.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "amazonaws.com": 1,
+        "aws.amazon.com": 1
+      }
+    },
+    {
+      "name": "Baidu",
+      "slug": "baidu",
+      "domains": [
+        "baidu.com"
+      ],
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "baidu.com": 1
+      }
+    },
+    {
+      "name": "Bandcamp",
+      "slug": "bandcamp",
+      "domains": [
+        "bandcamp.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "bandcamp.com": 1
+      }
+    },
+    {
+      "name": "Банк России",
+      "slug": "bank-rossii",
+      "domains": [
+        "cbr.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "cbr.ru": 1
+      }
+    },
+    {
+      "name": "Battle.net",
+      "slug": "battle-net",
+      "domains": [
+        "battle.net",
+        "blizzard.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "battle.net": 1,
+        "blizzard.com": 1
+      }
+    },
+    {
+      "name": "BBC",
+      "slug": "bbc",
+      "domains": [
+        "bbc.co.uk",
+        "bbc.com"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "bbc.co.uk": 1,
+        "bbc.com": 1
+      }
+    },
+    {
+      "name": "BC.Game",
+      "slug": "bc-game",
+      "domains": [
+        "bc.game"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "bc.game": 1
+      }
+    },
+    {
+      "name": "Bet365",
+      "slug": "bet365",
+      "domains": [
+        "bet365.com"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "bet365.com": 1
+      }
+    },
+    {
+      "name": "Betfair",
+      "slug": "betfair",
+      "domains": [
+        "betfair.com"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "betfair.com": 1
+      }
+    },
+    {
+      "name": "Билайн",
+      "slug": "bilayn",
+      "domains": [
+        "beeline.ru"
+      ],
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "beeline.ru": 1
+      }
+    },
+    {
+      "name": "Binance",
+      "slug": "binance",
+      "domains": [
+        "binance.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "binance.com": 1
+      }
+    },
+    {
+      "name": "Bing",
+      "slug": "bing",
+      "domains": [
+        "bing.com"
+      ],
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "bing.com": 1
+      }
+    },
+    {
+      "name": "Bitbucket",
+      "slug": "bitbucket",
+      "domains": [
+        "bitbucket.org"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "bitbucket.org": 1
+      }
+    },
+    {
+      "name": "ChatGPT",
+      "slug": "chatgpt",
+      "domains": [
+        "chatgpt.com",
+        "openai.com"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "chatgpt.com": 1,
+        "openai.com": 1
+      }
+    },
+    {
+      "name": "Честный знак",
+      "slug": "chestnyy-znak",
+      "domains": [
+        "xn--80ajghhoc2aj1c8b.xn--p1ai"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "xn--80ajghhoc2aj1c8b.xn--p1ai": 1
+      }
+    },
+    {
+      "name": "Claude",
+      "slug": "claude",
+      "domains": [
+        "anthropic.com",
+        "claude.ai"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "anthropic.com": 1,
+        "claude.ai": 1
+      }
+    },
+    {
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "domains": [
+        "cloudflare-dns.com",
+        "cloudflare.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "cloudflare-dns.com": 1,
+        "cloudflare.com": 1
+      }
+    },
+    {
+      "name": "Codeberg",
+      "slug": "codeberg",
+      "domains": [
+        "codeberg.org"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "codeberg.org": 1
+      }
+    },
+    {
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "domains": [
+        "coinbase.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "coinbase.com": 1
+      }
+    },
+    {
+      "name": "Coursera",
+      "slug": "coursera",
+      "domains": [
+        "coursera.org"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "coursera.org": 1
+      }
+    },
+    {
+      "name": "crates.io",
+      "slug": "crates-io",
+      "domains": [
+        "crates.io"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "crates.io": 1
+      }
+    },
+    {
+      "name": "Dailymotion",
+      "slug": "dailymotion",
+      "domains": [
+        "dailymotion.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "dailymotion.com": 1
+      }
+    },
+    {
+      "name": "Debian",
+      "slug": "debian",
+      "domains": [
+        "deb.debian.org",
+        "debian.org"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "deb.debian.org": 1,
+        "debian.org": 1
+      }
+    },
+    {
+      "name": "DeepSeek",
+      "slug": "deepseek",
+      "domains": [
+        "deepseek.com"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "deepseek.com": 1
+      }
+    },
+    {
+      "name": "Deezer",
+      "slug": "deezer",
+      "domains": [
+        "deezer.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "deezer.com": 1
+      }
+    },
+    {
+      "name": "Делимобиль",
+      "slug": "delimobil",
+      "domains": [
+        "delimobil.ru"
+      ],
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "delimobil.ru": 1
+      }
+    },
+    {
+      "name": "Deutsche Welle",
+      "slug": "deutsche-welle",
+      "domains": [
+        "dw.com"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "dw.com": 1
+      }
+    },
+    {
+      "name": "DigitalOcean",
+      "slug": "digitalocean",
+      "domains": [
+        "digitalocean.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "digitalocean.com": 1
+      }
+    },
+    {
+      "name": "Discord",
+      "slug": "discord",
+      "domains": [
+        "discord.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "discord.com": 1
+      }
+    },
+    {
+      "name": "Disney+",
+      "slug": "disney",
+      "domains": [
+        "disneyplus.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "disneyplus.com": 1
+      }
+    },
+    {
+      "name": "Docker Hub",
+      "slug": "docker-hub",
+      "domains": [
+        "docker.com",
+        "hub.docker.com"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "docker.com": 1,
+        "hub.docker.com": 1
+      }
+    },
+    {
+      "name": "Домклик",
+      "slug": "domklik",
+      "domains": [
+        "domclick.ru"
+      ],
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "domclick.ru": 1
+      }
+    },
+    {
+      "name": "Dropbox",
+      "slug": "dropbox",
+      "domains": [
+        "dropbox.com"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "dropbox.com": 1
+      }
+    },
+    {
+      "name": "DuckDuckGo",
+      "slug": "duckduckgo",
+      "domains": [
+        "duckduckgo.com"
+      ],
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "duckduckgo.com": 1
+      }
+    },
+    {
+      "name": "Дзен",
+      "slug": "dzen",
+      "domains": [
+        "dzen.ru"
+      ],
+      "categories": [
+        "search_ecosystems"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "dzen.ru": 1
+      }
+    },
+    {
+      "name": "EA",
+      "slug": "ea",
+      "domains": [
+        "ea.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "ea.com": 1
+      }
+    },
+    {
+      "name": "eBay",
+      "slug": "ebay",
+      "domains": [
+        "ebay.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "ebay.com": 1
+      }
+    },
+    {
+      "name": "edX",
+      "slug": "edx",
+      "domains": [
+        "edx.org"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "edx.org": 1
+      }
+    },
+    {
+      "name": "Epic Games",
+      "slug": "epic-games",
+      "domains": [
+        "epicgames.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "epicgames.com": 1
+      }
+    },
+    {
+      "name": "ESET",
+      "slug": "eset",
+      "domains": [
+        "eset.com"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "eset.com": 1
+      }
+    },
+    {
+      "name": "Etsy",
+      "slug": "etsy",
+      "domains": [
+        "etsy.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "etsy.com": 1
+      }
+    },
+    {
+      "name": "EZTV",
+      "slug": "eztv",
+      "domains": [
+        "eztv.re"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "eztv.re": 1
+      }
+    },
+    {
+      "name": "Facebook",
+      "slug": "facebook",
+      "domains": [
+        "facebook.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "facebook.com": 1
+      }
+    },
+    {
+      "name": "Faceit",
+      "slug": "faceit",
+      "domains": [
+        "faceit.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "faceit.com": 1
+      }
+    },
+    {
+      "name": "Fansly",
+      "slug": "fansly",
+      "domains": [
+        "fansly.com"
+      ],
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "fansly.com": 1
+      }
+    },
+    {
+      "name": "Fastly",
+      "slug": "fastly",
+      "domains": [
+        "fastly.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "fastly.com": 1
+      }
+    },
+    {
+      "name": "Fastmail",
+      "slug": "fastmail",
+      "domains": [
+        "fastmail.com"
+      ],
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "fastmail.com": 1
+      }
+    },
+    {
+      "name": "Fedora",
+      "slug": "fedora",
+      "domains": [
+        "fedoraproject.org"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "fedoraproject.org": 1
+      }
+    },
+    {
+      "name": "Filmix",
+      "slug": "filmix",
+      "domains": [
+        "filmix.ac",
+        "filmix.my"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "filmix.ac": 1,
+        "filmix.my": 1
+      }
+    },
+    {
+      "name": "ФНС",
+      "slug": "fns",
+      "domains": [
+        "nalog.gov.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "nalog.gov.ru": 1
+      }
+    },
+    {
+      "name": "Газпромбанк",
+      "slug": "gazprombank",
+      "domains": [
+        "gazprombank.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "gazprombank.ru": 1
+      }
+    },
+    {
+      "name": "Gemini",
+      "slug": "gemini",
+      "domains": [
+        "ai.google.dev",
+        "gemini.google.com"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "ai.google.dev": 1,
+        "gemini.google.com": 1
+      }
+    },
+    {
+      "name": "ГИС ЖКХ",
+      "slug": "gis-zhkkh",
+      "domains": [
+        "dom.gosuslugi.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "dom.gosuslugi.ru": 1
+      }
+    },
+    {
+      "name": "Гисметео",
+      "slug": "gismeteo",
+      "domains": [
+        "gismeteo.ru"
+      ],
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "gismeteo.ru": 1
+      }
+    },
+    {
+      "name": "GitHub",
+      "slug": "github",
+      "domains": [
+        "github.com",
+        "githubusercontent.com"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "github.com": 1,
+        "githubusercontent.com": 1
+      }
+    },
+    {
+      "name": "GitHub Pages",
+      "slug": "github-pages",
+      "domains": [
+        "github.io"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "github.io": 1
+      }
+    },
+    {
+      "name": "GitLab",
+      "slug": "gitlab",
+      "domains": [
+        "gitlab.com"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "gitlab.com": 1
+      }
+    },
+    {
+      "name": "ГЛОНАСС",
+      "slug": "glonass",
+      "domains": [
+        "glonass.ru"
+      ],
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "glonass.ru": 1
+      }
+    },
+    {
+      "name": "Gmail",
+      "slug": "gmail",
+      "domains": [
+        "gmail.com"
+      ],
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "gmail.com": 1
+      }
+    },
+    {
+      "name": "Google",
+      "slug": "google",
+      "domains": [
+        "google.com",
+        "googleapis.com",
+        "gstatic.com"
+      ],
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "google.com": 1,
+        "googleapis.com": 1,
+        "gstatic.com": 1
+      }
+    },
+    {
+      "name": "Google Cloud",
+      "slug": "google-cloud",
+      "domains": [
+        "cloud.google.com",
+        "googlecloud.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "cloud.google.com": 1,
+        "googlecloud.com": 1
+      }
+    },
+    {
+      "name": "Google Drive",
+      "slug": "google-drive",
+      "domains": [
+        "drive.google.com"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "drive.google.com": 1
+      }
+    },
+    {
+      "name": "Госдума",
+      "slug": "gosduma",
+      "domains": [
+        "duma.gov.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "duma.gov.ru": 1
+      }
+    },
+    {
+      "name": "Госуслуги",
+      "slug": "gosuslugi",
+      "domains": [
+        "gosuslugi.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "gosuslugi.ru": 1
+      }
+    },
+    {
+      "name": "Grok",
+      "slug": "grok",
+      "domains": [
+        "grok.com",
+        "x.ai"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "grok.com": 1,
+        "x.ai": 1
+      }
+    },
+    {
+      "name": "HDRezka",
+      "slug": "hdrezka",
+      "domains": [
+        "hdrezka.ag",
+        "hdrezka.me"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "hdrezka.ag": 1,
+        "hdrezka.me": 1
+      }
+    },
+    {
+      "name": "HeadHunter",
+      "slug": "headhunter",
+      "domains": [
+        "hh.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "hh.ru": 1
+      }
+    },
+    {
+      "name": "Hetzner",
+      "slug": "hetzner",
+      "domains": [
+        "hetzner.com",
+        "hetzner.de"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "hetzner.com": 1,
+        "hetzner.de": 1
+      }
+    },
+    {
+      "name": "Hugging Face",
+      "slug": "hugging-face",
+      "domains": [
+        "huggingface.co"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "huggingface.co": 1
+      }
+    },
+    {
+      "name": "Hulu",
+      "slug": "hulu",
+      "domains": [
+        "hulu.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "hulu.com": 1
+      }
+    },
+    {
+      "name": "Instagram",
+      "slug": "instagram",
+      "domains": [
+        "instagram.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "instagram.com": 1
+      }
+    },
+    {
+      "name": "Internet Archive",
+      "slug": "internet-archive",
+      "domains": [
+        "archive.org"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "archive.org": 1
+      }
+    },
+    {
+      "name": "Иви",
+      "slug": "ivi",
+      "domains": [
+        "ivi.ru"
+      ],
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "ivi.ru": 2
+      }
+    },
+    {
+      "name": "JetBrains",
+      "slug": "jetbrains",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "jetbrains.com": 1
+      }
+    },
+    {
+      "name": "Kaspersky",
+      "slug": "kaspersky",
+      "domains": [
+        "kaspersky.com"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "kaspersky.com": 1
+      }
+    },
+    {
+      "name": "Хабр",
+      "slug": "khabr",
+      "domains": [
+        "habr.com"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "habr.com": 1
+      }
+    },
+    {
+      "name": "Khan Academy",
+      "slug": "khan-academy",
+      "domains": [
+        "khanacademy.org"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "khanacademy.org": 1
+      }
+    },
+    {
+      "name": "KHL",
+      "slug": "khl",
+      "domains": [
+        "khl.ru"
+      ],
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "khl.ru": 1
+      }
+    },
+    {
+      "name": "Kick",
+      "slug": "kick",
+      "domains": [
+        "kick.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "kick.com": 1
+      }
+    },
+    {
+      "name": "Кинопоиск",
+      "slug": "kinopoisk",
+      "domains": [
+        "kinopoisk.ru"
+      ],
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "kinopoisk.ru": 2
+      }
+    },
+    {
+      "name": "KION",
+      "slug": "kion",
+      "domains": [
+        "kion.ru"
+      ],
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "kion.ru": 2
+      }
+    },
+    {
+      "name": "Коммерсантъ",
+      "slug": "kommersant",
+      "domains": [
+        "kommersant.ru"
+      ],
+      "categories": [
+        "video_music_media"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "kommersant.ru": 1
+      }
+    },
+    {
+      "name": "Контур",
+      "slug": "kontur",
+      "domains": [
+        "kontur.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "kontur.ru": 1
+      }
+    },
+    {
+      "name": "Купер",
+      "slug": "kuper",
+      "domains": [
+        "kuper.ru"
+      ],
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "kuper.ru": 1
+      }
+    },
+    {
+      "name": "Last.fm",
+      "slug": "last-fm",
+      "domains": [
+        "last.fm"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "last.fm": 1
+      }
+    },
+    {
+      "name": "Лента",
+      "slug": "lenta",
+      "domains": [
+        "lenta.com",
+        "lenta.ru"
+      ],
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "lenta.com": 1,
+        "lenta.ru": 1
+      }
+    },
+    {
+      "name": "LimeTorrents",
+      "slug": "limetorrents",
+      "domains": [
+        "limetorrents.lol"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "limetorrents.lol": 1
+      }
+    },
+    {
+      "name": "LINE",
+      "slug": "line",
+      "domains": [
+        "line.me"
+      ],
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "line.me": 1
+      }
+    },
+    {
+      "name": "LinkedIn",
+      "slug": "linkedin",
+      "domains": [
+        "linkedin.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "linkedin.com": 1
+      }
+    },
+    {
+      "name": "Linode",
+      "slug": "linode",
+      "domains": [
+        "linode.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "linode.com": 1
+      }
+    },
+    {
+      "name": "Магнит",
+      "slug": "magnit",
+      "domains": [
+        "magnit.ru"
+      ],
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "magnit.ru": 1
+      }
+    },
+    {
+      "name": "Mail.ru",
+      "slug": "mail-ru",
+      "domains": [
+        "bk.ru",
+        "inbox.ru",
+        "list.ru",
+        "mail.ru"
+      ],
+      "categories": [
+        "mail",
+        "search_ecosystems",
+        "search_portals"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "bk.ru": 1,
+        "inbox.ru": 1,
+        "list.ru": 1,
+        "mail.ru": 3
+      }
+    },
+    {
+      "name": "Malwarebytes",
+      "slug": "malwarebytes",
+      "domains": [
+        "malwarebytes.com"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "malwarebytes.com": 1
+      }
+    },
+    {
+      "name": "Мать и дитя",
+      "slug": "mat-i-ditya",
+      "domains": [
+        "mdclinics.ru"
+      ],
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "mdclinics.ru": 1
+      }
+    },
+    {
+      "name": "MAX",
+      "slug": "max",
+      "domains": [
+        "max.ru"
+      ],
+      "categories": [
+        "messengers",
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "max.ru": 2
+      }
+    },
+    {
+      "name": "МЧС",
+      "slug": "mchs",
+      "domains": [
+        "mchs.gov.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "mchs.gov.ru": 1
+      }
+    },
+    {
+      "name": "MediaFire",
+      "slug": "mediafire",
+      "domains": [
+        "mediafire.com"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "mediafire.com": 1
+      }
+    },
+    {
+      "name": "Медси",
+      "slug": "medsi",
+      "domains": [
+        "medsi.ru"
+      ],
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "medsi.ru": 1
+      }
+    },
+    {
+      "name": "Meduza",
+      "slug": "meduza",
+      "domains": [
+        "meduza.io"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "meduza.io": 1
+      }
+    },
+    {
+      "name": "MEGA",
+      "slug": "mega",
+      "domains": [
+        "mega.nz"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "mega.nz": 1
+      }
+    },
+    {
+      "name": "МегаФон",
+      "slug": "megafon",
+      "domains": [
+        "megafon.ru"
+      ],
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "megafon.ru": 1
+      }
+    },
+    {
+      "name": "Мегамаркет",
+      "slug": "megamarket",
+      "domains": [
+        "megamarket.ru"
+      ],
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "megamarket.ru": 1
+      }
+    },
+    {
+      "name": "Microsoft",
+      "slug": "microsoft",
+      "domains": [
+        "microsoft.com",
+        "office.com",
+        "windowsupdate.com"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "microsoft.com": 1,
+        "office.com": 1,
+        "windowsupdate.com": 1
+      }
+    },
+    {
+      "name": "Microsoft Azure",
+      "slug": "microsoft-azure",
+      "domains": [
+        "azure.com",
+        "azure.microsoft.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "azure.com": 1,
+        "azure.microsoft.com": 1
+      }
+    },
+    {
+      "name": "Midjourney",
+      "slug": "midjourney",
+      "domains": [
+        "midjourney.com"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "midjourney.com": 1
+      }
+    },
+    {
+      "name": "Minecraft",
+      "slug": "minecraft",
+      "domains": [
+        "minecraft.net"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "minecraft.net": 1
+      }
+    },
+    {
+      "name": "Мир",
+      "slug": "mir",
+      "domains": [
+        "mironline.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "mironline.ru": 1
+      }
+    },
+    {
+      "name": "Mistral AI",
+      "slug": "mistral-ai",
+      "domains": [
+        "mistral.ai"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "mistral.ai": 1
+      }
+    },
+    {
+      "name": "Mixcloud",
+      "slug": "mixcloud",
+      "domains": [
+        "mixcloud.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "mixcloud.com": 1
+      }
+    },
+    {
+      "name": "Modrinth",
+      "slug": "modrinth",
+      "domains": [
+        "modrinth.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "modrinth.com": 1
+      }
+    },
+    {
+      "name": "Mozilla",
+      "slug": "mozilla",
+      "domains": [
+        "firefox.com",
+        "mozilla.org"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "firefox.com": 1,
+        "mozilla.org": 1
+      }
+    },
+    {
+      "name": "МТС",
+      "slug": "mts",
+      "domains": [
+        "mts.ru"
+      ],
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "mts.ru": 1
+      }
+    },
+    {
+      "name": "MTS Web Services",
+      "slug": "mts-web-services",
+      "domains": [
+        "mws.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "mws.ru": 1
+      }
+    },
+    {
+      "name": "МВД РФ",
+      "slug": "mvd-rf",
+      "domains": [
+        "xn--b1aew.xn--p1ai"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "xn--b1aew.xn--p1ai": 1
+      }
+    },
+    {
+      "name": "Netflix",
+      "slug": "netflix",
+      "domains": [
+        "netflix.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "netflix.com": 1
+      }
+    },
+    {
+      "name": "Netlify",
+      "slug": "netlify",
+      "domains": [
+        "netlify.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "netlify.com": 1
+      }
+    },
+    {
+      "name": "Нетология",
+      "slug": "netologiya",
+      "domains": [
+        "netology.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "netology.ru": 1
+      }
+    },
+    {
+      "name": "Nexus Mods",
+      "slug": "nexus-mods",
+      "domains": [
+        "nexusmods.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "nexusmods.com": 1
+      }
+    },
+    {
+      "name": "Nintendo",
+      "slug": "nintendo",
+      "domains": [
+        "nintendo.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "nintendo.com": 1
+      }
+    },
+    {
+      "name": "npm",
+      "slug": "npm",
+      "domains": [
+        "npmjs.com"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "npmjs.com": 1
+      }
+    },
+    {
+      "name": "НСПК",
+      "slug": "nspk",
+      "domains": [
+        "nspk.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "nspk.ru": 1
+      }
+    },
+    {
+      "name": "Nyaa",
+      "slug": "nyaa",
+      "domains": [
+        "nyaa.si"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "nyaa.si": 1
+      }
+    },
+    {
+      "name": "Облако Mail.ru",
+      "slug": "oblako-mail-ru",
+      "domains": [
+        "cloud.mail.ru"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "cloud.mail.ru": 1
+      }
+    },
+    {
+      "name": "Одноклассники",
+      "slug": "odnoklassniki",
+      "domains": [
+        "ok.ru"
+      ],
+      "categories": [
+        "search_ecosystems",
+        "social"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "ok.ru": 2
+      }
+    },
+    {
+      "name": "Окко",
+      "slug": "okko",
+      "domains": [
+        "okko.tv"
+      ],
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "okko.tv": 2
+      }
+    },
+    {
+      "name": "OneDrive",
+      "slug": "onedrive",
+      "domains": [
+        "onedrive.live.com",
+        "sharepoint.com"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "onedrive.live.com": 1,
+        "sharepoint.com": 1
+      }
+    },
+    {
+      "name": "OnlyFans",
+      "slug": "onlyfans",
+      "domains": [
+        "onlyfans.com"
+      ],
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "onlyfans.com": 1
+      }
+    },
+    {
+      "name": "Outlook",
+      "slug": "outlook",
+      "domains": [
+        "outlook.com",
+        "outlook.office.com"
+      ],
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "outlook.com": 1,
+        "outlook.office.com": 1
+      }
+    },
+    {
+      "name": "OVHcloud",
+      "slug": "ovhcloud",
+      "domains": [
+        "ovh.com",
+        "ovhcloud.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "ovh.com": 1,
+        "ovhcloud.com": 1
+      }
+    },
+    {
+      "name": "Ozon",
+      "slug": "ozon",
+      "domains": [
+        "ozon.ru",
+        "ozone.ru",
+        "ozonusercontent.com"
+      ],
+      "categories": [
+        "finance_marketplaces",
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "ozon.ru": 2,
+        "ozone.ru": 1,
+        "ozonusercontent.com": 1
+      }
+    },
+    {
+      "name": "PayPal",
+      "slug": "paypal",
+      "domains": [
+        "paypal.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "paypal.com": 1
+      }
+    },
+    {
+      "name": "Perplexity",
+      "slug": "perplexity",
+      "domains": [
+        "perplexity.ai"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "perplexity.ai": 1
+      }
+    },
+    {
+      "name": "Pinnacle",
+      "slug": "pinnacle",
+      "domains": [
+        "pinnacle.com"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "pinnacle.com": 1
+      }
+    },
+    {
+      "name": "Pinterest",
+      "slug": "pinterest",
+      "domains": [
+        "pinterest.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "pinterest.com": 1
+      }
+    },
+    {
+      "name": "Pixeldrain",
+      "slug": "pixeldrain",
+      "domains": [
+        "pixeldrain.com"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "pixeldrain.com": 1
+      }
+    },
+    {
+      "name": "PlayStation",
+      "slug": "playstation",
+      "domains": [
+        "playstation.com",
+        "sony.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "playstation.com": 1,
+        "sony.com": 1
+      }
+    },
+    {
+      "name": "Почта России",
+      "slug": "pochta-rossii",
+      "domains": [
+        "pochta.ru"
+      ],
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "pochta.ru": 1
+      }
+    },
+    {
+      "name": "PokerStars",
+      "slug": "pokerstars",
+      "domains": [
+        "pokerstars.com"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "pokerstars.com": 1
+      }
+    },
+    {
+      "name": "Pornhub",
+      "slug": "pornhub",
+      "domains": [
+        "pornhub.com"
+      ],
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "pornhub.com": 1
+      }
+    },
+    {
+      "name": "Правительство РФ",
+      "slug": "pravitelstvo-rf",
+      "domains": [
+        "government.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "government.ru": 1
+      }
+    },
+    {
+      "name": "PREMIER",
+      "slug": "premier",
+      "domains": [
+        "premier.one"
+      ],
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "premier.one": 2
+      }
+    },
+    {
+      "name": "Президент России",
+      "slug": "prezident-rossii",
+      "domains": [
+        "kremlin.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "kremlin.ru": 1
+      }
+    },
+    {
+      "name": "Prime Video",
+      "slug": "prime-video",
+      "domains": [
+        "primevideo.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "primevideo.com": 1
+      }
+    },
+    {
+      "name": "Proton Mail",
+      "slug": "proton-mail",
+      "domains": [
+        "proton.me",
+        "protonmail.com"
+      ],
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "proton.me": 1,
+        "protonmail.com": 1
+      }
+    },
+    {
+      "name": "ПСБ",
+      "slug": "psb",
+      "domains": [
+        "psbank.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "psbank.ru": 1
+      }
+    },
+    {
+      "name": "Пятёрочка",
+      "slug": "pyatyorochka",
+      "domains": [
+        "5ka.ru",
+        "x5.ru"
+      ],
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "5ka.ru": 1,
+        "x5.ru": 1
+      }
+    },
+    {
+      "name": "PyPI",
+      "slug": "pypi",
+      "domains": [
+        "pypi.org"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "pypi.org": 1
+      }
+    },
+    {
+      "name": "Qwen",
+      "slug": "qwen",
+      "domains": [
+        "qwen.ai"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "qwen.ai": 1
+      }
+    },
+    {
+      "name": "Рамблер",
+      "slug": "rambler",
+      "domains": [
+        "rambler.ru"
+      ],
+      "categories": [
+        "search_ecosystems"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "rambler.ru": 1
+      }
+    },
+    {
+      "name": "РБК",
+      "slug": "rbk",
+      "domains": [
+        "rbc.ru"
+      ],
+      "categories": [
+        "news_education",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "rbc.ru": 2
+      }
+    },
+    {
+      "name": "Reddit",
+      "slug": "reddit",
+      "domains": [
+        "reddit.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "reddit.com": 1
+      }
+    },
+    {
+      "name": "RedTube",
+      "slug": "redtube",
+      "domains": [
+        "redtube.com"
+      ],
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "redtube.com": 1
+      }
+    },
+    {
+      "name": "Render",
+      "slug": "render",
+      "domains": [
+        "render.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "render.com": 1
+      }
+    },
+    {
+      "name": "Replicate",
+      "slug": "replicate",
+      "domains": [
+        "replicate.com"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "replicate.com": 1
+      }
+    },
+    {
+      "name": "Reuters",
+      "slug": "reuters",
+      "domains": [
+        "reuters.com"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "reuters.com": 1
+      }
+    },
+    {
+      "name": "Revolut",
+      "slug": "revolut",
+      "domains": [
+        "revolut.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "revolut.com": 1
+      }
+    },
+    {
+      "name": "РИА Новости",
+      "slug": "ria-novosti",
+      "domains": [
+        "ria.ru"
+      ],
+      "categories": [
+        "news_education",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "ria.ru": 2
+      }
+    },
+    {
+      "name": "Riot Games",
+      "slug": "riot-games",
+      "domains": [
+        "leagueoflegends.com",
+        "riotgames.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "leagueoflegends.com": 1,
+        "riotgames.com": 1
+      }
+    },
+    {
+      "name": "Roblox",
+      "slug": "roblox",
+      "domains": [
+        "roblox.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "roblox.com": 1
+      }
+    },
+    {
+      "name": "Росреестр",
+      "slug": "rosreestr",
+      "domains": [
+        "rosreestr.gov.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "rosreestr.gov.ru": 1
+      }
+    },
+    {
+      "name": "Ростелеком",
+      "slug": "rostelekom",
+      "domains": [
+        "rostelecom.ru",
+        "rt.ru"
+      ],
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "rostelecom.ru": 1,
+        "rt.ru": 1
+      }
+    },
+    {
+      "name": "Rumble",
+      "slug": "rumble",
+      "domains": [
+        "rumble.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "rumble.com": 1
+      }
+    },
+    {
+      "name": "RuStore",
+      "slug": "rustore",
+      "domains": [
+        "rustore.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "rustore.ru": 1
+      }
+    },
+    {
+      "name": "RuTor",
+      "slug": "rutor",
+      "domains": [
+        "rutor.info"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "rutor.info": 1
+      }
+    },
+    {
+      "name": "RuTracker",
+      "slug": "rutracker",
+      "domains": [
+        "rutracker.org"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "rutracker.org": 1
+      }
+    },
+    {
+      "name": "Rutube",
+      "slug": "rutube",
+      "domains": [
+        "rutube.ru"
+      ],
+      "categories": [
+        "video_music_media",
+        "video_streaming"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "rutube.ru": 2
+      }
+    },
+    {
+      "name": "РЖД",
+      "slug": "rzhd",
+      "domains": [
+        "rzd.ru"
+      ],
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "rzd.ru": 1
+      }
+    },
+    {
+      "name": "Самокат",
+      "slug": "samokat",
+      "domains": [
+        "samokat.ru"
+      ],
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "samokat.ru": 1
+      }
+    },
+    {
+      "name": "Сбер",
+      "slug": "sber",
+      "domains": [
+        "sber.ru",
+        "sberbank.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "sber.ru": 1,
+        "sberbank.ru": 1
+      }
+    },
+    {
+      "name": "СберМобайл",
+      "slug": "sbermobayl",
+      "domains": [
+        "sbermobile.ru"
+      ],
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "sbermobile.ru": 1
+      }
+    },
+    {
+      "name": "СБП",
+      "slug": "sbp",
+      "domains": [
+        "sbp.nspk.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "sbp.nspk.ru": 1
+      }
+    },
+    {
+      "name": "СДЭК",
+      "slug": "sdek",
+      "domains": [
+        "cdek.ru"
+      ],
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "cdek.ru": 1
+      }
+    },
+    {
+      "name": "Seansovar",
+      "slug": "seansovar",
+      "domains": [
+        "seansovar.com"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "seansovar.com": 1
+      }
+    },
+    {
+      "name": "Selectel",
+      "slug": "selectel",
+      "domains": [
+        "selectel.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "selectel.ru": 1
+      }
+    },
+    {
+      "name": "Send Anywhere",
+      "slug": "send-anywhere",
+      "domains": [
+        "send-anywhere.com"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "send-anywhere.com": 1
+      }
+    },
+    {
+      "name": "Signal",
+      "slug": "signal",
+      "domains": [
+        "signal.org"
+      ],
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "signal.org": 1
+      }
+    },
+    {
+      "name": "Ситидрайв",
+      "slug": "sitidrayv",
+      "domains": [
+        "citydrive.ru"
+      ],
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "citydrive.ru": 1
+      }
+    },
+    {
+      "name": "Skillbox",
+      "slug": "skillbox",
+      "domains": [
+        "skillbox.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "skillbox.ru": 1
+      }
+    },
+    {
+      "name": "Skype",
+      "slug": "skype",
+      "domains": [
+        "skype.com"
+      ],
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "skype.com": 1
+      }
+    },
+    {
+      "name": "Snapchat",
+      "slug": "snapchat",
+      "domains": [
+        "snapchat.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "snapchat.com": 1
+      }
+    },
+    {
+      "name": "SoundCloud",
+      "slug": "soundcloud",
+      "domains": [
+        "soundcloud.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "soundcloud.com": 1
+      }
+    },
+    {
+      "name": "SourceForge",
+      "slug": "sourceforge",
+      "domains": [
+        "sourceforge.net"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "sourceforge.net": 1
+      }
+    },
+    {
+      "name": "Совет Федерации",
+      "slug": "sovet-federatsii",
+      "domains": [
+        "council.gov.ru"
+      ],
+      "categories": [
+        "government"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "council.gov.ru": 1
+      }
+    },
+    {
+      "name": "Спортмастер",
+      "slug": "sportmaster",
+      "domains": [
+        "sportmaster.ru"
+      ],
+      "categories": [
+        "health_sport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "sportmaster.ru": 1
+      }
+    },
+    {
+      "name": "Spotify",
+      "slug": "spotify",
+      "domains": [
+        "scdn.co",
+        "spotify.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "scdn.co": 1,
+        "spotify.com": 1
+      }
+    },
+    {
+      "name": "Stack Overflow",
+      "slug": "stack-overflow",
+      "domains": [
+        "stackexchange.com",
+        "stackoverflow.com"
+      ],
+      "categories": [
+        "developer_tools"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "stackexchange.com": 1,
+        "stackoverflow.com": 1
+      }
+    },
+    {
+      "name": "Stake",
+      "slug": "stake",
+      "domains": [
+        "stake.com"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "stake.com": 1
+      }
+    },
+    {
+      "name": "Steam",
+      "slug": "steam",
+      "domains": [
+        "steamcommunity.com",
+        "steampowered.com",
+        "steamstatic.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "steamcommunity.com": 1,
+        "steampowered.com": 1,
+        "steamstatic.com": 1
+      }
+    },
+    {
+      "name": "Stepik",
+      "slug": "stepik",
+      "domains": [
+        "stepik.org"
+      ],
+      "categories": [
+        "it_business_education",
+        "news_education"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "stepik.org": 2
+      }
+    },
+    {
+      "name": "Stripe",
+      "slug": "stripe",
+      "domains": [
+        "stripe.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "stripe.com": 1
+      }
+    },
+    {
+      "name": "SwissTransfer",
+      "slug": "swisstransfer",
+      "domains": [
+        "swisstransfer.com"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "swisstransfer.com": 1
+      }
+    },
+    {
+      "name": "Т-Банк",
+      "slug": "t-bank",
+      "domains": [
+        "tbank.ru",
+        "tinkoff.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "tbank.ru": 1,
+        "tinkoff.ru": 1
+      }
+    },
+    {
+      "name": "Т2",
+      "slug": "t2",
+      "domains": [
+        "t2.ru",
+        "tele2.ru"
+      ],
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "t2.ru": 1,
+        "tele2.ru": 1
+      }
+    },
+    {
+      "name": "ТАСС",
+      "slug": "tass",
+      "domains": [
+        "tass.ru"
+      ],
+      "categories": [
+        "news_education",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "tass.ru": 2
+      }
+    },
+    {
+      "name": "Telegram",
+      "slug": "telegram",
+      "domains": [
+        "t.me",
+        "telegra.ph",
+        "telegram.me",
+        "telegram.org"
+      ],
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "t.me": 1,
+        "telegra.ph": 1,
+        "telegram.me": 1,
+        "telegram.org": 1
+      }
+    },
+    {
+      "name": "Тензор / СБИС",
+      "slug": "tenzor-sbis",
+      "domains": [
+        "sbis.ru",
+        "tensor.ru"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "sbis.ru": 1,
+        "tensor.ru": 1
+      }
+    },
+    {
+      "name": "The Guardian",
+      "slug": "the-guardian",
+      "domains": [
+        "theguardian.com"
+      ],
+      "categories": [
+        "news_education"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "theguardian.com": 1
+      }
+    },
+    {
+      "name": "The Pirate Bay",
+      "slug": "the-pirate-bay",
+      "domains": [
+        "thepiratebay.org"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "thepiratebay.org": 1
+      }
+    },
+    {
+      "name": "Threads",
+      "slug": "threads",
+      "domains": [
+        "threads.net"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "threads.net": 1
+      }
+    },
+    {
+      "name": "Tidal",
+      "slug": "tidal",
+      "domains": [
+        "tidal.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "tidal.com": 1
+      }
+    },
+    {
+      "name": "TikTok",
+      "slug": "tiktok",
+      "domains": [
+        "tiktok.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "tiktok.com": 1
+      }
+    },
+    {
+      "name": "TorrentGalaxy",
+      "slug": "torrentgalaxy",
+      "domains": [
+        "torrentgalaxy.to"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "torrentgalaxy.to": 1
+      }
+    },
+    {
+      "name": "Tumblr",
+      "slug": "tumblr",
+      "domains": [
+        "tumblr.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "tumblr.com": 1
+      }
+    },
+    {
+      "name": "Tuta",
+      "slug": "tuta",
+      "domains": [
+        "tuta.com"
+      ],
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "tuta.com": 1
+      }
+    },
+    {
+      "name": "Туту",
+      "slug": "tutu",
+      "domains": [
+        "tutu.ru"
+      ],
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "tutu.ru": 1
+      }
+    },
+    {
+      "name": "Twitch",
+      "slug": "twitch",
+      "domains": [
+        "jtvnw.net",
+        "twitch.tv"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "jtvnw.net": 1,
+        "twitch.tv": 1
+      }
+    },
+    {
+      "name": "Ubisoft",
+      "slug": "ubisoft",
+      "domains": [
+        "ubisoft.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "ubisoft.com": 1
+      }
+    },
+    {
+      "name": "Ubuntu",
+      "slug": "ubuntu",
+      "domains": [
+        "archive.ubuntu.com",
+        "ubuntu.com"
+      ],
+      "categories": [
+        "os_security"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "archive.ubuntu.com": 1,
+        "ubuntu.com": 1
+      }
+    },
+    {
+      "name": "Vercel",
+      "slug": "vercel",
+      "domains": [
+        "vercel.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "vercel.com": 1
+      }
+    },
+    {
+      "name": "Viber",
+      "slug": "viber",
+      "domains": [
+        "viber.com"
+      ],
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "viber.com": 1
+      }
+    },
+    {
+      "name": "Vimeo",
+      "slug": "vimeo",
+      "domains": [
+        "vimeo.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "vimeo.com": 1
+      }
+    },
+    {
+      "name": "VK",
+      "slug": "vk",
+      "domains": [
+        "userapi.com",
+        "vk.com",
+        "vk.ru",
+        "vkuserlive.net"
+      ],
+      "categories": [
+        "search_ecosystems",
+        "social"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "userapi.com": 1,
+        "vk.com": 2,
+        "vk.ru": 2,
+        "vkuserlive.net": 1
+      }
+    },
+    {
+      "name": "VK Cloud",
+      "slug": "vk-cloud",
+      "domains": [
+        "cloud.vk.com"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "cloud.vk.com": 1
+      }
+    },
+    {
+      "name": "VK Мессенджер",
+      "slug": "vk-messendzher",
+      "domains": [
+        "vk.me"
+      ],
+      "categories": [
+        "messengers_telecom"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "vk.me": 1
+      }
+    },
+    {
+      "name": "VK Видео",
+      "slug": "vk-video",
+      "domains": [
+        "vkvideo.ru"
+      ],
+      "categories": [
+        "video_music_media",
+        "video_streaming"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "vkvideo.ru": 2
+      }
+    },
+    {
+      "name": "ВкусВилл",
+      "slug": "vkusvill",
+      "domains": [
+        "vkusvill.ru"
+      ],
+      "categories": [
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "vkusvill.ru": 1
+      }
+    },
+    {
+      "name": "ВТБ",
+      "slug": "vtb",
+      "domains": [
+        "vtb.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "vtb.ru": 1
+      }
+    },
+    {
+      "name": "Vultr",
+      "slug": "vultr",
+      "domains": [
+        "vultr.com"
+      ],
+      "categories": [
+        "cloud_cdn"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "vultr.com": 1
+      }
+    },
+    {
+      "name": "WeChat",
+      "slug": "wechat",
+      "domains": [
+        "wechat.com",
+        "weixin.qq.com"
+      ],
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "wechat.com": 1,
+        "weixin.qq.com": 1
+      }
+    },
+    {
+      "name": "WeTransfer",
+      "slug": "wetransfer",
+      "domains": [
+        "wetransfer.com"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "wetransfer.com": 1
+      }
+    },
+    {
+      "name": "WhatsApp",
+      "slug": "whatsapp",
+      "domains": [
+        "wa.me",
+        "whatsapp.com"
+      ],
+      "categories": [
+        "messengers"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "wa.me": 1,
+        "whatsapp.com": 1
+      }
+    },
+    {
+      "name": "Wikipedia",
+      "slug": "wikipedia",
+      "domains": [
+        "wikipedia.org"
+      ],
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "wikipedia.org": 1
+      }
+    },
+    {
+      "name": "Wildberries",
+      "slug": "wildberries",
+      "domains": [
+        "wb.ru",
+        "wildberries.ru"
+      ],
+      "categories": [
+        "finance_marketplaces",
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "wb.ru": 2,
+        "wildberries.ru": 2
+      }
+    },
+    {
+      "name": "Wink",
+      "slug": "wink",
+      "domains": [
+        "wink.ru"
+      ],
+      "categories": [
+        "movies",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "wink.ru": 2
+      }
+    },
+    {
+      "name": "Wise",
+      "slug": "wise",
+      "domains": [
+        "wise.com"
+      ],
+      "categories": [
+        "finance_marketplaces"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "wise.com": 1
+      }
+    },
+    {
+      "name": "X",
+      "slug": "x",
+      "domains": [
+        "twitter.com",
+        "x.com"
+      ],
+      "categories": [
+        "social"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "twitter.com": 1,
+        "x.com": 1
+      }
+    },
+    {
+      "name": "Xbox",
+      "slug": "xbox",
+      "domains": [
+        "xbox.com",
+        "xboxlive.com"
+      ],
+      "categories": [
+        "gaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "xbox.com": 1,
+        "xboxlive.com": 1
+      }
+    },
+    {
+      "name": "XHamster",
+      "slug": "xhamster",
+      "domains": [
+        "xhamster.com"
+      ],
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "xhamster.com": 1
+      }
+    },
+    {
+      "name": "XNXX",
+      "slug": "xnxx",
+      "domains": [
+        "xnxx.com"
+      ],
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "xnxx.com": 1
+      }
+    },
+    {
+      "name": "XVideos",
+      "slug": "xvideos",
+      "domains": [
+        "xvideos.com"
+      ],
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "xvideos.com": 1
+      }
+    },
+    {
+      "name": "Yahoo",
+      "slug": "yahoo",
+      "domains": [
+        "yahoo.com"
+      ],
+      "categories": [
+        "search_portals"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "yahoo.com": 1
+      }
+    },
+    {
+      "name": "Яндекс",
+      "slug": "yandex",
+      "domains": [
+        "ya.ru",
+        "yandex.com",
+        "yandex.ru",
+        "yastatic.net"
+      ],
+      "categories": [
+        "search_ecosystems",
+        "search_portals"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "ya.ru": 2,
+        "yandex.com": 2,
+        "yandex.ru": 2,
+        "yastatic.net": 1
+      }
+    },
+    {
+      "name": "Yandex Cloud",
+      "slug": "yandex-cloud",
+      "domains": [
+        "yandex.cloud"
+      ],
+      "categories": [
+        "it_business_education"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "yandex.cloud": 1
+      }
+    },
+    {
+      "name": "Яндекс Диск",
+      "slug": "yandex-disk",
+      "domains": [
+        "disk.yandex.ru"
+      ],
+      "categories": [
+        "file_sharing"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "disk.yandex.ru": 1
+      }
+    },
+    {
+      "name": "Яндекс Go",
+      "slug": "yandex-go",
+      "domains": [
+        "go.yandex"
+      ],
+      "categories": [
+        "transport"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "go.yandex": 1
+      }
+    },
+    {
+      "name": "Яндекс Маркет",
+      "slug": "yandex-market",
+      "domains": [
+        "market.yandex.ru"
+      ],
+      "categories": [
+        "finance_marketplaces",
+        "marketplaces_delivery"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "market.yandex.ru": 2
+      }
+    },
+    {
+      "name": "Яндекс Музыка",
+      "slug": "yandex-muzyka",
+      "domains": [
+        "music.yandex.ru"
+      ],
+      "categories": [
+        "music",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "music.yandex.ru": 2
+      }
+    },
+    {
+      "name": "Яндекс Почта",
+      "slug": "yandex-pochta",
+      "domains": [
+        "mail.yandex.ru"
+      ],
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "mail.yandex.ru": 1
+      }
+    },
+    {
+      "name": "YouPorn",
+      "slug": "youporn",
+      "domains": [
+        "youporn.com"
+      ],
+      "categories": [
+        "adult_18"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "youporn.com": 1
+      }
+    },
+    {
+      "name": "YouTube",
+      "slug": "youtube",
+      "domains": [
+        "youtu.be",
+        "youtube-nocookie.com",
+        "youtube.com"
+      ],
+      "categories": [
+        "video_streaming"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "youtu.be": 1,
+        "youtube-nocookie.com": 1,
+        "youtube.com": 1
+      }
+    },
+    {
+      "name": "YouTube Music",
+      "slug": "youtube-music",
+      "domains": [
+        "music.youtube.com"
+      ],
+      "categories": [
+        "music"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "music.youtube.com": 1
+      }
+    },
+    {
+      "name": "YTS",
+      "slug": "yts",
+      "domains": [
+        "yts.mx"
+      ],
+      "categories": [
+        "torrents_p2p"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "yts.mx": 1
+      }
+    },
+    {
+      "name": "ЮMoney",
+      "slug": "yumoney",
+      "domains": [
+        "yoomoney.ru"
+      ],
+      "categories": [
+        "banks_payments"
+      ],
+      "datasets": [
+        "russian"
+      ],
+      "counts": {
+        "yoomoney.ru": 1
+      }
+    },
+    {
+      "name": "Zoho",
+      "slug": "zoho",
+      "domains": [
+        "zoho.com"
+      ],
+      "categories": [
+        "mail"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "zoho.com": 1
+      }
+    },
+    {
+      "name": "Zona",
+      "slug": "zona",
+      "domains": [
+        "zona.ru"
+      ],
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "global"
+      ],
+      "counts": {
+        "zona.ru": 1
+      }
+    },
+    {
+      "name": "Звук",
+      "slug": "zvuk",
+      "domains": [
+        "zvuk.com"
+      ],
+      "categories": [
+        "music",
+        "video_music_media"
+      ],
+      "datasets": [
+        "global",
+        "russian"
+      ],
+      "counts": {
+        "zvuk.com": 2
+      }
+    }
+  ]
+}

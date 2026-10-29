@@ -1,0 +1,12 @@
+# NetList collection: messengers_telecom
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+beeline.ru
+max.ru
+megafon.ru
+mts.ru
+rostelecom.ru
+rt.ru
+sbermobile.ru
+t2.ru
+tele2.ru
+vk.me

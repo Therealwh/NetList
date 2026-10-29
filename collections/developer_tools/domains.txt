@@ -1,0 +1,17 @@
+# NetList collection: developer_tools
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+bitbucket.org
+codeberg.org
+crates.io
+docker.com
+github.com
+github.io
+githubusercontent.com
+gitlab.com
+hub.docker.com
+jetbrains.com
+npmjs.com
+pypi.org
+sourceforge.net
+stackexchange.com
+stackoverflow.com

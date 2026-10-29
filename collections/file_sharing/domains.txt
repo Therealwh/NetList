@@ -1,0 +1,14 @@
+# NetList collection: file_sharing
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+cloud.mail.ru
+disk.yandex.ru
+drive.google.com
+dropbox.com
+mediafire.com
+mega.nz
+onedrive.live.com
+pixeldrain.com
+send-anywhere.com
+sharepoint.com
+swisstransfer.com
+wetransfer.com

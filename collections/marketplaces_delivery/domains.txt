@@ -1,0 +1,19 @@
+# NetList collection: marketplaces_delivery
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+5ka.ru
+avito.ru
+cdek.ru
+kuper.ru
+lenta.com
+lenta.ru
+magnit.ru
+market.yandex.ru
+megamarket.ru
+ozon.ru
+ozone.ru
+ozonusercontent.com
+samokat.ru
+vkusvill.ru
+wb.ru
+wildberries.ru
+x5.ru

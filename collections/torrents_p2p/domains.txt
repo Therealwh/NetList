@@ -1,0 +1,12 @@
+# NetList collection: torrents_p2p
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+1337x.to
+archive.org
+eztv.re
+limetorrents.lol
+nyaa.si
+rutor.info
+rutracker.org
+thepiratebay.org
+torrentgalaxy.to
+yts.mx

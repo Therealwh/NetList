@@ -1,0 +1,15 @@
+# NetList collection: banks_payments
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+alfabank.ru
+cbr.ru
+gazprombank.ru
+mironline.ru
+nspk.ru
+psbank.ru
+sber.ru
+sberbank.ru
+sbp.nspk.ru
+tbank.ru
+tinkoff.ru
+vtb.ru
+yoomoney.ru

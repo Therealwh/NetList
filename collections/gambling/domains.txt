@@ -1,0 +1,9 @@
+# NetList collection: gambling
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+1xbet.com
+bc.game
+bet365.com
+betfair.com
+pinnacle.com
+pokerstars.com
+stake.com

@@ -1,0 +1,19 @@
+# NetList collection: social
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+discord.com
+facebook.com
+instagram.com
+linkedin.com
+ok.ru
+pinterest.com
+reddit.com
+snapchat.com
+threads.net
+tiktok.com
+tumblr.com
+twitter.com
+userapi.com
+vk.com
+vk.ru
+vkuserlive.net
+x.com

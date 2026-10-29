@@ -1,0 +1,20 @@
+# NetList collection: os_security
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+android.com
+android.googleapis.com
+apple.com
+archive.ubuntu.com
+archlinux.org
+deb.debian.org
+debian.org
+eset.com
+fedoraproject.org
+firefox.com
+icloud.com
+kaspersky.com
+malwarebytes.com
+microsoft.com
+mozilla.org
+office.com
+ubuntu.com
+windowsupdate.com

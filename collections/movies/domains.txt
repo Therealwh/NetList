@@ -1,0 +1,14 @@
+# NetList collection: movies
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+filmix.ac
+filmix.my
+hdrezka.ag
+hdrezka.me
+ivi.ru
+kinopoisk.ru
+kion.ru
+okko.tv
+premier.one
+seansovar.com
+wink.ru
+zona.ru
