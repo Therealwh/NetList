@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from .io_lists import write_list
-from .seed_import import Service, load_registry, primary_domain
+from .seed_import import Service, load_registry, load_user_submissions, primary_domain, slugify
 
 NOTICE = (
     "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, "
@@ -36,6 +36,32 @@ def _read_existing(root: Path) -> dict:
 def build_all(repo_root: Path) -> dict:
     root = Path(repo_root)
     registry: dict[str, Service] = load_registry(root / "state" / "registry.json")
+
+    # Пользовательские кандидаты загружаются на каждой сборке, а не только при ручном import.
+    # Источник истины — sources/user_submissions/*.json, которые добавляются через GitHub API.
+    known_categories = {category for service in registry.values() for category in service.categories}
+    for record in load_user_submissions(root, known_categories=known_categories):
+        domain = next(iter(record["domains"]))
+        existing = next((service for service in registry.values() if domain in service.domains), None)
+        if existing is not None:
+            existing.categories |= record["categories"]
+            existing.datasets.add("user")
+            existing.counts[domain] = existing.counts.get(domain, 0) + 1
+            continue
+        base_slug = slugify(record["name"]) or slugify(domain) or "user-domain"
+        slug = base_slug
+        suffix = 2
+        while slug in registry and domain not in registry[slug].domains:
+            slug = f"{base_slug}-{suffix}"
+            suffix += 1
+        service = registry.get(slug)
+        if service is None:
+            service = Service(name=record["name"], slug=slug)
+            registry[slug] = service
+        service.domains.add(domain)
+        service.categories |= record["categories"]
+        service.datasets.add("user")
+        service.counts[domain] = service.counts.get(domain, 0) + 1
 
     for slug, service in sorted(registry.items()):
         write_list(
