@@ -15,6 +15,7 @@ GitHub-репозиторий данных — единственный исто
 """
 from __future__ import annotations
 
+import base64
 import hashlib
 import json
 import re
@@ -33,6 +34,19 @@ CDN_URLS = (
     "https://cdn.simpleicons.org/{slug}",
 )
 MAX_SIZE = 100_000
+# Explicitly allowlisted first-party resources for brands not available in Simple Icons.
+# Canva documents this SVG as its icon resource (Simple Icons issue #14839); Slack hosts
+# this favicon on its own asset CDN. These remain local static files after discovery.
+OFFICIAL_FALLBACKS = {
+    "canva": (
+        "https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg",
+        "svg", "canva.com", "Official Canva asset; follow Canva brand guidelines",
+    ),
+    "slack": (
+        "https://a.slack-edge.com/e6a93c1/img/icons/favicon-32.png",
+        "png", "slack.com", "Official Slack favicon; follow Slack brand guidelines",
+    ),
+}
 
 _UNSAFE_RE = re.compile(rb"<script|<foreignObject|on\w+\s*=|javascript:", re.IGNORECASE)
 _EXTERNAL_HREF_RE = re.compile(rb'href\s*=\s*["\']https?:', re.IGNORECASE)
@@ -88,6 +102,42 @@ def fetch_cdn(slug: str) -> bytes | None:
             continue
     return None
 
+
+
+def fetch_official_fallback(service_slug: str) -> tuple[bytes, str, str] | None:
+    """Fetch only exact allowlisted first-party marks and cache them as safe local SVGs."""
+    entry = OFFICIAL_FALLBACKS.get(service_slug)
+    if not entry:
+        return None
+    url, file_kind, source, license_note = entry
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "NetList-logo-discovery/1.0", "Accept": "image/svg+xml,image/png"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            if resp.status != 200:
+                return None
+            body = resp.read(MAX_SIZE + 1)
+    except Exception:
+        return None
+    if not body or len(body) > MAX_SIZE:
+        return None
+    if file_kind == "png":
+        # Keep the public-domain/official favicon local and wrap it in a self-contained SVG.
+        # Only accept a real PNG signature; no arbitrary HTML/error page can become a logo.
+        if not body.startswith(b"\x89PNG\r\n\x1a\n"):
+            return None
+        encoded = base64.b64encode(body).decode("ascii")
+        body = (
+            '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
+            f'<image width="32" height="32" href="data:image/png;base64,{encoded}"/>'
+            '</svg>'
+        ).encode("utf-8")
+    valid, _reason = validate_svg(body)
+    if not valid:
+        return None
+    return body, source, license_note
 
 def load_sources(logos_path: Path) -> dict:
     path = logos_path / "sources.json"
@@ -158,6 +208,8 @@ def build(repo_root: Path, discover: bool = False) -> dict:
 
         # файла нет: пробуем кандидатов; первый валидный становится логотипом
         got = None
+        logo_source = "simple-icons"
+        logo_license = "CC0"
         for candidate in candidates:
             if not re.fullmatch(r"[a-z0-9-]{1,60}", candidate or ""):
                 continue
@@ -171,15 +223,23 @@ def build(repo_root: Path, discover: bool = False) -> dict:
                 known_files.add(file_name)
                 added.append(sid)
                 break
+        if not got:
+            fallback = fetch_official_fallback(sid)
+            if fallback:
+                body, logo_source, logo_license = fallback
+                got = sid
+                file_path.write_bytes(body)
+                known_files.add(file_name)
+                added.append(sid)
         if got:
-            sources[sid] = {"candidates": [got], "source": "simple-icons", "license": "CC0"}
+            sources[sid] = {"candidates": [got], "source": logo_source, "license": logo_license}
             manifest_entries[sid] = {
                 "service_id": sid,
                 "name": service.get("name", sid),
                 "primary_domain": service.get("primary_domain", ""),
                 "file": file_name,
-                "source": "simple-icons",
-                "license": "CC0",
+                "source": logo_source,
+                "license": logo_license,
                 "checked_at": now_iso(),
                 "sha256": sha256((logos_path / file_name).read_bytes()),
             }
