@@ -1,3 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Gmail — gmail.com
-142.251.45.5/32
+172.217.214.17/32
+172.217.214.18/32
+172.217.214.19/32
+172.217.214.83/32

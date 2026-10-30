@@ -1,6 +1,11 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Gemini — ai.google.dev
-142.251.41.14/32
+142.251.189.100/32
+142.251.189.101/32
+142.251.189.102/32
+142.251.189.113/32
+142.251.189.138/32
+142.251.189.139/32
 
 # Gemini — gemini.google.com
 142.251.150.2/32

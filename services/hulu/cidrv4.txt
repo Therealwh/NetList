@@ -1,4 +1,4 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Hulu — hulu.com
-23.220.103.10/32
-23.220.103.24/32
+23.219.39.134/32
+23.219.39.140/32

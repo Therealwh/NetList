@@ -1,4 +1,4 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Akamai — akamai.com
-23.214.170.41/32
-23.214.170.56/32
+23.64.112.21/32
+23.64.112.7/32

@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Prime Video — primevideo.com
-65.8.20.101
-65.8.20.118
-65.8.20.56
-65.8.20.6
+3.170.103.120
+3.170.103.71
+3.170.103.74
+3.170.103.80

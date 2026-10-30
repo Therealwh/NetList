@@ -1,6 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # WhatsApp — wa.me
-157.240.24.60/32
+157.240.254.60/32
 
 # WhatsApp — whatsapp.com
-157.240.11.53/32
+157.240.254.60/32

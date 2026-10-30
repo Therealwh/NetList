@@ -1,6 +1,12 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Google Cloud — cloud.google.com
-2607:f8b0:4007:806::200e/128
+2607:f8b0:4001:c70::64/128
+2607:f8b0:4001:c70::66/128
+2607:f8b0:4001:c70::71/128
+2607:f8b0:4001:c70::8b/128
 
 # Google Cloud — googlecloud.com
-2607:f8b0:4007:80b::200e/128
+2607:f8b0:4001:c09::64/128
+2607:f8b0:4001:c09::66/128
+2607:f8b0:4001:c09::8a/128
+2607:f8b0:4001:c09::8b/128
