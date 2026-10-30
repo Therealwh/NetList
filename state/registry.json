@@ -4948,9 +4948,11 @@
       "name": "Zoom",
       "slug": "zoom",
       "domains": [
+        "zdmapi.zoom.us",
         "zoom.com",
         "zoom.us",
         "zoomapp.cloud",
+        "zoomonprem.com",
         "zoomstatus.com"
       ],
       "categories": [
@@ -4963,7 +4965,9 @@
         "zoom.us": 1,
         "zoom.com": 1,
         "zoomstatus.com": 1,
-        "zoomapp.cloud": 1
+        "zoomapp.cloud": 1,
+        "zdmapi.zoom.us": 1,
+        "zoomonprem.com": 1
       }
     },
     {
