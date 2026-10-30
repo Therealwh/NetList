@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "dataset": "netlist",
-  "generated_at": "2026-10-29T23:43:36+00:00",
+  "generated_at": "2026-10-30T09:01:45+00:00",
   "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
   "counts": {
     "services": 273,
     "categories": 27,
-    "domains": 507
+    "domains": 563
   },
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "id": "ai",
       "services_count": 12,
-      "domains_count": 35
+      "domains_count": 36
     },
     {
       "id": "banks_payments",
@@ -82,7 +82,7 @@
     {
       "id": "messengers",
       "services_count": 8,
-      "domains_count": 25
+      "domains_count": 33
     },
     {
       "id": "messengers_telecom",
@@ -107,7 +107,7 @@
     {
       "id": "os_security",
       "services_count": 11,
-      "domains_count": 56
+      "domains_count": 93
     },
     {
       "id": "search_ecosystems",
@@ -117,7 +117,7 @@
     {
       "id": "search_portals",
       "services_count": 9,
-      "domains_count": 42
+      "domains_count": 52
     },
     {
       "id": "social",
@@ -359,24 +359,38 @@
     {
       "name": "Apple",
       "slug": "apple",
-      "primary_domain": "apple-cloudkit.com",
+      "primary_domain": "appattest.apple.com",
       "domains": [
+        "appattest.apple.com",
         "apple-cloudkit.com",
         "apple-dns.net",
         "apple-livephotoskit.com",
         "apple-native-relay.apple.com",
         "apple.com",
+        "axm-servicediscovery.apple.com",
         "cdn-apple.com",
+        "deviceenrollment.apple.com",
+        "deviceservices-external.apple.com",
         "gc.apple.com",
+        "gdmf.apple.com",
         "icloud-content.com",
         "icloud.apple.com",
         "icloud.com",
+        "identity.apple.com",
+        "iprofiles.apple.com",
         "iwork.apple.com",
+        "mask-api.icloud.com",
+        "mask-h2.icloud.com",
+        "mask.icloud.com",
+        "mdmenrollment.apple.com",
         "metrics.icloud.com",
         "pong.icloud.com",
-        "probe.icloud.com"
+        "probe.icloud.com",
+        "push.apple.com",
+        "setup.icloud.com",
+        "vpp.itunes.apple.com"
       ],
-      "domain_count": 14,
+      "domain_count": 28,
       "categories": [
         "os_security"
       ],
@@ -686,6 +700,7 @@
       "domains": [
         "android.chat.openai.com",
         "api.openai.com",
+        "auth.chatgpt.com",
         "auth.openai.com",
         "auth0.openai.com",
         "cdn.openaimerge.com",
@@ -706,7 +721,7 @@
         "tcr9i.chat.openai.com",
         "ws.chatgpt.com"
       ],
-      "domain_count": 21,
+      "domain_count": 22,
       "categories": [
         "ai"
       ],
@@ -1555,9 +1570,14 @@
         "admin.google.com",
         "aistudio.google.com",
         "analytics.google.com",
+        "apps.google.com",
         "calendar.google.com",
+        "clients2.google.com",
+        "clients4.google.com",
+        "clients6.google.com",
         "docs.google.com",
         "doubleclick.net",
+        "fonts.gstatic.com",
         "g.co",
         "google-analytics.com",
         "google.co.uk",
@@ -1571,15 +1591,20 @@
         "googlevideo.com",
         "gstatic.com",
         "keep.google.com",
+        "lh3.googleusercontent.com",
         "mail.google.com",
         "meet.google.com",
+        "meetings.clients6.google.com",
+        "meetings.googleapis.com",
         "notebook.google.com",
         "script.google.com",
         "sheets.google.com",
         "sites.google.com",
-        "slides.google.com"
+        "slides.google.com",
+        "stream.meet.google.com",
+        "youtube.googleapis.com"
       ],
-      "domain_count": 27,
+      "domain_count": 37,
       "categories": [
         "search_portals"
       ],
@@ -2298,14 +2323,29 @@
     {
       "name": "Microsoft",
       "slug": "microsoft",
-      "primary_domain": "account.live.com",
+      "primary_domain": "account.activedirectory.windowsazure.com",
       "domains": [
+        "account.activedirectory.windowsazure.com",
         "account.live.com",
+        "adminwebservice.microsoftonline.com",
+        "api.passwordreset.microsoftonline.com",
+        "auth.microsoft.com",
+        "autologon.microsoftazuread-sso.com",
         "azureedge.net",
+        "becws.microsoftonline.com",
+        "ccs.login.microsoftonline.com",
         "cloud.microsoft",
+        "companymanager.microsoftonline.com",
+        "device.login.microsoftonline.com",
+        "enterpriseregistration.windows.net",
         "graph.microsoft.com",
         "live.com",
+        "login-us.microsoftonline.com",
+        "login.microsoft.com",
         "login.microsoftonline.com",
+        "login.windows.net",
+        "logincert.microsoftonline.com",
+        "loginex.microsoftonline.com",
         "microsoft.com",
         "microsoft365.com",
         "microsoftonline-p.com",
@@ -2315,13 +2355,21 @@
         "msauth.net",
         "msauthimages.net",
         "msftauth.net",
+        "msftauthimages.net",
+        "msftidentity.com",
         "msidentity.com",
         "office.com",
+        "office.live.com",
         "office.net",
         "office365.com",
+        "officeapps.live.com",
         "officecdn.microsoft.com",
         "onedrive.com",
+        "onenote.com",
+        "online.office.com",
         "outlook.office365.com",
+        "passwordreset.microsoftonline.com",
+        "provisioningapi.microsoftonline.com",
         "sharepoint.com",
         "sharepointonline.com",
         "static.microsoft",
@@ -2330,7 +2378,7 @@
         "windows.net",
         "windowsupdate.com"
       ],
-      "domain_count": 29,
+      "domain_count": 52,
       "categories": [
         "os_security"
       ],
@@ -3906,11 +3954,17 @@
       "primary_domain": "a.t.me",
       "domains": [
         "a.t.me",
+        "ads.telegram.org",
+        "bugs.telegram.org",
         "contest.com",
         "fragment.com",
+        "instantview.telegram.org",
         "k.t.me",
+        "oauth.telegram.org",
+        "promote.telegram.org",
         "quiz.directory",
         "stel.com",
+        "suggestions.telegram.org",
         "t.me",
         "telegra.ph",
         "telegram.dog",
@@ -3918,11 +3972,13 @@
         "telegram.org",
         "telesco.pe",
         "tg.dev",
+        "themes.telegram.org",
+        "translations.telegram.org",
         "web.t.me",
         "web.telegram.org",
         "z.t.me"
       ],
-      "domain_count": 16,
+      "domain_count": 24,
       "categories": [
         "messengers"
       ],

@@ -1,15 +1,21 @@
 # NetList collection: messengers
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 a.t.me
+ads.telegram.org
+bugs.telegram.org
 contest.com
 fragment.com
+instantview.telegram.org
 k.t.me
 line.me
 max.ru
+oauth.telegram.org
+promote.telegram.org
 quiz.directory
 signal.org
 skype.com
 stel.com
+suggestions.telegram.org
 t.me
 telegra.ph
 telegram.dog
@@ -17,6 +23,8 @@ telegram.me
 telegram.org
 telesco.pe
 tg.dev
+themes.telegram.org
+translations.telegram.org
 viber.com
 wa.me
 web.t.me

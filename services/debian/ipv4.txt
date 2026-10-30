@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Debian — deb.debian.org
-140.248.146.132
+151.101.22.132
 
 # Debian — debian.org
 151.101.130.132

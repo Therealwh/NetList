@@ -1,3 +1,3 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Apple Music — music.apple.com
-23.60.174.31/32
+184.28.2.27/32

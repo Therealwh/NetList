@@ -2,8 +2,8 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — music.apple.com
-2600:1407:e800:b80::2a1
-2600:1407:e800:b82::2a1
-2600:1407:e800:b8f::2a1
-2600:1407:e800:b91::2a1
-2600:1407:e800:b94::2a1
+2600:1409:3c00:384::2a1
+2600:1409:3c00:386::2a1
+2600:1409:3c00:388::2a1
+2600:1409:3c00:38a::2a1
+2600:1409:3c00:393::2a1

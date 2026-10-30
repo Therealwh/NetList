@@ -1,11 +1,17 @@
 # NetList seed candidates: Telegram
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 a.t.me
+ads.telegram.org
+bugs.telegram.org
 contest.com
 fragment.com
+instantview.telegram.org
 k.t.me
+oauth.telegram.org
+promote.telegram.org
 quiz.directory
 stel.com
+suggestions.telegram.org
 t.me
 telegra.ph
 telegram.dog
@@ -13,6 +19,8 @@ telegram.me
 telegram.org
 telesco.pe
 tg.dev
+themes.telegram.org
+translations.telegram.org
 web.t.me
 web.telegram.org
 z.t.me

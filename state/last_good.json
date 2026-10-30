@@ -2,7 +2,7 @@
   "counts": {
     "services": 273,
     "categories": 27,
-    "domains": 507
+    "domains": 563
   },
   "services": {
     "1337x": {
@@ -45,7 +45,7 @@
       "domain_count": 1
     },
     "apple": {
-      "domain_count": 14
+      "domain_count": 28
     },
     "apple-music": {
       "domain_count": 1
@@ -102,7 +102,7 @@
       "domain_count": 1
     },
     "chatgpt": {
-      "domain_count": 21
+      "domain_count": 22
     },
     "chestnyy-znak": {
       "domain_count": 1
@@ -246,7 +246,7 @@
       "domain_count": 1
     },
     "google": {
-      "domain_count": 27
+      "domain_count": 37
     },
     "google-cloud": {
       "domain_count": 2
@@ -378,7 +378,7 @@
       "domain_count": 1
     },
     "microsoft": {
-      "domain_count": 29
+      "domain_count": 52
     },
     "microsoft-azure": {
       "domain_count": 2
@@ -666,7 +666,7 @@
       "domain_count": 1
     },
     "telegram": {
-      "domain_count": 16
+      "domain_count": 24
     },
     "tenzor-sbis": {
       "domain_count": 2

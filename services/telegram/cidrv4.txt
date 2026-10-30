@@ -2,6 +2,12 @@
 # Telegram — a.t.me
 149.154.167.99/32
 
+# Telegram — ads.telegram.org
+149.154.167.99/32
+
+# Telegram — bugs.telegram.org
+149.154.167.99/32
+
 # Telegram — contest.com
 95.161.64.99/32
 
@@ -9,7 +15,16 @@
 104.20.26.203/32
 172.66.170.24/32
 
+# Telegram — instantview.telegram.org
+149.154.167.99/32
+
 # Telegram — k.t.me
+149.154.167.99/32
+
+# Telegram — oauth.telegram.org
+149.154.167.99/32
+
+# Telegram — promote.telegram.org
 149.154.167.99/32
 
 # Telegram — quiz.directory
@@ -17,6 +32,9 @@
 
 # Telegram — stel.com
 149.154.167.117/32
+
+# Telegram — suggestions.telegram.org
+149.154.167.99/32
 
 # Telegram — t.me
 149.154.167.99/32
@@ -37,6 +55,12 @@
 149.154.167.99/32
 
 # Telegram — tg.dev
+149.154.167.99/32
+
+# Telegram — themes.telegram.org
+149.154.167.99/32
+
+# Telegram — translations.telegram.org
 149.154.167.99/32
 
 # Telegram — web.t.me

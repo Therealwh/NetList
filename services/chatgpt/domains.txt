@@ -2,6 +2,7 @@
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 android.chat.openai.com
 api.openai.com
+auth.chatgpt.com
 auth.openai.com
 auth0.openai.com
 cdn.openaimerge.com

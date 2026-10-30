@@ -9,6 +9,9 @@
 2606:4700:7::f3
 2a06:98c1:58::f3
 
+# ChatGPT — auth.chatgpt.com
+# (no public DNS addresses found)
+
 # ChatGPT — auth.openai.com
 2606:4700:4400::6812:29f1
 2a06:98c1:310c::ac40:920f

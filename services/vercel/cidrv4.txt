@@ -1,4 +1,4 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Vercel — vercel.com
 64.239.109.1/32
-64.239.109.129/32
+64.239.109.65/32

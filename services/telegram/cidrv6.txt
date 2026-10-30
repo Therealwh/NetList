@@ -2,6 +2,12 @@
 # Telegram — a.t.me
 2001:67c:4e8:f004::9/128
 
+# Telegram — ads.telegram.org
+2001:67c:4e8:f004::9/128
+
+# Telegram — bugs.telegram.org
+2001:67c:4e8:f004::9/128
+
 # Telegram — contest.com
 2001:67c:4e8:1033:3:0:463:337/128
 2001:67c:4e8:1033:6:0:463:637/128
@@ -10,7 +16,16 @@
 2606:4700:10::6814:1acb/128
 2606:4700:10::ac42:aa18/128
 
+# Telegram — instantview.telegram.org
+2001:67c:4e8:f004::9/128
+
 # Telegram — k.t.me
+2001:67c:4e8:f004::9/128
+
+# Telegram — oauth.telegram.org
+2001:67c:4e8:f004::9/128
+
+# Telegram — promote.telegram.org
 2001:67c:4e8:f004::9/128
 
 # Telegram — quiz.directory
@@ -19,6 +34,9 @@
 # Telegram — stel.com
 2001:67c:4e8:1033:3:100:0:a/128
 2001:67c:4e8:1033:6:100:0:a/128
+
+# Telegram — suggestions.telegram.org
+2001:67c:4e8:f004::9/128
 
 # Telegram — t.me
 2001:67c:4e8:f004::9/128
@@ -40,6 +58,12 @@
 
 # Telegram — tg.dev
 # (no public DNS addresses found)
+
+# Telegram — themes.telegram.org
+2001:67c:4e8:f004::9/128
+
+# Telegram — translations.telegram.org
+2001:67c:4e8:f004::9/128
 
 # Telegram — web.t.me
 2001:67c:4e8:f004::9/128
