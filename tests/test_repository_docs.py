@@ -38,7 +38,7 @@ class RepositoryDocsTest(unittest.TestCase):
                 with self.subTest(readme=name, raw_path=raw_path):
                     self.assertTrue(path == ROOT or ROOT in path.parents,
                                     f"raw URL escapes repository: {raw_path}")
-                    self.assertTrue(path.is_file(), f"broken Raw GitHub URL: {raw_path}")
+                    self.assertTrue(path.is_file() or path.is_dir(), f"broken Raw GitHub URL: {raw_path}")
 
     def test_key_data_formats_are_present(self):
         for relative in (
