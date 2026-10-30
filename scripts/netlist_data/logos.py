@@ -40,8 +40,8 @@ MAX_SIZE = 100_000
 # this favicon on its own asset CDN. These remain local static files after discovery.
 OFFICIAL_FALLBACKS = {
     "1337x": (
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/1337X_logo.svg/320px-1337X_logo.svg.png",
-        "png", "wikimedia.org", "Public-domain simple text logo per Wikimedia Commons; trademark rights may still apply",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bb/1337X_logo.svg",
+        "svg", "wikimedia.org", "Public-domain simple text logo per Wikimedia Commons; trademark rights may still apply",
     ),
     "2gis": ("https://2gis.ru/favicon.ico", "ico", "2gis.ru", "Official 2GIS favicon"),
     "1xbet": ("https://1xbet.com/favicon.ico", "ico", "1xbet.com", "Official 1xBet favicon"),
@@ -118,6 +118,73 @@ def fetch_cdn(slug: str) -> bytes | None:
 
 
 
+def _bmp_ico_to_png(payload: bytes) -> bytes | None:
+    """Decode uncompressed 24/32-bit DIB image data from an ICO frame into PNG."""
+    if len(payload) < 40:
+        return None
+    try:
+        header_size = struct.unpack_from("<I", payload, 0)[0]
+        dib_width = struct.unpack_from("<i", payload, 4)[0]
+        dib_height = struct.unpack_from("<i", payload, 8)[0]
+        planes, bits_per_pixel = struct.unpack_from("<HH", payload, 12)
+        compression = struct.unpack_from("<I", payload, 16)[0]
+    except struct.error:
+        return None
+    if header_size < 40 or header_size > len(payload) or dib_width < 1 or dib_height == 0:
+        return None
+    if planes != 1 or bits_per_pixel not in (24, 32) or compression != 0:
+        return None
+    width = dib_width
+    height = abs(dib_height) // 2  # ICO DIB height includes the AND transparency mask.
+    if height < 1 or width > 2048 or height > 2048 or abs(dib_height) < height:
+        return None
+    row_stride = ((width * bits_per_pixel + 31) // 32) * 4
+    xor_start = header_size
+    xor_end = xor_start + row_stride * height
+    if xor_end > len(payload):
+        return None
+    mask_stride = ((width + 31) // 32) * 4
+    mask_start = xor_end
+    has_mask = mask_start + mask_stride * height <= len(payload)
+    rgba_rows: list[bytes] = []
+    alpha_values: list[int] = []
+    for y in range(height):
+        source_y = y if dib_height < 0 else height - 1 - y
+        row_start = xor_start + source_y * row_stride
+        rgba = bytearray()
+        for x in range(width):
+            off = row_start + x * (bits_per_pixel // 8)
+            blue, green, red = payload[off:off + 3]
+            alpha = payload[off + 3] if bits_per_pixel == 32 else 255
+            rgba.extend((red, green, blue, alpha))
+            alpha_values.append(alpha)
+        rgba_rows.append(bytes(rgba))
+    # Many legacy ICO frames store all-zero alpha and use the 1-bit AND mask instead.
+    use_mask = bits_per_pixel == 24 or (bits_per_pixel == 32 and not any(alpha_values))
+    if use_mask and has_mask:
+        for y in range(height):
+            source_y = y if dib_height < 0 else height - 1 - y
+            mask_row = mask_start + source_y * mask_stride
+            rgba = bytearray(rgba_rows[y])
+            for x in range(width):
+                mask_byte = payload[mask_row + (x // 8)]
+                if mask_byte & (0x80 >> (x % 8)):
+                    rgba[x * 4 + 3] = 0
+            rgba_rows[y] = bytes(rgba)
+    raw = b"".join(b"\x00" + row for row in rgba_rows)
+
+    def chunk(kind: bytes, data: bytes) -> bytes:
+        crc = zlib.crc32(kind + data) & 0xFFFFFFFF
+        return struct.pack(">I", len(data)) + kind + data + struct.pack(">I", crc)
+
+    return (
+        b"\x89PNG\r\n\x1a\n"
+        + chunk(b"IHDR", struct.pack(">IIBBBBB", width, height, 8, 6, 0, 0, 0))
+        + chunk(b"IDAT", zlib.compress(raw, 9))
+        + chunk(b"IEND", b"")
+    )
+
+
 def _png_from_ico(body: bytes) -> bytes | None:
     """Extract the largest embedded PNG from a standard ICO container."""
     if body.startswith(b"\x89PNG\r\n\x1a\n"):
@@ -141,7 +208,11 @@ def _png_from_ico(body: bytes) -> bytes | None:
             continue
         payload = body[offset:end]
         if payload.startswith(b"\x89PNG\r\n\x1a\n"):
-            entries.append((width * height, payload))
+            image = payload
+        else:
+            image = _bmp_ico_to_png(payload)
+        if image is not None:
+            entries.append((width * height, image))
     if not entries:
         return None
     return max(entries, key=lambda item: item[0])[1]
