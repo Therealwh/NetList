@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Minecraft — minecraft.net
-150.171.109.151
+150.171.109.154

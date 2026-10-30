@@ -70,56 +70,49 @@
 # Apple — mask-h2.icloud.com
 2a02:26f7:144:1:ace0:ac43::
 2a02:26f7:144:1:ace0:ac44::
+2a02:26f7:144:1:ace0:ac45::
 2a02:26f7:144:1:ace0:ac46::
-2a02:26f7:144:1:ace0:ac47::
-2a02:26f7:144:1:ace0:ac48::
-2a02:26f7:144:1:ace0:ac49::
-2a02:26f7:144:1:ace0:ac4a::
-2a02:26f7:144:1:ace0:ac4c::
-
-# Apple — mask.icloud.com
-2a02:26f7:144:1:ace0:ac43::
-2a02:26f7:144:1:ace0:ac46::
-2a02:26f7:144:1:ace0:ac47::
-2a02:26f7:144:1:ace0:ac48::
 2a02:26f7:144:1:ace0:ac49::
 2a02:26f7:144:1:ace0:ac4a::
 2a02:26f7:144:1:ace0:ac4b::
 2a02:26f7:144:1:ace0:ac4c::
+
+# Apple — mask.icloud.com
+2a02:26f7:144:1:ace0:ac43::
+2a02:26f7:144:1:ace0:ac44::
+2a02:26f7:144:1:ace0:ac47::
+2a02:26f7:144:1:ace0:ac49::
+2a02:26f7:144:1:ace0:ac4a::
+2a02:26f7:144:1:ace0:ac4b::
+2a02:26f7:144:1:ace0:ac4c::
+2a02:26f7:144:1:ace0:ac4d::
 
 # Apple — mdmenrollment.apple.com
 # (no public DNS addresses found)
 
 # Apple — metrics.icloud.com
-2620:149:a41:280::1f
-2620:149:a41:280::27
-2620:149:a41:280::37
-2620:149:a41:280::3f
-2620:149:a41:280::4:5
-2620:149:a41:280::e
+2620:149:a41:880::16
+2620:149:a41:880::1e
+2620:149:a41:880::4:3
+2620:149:a41:880::e
 
 # Apple — pong.icloud.com
-2403:300:1362:0:8::1
-2403:300:1362::4:2
+2403:300:a50:180::10
+2403:300:a50:180::18
+2403:300:a50:180::1a
+2403:300:a50:180::24
+2403:300:a50:180::4:1
+2403:300:a50:180::4:3
 
 # Apple — probe.icloud.com
-2a02:26f7:144:1:ace0:ac44::
-2a02:26f7:144:1:ace0:ac45::
-2a02:26f7:144:1:ace0:ac46::
-2a02:26f7:144:1:ace0:ac47::
-2a02:26f7:144:1:ace0:ac48::
-2a02:26f7:144:1:ace0:ac4a::
-2a02:26f7:144:1:ace0:ac4b::
-2a02:26f7:144:1:ace0:ac4c::
+2403:300:1369:0:6::1
 
 # Apple — push.apple.com
 # (no public DNS addresses found)
 
 # Apple — setup.icloud.com
 2620:149:a42:1080::13
-2620:149:a42:1080::2:1
-2620:149:a42:1080::2:2
-2620:149:a42:1080::2:3
+2620:149:a42:1080::2:4
 
 # Apple — vpp.itunes.apple.com
 # (no public DNS addresses found)

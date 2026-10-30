@@ -3,19 +3,19 @@
 # (no public DNS addresses found)
 
 # Dropbox — api-content-au.dropbox.com
-2620:100:6017:14::a27d:20e/128
+2620:100:601f:14::a27d:90e/128
 
 # Dropbox — api-content-eu.dropbox.com
 2620:100:6017:14::a27d:20e/128
 
 # Dropbox — api-content-jp.dropbox.com
-2620:100:6017:14::a27d:20e/128
+2620:100:601f:14::a27d:90e/128
 
 # Dropbox — api-content-photos.dropbox.com
 2620:100:601f:16::a27d:910/128
 
 # Dropbox — api-content-uk.dropbox.com
-2620:100:6017:14::a27d:20e/128
+2620:100:601f:14::a27d:90e/128
 
 # Dropbox — api-content.dropbox.com
 2620:100:6017:14::a27d:20e/128
@@ -33,16 +33,16 @@
 2620:100:601f:14::a27d:90e/128
 
 # Dropbox — content-eu.dropboxapi.com
-2620:100:6017:14::a27d:20e/128
+2620:100:601f:14::a27d:90e/128
 
 # Dropbox — content-jp.dropboxapi.com
-2620:100:601f:14::a27d:90e/128
-
-# Dropbox — content-uk.dropboxapi.com
 2620:100:6017:14::a27d:20e/128
 
-# Dropbox — content.dropboxapi.com
+# Dropbox — content-uk.dropboxapi.com
 2620:100:601f:14::a27d:90e/128
+
+# Dropbox — content.dropboxapi.com
+2620:100:6017:14::a27d:20e/128
 
 # Dropbox — dash.ai
 # (no public DNS addresses found)
@@ -54,7 +54,7 @@
 2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl-au.dropboxusercontent.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl-client.dropbox.com
 # (no public DNS addresses found)
@@ -66,16 +66,16 @@
 # (no public DNS addresses found)
 
 # Dropbox — dl-eu.dropbox.com
-2620:100:601f:15::a27d:90f/128
+2620:100:6017:15::a27d:20f/128
 
 # Dropbox — dl-eu.dropboxusercontent.com
 2620:100:6017:15::a27d:20f/128
 
 # Dropbox — dl-jp.dropbox.com
-2620:100:601f:15::a27d:90f/128
+2620:100:6017:15::a27d:20f/128
 
 # Dropbox — dl-jp.dropboxusercontent.com
-2620:100:601f:15::a27d:90f/128
+2620:100:6017:15::a27d:20f/128
 
 # Dropbox — dl-uk.dropbox.com
 2620:100:601f:15::a27d:90f/128
@@ -87,7 +87,7 @@
 2620:100:6017:15::a27d:20f/128
 
 # Dropbox — dl-web-eu.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl-web-jp.dropbox.com
 2620:100:6017:15::a27d:20f/128
@@ -102,7 +102,7 @@
 2620:100:601f:15::a27d:90f/128
 
 # Dropbox — dl.dropboxusercontent.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — docsend.com
 # (no public DNS addresses found)
@@ -165,7 +165,7 @@
 2620:100:6017:15::a27d:20f/128
 
 # Dropbox — files-jp.dropbox.com
-2620:100:6017:15::a27d:20f/128
+2620:100:601f:15::a27d:90f/128
 
 # Dropbox — files-uk.dropbox.com
 2620:100:601f:15::a27d:90f/128

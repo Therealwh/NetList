@@ -1,9 +1,9 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # YouTube — youtu.be
-142.251.215.78/32
-
-# YouTube — youtube-nocookie.com
 142.251.210.142/32
 
+# YouTube — youtube-nocookie.com
+142.251.214.110/32
+
 # YouTube — youtube.com
-142.251.215.206/32
+142.251.218.14/32
