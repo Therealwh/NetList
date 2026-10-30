@@ -2,7 +2,12 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Android — android.com
-142.251.219.164
+142.250.125.103
+142.250.125.104
+142.250.125.105
+142.250.125.106
+142.250.125.147
+142.250.125.99
 
 # Android — android.googleapis.com
 172.217.112.4

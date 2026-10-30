@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Ubisoft — ubisoft.com
-18.244.214.10
-18.244.214.47
-18.244.214.54
-18.244.214.70
+143.204.204.105
+143.204.204.120
+143.204.204.60
+143.204.204.7

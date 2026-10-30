@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Netlify — netlify.com
-2600:1f1c:446:4900::1f5
-2600:1f1c:446:4900::1f6
+2600:1f16:1a4:a001::1f5
+2600:1f16:1a4:a001::1f6

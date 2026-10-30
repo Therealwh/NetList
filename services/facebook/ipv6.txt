@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Facebook — facebook.com
-2a03:2880:f381:1:face:b00c:0:25de
+2a03:2880:f373:1:face:b00c:0:25de

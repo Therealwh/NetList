@@ -1,6 +1,6 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # WhatsApp — wa.me
-2a03:2880:f381:120:face:b00c:0:167/128
+2a03:2880:f31d:120:face:b00c:0:167/128
 
 # WhatsApp — whatsapp.com
-2a03:2880:f31e:120:face:b00c:0:167/128
+2a03:2880:f275:1c7:face:b00c:0:167/128
