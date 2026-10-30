@@ -8,11 +8,11 @@ from pathlib import Path
 ALLOWED_TOP_LEVEL = {
     "services", "common", "collections", "sources", "schemas",
     "scripts", "tests", "state", "assets", ".github", ".gitignore", ".gitattributes",
-    "README_RU.md", "catalog.json",
+    "README.md", "README_EN.md", "README_RU.md", "catalog.json",
 }
 FORBIDDEN_RE = re.compile(
-    r"\.(php|html?|css|js|mjs|env|sqlite3?|db|bak|log|exe|dll)$"
-    r"|(^|/)(vendor|node_modules|templates?|public|var|logs?|backups?)(/|$)"
+    r"\.(php|html?|css|js|mjs|cjs|ts|tsx|jsx|env|sqlite3?|db|bak|backup|log|exe|dll|zip|tar|gz|7z|pem|key|p12|pfx)$"
+    r"|(^|/)(vendor|node_modules|templates?|public|var|logs?|backups?|storage|database)(/|$)"
     r"|(^|/)\.env"
     r"|(^|/)(prompts?|agent-private|\.agent|\.prompts?)(/|$)"
     r"|(^|/)[^/]*(prompt|reasoning|agent[-_]?notes|worklog)[^/]*\.(md|txt|json|ya?ml)$",
