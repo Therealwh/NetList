@@ -8,7 +8,7 @@ from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]+\]\(([^)\s]+)(?:\s+[^)]*)?\)")
-RAW_URL = re.compile(r"https://raw\\.githubusercontent\\.com/Therealwh/NetList/main/([A-Za-z0-9_./-]+)")
+RAW_URL = re.compile(r"https://raw\.githubusercontent\.com/Therealwh/NetList/main/([A-Za-z0-9_./-]+)")
 
 
 class RepositoryDocsTest(unittest.TestCase):
