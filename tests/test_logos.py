@@ -59,7 +59,7 @@ class IcoFallbackTest(unittest.TestCase):
         )
         png = logos._png_from_ico(ico)
         self.assertIsNotNone(png)
-        self.assertTrue(png.startswith(b"\x89PNG\\r\\n\x1a\\n"))
+        self.assertTrue(png.startswith(b"\x89PNG\r\n\x1a\n"))
         svg = logos._png_as_svg(png)
         self.assertIn(b'viewBox="0 0 1 1"', svg)
 
