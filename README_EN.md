@@ -21,13 +21,43 @@
 
 ## What is NetList?
 
-NetList is a public repository of structured network data. It contains domains and DNS-derived IP snapshots grouped by service and topic. Files are published as UTF-8 TXT lists, with catalog metadata in JSON. They can be used as input for network rules, routing, DNS filtering and custom automation.
+NetList is the public data-source repository for the [netlist.pro](https://netlist.pro) website. It collects, normalizes, validates, regularly updates and publishes domains and DNS-derived IP snapshots grouped by service and topic. The website uses this data as the foundation for a convenient list builder: users select services or categories, assemble their own domain and IP/CIDR sets, and download them for router, VPN-client or policy-based routing configuration. This repository provides the source data for those choices; it is not a prebuilt configuration for one specific VPN product.
 
 **NetList is not a universal ready-to-use blocklist.** Entries are candidates for technical configuration. Review which hosts and addresses are actually needed for your use case before applying them.
 
+## Using NetList for VPN and policy-based routing
+
+The same domain and IP list can be used in **opposite ways**. The result depends not on the NetList file itself, but on how routing rules are configured in a router or VPN application. The website makes it convenient to select services and build a list for your particular setup.
+
+### 1. Route selected resources through a VPN or WireGuard
+
+In this mode, the list means **"send these addresses through the VPN"**. Add domains and IP addresses of resources that should be reached through the VPN tunnel, for example websites and services that are blocked or unavailable on your direct connection.
+
+**Example:** in your router setup with WG 3.1, you may need to enter blocked domains and IP addresses so that traffic to those resources goes through WireGuard, while other traffic keeps using the normal route. Select the required services on the NetList website, build your list, and use it in the router's corresponding routing rules, provided that your firmware supports the required import format.
+
+### 2. Route selected resources directly, bypassing the VPN
+
+The opposite mode means **"do not send these addresses through the VPN"**. These rules are often called *bypass*, *direct* or *VPN exclusions*. The list may contain Russian, local or other resources that should use your regular internet provider connection instead of the VPN tunnel.
+
+**Example:** a user routes all internet traffic through a VPN by default but wants Russian websites, banks or local services to open directly. They select the required resources on NetList and apply the resulting list as VPN exclusions.
+
+### The routing action is your choice
+
+| Your goal | Meaning of the list in your configuration |
+|---|---|
+| Blocked or directly inaccessible resources should use the VPN | Route selected domains and IP addresses **through the VPN** |
+| Russian or local resources should use your ISP connection | Route selected domains and IP addresses **directly, bypassing the VPN** |
+| You need both scenarios | Build and use **two separate lists** with different routing actions |
+
+NetList deliberately does not assign a universal label such as "must use VPN" or "must bypass VPN" to every domain. One user may route a particular website through a tunnel, while another may exclude that same website from the tunnel. The right choice depends on the country, ISP, current availability of the resource, router configuration and personal preferences.
+
+A category in NetList describes **which service or topic a resource belongs to**; it does not tell your router where to route it. For example, a domain appearing in the "Social networks" category does not automatically mean it should go through a VPN or bypass one.
+
+On [netlist.pro](https://netlist.pro), users can browse the shared catalog, select individual services and categories, and assemble a dataset for their own setup. Separate files are available when a device needs not only domains but also IP addresses or CIDR entries. Supported formats, import methods and rule names depend on the specific firmware and application.
+
 ### NetList and routers
 
-NetList can be used as a source of domain and IP/CIDR data when configuring routers and network-routing rules, provided the firmware and tooling support the relevant input format. The project owner also supplied this [4PDA router discussion (topic 1123087)](https://4pda.to/forum/index.php?showtopic=1123087). Check firmware compatibility, rule syntax and safe import size independently.
+NetList can be used as a source of domain and IP/CIDR data for both 'route through VPN' and 'route directly, bypassing VPN' rules. The user chooses the routing action for selected addresses in their router or VPN client. The project owner also supplied this [4PDA router discussion (topic 1123087)](https://4pda.to/forum/index.php?showtopic=1123087). Check firmware compatibility, rule syntax and safe import size independently.
 
 ## Available data types
 
