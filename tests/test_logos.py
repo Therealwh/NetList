@@ -101,6 +101,37 @@ class DiscoverTest(unittest.TestCase):
             self.assertEqual(len(manifest["pending"]), 1)
             self.assertEqual(logos.check(root), [])
 
+    def test_official_fallbacks_are_saved_with_explicit_source(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "catalog.json").write_text(json.dumps({"services": [
+                {"slug": "slack", "name": "Slack", "primary_domain": "slack.com"},
+                {"slug": "canva", "name": "Canva", "primary_domain": "canva.com"},
+            ]}), encoding="utf-8")
+            folder = logos.logos_dir(root)
+            folder.mkdir(parents=True)
+            (folder / "sources.json").write_text(json.dumps({
+                "slack": {"candidates": ["slack"], "source": "simple-icons", "license": "CC0"},
+                "canva": {"candidates": ["canva"], "source": "simple-icons", "license": "CC0"},
+            }), encoding="utf-8")
+            original_cdn = logos.fetch_cdn
+            original_fallback = logos.fetch_official_fallback
+            logos.fetch_cdn = lambda _slug: None
+            logos.fetch_official_fallback = lambda slug: (
+                VALID_SVG, "official-test", "test brand guidance"
+            ) if slug in {"slack", "canva"} else None
+            try:
+                result = logos.build(root, discover=True)
+            finally:
+                logos.fetch_cdn = original_cdn
+                logos.fetch_official_fallback = original_fallback
+            self.assertEqual(set(result["added"]), {"slack", "canva"})
+            manifest = json.loads((folder / "manifest.json").read_text(encoding="utf-8"))
+            self.assertEqual(manifest["logos"]["slack"]["source"], "official-test")
+            self.assertEqual(manifest["logos"]["canva"]["license"], "test brand guidance")
+            self.assertEqual(manifest["pending"], [])
+            self.assertEqual(logos.check(root), [])
+
 
 if __name__ == "__main__":
     unittest.main()
