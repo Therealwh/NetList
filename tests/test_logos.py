@@ -38,8 +38,8 @@ class ValidateSvgTest(unittest.TestCase):
 class IcoFallbackTest(unittest.TestCase):
     def test_extracts_largest_embedded_png_from_ico(self):
         import struct
-        small = b"\\x89PNG\\r\\n\\x1a\\n" + b"\\0" * 16
-        large = b"\\x89PNG\\r\\n\\x1a\\n" + b"\\0" * 16
+        small = b"\x89PNG\r\n\\x1a\n" + b"\0" * 16
+        large = b"\x89PNG\r\n\\x1a\n" + b"\0" * 16
         header = struct.pack("<HHH", 0, 1, 2)
         first_entry = struct.pack("<BBBBHHII", 16, 16, 0, 0, 1, 32, len(small), 38)
         second_entry = struct.pack("<BBBBHHII", 32, 32, 0, 0, 1, 32, len(large), 38 + len(small))
@@ -48,12 +48,12 @@ class IcoFallbackTest(unittest.TestCase):
 
     def test_rejects_invalid_ico_and_non_png_image(self):
         self.assertIsNone(logos._png_from_ico(b"not an ico"))
-        bmp_payload = b"\\x00\\x00\\x01\\x00\\x01\\x00" + b"\\0" * 16
+        bmp_payload = b"\\x00\\x00\\x01\\x00\\x01\\x00" + b"\0" * 16
         self.assertIsNone(logos._png_from_ico(bmp_payload))
 
     def test_png_wrapper_preserves_intrinsic_aspect_ratio(self):
         import struct
-        png = b"\\x89PNG\\r\\n\\x1a\\n" + b"\\0" * 8 + struct.pack(">II", 64, 32) + b"payload"
+        png = b"\x89PNG\r\n\\x1a\n" + b"\0" * 8 + struct.pack(">II", 64, 32) + b"payload"
         svg = logos._png_as_svg(png)
         self.assertIsNotNone(svg)
         self.assertIn(b'viewBox="0 0 64 32"', svg)
