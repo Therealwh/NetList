@@ -461,7 +461,7 @@ def check(repo_root: Path) -> list[str]:
             color_logos = {}
         for sid, entry in color_logos.items():
             file_name = str(entry.get("file", ""))
-            if not re.fullmatch(r"[a-z0-9][a-z0-9-]{0,60}\\.(?:png|ico)", file_name):
+            if not re.fullmatch(r"[a-z0-9][a-z0-9-]{0,60}\.(?:png|ico)", file_name):
                 problems.append(f"color/{sid}: недопустимое имя файла {file_name!r}")
                 continue
             if file_name.rsplit(".", 1)[0] != sid:
@@ -475,9 +475,9 @@ def check(repo_root: Path) -> list[str]:
             if not body or len(body) > 300_000:
                 problems.append(f"color/{sid}: пустой или слишком большой файл ({len(body)} bytes)")
                 continue
-            if file_name.endswith(".png") and not body.startswith(b"\\x89PNG\\r\\n\\x1a\\n"):
+            if file_name.endswith(".png") and not body.startswith(b"\x89PNG\r\n\x1a\n"):
                 problems.append(f"color/{sid}: PNG signature не совпадает с расширением")
-            if file_name.endswith(".ico") and not (len(body) >= 6 and body[:4] == b"\\x00\\x00\\x01\\x00"):
+            if file_name.endswith(".ico") and not (len(body) >= 6 and body[:4] == b"\x00\x00\x01\x00"):
                 problems.append(f"color/{sid}: ICO signature не совпадает с расширением")
             if entry.get("source_repository") != "rekryt/iplist" or entry.get("source_license") != "MIT":
                 problems.append(f"color/{sid}: отсутствует корректная атрибуция источника MIT")
