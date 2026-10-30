@@ -2,10 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Gemini — ai.google.dev
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::8a
+2607:f8b0:4007:806::200e
 
 # Gemini — gemini.google.com
 2001:4860:4826:200::

@@ -1,4 +1,4 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Stripe — stripe.com
-198.137.150.41/32
-198.202.176.41/32
+198.137.150.111/32
+198.202.176.111/32

@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # WhatsApp — wa.me
-57.144.231.32
+157.240.22.53
 
 # WhatsApp — whatsapp.com
-57.144.231.32
+157.240.22.53

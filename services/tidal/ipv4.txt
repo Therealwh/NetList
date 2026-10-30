@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Tidal — tidal.com
-108.159.227.118
-108.159.227.15
-108.159.227.57
-108.159.227.67
+52.85.132.36
+52.85.132.57
+52.85.132.75
+52.85.132.96

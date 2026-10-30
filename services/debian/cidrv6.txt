@@ -1,6 +1,6 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Debian — deb.debian.org
-2a04:4e42:94::644/128
+2a04:4e42:87::644/128
 
 # Debian — debian.org
 2a04:4e42:200::644/128

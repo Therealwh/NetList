@@ -2,19 +2,13 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Google — accounts.google.com
-2607:f8b0:4001:c62::54
+2607:f8b0:4023:c03::54
 
 # Google — admin.google.com
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8a
-2607:f8b0:4001:c08::8b
+2607:f8b0:4007:817::200e
 
 # Google — aistudio.google.com
-2607:f8b0:4001:c79::65
-2607:f8b0:4001:c79::66
-2607:f8b0:4001:c79::8a
-2607:f8b0:4001:c79::8b
+2607:f8b0:4007:80d::200e
 
 # Google — analytics.google.com
 2001:4860:4802:32::181
@@ -23,107 +17,64 @@
 2001:4860:4802:38::181
 
 # Google — apps.google.com
-2607:f8b0:4001:c19::65
-2607:f8b0:4001:c19::66
-2607:f8b0:4001:c19::71
-2607:f8b0:4001:c19::8a
+2607:f8b0:4007:806::200e
 
 # Google — calendar.google.com
-2607:f8b0:4001:c0e::64
-2607:f8b0:4001:c0e::65
-2607:f8b0:4001:c0e::71
-2607:f8b0:4001:c0e::8a
+2607:f8b0:4007:806::200e
 
 # Google — clients2.google.com
-2607:f8b0:4001:c06::65
-2607:f8b0:4001:c06::66
-2607:f8b0:4001:c06::71
-2607:f8b0:4001:c06::8a
+2607:f8b0:4007:808::200e
 
 # Google — clients4.google.com
-2607:f8b0:4001:c7d::64
-2607:f8b0:4001:c7d::65
-2607:f8b0:4001:c7d::8a
-2607:f8b0:4001:c7d::8b
+2607:f8b0:4007:807::200e
 
 # Google — clients6.google.com
-2607:f8b0:4001:c70::66
-2607:f8b0:4001:c70::71
-2607:f8b0:4001:c70::8a
-2607:f8b0:4001:c70::8b
+2607:f8b0:4007:806::200e
 
 # Google — docs.google.com
-2607:f8b0:4001:c79::64
-2607:f8b0:4001:c79::66
-2607:f8b0:4001:c79::8a
-2607:f8b0:4001:c79::8b
+2607:f8b0:4007:80d::200e
 
 # Google — doubleclick.net
-2607:f8b0:4001:c09::64
-2607:f8b0:4001:c09::71
-2607:f8b0:4001:c09::8a
-2607:f8b0:4001:c09::8b
+2607:f8b0:4007:805::200e
 
 # Google — fonts.gstatic.com
-2607:f8b0:4001:c70::5e
+2607:f8b0:4007:803::2003
 
 # Google — g.co
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8b
+2607:f8b0:4007:817::200e
 
 # Google — google-analytics.com
-2607:f8b0:4001:c08::63
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::69
-2607:f8b0:4001:c08::6a
+2607:f8b0:4007:806::2004
 
 # Google — google.co.uk
-2607:f8b0:4001:c62::5e
+2607:f8b0:4007:80b::2003
 
 # Google — google.com
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8a
+2607:f8b0:4007:812::200e
 
 # Google — googleadservices.com
 # (no public DNS addresses found)
 
 # Google — googleapis.com
-2607:f8b0:4001:c76::63
-2607:f8b0:4001:c76::68
-2607:f8b0:4001:c76::6a
-2607:f8b0:4001:c76::93
+2607:f8b0:4007:807::2004
 
 # Google — googlemail.com
-2607:f8b0:4001:c05::11
-2607:f8b0:4001:c05::12
-2607:f8b0:4001:c05::13
-2607:f8b0:4001:c05::53
+2607:f8b0:4007:807::2005
 
 # Google — googlesyndication.com
-2607:f8b0:4001:c1e::63
-2607:f8b0:4001:c1e::67
-2607:f8b0:4001:c1e::69
-2607:f8b0:4001:c1e::93
+2607:f8b0:4007:80b::2004
 
 # Google — googletagmanager.com
-2607:f8b0:4001:c00::61
+2607:f8b0:4007:805::2008
 
 # Google — googleusercontent.com
-2607:f8b0:4001:c16::84
+2607:f8b0:4007:80b::2001
 
 # Google — googlevideo.com
-2607:f8b0:4001:c01::68
-2607:f8b0:4001:c01::69
-2607:f8b0:4001:c01::6a
-2607:f8b0:4001:c01::93
+2607:f8b0:4007:808::2004
 
 # Google — gstatic.com
-2607:f8b0:4001:c6a::5e
-2607:f8b0:4001:c6a::78
+2607:f8b0:4007:80b::2003
 
 # Google — keep.google.com
 2001:4860:4826:b000::
@@ -136,13 +87,10 @@
 2001:4860:482d:b000::
 
 # Google — lh3.googleusercontent.com
-2607:f8b0:4001:c70::84
+2607:f8b0:4007:812::2001
 
 # Google — mail.google.com
-2607:f8b0:4001:c09::11
-2607:f8b0:4001:c09::12
-2607:f8b0:4001:c09::13
-2607:f8b0:4001:c09::53
+2607:f8b0:4007:808::2005
 
 # Google — meet.google.com
 2001:4860:4826:500::
@@ -155,7 +103,7 @@
 2001:4860:482d:500::
 
 # Google — meetings.clients6.google.com
-2607:f8b0:4001:c62::5f
+2607:f8b0:4007:813::200a
 
 # Google — meetings.googleapis.com
 2001:4860:4840:400::
@@ -168,40 +116,22 @@
 2001:4860:4847:400::
 
 # Google — notebook.google.com
-2607:f8b0:4001:c7b::64
-2607:f8b0:4001:c7b::66
-2607:f8b0:4001:c7b::71
-2607:f8b0:4001:c7b::8a
+2607:f8b0:4007:806::200e
 
 # Google — script.google.com
-2607:f8b0:4001:c62::64
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::8a
-2607:f8b0:4001:c62::8b
+2607:f8b0:4007:80b::200e
 
 # Google — sheets.google.com
-2607:f8b0:4001:c62::65
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::71
-2607:f8b0:4001:c62::8b
+2607:f8b0:4007:80b::200e
 
 # Google — sites.google.com
-2607:f8b0:4001:c72::64
-2607:f8b0:4001:c72::65
-2607:f8b0:4001:c72::66
-2607:f8b0:4001:c72::8a
+2607:f8b0:4007:80b::200e
 
 # Google — slides.google.com
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::66
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8b
+2607:f8b0:4007:80b::200e
 
 # Google — stream.meet.google.com
-2607:f8b0:4001:c6a::65
-2607:f8b0:4001:c6a::66
-2607:f8b0:4001:c6a::71
-2607:f8b0:4001:c6a::8a
+2607:f8b0:4007:813::200e
 
 # Google — youtube.googleapis.com
 2001:4860:4840:400::

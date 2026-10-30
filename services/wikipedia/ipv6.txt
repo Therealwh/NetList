@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Wikipedia — wikipedia.org
-2620:0:860:ed1a::1
+2620:0:863:ed1a::1

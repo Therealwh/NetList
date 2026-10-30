@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Vercel — vercel.com
-64.239.109.1
-64.239.123.65
+64.239.109.193
+64.239.123.129

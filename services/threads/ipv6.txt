@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Threads — threads.net
-2a03:2880:f373:c0:face:b00c:0:43fe
+2a03:2880:f231:c5:face:b00c:0:43fe

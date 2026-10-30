@@ -1,5 +1,5 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Binance — binance.com
-13.197.39.164/32
-52.69.222.148/32
-57.180.144.87/32
+13.230.56.252/32
+35.77.180.16/32
+52.193.67.40/32
