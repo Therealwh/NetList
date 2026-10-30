@@ -939,9 +939,11 @@
           "name": "Zoom",
           "slug": "zoom",
           "domains": [
+            "zdmapi.zoom.us",
             "zoom.com",
             "zoom.us",
             "zoomapp.cloud",
+            "zoomonprem.com",
             "zoomstatus.com"
           ]
         },
