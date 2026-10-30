@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # DuckDuckGo — duckduckgo.com
-52.149.246.39
+40.89.244.232

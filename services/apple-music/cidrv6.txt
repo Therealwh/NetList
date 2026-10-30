@@ -1,3 +1,7 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Apple Music — music.apple.com
-2a04:4e42:95::774/128
+2600:1407:e800:b80::2a1/128
+2600:1407:e800:b85::2a1/128
+2600:1407:e800:b8c::2a1/128
+2600:1407:e800:b92::2a1/128
+2600:1407:e800:b95::2a1/128

@@ -21,6 +21,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "aif": {
+    "candidates": [
+      "aif"
+    ],
+    "license": "Official AiF favicon",
+    "source": "aif.ru"
+  },
   "akamai": {
     "candidates": [
       "akamai"
@@ -37,11 +44,10 @@
   },
   "amazon": {
     "candidates": [
-      "amazon",
-      "amazonprime"
+      "amazon"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Amazon favicon",
+    "source": "amazon.com"
   },
   "amazon-music": {
     "candidates": [
@@ -91,17 +97,15 @@
     "candidates": [
       "avito"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Avito favicon",
+    "source": "avito.ru"
   },
   "aws": {
     "candidates": [
-      "amazonwebservices",
-      "amazonaws",
       "aws"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official AWS favicon",
+    "source": "amazon.com"
   },
   "baidu": {
     "candidates": [

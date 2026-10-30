@@ -2,10 +2,10 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Android — android.com
-2607:f8b0:4004:c07::63
-2607:f8b0:4004:c07::67
-2607:f8b0:4004:c07::68
-2607:f8b0:4004:c07::93
+2607:f8b0:4001:c6a::67
+2607:f8b0:4001:c6a::68
+2607:f8b0:4001:c6a::6a
+2607:f8b0:4001:c6a::93
 
 # Android — android.googleapis.com
 2001:4860:4840:400::
