@@ -46,6 +46,23 @@ class IcoFallbackTest(unittest.TestCase):
         ico = header + first_entry + second_entry + small + large
         self.assertEqual(logos._png_from_ico(ico), large)
 
+    def test_decodes_bmp_frame_from_ico(self):
+        import struct
+        dib = struct.pack("<IiiHHIIiiII", 40, 1, 2, 1, 24, 0, 0, 0, 0, 0, 0)
+        xor_row = bytes([0x20, 0x80, 0xF0, 0])
+        and_mask = b"\0" * 4
+        frame = dib + xor_row + and_mask
+        ico = (
+            struct.pack("<HHH", 0, 1, 1)
+            + struct.pack("<BBBBHHII", 1, 1, 0, 0, 1, 24, len(frame), 22)
+            + frame
+        )
+        png = logos._png_from_ico(ico)
+        self.assertIsNotNone(png)
+        self.assertTrue(png.startswith(b"\x89PNG\r\n\x1a\n"))
+        svg = logos._png_as_svg(png)
+        self.assertIn(b'viewBox="0 0 1 1"', svg)
+
     def test_rejects_invalid_ico_and_non_png_image(self):
         self.assertIsNone(logos._png_from_ico(b"not an ico"))
         bmp_payload = b"\x00\x00\x01\x00\x01\x00" + b"\0" * 16
