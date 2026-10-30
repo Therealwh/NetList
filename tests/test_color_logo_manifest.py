@@ -21,10 +21,10 @@ class ColorLogoManifestTest(unittest.TestCase):
                 self.assertGreater(len(body), 0)
                 self.assertLessEqual(len(body), 300_000)
                 if entry["format"] == "png":
-                    self.assertTrue(body.startswith(b"\\x89PNG\\r\\n\\x1a\\n"))
+                    self.assertTrue(body.startswith(b"\x89PNG\r\n\x1a\n"))
                 elif entry["format"] == "ico":
                     self.assertGreaterEqual(len(body), 6)
-                    self.assertEqual(body[:4], b"\\x00\\x00\\x01\\x00")
+                    self.assertEqual(body[:4], b"\x00\x00\x01\x00")
                 else:
                     self.fail(f"unsupported icon format: {entry['format']}")
                 self.assertEqual(path.name.rsplit(".", 1)[0], slug)
