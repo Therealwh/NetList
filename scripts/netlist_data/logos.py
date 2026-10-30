@@ -19,6 +19,7 @@ import base64
 import hashlib
 import json
 import re
+import struct
 import sys
 import urllib.request
 from datetime import datetime, timezone
@@ -38,6 +39,19 @@ MAX_SIZE = 100_000
 # Canva documents this SVG as its icon resource (Simple Icons issue #14839); Slack hosts
 # this favicon on its own asset CDN. These remain local static files after discovery.
 OFFICIAL_FALLBACKS = {
+    "1337x": (
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/1337X_logo.svg/320px-1337X_logo.svg.png",
+        "png", "wikimedia.org", "Public-domain simple text logo per Wikimedia Commons; trademark rights may still apply",
+    ),
+    "2gis": ("https://2gis.ru/favicon.ico", "ico", "2gis.ru", "Official 2GIS favicon"),
+    "1xbet": ("https://1xbet.com/favicon.ico", "ico", "1xbet.com", "Official 1xBet favicon"),
+    "aif": ("https://aif.ru/favicon.ico", "ico", "aif.ru", "Official AiF favicon"),
+    "alfa-bank": ("https://alfabank.ru/favicon.ico", "ico", "alfabank.ru", "Official Alfa-Bank favicon"),
+    "avito": ("https://www.avito.ru/favicon.ico", "ico", "avito.ru", "Official Avito favicon"),
+    "amazon": ("https://www.amazon.com/favicon.ico", "ico", "amazon.com", "Official Amazon favicon"),
+    "amazon-music": ("https://music.amazon.com/favicon.ico", "ico", "amazon.com", "Official Amazon Music favicon"),
+    "aws": ("https://aws.amazon.com/favicon.ico", "ico", "amazon.com", "Official AWS favicon"),
+    "microsoft": ("https://www.microsoft.com/favicon.ico", "ico", "microsoft.com", "Official Microsoft favicon"),
     "canva": (
         "https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg",
         "svg", "canva.com", "Official Canva asset; follow Canva brand guidelines",
@@ -104,6 +118,53 @@ def fetch_cdn(slug: str) -> bytes | None:
 
 
 
+def _png_from_ico(body: bytes) -> bytes | None:
+    """Extract the largest embedded PNG from a standard ICO container."""
+    if body.startswith(b"\x89PNG\r\n\x1a\n"):
+        return body
+    if len(body) < 6:
+        return None
+    reserved, icon_type, count = struct.unpack_from("<HHH", body, 0)
+    if reserved != 0 or icon_type != 1 or count < 1 or count > 256:
+        return None
+    entries = []
+    table_end = 6 + count * 16
+    if table_end > len(body):
+        return None
+    for i in range(count):
+        off = 6 + i * 16
+        width, height, _colors, _reserved, _planes, _bpp, size, offset = struct.unpack_from("<BBBBHHII", body, off)
+        width = width or 256
+        height = height or 256
+        end = offset + size
+        if size < 8 or offset < table_end or end > len(body):
+            continue
+        payload = body[offset:end]
+        if payload.startswith(b"\x89PNG\r\n\x1a\n"):
+            entries.append((width * height, payload))
+    if not entries:
+        return None
+    return max(entries, key=lambda item: item[0])[1]
+
+
+def _png_as_svg(body: bytes) -> bytes | None:
+    """Wrap a verified PNG as a self-contained SVG while preserving its aspect ratio."""
+    if not body.startswith(b"\x89PNG\r\n\x1a\n") or len(body) < 24:
+        return None
+    try:
+        width, height = struct.unpack_from(">II", body, 16)
+    except struct.error:
+        return None
+    if width < 1 or height < 1 or width > 2048 or height > 2048:
+        return None
+    encoded = base64.b64encode(body).decode("ascii")
+    return (
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" preserveAspectRatio="xMidYMid meet">'
+        f'<image width="{width}" height="{height}" href="data:image/png;base64,{encoded}"/>'
+        '</svg>'
+    ).encode("utf-8")
+
+
 def fetch_official_fallback(service_slug: str) -> tuple[bytes, str, str] | None:
     """Fetch only exact allowlisted first-party marks and cache them as safe local SVGs."""
     entry = OFFICIAL_FALLBACKS.get(service_slug)
@@ -123,17 +184,15 @@ def fetch_official_fallback(service_slug: str) -> tuple[bytes, str, str] | None:
         return None
     if not body or len(body) > MAX_SIZE:
         return None
-    if file_kind == "png":
-        # Keep the public-domain/official favicon local and wrap it in a self-contained SVG.
-        # Only accept a real PNG signature; no arbitrary HTML/error page can become a logo.
-        if not body.startswith(b"\x89PNG\r\n\x1a\n"):
+    if file_kind in {"png", "ico"}:
+        if file_kind == "ico":
+            body = _png_from_ico(body) or b""
+        # Only embed a PNG payload; an HTML error page or arbitrary icon binary is rejected.
+        if not body:
             return None
-        encoded = base64.b64encode(body).decode("ascii")
-        body = (
-            '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
-            f'<image width="32" height="32" href="data:image/png;base64,{encoded}"/>'
-            '</svg>'
-        ).encode("utf-8")
+        body = _png_as_svg(body)
+        if body is None:
+            return None
     valid, _reason = validate_svg(body)
     if not valid:
         return None
