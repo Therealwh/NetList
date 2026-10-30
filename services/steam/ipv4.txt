@@ -2,10 +2,10 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Steam — steamcommunity.com
-23.0.192.245
+23.34.124.241
 
 # Steam — steampowered.com
-23.54.38.48
+2.23.136.4
 
 # Steam — steamstatic.com
 # (no public DNS addresses found)

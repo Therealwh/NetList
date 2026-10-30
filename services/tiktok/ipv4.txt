@@ -2,8 +2,8 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # TikTok — tiktok.com
-23.216.147.194
-23.216.147.195
-23.216.147.199
-23.216.147.205
-23.216.147.209
+23.212.251.70
+23.212.251.72
+23.212.251.73
+23.212.251.78
+23.212.251.86

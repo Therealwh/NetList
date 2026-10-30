@@ -1,9 +1,18 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # YouTube — youtu.be
-2607:f8b0:400a:80d::200e/128
+2607:f8b0:4004:c2d::5b/128
+2607:f8b0:4004:c2d::5d/128
+2607:f8b0:4004:c2d::88/128
+2607:f8b0:4004:c2d::be/128
 
 # YouTube — youtube-nocookie.com
-2607:f8b0:400a:80c::200e/128
+2607:f8b0:4004:c0b::5b/128
+2607:f8b0:4004:c0b::5d/128
+2607:f8b0:4004:c0b::88/128
+2607:f8b0:4004:c0b::be/128
 
 # YouTube — youtube.com
-2607:f8b0:400a:801::200e/128
+2607:f8b0:4004:c27::5b/128
+2607:f8b0:4004:c27::5d/128
+2607:f8b0:4004:c27::88/128
+2607:f8b0:4004:c27::be/128

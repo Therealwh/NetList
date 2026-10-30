@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # JetBrains — jetbrains.com
-3.169.173.12
-3.169.173.39
-3.169.173.61
-3.169.173.81
+108.138.64.122
+108.138.64.30
+108.138.64.70
+108.138.64.89

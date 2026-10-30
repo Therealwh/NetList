@@ -1,3 +1,6 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Google Drive — drive.google.com
-2607:f8b0:400a:809::200e/128
+2607:f8b0:4004:c1d::64/128
+2607:f8b0:4004:c1d::66/128
+2607:f8b0:4004:c1d::8a/128
+2607:f8b0:4004:c1d::8b/128

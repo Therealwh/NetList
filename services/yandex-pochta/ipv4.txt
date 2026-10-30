@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Яндекс Почта — mail.yandex.ru
-# (no public DNS addresses found)
+77.88.21.37

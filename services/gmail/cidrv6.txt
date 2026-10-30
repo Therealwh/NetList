@@ -1,3 +1,6 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Gmail — gmail.com
-2607:f8b0:400a:803::2005/128
+2607:f8b0:4004:c09::11/128
+2607:f8b0:4004:c09::12/128
+2607:f8b0:4004:c09::13/128
+2607:f8b0:4004:c09::53/128
