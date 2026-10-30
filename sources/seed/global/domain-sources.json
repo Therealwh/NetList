@@ -92,6 +92,42 @@
         "youtube.googleapis.com"
       ],
       "scope": "Google Meet and Workspace connectivity hostnames."
+    },
+    {
+      "service": "Figma",
+      "url": "https://help.figma.com/hc/en-us/articles/19424714305943-Adjust-your-network-settings",
+      "added_domains": [],
+      "validated_existing": [
+        "figma.com",
+        "figma.site",
+        "figma.app",
+        "figmaweave.com",
+        "makeproxy-c.figma.site",
+        "makeproxy-m.figma.site",
+        "figma-gov.com",
+        "figma-gov.site"
+      ],
+      "scope": "Existing first-party network and WebSocket hostnames already in the catalog; third-party AWS WAF, Arkose, esm.sh, jsDelivr and Weavy endpoints are deliberately not attributed to Figma."
+    },
+    {
+      "service": "Slack",
+      "url": "https://slack.com/help/articles/360001603387-Manage-Slack-connection-issues",
+      "added_domains": [],
+      "validated_existing": [
+        "wss-primary.slack.com",
+        "wss-backup.slack.com",
+        "wss-mobile.slack.com"
+      ],
+      "scope": "Existing first-party WebSocket endpoints already in the catalog."
+    },
+    {
+      "service": "Zoom",
+      "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060556",
+      "added_domains": [
+        "zdmapi.zoom.us",
+        "zoomonprem.com"
+      ],
+      "scope": "Additional first-party Zoom endpoints from official firewall/proxy documentation; third-party CDN, analytics and certificate-check domains excluded."
     }
   ]
 }
