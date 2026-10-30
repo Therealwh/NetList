@@ -1,84 +1,84 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Google — accounts.google.com
-142.250.141.84/32
+142.251.2.84/32
 
 # Google — admin.google.com
-142.251.45.14/32
+142.251.210.142/32
 
 # Google — aistudio.google.com
-142.251.214.110/32
+142.251.218.14/32
 
 # Google — analytics.google.com
-142.251.34.78/32
+142.251.45.14/32
 
 # Google — apps.google.com
-142.251.215.206/32
+142.251.41.14/32
 
 # Google — calendar.google.com
-142.251.215.206/32
+142.251.210.142/32
 
 # Google — clients2.google.com
 142.251.210.142/32
 
 # Google — clients4.google.com
-142.251.45.14/32
+142.251.210.142/32
 
 # Google — clients6.google.com
-142.251.45.14/32
+142.251.210.142/32
 
 # Google — docs.google.com
 142.251.215.78/32
 
 # Google — doubleclick.net
-142.251.210.142/32
+142.251.32.174/32
 
 # Google — fonts.gstatic.com
 142.251.45.3/32
 
 # Google — g.co
-142.251.215.78/32
+142.251.45.14/32
 
 # Google — google-analytics.com
-142.251.215.196/32
+142.251.45.4/32
 
 # Google — google.co.uk
-142.251.215.227/32
+142.251.34.67/32
 
 # Google — google.com
-142.251.215.78/32
+142.251.214.110/32
 
 # Google — googleadservices.com
-142.251.45.2/32
+142.251.210.130/32
 
 # Google — googleapis.com
-142.251.215.196/32
+142.251.41.4/32
 
 # Google — googlemail.com
-142.251.34.69/32
+142.251.215.197/32
 
 # Google — googlesyndication.com
-142.251.210.132/32
+142.251.218.4/32
 
 # Google — googletagmanager.com
-142.251.40.104/32
+142.251.215.200/32
 
 # Google — googleusercontent.com
-142.251.215.161/32
+142.251.215.65/32
 
 # Google — googlevideo.com
-142.251.32.164/32
+142.251.45.4/32
 
 # Google — gstatic.com
-142.251.214.99/32
+142.251.210.131/32
 
 # Google — keep.google.com
-142.251.32.174/32
+142.251.210.142/32
 
 # Google — lh3.googleusercontent.com
-142.251.215.225/32
+142.251.41.1/32
 
 # Google — mail.google.com
-142.251.40.101/32
+142.251.210.133/32
 
 # Google — meet.google.com
 142.251.150.5/32
@@ -91,7 +91,7 @@
 142.251.157.5/32
 
 # Google — meetings.clients6.google.com
-142.251.40.106/32
+142.251.45.10/32
 
 # Google — meetings.googleapis.com
 172.217.112.4/32
@@ -104,22 +104,22 @@
 172.217.119.4/32
 
 # Google — notebook.google.com
-142.251.32.174/32
+142.251.215.78/32
 
 # Google — script.google.com
-142.251.32.174/32
+142.251.215.238/32
 
 # Google — sheets.google.com
-142.251.210.142/32
+142.251.215.78/32
 
 # Google — sites.google.com
-142.251.218.14/32
+142.251.214.110/32
 
 # Google — slides.google.com
-142.251.32.174/32
+142.251.214.110/32
 
 # Google — stream.meet.google.com
-142.251.41.14/32
+142.251.45.14/32
 
 # Google — youtube.googleapis.com
 172.217.112.4/32

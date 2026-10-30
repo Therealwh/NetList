@@ -1,6 +1,6 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Android — android.com
-2607:f8b0:4007:80d::2004/128
+2607:f8b0:4007:803::2004/128
 
 # Android — android.googleapis.com
 2001:4860:4840:400::/128

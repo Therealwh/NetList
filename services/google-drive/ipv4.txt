@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Google Drive — drive.google.com
-142.251.214.110
+142.251.40.110

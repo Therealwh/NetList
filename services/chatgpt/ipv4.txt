@@ -77,8 +77,8 @@
 172.64.152.23
 
 # ChatGPT — status.openai.com
-66.33.60.193
-76.76.21.241
+66.33.60.130
+76.76.21.61
 
 # ChatGPT — tcr9i.chat.openai.com
 104.18.33.45

@@ -2,10 +2,10 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Figma — figma-gov.com
-52.85.132.110
-52.85.132.35
-52.85.132.47
-52.85.132.5
+18.238.109.107
+18.238.109.33
+18.238.109.72
+18.238.109.73
 
 # Figma — figma-gov.site
 18.238.96.13

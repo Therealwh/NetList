@@ -2,5 +2,6 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # EA — ea.com
+2600:1405:8400:382::1127
 2600:1405:8400:391::1127
 2600:1405:8400:392::1127

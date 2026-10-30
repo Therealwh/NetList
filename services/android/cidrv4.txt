@@ -1,6 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Android — android.com
-142.251.41.4/32
+142.251.45.4/32
 
 # Android — android.googleapis.com
 172.217.112.4/32

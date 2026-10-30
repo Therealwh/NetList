@@ -8,13 +8,13 @@
 2620:100:6017:14::a27d:20e
 
 # Dropbox — api-content-eu.dropbox.com
-2620:100:601f:14::a27d:90e
+2620:100:6017:14::a27d:20e
 
 # Dropbox — api-content-jp.dropbox.com
 2620:100:6017:14::a27d:20e
 
 # Dropbox — api-content-photos.dropbox.com
-2620:100:6017:16::a27d:210
+2620:100:601f:16::a27d:910
 
 # Dropbox — api-content-uk.dropbox.com
 2620:100:6017:14::a27d:20e
@@ -38,13 +38,13 @@
 2620:100:6017:14::a27d:20e
 
 # Dropbox — content-jp.dropboxapi.com
-2620:100:6017:14::a27d:20e
+2620:100:601f:14::a27d:90e
 
 # Dropbox — content-uk.dropboxapi.com
 2620:100:6017:14::a27d:20e
 
 # Dropbox — content.dropboxapi.com
-2620:100:6017:14::a27d:20e
+2620:100:601f:14::a27d:90e
 
 # Dropbox — dash.ai
 # (no public DNS addresses found)
@@ -53,7 +53,7 @@
 2620:100:6040:21::a27d:f815
 
 # Dropbox — dl-au.dropbox.com
-2620:100:6017:15::a27d:20f
+2620:100:601f:15::a27d:90f
 
 # Dropbox — dl-au.dropboxusercontent.com
 2620:100:6017:15::a27d:20f
@@ -71,7 +71,7 @@
 2620:100:601f:15::a27d:90f
 
 # Dropbox — dl-eu.dropboxusercontent.com
-2620:100:601f:15::a27d:90f
+2620:100:6017:15::a27d:20f
 
 # Dropbox — dl-jp.dropbox.com
 2620:100:601f:15::a27d:90f
@@ -89,7 +89,7 @@
 2620:100:6017:15::a27d:20f
 
 # Dropbox — dl-web-eu.dropbox.com
-2620:100:601f:15::a27d:90f
+2620:100:6017:15::a27d:20f
 
 # Dropbox — dl-web-jp.dropbox.com
 2620:100:6017:15::a27d:20f
@@ -98,10 +98,10 @@
 2620:100:6017:15::a27d:20f
 
 # Dropbox — dl-web.dropbox.com
-2620:100:601f:15::a27d:90f
+2620:100:6017:15::a27d:20f
 
 # Dropbox — dl.dropbox.com
-2620:100:6017:15::a27d:20f
+2620:100:601f:15::a27d:90f
 
 # Dropbox — dl.dropboxusercontent.com
 2620:100:6017:15::a27d:20f
@@ -170,7 +170,7 @@
 2620:100:6017:15::a27d:20f
 
 # Dropbox — files-uk.dropbox.com
-2620:100:6017:15::a27d:20f
+2620:100:601f:15::a27d:90f
 
 # Dropbox — getdropbox.com
 2620:100:6040:21::a27d:f815

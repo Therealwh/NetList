@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Gmail — gmail.com
-2607:f8b0:4007:807::2005
+2607:f8b0:4007:80b::2005
