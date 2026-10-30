@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "purpose": "Provenance for added network endpoint domains. Domains are candidates for network routing lists, not claims that each hostname is always required or that DNS answers are dedicated to the service.",
+  "sources": [
+    {
+      "service": "ChatGPT",
+      "url": "https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps",
+      "added_domains": [
+        "auth.chatgpt.com"
+      ],
+      "scope": "First-party OpenAI/ChatGPT hostnames from the official allowlist."
+    },
+    {
+      "service": "Microsoft",
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide",
+      "added_domains": [
+        "account.activedirectory.windowsazure.com",
+        "adminwebservice.microsoftonline.com",
+        "api.passwordreset.microsoftonline.com",
+        "auth.microsoft.com",
+        "autologon.microsoftazuread-sso.com",
+        "becws.microsoftonline.com",
+        "ccs.login.microsoftonline.com",
+        "companymanager.microsoftonline.com",
+        "device.login.microsoftonline.com",
+        "enterpriseregistration.windows.net",
+        "login-us.microsoftonline.com",
+        "login.microsoft.com",
+        "login.windows.net",
+        "logincert.microsoftonline.com",
+        "loginex.microsoftonline.com",
+        "msftauthimages.net",
+        "msftidentity.com",
+        "office.live.com",
+        "officeapps.live.com",
+        "onenote.com",
+        "online.office.com",
+        "passwordreset.microsoftonline.com",
+        "provisioningapi.microsoftonline.com"
+      ],
+      "scope": "Microsoft 365 hostnames from the official endpoint list, updated 2026-08-14."
+    },
+    {
+      "service": "Apple",
+      "url": "https://support.apple.com/en-ie/101555",
+      "added_domains": [
+        "appattest.apple.com",
+        "axm-servicediscovery.apple.com",
+        "deviceenrollment.apple.com",
+        "deviceservices-external.apple.com",
+        "gdmf.apple.com",
+        "identity.apple.com",
+        "iprofiles.apple.com",
+        "mask-api.icloud.com",
+        "mask-h2.icloud.com",
+        "mask.icloud.com",
+        "mdmenrollment.apple.com",
+        "push.apple.com",
+        "setup.icloud.com",
+        "vpp.itunes.apple.com"
+      ],
+      "scope": "Apple Support enterprise network endpoint hostnames."
+    },
+    {
+      "service": "Telegram",
+      "url": "https://core.telegram.org/bug-bounty",
+      "added_domains": [
+        "ads.telegram.org",
+        "bugs.telegram.org",
+        "instantview.telegram.org",
+        "oauth.telegram.org",
+        "promote.telegram.org",
+        "suggestions.telegram.org",
+        "themes.telegram.org",
+        "translations.telegram.org"
+      ],
+      "scope": "Telegram-owned/operated domains in the official scope list."
+    },
+    {
+      "service": "Google",
+      "url": "https://support.google.com/a/answer/1279090",
+      "added_domains": [
+        "apps.google.com",
+        "clients2.google.com",
+        "clients4.google.com",
+        "clients6.google.com",
+        "fonts.gstatic.com",
+        "lh3.googleusercontent.com",
+        "meetings.clients6.google.com",
+        "meetings.googleapis.com",
+        "stream.meet.google.com",
+        "youtube.googleapis.com"
+      ],
+      "scope": "Google Meet and Workspace connectivity hostnames."
+    }
+  ]
+}

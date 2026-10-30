@@ -430,3 +430,59 @@ it_business_education,IT, бизнес и образование,DeepL,deepl.com
 search_portals,Поисковые порталы,Brave,brave.com,candidate_unverified
 search_portals,Поисковые порталы,Brave,search.brave.com,candidate_unverified
 ai,Искусственный интеллект,OpenRouter,openrouter.ai,candidate_unverified
+ai,"Искусственный интеллект",ChatGPT,auth.chatgpt.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,account.activedirectory.windowsazure.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,adminwebservice.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,api.passwordreset.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,auth.microsoft.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,autologon.microsoftazuread-sso.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,becws.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,ccs.login.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,companymanager.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,device.login.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,enterpriseregistration.windows.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,login-us.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,login.microsoft.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,login.windows.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,logincert.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,loginex.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,msftauthimages.net,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,msftidentity.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,office.live.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,officeapps.live.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,onenote.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,online.office.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,passwordreset.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Microsoft,provisioningapi.microsoftonline.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,appattest.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,axm-servicediscovery.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,deviceenrollment.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,deviceservices-external.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,gdmf.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,identity.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,iprofiles.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,mask-api.icloud.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,mask-h2.icloud.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,mask.icloud.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,mdmenrollment.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,push.apple.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,setup.icloud.com,candidate_unverified
+os_security,"ОС, обновления и безопасность",Apple,vpp.itunes.apple.com,candidate_unverified
+messengers,"Мессенджеры",Telegram,ads.telegram.org,candidate_unverified
+messengers,"Мессенджеры",Telegram,bugs.telegram.org,candidate_unverified
+messengers,"Мессенджеры",Telegram,instantview.telegram.org,candidate_unverified
+messengers,"Мессенджеры",Telegram,oauth.telegram.org,candidate_unverified
+messengers,"Мессенджеры",Telegram,promote.telegram.org,candidate_unverified
+messengers,"Мессенджеры",Telegram,suggestions.telegram.org,candidate_unverified
+messengers,"Мессенджеры",Telegram,themes.telegram.org,candidate_unverified
+messengers,"Мессенджеры",Telegram,translations.telegram.org,candidate_unverified
+search_portals,"Поиск и порталы",Google,apps.google.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,clients2.google.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,clients4.google.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,clients6.google.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,fonts.gstatic.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,lh3.googleusercontent.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,meetings.clients6.google.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,meetings.googleapis.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,stream.meet.google.com,candidate_unverified
+search_portals,"Поиск и порталы",Google,youtube.googleapis.com,candidate_unverified

@@ -35,6 +35,18 @@ class BuildTest(unittest.TestCase):
             for domain in ("vk.com", "reddit.com", "steampowered.com"):
                 self.assertIn(domain, common)
 
+    def test_common_domains_preserve_service_groups(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.build(root)
+            common = (root / "common" / "domains.txt").read_text(encoding="utf-8")
+            self.assertIn("# Service — VK", common)
+            self.assertIn("# Service — Reddit", common)
+            self.assertIn("# Service — Steam", common)
+            self.assertLess(common.index("# Service — Reddit"), common.index("reddit.com"))
+            self.assertLess(common.index("# Service — Steam"), common.index("steamcommunity.com"))
+            self.assertIn("# Service — VK\nvk.com\nvk.ru", common)
+
     def test_rebuild_keeps_generated_at_when_content_unchanged(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
