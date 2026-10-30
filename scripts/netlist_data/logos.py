@@ -22,6 +22,7 @@ import re
 import struct
 import sys
 import urllib.request
+import zlib
 from datetime import datetime, timezone
 from pathlib import Path
 
