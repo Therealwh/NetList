@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Viber — viber.com
+184.194.198.208
 34.239.201.121
-44.215.246.84

@@ -2,5 +2,6 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Hulu — hulu.com
-23.219.39.134
-23.219.39.140
+23.221.220.13
+23.221.220.41
+23.221.220.43

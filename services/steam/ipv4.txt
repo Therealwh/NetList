@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Steam — steamcommunity.com
-23.60.175.16
+184.29.30.218
 
 # Steam — steampowered.com
 23.59.109.20

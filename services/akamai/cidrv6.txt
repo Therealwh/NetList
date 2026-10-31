@@ -1,4 +1,4 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Akamai — akamai.com
-2600:1407:e800:32::1736:4c90/128
-2600:1407:e800:32::1736:4c9b/128
+2600:1404:ec00:27::17df:f013/128
+2600:1404:ec00:27::17df:f015/128

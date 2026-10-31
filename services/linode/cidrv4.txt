@@ -1,4 +1,4 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Linode — linode.com
-23.220.103.20/32
-23.220.103.7/32
+23.221.220.10/32
+23.221.220.25/32

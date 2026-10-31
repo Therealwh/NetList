@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # WhatsApp — wa.me
-2a03:2880:f366:120:face:b00c:0:167
+2a03:2880:f373:120:face:b00c:0:167
 
 # WhatsApp — whatsapp.com
-2a03:2880:f37e:120:face:b00c:0:167
+2a03:2880:f381:120:face:b00c:0:167

@@ -7,4 +7,4 @@
 20.76.201.171/32
 
 # Microsoft Azure — azure.microsoft.com
-173.223.1.134/32
+184.29.36.166/32

@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Deezer — deezer.com
-18.154.110.125
-18.154.110.44
-18.154.110.47
-18.154.110.51
+108.156.224.128
+108.156.224.23
+108.156.224.3
+108.156.224.48
