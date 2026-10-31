@@ -486,3 +486,5 @@ search_portals,"Поиск и порталы",Google,meetings.clients6.google.co
 search_portals,"Поиск и порталы",Google,meetings.googleapis.com,candidate_unverified
 search_portals,"Поиск и порталы",Google,stream.meet.google.com,candidate_unverified
 search_portals,"Поиск и порталы",Google,youtube.googleapis.com,candidate_unverified
+it_business_education,"IT, бизнес и образование",Zoom,zdmapi.zoom.us,candidate_unverified
+it_business_education,"IT, бизнес и образование",Zoom,zoomonprem.com,candidate_unverified
