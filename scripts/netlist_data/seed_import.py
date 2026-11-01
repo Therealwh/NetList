@@ -199,6 +199,46 @@ def apply_domain_overrides(repo_root: Path, registry: dict[str, Service]) -> int
                 imported_for_service += 1
             if imported_for_service:
                 service.datasets.add("v2fly-domain-list-community")
+    # Additional per-app rules from blackmatrix7. Only concrete DOMAIN and
+    # DOMAIN-SUFFIX rules are used; keyword, regex, and IP rules are not domains.
+    mapping_path = Path(repo_root) / "sources" / "seed" / "ios-rule-mapping.json"
+    ios_root = Path(repo_root) / "sources" / "upstream" / "ios_rule_script" / "rule" / "Clash"
+    if mapping_path.is_file() and ios_root.is_dir():
+        mapping = json.loads(mapping_path.read_text(encoding="utf-8"))
+        for item in mapping.get("services", []):
+            slug = str(item.get("service_slug", "")).strip()
+            folder = str(item.get("folder", "")).strip()
+            service = registry.get(slug)
+            if service is None:
+                raise ValueError(f"iOS rule mapping service slug {slug!r} is missing")
+            if not folder or Path(folder).name != folder:
+                raise ValueError(f"invalid iOS rule folder for {slug!r}: {folder!r}")
+            source_path = ios_root / folder / f"{folder}.list"
+            if not source_path.is_file():
+                continue
+            imported_for_service = 0
+            try:
+                lines = source_path.read_text(encoding="utf-8").splitlines()
+            except (OSError, UnicodeError):
+                continue
+            for raw_line in lines:
+                line = raw_line.partition("#")[0].strip()
+                if not line:
+                    continue
+                rule, separator, value = line.partition(",")
+                if not separator or rule.strip().upper() not in {"DOMAIN", "DOMAIN-SUFFIX"}:
+                    continue
+                candidate = value.split(",", 1)[0].strip()
+                domain = normalize_domain(candidate)
+                if domain is None:
+                    continue
+                if domain not in service.domains:
+                    service.domains.add(domain)
+                    service.counts[domain] = service.counts.get(domain, 0) + 1
+                    added += 1
+                imported_for_service += 1
+            if imported_for_service:
+                service.datasets.add("blackmatrix7-ios-rule-script")
     return added
 
 
