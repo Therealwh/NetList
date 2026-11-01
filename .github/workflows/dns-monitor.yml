@@ -22,8 +22,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: dns-monitor-${{ github.event_name }}
-  cancel-in-progress: true
+  group: dns-monitor
+  cancel-in-progress: false
 
 jobs:
   monitor:
@@ -46,13 +46,31 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          git add -- state/dns_monitor.json
-          if git diff --cached --quiet; then
-            echo "DNS monitoring snapshot is unchanged"
-            exit 0
-          fi
-          git diff --cached --check
+          set -euo pipefail
           git config user.name "netlist-bot"
           git config user.email "actions@users.noreply.github.com"
-          git commit -m "update DNS monitoring snapshot [skip ci]"
-          git push origin HEAD:main
+          SNAPSHOT="$(mktemp)"
+          cp state/dns_monitor.json "$SNAPSHOT"
+
+          # The catalog workflow and other monitor runs may update main while DNS
+          # queries are running. Rebase the generated snapshot onto the latest
+          # main on every attempt; never force-push or overwrite unrelated commits.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin +refs/heads/main:refs/remotes/origin/main
+            git reset --hard origin/main
+            cp "$SNAPSHOT" state/dns_monitor.json
+            git add -- state/dns_monitor.json
+            if git diff --cached --quiet; then
+              echo "DNS monitoring snapshot is unchanged"
+              exit 0
+            fi
+            git diff --cached --check
+            git commit -m "update DNS monitoring snapshot [skip ci]"
+            if git push origin HEAD:main; then
+              echo "DNS snapshot published on attempt $attempt"
+              exit 0
+            fi
+            echo "main moved during push; retrying against latest origin/main ($attempt/5)"
+          done
+          echo "Could not publish DNS snapshot after 5 attempts" >&2
+          exit 1
