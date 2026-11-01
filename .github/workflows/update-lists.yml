@@ -12,7 +12,7 @@ permissions:
 
 concurrency:
   group: update-lists
-  cancel-in-progress: false
+  # A newer main commit supersedes an older generation run; outputs are committed only at the final step.\n  cancel-in-progress: true
 
 jobs:
   build:
