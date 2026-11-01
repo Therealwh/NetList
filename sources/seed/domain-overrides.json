@@ -2045,6 +2045,308 @@
         "reddit.map.fastly.net"
       ],
       "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "redtube",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/redtube",
+      "domains": [
+        "livehdcams.com",
+        "redtube.com",
+        "redtube.com.br",
+        "redtubepremium.com",
+        "rdtcdn.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "reuters",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/reuters",
+      "domains": [
+        "reut.rs",
+        "reuters.com",
+        "reuters.tv",
+        "reutersmedia.net"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "roblox",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/roblox",
+      "domains": [
+        "blox.com",
+        "goblocks.com",
+        "goblox.com",
+        "gooblox.com",
+        "humancoexperience.com",
+        "rblx.co",
+        "rblx.com",
+        "rblx.org",
+        "rbx.com",
+        "rbxcdn.com",
+        "rbxinfra.net",
+        "rbxlabs.com",
+        "rbxtrk.com",
+        "ro-blox.com",
+        "roadblocks.com",
+        "roblocks.com",
+        "roblox-api.arkoselabs.com",
+        "roblox.ca",
+        "roblox.cc",
+        "roblox.cl",
+        "roblox.co.jp",
+        "roblox.co.uk",
+        "roblox.com",
+        "roblox.de",
+        "roblox.dk",
+        "roblox.eu",
+        "roblox.fr",
+        "roblox.hu",
+        "roblox.it",
+        "roblox.jp"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "rumble",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/rumble",
+      "domains": [
+        "rmbl.ws",
+        "rumble.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "rutracker",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/rutracker",
+      "domains": [
+        "maintracker.org",
+        "rutracker.cc",
+        "rutracker.cr",
+        "rutracker.me",
+        "rutracker.net",
+        "rutracker.nl",
+        "rutracker.org",
+        "rutracker.wiki",
+        "rutrk.org"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "rutube",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/rutube",
+      "domains": [
+        "rutube.ru",
+        "rutubelist.ru",
+        "rtbcdn.ru",
+        "rutube.sport"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "sber",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/sber",
+      "domains": [
+        "id.ru",
+        "megamarket.ru",
+        "megamarket.tech",
+        "sberauto.com",
+        "sberbank-insurance.ru",
+        "sberbank-tele.com",
+        "sberbankaktivno.ru",
+        "sberbankins.ru",
+        "sbercloud.ru",
+        "sbercloud.tech",
+        "sberdevices.ru",
+        "sberdisk.ru",
+        "sberfactoring.ru",
+        "sberhealth.ru",
+        "sberindex.ru",
+        "sberleasing.ru",
+        "sberlogistics.ru",
+        "sbermegamarket.ru",
+        "sbermobile.ru",
+        "sberpb.ru",
+        "sbertroika.ru",
+        "afisha.ru",
+        "citydrive.ru",
+        "cloud.ru",
+        "eaptechka.online",
+        "eapteka.ru",
+        "21-school.ru",
+        "kuper.ru",
+        "restnproducts.ru",
+        "samokat.ru"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "selectel",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/selectel",
+      "domains": [
+        "chipcore.com",
+        "chipcore.ru",
+        "haicomdc.com",
+        "haicomdc.ru",
+        "haicomgroup.ru",
+        "itirex.ru",
+        "selcdn.net",
+        "selectel.academy",
+        "selectel.blog",
+        "selectel.com",
+        "selectel.dev",
+        "selectel.info",
+        "selectel.io",
+        "selectel.live",
+        "selectel.ru",
+        "selectelix.ru",
+        "selectelpro.ru",
+        "servercore.com",
+        "servercore.live",
+        "slc.tl",
+        "tehnodom.com",
+        "vscale.blog",
+        "vscale.io",
+        "vscale.ru"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "signal",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/signal",
+      "domains": [
+        "signal.art",
+        "signal.group",
+        "signal.link",
+        "signal.me",
+        "signal.tube",
+        "signal.org",
+        "signalusers.org",
+        "whispersystems.org"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "slack",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/slack",
+      "domains": [
+        "slack-core.com",
+        "slack-edge.com",
+        "slack-files.com",
+        "slack-imgs.com",
+        "slack-msgs.com",
+        "slack-redir.net",
+        "slack.com",
+        "slackb.com",
+        "slackcertified.com",
+        "slackdemo.com",
+        "slackhq.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "soundcloud",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/soundcloud",
+      "domains": [
+        "sndcdn.com",
+        "soundcloud.cloud",
+        "soundcloud.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "sourceforge",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/sourceforge",
+      "domains": [
+        "sourceforge.com",
+        "sourceforge.net",
+        "sf.net",
+        "fsdn.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "spotify",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/spotify",
+      "domains": [
+        "byspotify.com",
+        "lifeatspotify.com",
+        "pscdn.co",
+        "scdn.co",
+        "spoti.fi",
+        "spotify-everywhere.com",
+        "spotify.com",
+        "spotify.design",
+        "spotify.link",
+        "spotifycdn.com",
+        "spotifycdn.net",
+        "spotifycharts.com",
+        "spotifycodes.com",
+        "spotifyforbrands.com",
+        "spotifyforvendors.com",
+        "spotifyjobs.com",
+        "tospotify.com",
+        "audio-ak-spotify-com.akamaized.net",
+        "audio4-ak-spotify-com.akamaized.net",
+        "cdn-spotify-experiments.conductrics.com",
+        "heads-ak-spotify-com.akamaized.net",
+        "heads4-ak-spotify-com.akamaized.net",
+        "spotify.map.fastly.net",
+        "spotify.map.fastlylb.net",
+        "spotify.com.edgesuite.net"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "steam",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/steam",
+      "domains": [
+        "playartifact.com",
+        "s.team",
+        "steam.tv",
+        "steam-api.com",
+        "steam-chat.com",
+        "steamcommunity.com",
+        "steamcontent.com",
+        "steamconnecttest.com",
+        "steamdeck.com",
+        "steamgames.com",
+        "steamos.cloud",
+        "steampowered.com",
+        "steamserver.net",
+        "steamstatic.com",
+        "steamusercontent.com",
+        "underlords.com",
+        "valve.net",
+        "valvesoftware.com",
+        "dota2.com",
+        "edge.steam-dns.top.comcast.net",
+        "steamcommunity-a.akamaihd.net.edgesuite.net",
+        "steam.apac.qtlglb.com",
+        "steam.eca.qtlglb.com",
+        "steam.naeu.qtlglb.com",
+        "steam.ru.qtlglb.com",
+        "a4e8s8k3.map2.ssl.hwcdn.net",
+        "f3b7q2p3.ssl.hwcdn.net",
+        "steam.cdn.on.net",
+        "steam.cdn.orcon.net.nz",
+        "steam.cdn.slingshot.co.nz"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "stripe",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/stripe",
+      "domains": [
+        "link.com",
+        "stripe-terminal-local-reader.net",
+        "stripe.com",
+        "stripe.dev",
+        "stripe.events",
+        "stripe.global",
+        "stripe.network",
+        "stripecdn.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
     }
   ]
 }
