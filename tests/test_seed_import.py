@@ -108,6 +108,37 @@ class SeedImportTest(unittest.TestCase):
             )
             self.assertIn("v2fly-domain-list-community", registry["example"].datasets)
 
+
+    def test_imports_only_domain_rules_from_mapped_app_lists(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            registry = build_registry([{
+                "name": "Example", "categories": {"test"},
+                "domains": {"example.com"}, "dataset": "seed",
+            }])
+            mapping_dir = root / "sources" / "seed"
+            mapping_dir.mkdir(parents=True)
+            (mapping_dir / "ios-rule-mapping.json").write_text(json.dumps({
+                "services": [{"service_slug": "example", "folder": "Example"}],
+            }), encoding="utf-8")
+            rules_dir = root / "sources" / "upstream" / "ios_rule_script" / "rule" / "Clash" / "Example"
+            rules_dir.mkdir(parents=True)
+            (rules_dir / "Example.list").write_text(
+                "# app rules\\n"
+                "DOMAIN,api.example.org\\n"
+                "DOMAIN-SUFFIX,example.net\\n"
+                "DOMAIN-KEYWORD,example\\n"
+                "IP-CIDR,192.0.2.0/24\\n",
+                encoding="utf-8",
+            )
+            added = apply_domain_overrides(root, registry)
+            self.assertEqual(added, 2)
+            self.assertEqual(
+                registry["example"].domains,
+                {"example.com", "api.example.org", "example.net"},
+            )
+            self.assertIn("blackmatrix7-ios-rule-script", registry["example"].datasets)
+
     def test_registry_roundtrip(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
