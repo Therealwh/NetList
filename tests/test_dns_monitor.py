@@ -129,8 +129,8 @@ class DnsMonitorTest(unittest.TestCase):
             monitor_catalog(root, failed, "2026-11-02T00:00:00+00:00")
             monitor_catalog(root, changed, "2026-11-03T00:00:00+00:00")
             events = json.loads((root / "state" / "dns_history.json").read_text())["events"]
-            self.assertEqual(sum(e["type"] == "ip_added" for e in events), 2)
-            self.assertEqual(sum(e["type"] == "ip_removed" for e in events), 2)
+            self.assertEqual(sum(e["type"] == "ip_added" for e in events), 4)  # two domains × two address families
+            self.assertEqual(sum(e["type"] == "ip_removed" for e in events), 4)
 
     def test_dns_errors_do_not_create_ip_removal_events(self):
         with tempfile.TemporaryDirectory() as tmp:
