@@ -7,13 +7,15 @@ may appear under multiple domains; consumers can deduplicate when needed.
 from __future__ import annotations
 
 import ipaddress
+import re
 from concurrent.futures import ThreadPoolExecutor
 import socket
 import sys
 from pathlib import Path
 
 from .io_lists import read_list
-from .seed_import import apply_domain_overrides, load_registry
+from .seed_import import apply_domain_overrides, load_registry, load_user_submissions
+from .normalize import normalize_domain
 
 NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.0.0.0/8"),)
 DNS_WORKERS = 32
@@ -58,6 +60,49 @@ def generate(repo_root: Path) -> dict[str, int]:
     root = Path(repo_root)
     registry = load_registry(root / "state" / "registry.json")
     apply_domain_overrides(root, registry)
+
+    # Keep DNS generation in sync with build.py: user-submitted domains are
+    # stored separately from the seed registry and must be resolved as well.
+    known_categories = {category for service in registry.values() for category in service.categories}
+    for record in load_user_submissions(root, known_categories=known_categories):
+        domain = next(iter(record["domains"]))
+        existing = next((service for service in registry.values() if domain in service.domains), None)
+        if existing is not None:
+            existing.categories |= record["categories"]
+            existing.datasets.add("user")
+            existing.counts[domain] = existing.counts.get(domain, 0) + 1
+            continue
+        base_slug = re.sub(r"[^a-z0-9]+", "-", record["name"].lower()).strip("-") or "user-domain"
+        slug = base_slug
+        suffix = 2
+        while slug in registry and domain not in registry[slug].domains:
+            slug = f"{base_slug}-{suffix}"
+            suffix += 1
+        service = registry.get(slug)
+        if service is None:
+            from .seed_import import Service
+            service = Service(name=record["name"], slug=slug)
+            registry[slug] = service
+        service.domains.add(domain)
+        service.categories |= record["categories"]
+        service.datasets.add("user")
+        service.counts[domain] = service.counts.get(domain, 0) + 1
+
+    # Also resolve passive CT discoveries attached to submitted roots.
+    discoveries_path = root / "state" / "discovered_subdomains.json"
+    if discoveries_path.exists():
+        import json
+        discovery_data = json.loads(discoveries_path.read_text(encoding="utf-8"))
+        for item in discovery_data.get("domains", []):
+            root_domain = normalize_domain(str(item.get("root_domain", "")))
+            candidate = normalize_domain(str(item.get("domain", "")))
+            if not root_domain or not candidate or candidate == root_domain:
+                continue
+            service = next((s for s in registry.values() if root_domain in s.domains), None)
+            if service is not None and candidate.endswith("." + root_domain):
+                service.domains.add(candidate)
+                service.counts.setdefault(candidate, 1)
+                service.datasets.add("crt.sh-certificate-transparency")
 
     # Resolve each unique domain once, with bounded concurrency. The same CDN
     # hostname may belong to multiple services; caching avoids repeated DNS work.
