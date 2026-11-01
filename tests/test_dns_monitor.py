@@ -82,6 +82,33 @@ class DnsMonitorTest(unittest.TestCase):
             self.assertEqual(recovered["domains"]["example.com"]["changed"], [])
             self.assertEqual(recovered["summary"]["domains_changed"], 0)
 
+
+    def test_no_records_keeps_last_good_and_does_not_report_false_ip_removal(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            good = lambda domain, family: {"status": "ok", "addresses": ["8.8.8.8"] if family == socket.AF_INET else ["2001:4860:4860::8888"], "error": None}
+            empty = lambda domain, family: {"status": "no_records", "addresses": [], "error": None}
+            monitor_catalog(root, good, "2026-11-01T00:00:00+00:00")
+            second = monitor_catalog(root, empty, "2026-11-02T00:00:00+00:00")
+            item = second["domains"]["example.com"]
+            self.assertEqual(item["ipv4"]["addresses"], [])
+            self.assertEqual(item["ipv4"]["last_good_addresses"], ["8.8.8.8"])
+            self.assertEqual(item["ipv6"]["last_good_addresses"], ["2001:4860:4860::8888"])
+            self.assertEqual(item["changed"], [])
+
+    def test_recovery_after_no_records_compares_against_last_good(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            good = lambda domain, family: {"status": "ok", "addresses": ["8.8.8.8"] if family == socket.AF_INET else ["2001:4860:4860::8888"], "error": None}
+            empty = lambda domain, family: {"status": "no_records", "addresses": [], "error": None}
+            changed = lambda domain, family: {"status": "ok", "addresses": ["1.1.1.1"] if family == socket.AF_INET else ["2606:4700:4700::1111"], "error": None}
+            monitor_catalog(root, good, "2026-11-01T00:00:00+00:00")
+            monitor_catalog(root, empty, "2026-11-02T00:00:00+00:00")
+            third = monitor_catalog(root, changed, "2026-11-03T00:00:00+00:00")
+            self.assertEqual(third["domains"]["example.com"]["changed"], ["ipv4", "ipv6"])
+
     def test_history_tracks_address_changes(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
