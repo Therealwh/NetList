@@ -1420,6 +1420,288 @@
         "hulupremium.com"
       ],
       "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "instagram",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/instagram",
+      "domains": [
+        "achat-followers-instagram.com",
+        "acheter-followers-instagram.com",
+        "acheterdesfollowersinstagram.com",
+        "acheterfollowersinstagram.com",
+        "bookstagram.com",
+        "carstagram.com",
+        "cdninstagram.com",
+        "chickstagram.com",
+        "ig.me",
+        "igcdn.com",
+        "igsonar.com",
+        "igtv.com",
+        "imstagram.com",
+        "imtagram.com",
+        "instaadder.com",
+        "instachecker.com",
+        "instafallow.com",
+        "instafollower.com",
+        "instagainer.com",
+        "instagda.com",
+        "instagify.com",
+        "instagmania.com",
+        "instagor.com",
+        "instagram-brand.com",
+        "instagram-engineering.com",
+        "instagram-help.com",
+        "instagram-press.com",
+        "instagram-press.net",
+        "instagram.com",
+        "instagramci.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "internet-archive",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/internet-archive",
+      "domains": [
+        "archive-it.org",
+        "archive.org",
+        "openlibrary.org"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "jetbrains",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/jetbrains",
+      "domains": [
+        "datalore.io",
+        "intellij.com",
+        "intellij.net",
+        "intellij.org",
+        "jb.gg",
+        "jetbrains.cloud",
+        "jetbrains.com",
+        "jetbrains.dev",
+        "jetbrains.net",
+        "jetbrains.org",
+        "jetbrains.ru",
+        "jetbrains.space",
+        "jetbrains.team",
+        "kotl.in",
+        "kotlinconf.com",
+        "kotlinlang.org",
+        "ktor.io",
+        "myjetbrains.com",
+        "talkingkotlin.com",
+        "youtrack.cloud"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "kaspersky",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/kaspersky",
+      "domains": [
+        "kaspersky-labs.com",
+        "kaspersky.com",
+        "kaspersky.be",
+        "kaspersky.ca",
+        "kaspersky.co.in",
+        "kaspersky.co.jp",
+        "kaspersky.co.kr",
+        "kaspersky.co.th",
+        "kaspersky.co.uk",
+        "kaspersky.co.za",
+        "kaspersky.com.au",
+        "kaspersky.com.br",
+        "kaspersky.com.hk",
+        "kaspersky.com.pl",
+        "kaspersky.com.tr",
+        "kaspersky.com.tw",
+        "kaspersky.com.vn",
+        "kaspersky.cz",
+        "kaspersky.de",
+        "kaspersky.dk",
+        "kaspersky.dz",
+        "kaspersky.es",
+        "kaspersky.fi",
+        "kaspersky.fr",
+        "kaspersky.gr",
+        "kaspersky.it",
+        "kaspersky.kz",
+        "kaspersky.ma",
+        "kaspersky.my",
+        "kaspersky.nl"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "kick",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/kick",
+      "domains": [
+        "kick.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "kinopoisk",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/kinopoisk",
+      "domains": [
+        "kinopoisk.ru",
+        "kinopoisk-ru.clstorage.net",
+        "kp.yandex.net",
+        "kp-config-smart-tv.akamaized.net",
+        "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "kontur",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/kontur",
+      "domains": [
+        "kontur-inc.com",
+        "kontur.host",
+        "kontur.ru",
+        "ktalk.host",
+        "ktalk.ru"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "line",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/line",
+      "domains": [
+        "gcld-line.com",
+        "lin.ee",
+        "line-apps-beta.com",
+        "line-apps-rc.com",
+        "line-apps.com",
+        "line-beta.me",
+        "line-cdn.net",
+        "line-scdn.net",
+        "line.biz",
+        "line.me",
+        "line.naver.jp",
+        "linecorp.com",
+        "linefriends.com",
+        "linefriends.com.tw",
+        "linegame.jp",
+        "linemobile.com",
+        "linemyshop.com",
+        "lineshoppingseller.com",
+        "linetv.tw",
+        "nhncorp.jp"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "linkedin",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/linkedin",
+      "domains": [
+        "bizographics.com",
+        "l-0005.dc-msedge.net",
+        "l-0005.l-msedge.net",
+        "licdn.com",
+        "linkedin.at",
+        "linkedin.com",
+        "lnkd.in",
+        "e122475.dscg.akamaiedge.net",
+        "licdn.cn.cdn20.com",
+        "linkedin.sc.omtrdc.net"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "magnit",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/magnit",
+      "domains": [
+        "kazanexpress.ru",
+        "magnit.com",
+        "magnit.ru",
+        "mm.ru"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "meduza",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/meduza",
+      "domains": [
+        "meduza.io",
+        "meduza-flutter.firebaseapp.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "mega",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/mega",
+      "domains": [
+        "mega.co.nz",
+        "mega.io",
+        "mega.nz",
+        "megaad.nz",
+        "megapay.nz",
+        "megas4.com",
+        "transfer.it"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "megafon",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/megafon",
+      "domains": [
+        "inplat.ru",
+        "megafon.com",
+        "megafon.ru",
+        "megafonpro.ru",
+        "mgfn.ru",
+        "report-megafon.ru",
+        "scartel.ru",
+        "yota.ru",
+        "yotagamer.ru"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "microsoft",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/microsoft",
+      "domains": [
+        "microsoft.az",
+        "microsoft.be",
+        "microsoft.by",
+        "microsoft.ca",
+        "microsoft.cat",
+        "microsoft.ch",
+        "microsoft.cl",
+        "microsoft.com",
+        "microsoft.cz",
+        "microsoft.de",
+        "microsoft.dk",
+        "microsoft.ee",
+        "microsoft.es",
+        "microsoft.eu",
+        "microsoft.fi",
+        "microsoft.ge",
+        "microsoft.hu",
+        "microsoft.io",
+        "microsoft.is",
+        "microsoft.it",
+        "microsoft.jp",
+        "microsoft.lt",
+        "microsoft.lu",
+        "microsoft.lv",
+        "microsoft.md",
+        "microsoft.net",
+        "microsoft.pl",
+        "microsoft.pt",
+        "microsoft.red",
+        "microsoft.ro"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "modrinth",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/modrinth",
+      "domains": [
+        "modrinth.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
     }
   ]
 }
