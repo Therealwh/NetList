@@ -26,8 +26,7 @@
 # (no public DNS addresses found)
 
 # WeChat — servicewechat.com
-240d:c000:2010:1e00:0:9f72:f7c4:4089/128
-240d:c000:2010:1e00:0:9f72:f7cb:f893/128
+# (no public DNS addresses found)
 
 # WeChat — slife.xy-asia.com
 # (no public DNS addresses found)
@@ -55,14 +54,14 @@
 
 # WeChat — vweixinthumb.tc.qq.com
 240d:c010:12b:1::13/128
-240d:c010:12b:1::14/128
-240d:c010:12b:1::15/128
 240d:c010:12b:1::16/128
 240d:c010:12b:1::17/128
 240d:c010:12b:1::18/128
 240d:c010:12b:1::1a/128
 240d:c010:12b:1::1b/128
 240d:c010:12b:1::1d/128
+240d:c010:12b:1::1f/128
+240d:c010:12b:1::20/128
 
 # WeChat — wechat.com
 # (no public DNS addresses found)
@@ -107,10 +106,10 @@
 240e:e1:a802:1::1c/128
 
 # WeChat — wxapp.tc.qq.com
+240d:c010:164:1::11/128
 240d:c010:164:1::17/128
 240d:c010:164:1::18/128
-240d:c010:164:1::1f/128
-240d:c010:164:1::20/128
+240d:c010:164:1::19/128
 240d:c010:164:1::21/128
 240d:c010:164:1::22/128
 240d:c010:164:1::23/128

@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Selectel — selectel.ru
-2a00:ab00:2000:2::1
+# (no public DNS addresses found)

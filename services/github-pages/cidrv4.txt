@@ -1,40 +1,40 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # GitHub Pages — atom.io
-140.82.112.18/32
-
-# GitHub Pages — dependabot.com
 140.82.114.17/32
 
+# GitHub Pages — dependabot.com
+140.82.114.18/32
+
 # GitHub Pages — ghcr.io
-20.29.134.18/32
+140.82.112.34/32
 
 # GitHub Pages — git.io
-140.82.113.22/32
+140.82.114.22/32
 
 # GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
-151.101.162.79/32
+140.248.150.79/32
 
 # GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
 47.79.66.61/32
 
 # GitHub Pages — github-cloud.s3.amazonaws.com
-16.15.183.116/32
-16.15.207.209/32
-16.15.212.192/32
-16.15.212.38/32
-16.15.237.26/32
-16.182.99.210/32
-54.231.169.138/32
-54.231.232.186/32
+16.15.161.57/32
+16.15.236.0/32
+16.15.236.243/32
+16.15.246.76/32
+16.15.253.56/32
+52.216.42.154/32
+54.231.132.130/32
+54.231.230.178/32
 
 # GitHub Pages — github.blog
 192.0.66.2/32
 
 # GitHub Pages — github.com
-140.82.112.3/32
+140.82.114.4/32
 
 # GitHub Pages — github.community
-140.82.114.17/32
+140.82.113.18/32
 
 # GitHub Pages — github.dev
 52.224.38.193/32
@@ -98,7 +98,7 @@
 185.199.111.153/32
 
 # GitHub Pages — npm.community
-140.82.114.17/32
+140.82.112.18/32
 
 # GitHub Pages — npmjs.com
 104.17.134.117/32
@@ -132,7 +132,7 @@
 # (no public DNS addresses found)
 
 # GitHub Pages — repo.new
-140.82.114.17/32
+140.82.113.18/32
 
 # GitHub Pages — thegithubshop.com
 23.227.38.65/32

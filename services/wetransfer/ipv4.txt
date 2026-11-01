@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # WeTransfer — wetransfer.com
-18.154.253.123
-18.154.253.24
-18.154.253.39
-18.154.253.45
+13.226.238.12
+13.226.238.59
+13.226.238.76
+13.226.238.83

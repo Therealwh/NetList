@@ -1,8 +1,8 @@
 {
   "counts": {
-    "services": 275,
+    "services": 276,
     "categories": 27,
-    "domains": 21931
+    "domains": 24137
   },
   "services": {
     "1337x": {
@@ -306,7 +306,7 @@
       "domain_count": 1
     },
     "kinogo": {
-      "domain_count": 1
+      "domain_count": 2167
     },
     "kinopoisk": {
       "domain_count": 3
@@ -609,7 +609,7 @@
       "domain_count": 1
     },
     "shuffle-com": {
-      "domain_count": 1
+      "domain_count": 40
     },
     "signal": {
       "domain_count": 1
@@ -826,6 +826,9 @@
     },
     "zoom": {
       "domain_count": 4
+    },
+    "zooma-casino": {
+      "domain_count": 1
     },
     "zvuk": {
       "domain_count": 1
