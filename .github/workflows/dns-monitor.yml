@@ -1,0 +1,58 @@
+name: dns-monitor
+
+on:
+  # Run after catalog generation, independently from the longer list/logo build.
+  workflow_run:
+    workflows: ["update-lists"]
+    types: [completed]
+    branches: [main]
+  # Daily fallback after the normal 03:00 UTC data build.
+  schedule:
+    - cron: "30 4 * * *"
+  # Also publish a baseline when the monitor implementation is first added or changed.
+  push:
+    branches: [main]
+    paths:
+      - "scripts/netlist_data/dns_monitor.py"
+      - "tests/test_dns_monitor.py"
+      - ".github/workflows/dns-monitor.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dns-monitor
+  cancel-in-progress: true
+
+jobs:
+  monitor:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion != 'cancelled'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run per-domain A/AAAA monitoring
+        run: python -m scripts.netlist_data.dns_monitor
+
+      - name: Publish only the DNS monitoring snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- state/dns_monitor.json
+          if git diff --cached --quiet; then
+            echo "DNS monitoring snapshot is unchanged"
+            exit 0
+          fi
+          git diff --cached --check
+          git config user.name "netlist-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "update DNS monitoring snapshot [skip ci]"
+          git push origin HEAD:main
