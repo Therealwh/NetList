@@ -40,8 +40,8 @@ class DiscoverSubdomainsTest(unittest.TestCase):
             }), encoding="utf-8")
             save_registry(root, {
                 "example": Service(
-                    name="Example", slug="example", domains=set(),
-                    categories={"social"}, datasets={"global"}, counts={},
+                    name="Example", slug="example", domains={"example.org"},
+                    categories={"social"}, datasets={"global"}, counts={"example.org": 1},
                 )
             })
             with patch(
