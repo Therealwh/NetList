@@ -105,6 +105,18 @@ class DnsMonitorTest(unittest.TestCase):
             events3 = json.loads((root / "state" / "dns_history.json").read_text())["events"]
             self.assertTrue(any(e["type"] == "domain_removed" and e["domain"] == "www.example.com" for e in events3))
 
+
+    def test_first_successful_answer_after_empty_family_is_an_ip_addition(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            empty = lambda d, f: {"status": "no_records", "addresses": [], "error": None}
+            good = lambda d, f: {"status": "ok", "addresses": ["8.8.8.8"] if f == socket.AF_INET else ["2001:4860:4860::8888"], "error": None}
+            monitor_catalog(root, empty, "2026-11-01T00:00:00+00:00")
+            monitor_catalog(root, good, "2026-11-02T00:00:00+00:00")
+            events = json.loads((root / "state" / "dns_history.json").read_text())["events"]
+            self.assertEqual(sum(e["type"] == "ip_added" for e in events), 4)
+
     def test_dns_errors_do_not_create_ip_removal_events(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
