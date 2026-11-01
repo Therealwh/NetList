@@ -124,11 +124,11 @@ class SeedImportTest(unittest.TestCase):
             rules_dir = root / "sources" / "upstream" / "ios_rule_script" / "rule" / "Clash" / "Example"
             rules_dir.mkdir(parents=True)
             (rules_dir / "Example.list").write_text(
-                "# app rules\\n"
-                "DOMAIN,api.example.org\\n"
-                "DOMAIN-SUFFIX,example.net\\n"
-                "DOMAIN-KEYWORD,example\\n"
-                "IP-CIDR,192.0.2.0/24\\n",
+                "# app rules\n"
+                "DOMAIN,api.example.org\n"
+                "DOMAIN-SUFFIX,example.net\n"
+                "DOMAIN-KEYWORD,example\n"
+                "IP-CIDR,192.0.2.0/24\n",
                 encoding="utf-8",
             )
             added = apply_domain_overrides(root, registry)
