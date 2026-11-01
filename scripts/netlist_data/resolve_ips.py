@@ -4,6 +4,7 @@ Common files are human-readable: each domain is introduced by a comment such
 as '# YouTube — youtube.com', followed by its resolved IPs. Shared CDN answers
 may appear under multiple domains; consumers can deduplicate when needed.
 """
+# Fresh workflow run: re-resolve submitted domains and discovered subdomains.
 from __future__ import annotations
 
 import ipaddress
