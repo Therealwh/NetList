@@ -266,8 +266,7 @@
       "service": "Кинопоиск",
       "source": "https://www.kinopoisk.ru/",
       "domains": [
-        "kinopoisk.ru",
-        "kinopoiskapiunofficial.tech"
+        "kinopoisk.ru"
       ],
       "scope": "Kinopoisk site and API ecosystem; third-party API is explicitly separate."
     },
@@ -326,8 +325,7 @@
       "source": "https://www.avito.ru/",
       "domains": [
         "avito.ru",
-        "avito.st",
-        "avito.ru.com"
+        "avito.st"
       ],
       "scope": "Avito storefront and asset hostnames; candidates require DNS validation."
     },
@@ -347,8 +345,7 @@
       "source": "https://www.tbank.ru/",
       "domains": [
         "tbank.ru",
-        "tinkoff.ru",
-        "tinkoff.ru.com"
+        "tinkoff.ru"
       ],
       "scope": "T-Bank and legacy Tinkoff domains; candidate hostnames."
     },
@@ -367,8 +364,7 @@
       "source": "https://hh.ru/",
       "domains": [
         "hh.ru",
-        "hhcdn.ru",
-        "hh.ru.com"
+        "hhcdn.ru"
       ],
       "scope": "HeadHunter service and static delivery candidates."
     },
