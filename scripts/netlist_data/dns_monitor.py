@@ -161,8 +161,10 @@ def monitor_catalog(
             if not previous_good and isinstance(before, dict) and before.get("status") == "ok":
                 previous_good = before.get("addresses", [])
             old_set, new_set = set(previous_good or []), set(now["addresses"])
+            old_was_observed = isinstance(before, dict) and before.get("status") in {"ok", "no_records"}
             for address in sorted(new_set - old_set):
-                if old_set: add_event("ip_added", domain, item["services"], family, address)
+                if domain in old_names and old_was_observed:
+                    add_event("ip_added", domain, item["services"], family, address)
             for address in sorted(old_set - new_set):
                 add_event("ip_removed", domain, item["services"], family, address)
 
