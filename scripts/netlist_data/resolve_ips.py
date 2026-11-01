@@ -12,7 +12,7 @@ import sys
 from pathlib import Path
 
 from .io_lists import read_list
-from .seed_import import load_registry
+from .seed_import import apply_domain_overrides, load_registry
 
 NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.0.0.0/8"),)
 
@@ -55,6 +55,7 @@ def write_grouped_list(path: Path, groups: list[tuple[str, set[str]]], comments:
 def generate(repo_root: Path) -> dict[str, int]:
     root = Path(repo_root)
     registry = load_registry(root / "state" / "registry.json")
+    apply_domain_overrides(root, registry)
     all_v4: set[str] = set()
     all_v6: set[str] = set()
     common_groups: dict[str, list[tuple[str, set[str]]]] = {
