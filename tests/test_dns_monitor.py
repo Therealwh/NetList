@@ -69,6 +69,19 @@ class DnsMonitorTest(unittest.TestCase):
             self.assertEqual(data["summary"]["domains_changed"], 0)
             self.assertEqual(data["domains"]["example.com"]["changed"], [])
 
+
+    def test_recovery_to_same_last_good_addresses_is_not_a_change(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            good = lambda domain, family: {"status": "ok", "addresses": ["8.8.8.8"] if family == socket.AF_INET else ["2001:4860:4860::8888"], "error": None}
+            failed = lambda domain, family: {"status": "error", "addresses": [], "error": "temporary timeout"}
+            monitor_catalog(root, good, "2026-11-01T00:00:00+00:00")
+            monitor_catalog(root, failed, "2026-11-02T00:00:00+00:00")
+            recovered = monitor_catalog(root, good, "2026-11-03T00:00:00+00:00")
+            self.assertEqual(recovered["domains"]["example.com"]["changed"], [])
+            self.assertEqual(recovered["summary"]["domains_changed"], 0)
+
     def test_history_tracks_address_changes(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
