@@ -420,6 +420,9 @@ khl.ru
 # Service — Kick
 kick.com
 
+# Service — KinoGo
+kinogo.online
+
 # Service — KION
 kion.ru
 

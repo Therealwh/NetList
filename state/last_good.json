@@ -1,8 +1,8 @@
 {
   "counts": {
-    "services": 273,
+    "services": 274,
     "categories": 27,
-    "domains": 563
+    "domains": 564
   },
   "services": {
     "1337x": {
@@ -303,6 +303,9 @@
       "domain_count": 1
     },
     "kick": {
+      "domain_count": 1
+    },
+    "kinogo": {
       "domain_count": 1
     },
     "kinopoisk": {

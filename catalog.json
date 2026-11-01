@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "dataset": "netlist",
-  "generated_at": "2026-10-30T09:01:45+00:00",
+  "generated_at": "2026-11-01T12:46:31+00:00",
   "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
   "counts": {
-    "services": 273,
+    "services": 274,
     "categories": 27,
-    "domains": 563
+    "domains": 564
   },
   "categories": [
     {
@@ -91,8 +91,8 @@
     },
     {
       "id": "movies",
-      "services_count": 10,
-      "domains_count": 12
+      "services_count": 11,
+      "domains_count": 13
     },
     {
       "id": "music",
@@ -1920,6 +1920,22 @@
       ],
       "datasets": [
         "global"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "KinoGo",
+      "slug": "kinogo",
+      "primary_domain": "kinogo.online",
+      "domains": [
+        "kinogo.online"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "movies"
+      ],
+      "datasets": [
+        "user"
       ],
       "seed_status": "candidate_unverified"
     },

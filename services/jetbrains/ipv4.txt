@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # JetBrains — jetbrains.com
-18.161.156.30
-18.161.156.37
-18.161.156.42
-18.161.156.89
+3.161.225.116
+3.161.225.119
+3.161.225.128
+3.161.225.63
