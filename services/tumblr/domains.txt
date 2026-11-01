@@ -1,3 +1,5 @@
 # NetList seed candidates: Tumblr
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+tmblr.co
+tumblr.co
 tumblr.com

@@ -1,3 +1,190 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Hulu — 112263.com
+# (no public DNS addresses found)
+
+# Hulu — assetshuluimcom-a.akamaihd.net
+2600:1404:ec00:2406::17db:5708/128
+2600:1404:ec00:2408::1735:7fe4/128
+
+# Hulu — callhulu.com
+# (no public DNS addresses found)
+
+# Hulu — cws-hulu.conviva.com
+2620:10b:7002:14::108/128
+
+# Hulu — findyourlimits.com
+# (no public DNS addresses found)
+
+# Hulu — freehulu.com
+# (no public DNS addresses found)
+
+# Hulu — happyon.jp
+# (no public DNS addresses found)
+
+# Hulu — hjholdings.jp
+# (no public DNS addresses found)
+
+# Hulu — hooloo.tv
+# (no public DNS addresses found)
+
+# Hulu — hoolu.com
+# (no public DNS addresses found)
+
+# Hulu — hoolu.tv
+# (no public DNS addresses found)
+
+# Hulu — hu1u.com
+# (no public DNS addresses found)
+
+# Hulu — huloo.cc
+# (no public DNS addresses found)
+
+# Hulu — huloo.tv
+# (no public DNS addresses found)
+
 # Hulu — hulu.com
+# (no public DNS addresses found)
+
+# Hulu — hulu.hb.omtrdc.net
+# (no public DNS addresses found)
+
+# Hulu — hulu.jp
+2600:9000:21ec:2200:7:9bc5:8900:93a1/128
+2600:9000:21ec:3200:7:9bc5:8900:93a1/128
+2600:9000:21ec:5a00:7:9bc5:8900:93a1/128
+2600:9000:21ec:8600:7:9bc5:8900:93a1/128
+2600:9000:21ec:aa00:7:9bc5:8900:93a1/128
+2600:9000:21ec:be00:7:9bc5:8900:93a1/128
+2600:9000:21ec:e00:7:9bc5:8900:93a1/128
+2600:9000:21ec:e200:7:9bc5:8900:93a1/128
+
+# Hulu — hulu.playback.edge.bamgrid.com
+2600:9000:2064:2a00:15:74ef:49c0:93a1/128
+2600:9000:2064:3600:15:74ef:49c0:93a1/128
+2600:9000:2064:3800:15:74ef:49c0:93a1/128
+2600:9000:2064:6400:15:74ef:49c0:93a1/128
+2600:9000:2064:7c00:15:74ef:49c0:93a1/128
+2600:9000:2064:9800:15:74ef:49c0:93a1/128
+2600:9000:2064:e600:15:74ef:49c0:93a1/128
+2600:9000:2064:f000:15:74ef:49c0:93a1/128
+
+# Hulu — hulu.sc.omtrdc.net
+# (no public DNS addresses found)
+
+# Hulu — hulu.tv
+# (no public DNS addresses found)
+
+# Hulu — hulu.us
+# (no public DNS addresses found)
+
+# Hulu — huluaction.com
+# (no public DNS addresses found)
+
+# Hulu — huluad.com
+# (no public DNS addresses found)
+
+# Hulu — huluapp.com
+# (no public DNS addresses found)
+
+# Hulu — huluasks.com
+# (no public DNS addresses found)
+
+# Hulu — hulucall.com
+# (no public DNS addresses found)
+
+# Hulu — hulufree.com
+# (no public DNS addresses found)
+
+# Hulu — hulugans.com
+# (no public DNS addresses found)
+
+# Hulu — hulugermany.com
+# (no public DNS addresses found)
+
+# Hulu — hulugo.com
+# (no public DNS addresses found)
+
+# Hulu — huluim.com
+# (no public DNS addresses found)
+
+# Hulu — huluinstantmessenger.com
+# (no public DNS addresses found)
+
+# Hulu — huluitaly.com
+# (no public DNS addresses found)
+
+# Hulu — hulunet.com
+# (no public DNS addresses found)
+
+# Hulu — hulunetwork.com
+# (no public DNS addresses found)
+
+# Hulu — huluplus.com
+2600:1901:0:84f4::80/128
+
+# Hulu — hulupremium.com
+# (no public DNS addresses found)
+
+# Hulu — hulupurchase.com
+# (no public DNS addresses found)
+
+# Hulu — huluqa.com
+2600:1404:ec00:25::17dc:a304/128
+2600:1404:ec00:25::17dc:a307/128
+
+# Hulu — hulurussia.com
+# (no public DNS addresses found)
+
+# Hulu — huluspain.com
+# (no public DNS addresses found)
+
+# Hulu — hulusports.com
+# (no public DNS addresses found)
+
+# Hulu — hulustream.com
+# (no public DNS addresses found)
+
+# Hulu — huluteam.com
+# (no public DNS addresses found)
+
+# Hulu — hulutv.com
+# (no public DNS addresses found)
+
+# Hulu — huluusa.com
+# (no public DNS addresses found)
+
+# Hulu — joinmaidez.com
+# (no public DNS addresses found)
+
+# Hulu — live-mediashield-ava-hulustream-com.akamaized.net
+# (no public DNS addresses found)
+
+# Hulu — mushymush.tv
+# (no public DNS addresses found)
+
+# Hulu — myhulu.com
+# (no public DNS addresses found)
+
+# Hulu — originalhulu.com
+# (no public DNS addresses found)
+
+# Hulu — payhulu.com
+# (no public DNS addresses found)
+
+# Hulu — prod.hjholdings.tv
+# (no public DNS addresses found)
+
+# Hulu — registerhulu.com
+# (no public DNS addresses found)
+
+# Hulu — streaks.jp
+# (no public DNS addresses found)
+
+# Hulu — thehulubraintrust.com
+# (no public DNS addresses found)
+
+# Hulu — wwwhuluplus.com
+# (no public DNS addresses found)
+
+# Hulu — yb.uncn.jp
 # (no public DNS addresses found)

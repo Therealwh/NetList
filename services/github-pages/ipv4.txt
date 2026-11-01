@@ -1,8 +1,140 @@
 # DNS-derived IP snapshot for GitHub Pages (github-pages)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# GitHub Pages — atom.io
+140.82.112.18
+
+# GitHub Pages — dependabot.com
+140.82.114.17
+
+# GitHub Pages — ghcr.io
+20.29.134.18
+
+# GitHub Pages — git.io
+140.82.113.22
+
+# GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
+151.101.162.79
+
+# GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
+47.79.66.61
+
+# GitHub Pages — github-cloud.s3.amazonaws.com
+16.15.183.116
+16.15.207.209
+16.15.212.192
+16.15.212.38
+16.15.237.26
+16.182.99.210
+54.231.169.138
+54.231.232.186
+
+# GitHub Pages — github.blog
+192.0.66.2
+
+# GitHub Pages — github.com
+140.82.112.3
+
+# GitHub Pages — github.community
+140.82.114.17
+
+# GitHub Pages — github.dev
+52.224.38.193
+
 # GitHub Pages — github.io
 185.199.108.153
 185.199.109.153
 185.199.110.153
 185.199.111.153
+
+# GitHub Pages — githubapp.com
+140.82.112.29
+140.82.112.30
+140.82.113.29
+140.82.113.30
+140.82.114.29
+140.82.114.30
+
+# GitHub Pages — githubassets.com
+# (no public DNS addresses found)
+
+# GitHub Pages — githubcopilot.com
+140.82.112.17
+140.82.112.18
+140.82.113.17
+140.82.113.18
+140.82.114.17
+140.82.114.18
+
+# GitHub Pages — githubhackathon.com
+140.82.112.18
+
+# GitHub Pages — githubnext.com
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# GitHub Pages — githubpreview.dev
+# (no public DNS addresses found)
+
+# GitHub Pages — githubstatus.com
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# GitHub Pages — githubuniverse.com
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# GitHub Pages — githubusercontent.com
+# (no public DNS addresses found)
+
+# GitHub Pages — myoctocat.com
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# GitHub Pages — npm.community
+140.82.114.17
+
+# GitHub Pages — npmjs.com
+104.17.134.117
+104.17.135.117
+
+# GitHub Pages — npmjs.org
+104.16.0.34
+104.16.1.34
+104.16.10.34
+104.16.11.34
+104.16.2.34
+104.16.3.34
+104.16.4.34
+104.16.5.34
+104.16.6.34
+104.16.7.34
+104.16.8.34
+104.16.9.34
+
+# GitHub Pages — opensource.guide
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# GitHub Pages — rawgit.com
+104.21.24.61
+172.67.217.78
+
+# GitHub Pages — rawgithub.com
+# (no public DNS addresses found)
+
+# GitHub Pages — repo.new
+140.82.114.17
+
+# GitHub Pages — thegithubshop.com
+23.227.38.65

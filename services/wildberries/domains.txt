@@ -1,4 +1,21 @@
 # NetList seed candidates: Wildberries
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+ads-gate.wildberries.ru
+ads-media.wildberries.ru
+ads.wildberries.ru
+advert-api-sandbox.wb.ru
+advert-api-sandbox.wildberries.ru
+advert-api.wb.ru
+advert-api.wildberries.ru
+advert-media-api.wb.ru
+advert-media-api.wildberries.ru
+analytics-stage.wildberries.ru
+analytics.wildberries.ru
+marketing-info.wildberries.ru
+marketplace-sentry.wb.ru
+sentry.wb.ru
 wb.ru
+wbcontent.net
+wbstatic.net
+web-analytics.wildberries.ru
 wildberries.ru

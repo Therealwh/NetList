@@ -1,3 +1,7 @@
 # NetList seed candidates: Google Drive
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+docs.google.com
 drive.google.com
+googledrive.com
+googleusercontent.com
+www.googleapis.com

@@ -1,4 +1,8 @@
 # NetList seed candidates: WhatsApp
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+bintray.com
+graph.facebook.com
 wa.me
+whatsapp.biz
 whatsapp.com
+whatsapp.net

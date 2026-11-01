@@ -4,3 +4,13 @@
 # DigitalOcean — digitalocean.com
 2606:4700::6813:ad44
 2606:4700::6813:ae44
+
+# DigitalOcean — digitaloceanspaces.com
+2606:4700:4400::ac40:911d
+2606:4700:4405::6812:2ae3
+
+# DigitalOcean — do.co
+# (no public DNS addresses found)
+
+# DigitalOcean — nginxconfig.io
+# (no public DNS addresses found)

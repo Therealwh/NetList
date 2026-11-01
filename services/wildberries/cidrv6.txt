@@ -1,5 +1,56 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Wildberries — ads-gate.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — ads-media.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — ads.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-api-sandbox.wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-api-sandbox.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-api.wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-api.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-media-api.wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-media-api.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — analytics-stage.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — analytics.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — marketing-info.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — marketplace-sentry.wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — sentry.wb.ru
+# (no public DNS addresses found)
+
 # Wildberries — wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — wbcontent.net
+# (no public DNS addresses found)
+
+# Wildberries — wbstatic.net
+# (no public DNS addresses found)
+
+# Wildberries — web-analytics.wildberries.ru
 # (no public DNS addresses found)
 
 # Wildberries — wildberries.ru

@@ -1,3 +1,9 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# RuStore — rustore.net
+# (no public DNS addresses found)
+
 # RuStore — rustore.ru
 95.163.61.31/32
+
+# RuStore — rustorecdn.ru
+# (no public DNS addresses found)

@@ -1,8 +1,155 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Cloudflare — cf-ipfs.com
+# (no public DNS addresses found)
+
+# Cloudflare — cf-ns.com
+122.114.89.161/32
+
+# Cloudflare — cf-ns.net
+122.114.89.161/32
+
+# Cloudflare — cf-ns.site
+122.114.89.161/32
+
+# Cloudflare — cf-ns.tech
+122.114.89.161/32
+
+# Cloudflare — cftest5.cn
+122.114.236.81/32
+
+# Cloudflare — cftest6.cn
+122.114.236.81/32
+
+# Cloudflare — cftest7.com
+122.114.89.161/32
+
+# Cloudflare — cftest8.com
+122.114.89.161/32
+
+# Cloudflare — cloudflare-cn.com
+122.114.89.161/32
+
 # Cloudflare — cloudflare-dns.com
 104.16.248.249/32
 104.16.249.249/32
 
+# Cloudflare — cloudflare-ipfs.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflare-quic.com
+104.18.26.14/32
+104.18.27.14/32
+
 # Cloudflare — cloudflare.com
 104.16.132.229/32
 104.16.133.229/32
+
+# Cloudflare — cloudflare.net
+104.16.208.90/32
+104.17.156.85/32
+
+# Cloudflare — cloudflare.tv
+104.18.18.239/32
+104.18.19.239/32
+
+# Cloudflare — cloudflareaccess.com
+104.19.194.29/32
+104.19.195.29/32
+
+# Cloudflare — cloudflareapps.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflarebolt.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflareclient.com
+104.16.192.82/32
+104.16.24.84/32
+
+# Cloudflare — cloudflarecn.net
+122.114.89.161/32
+
+# Cloudflare — cloudflareinsights-cn.com
+122.114.89.161/32
+
+# Cloudflare — cloudflareinsights.com
+104.16.79.73/32
+104.16.80.73/32
+
+# Cloudflare — cloudflareok.com
+104.18.14.229/32
+104.18.15.229/32
+
+# Cloudflare — cloudflarepreview.com
+104.18.8.106/32
+104.18.9.106/32
+
+# Cloudflare — cloudflareprod.com
+122.114.89.161/32
+
+# Cloudflare — cloudflareresolve.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflaressl.com
+104.20.24.198/32
+172.66.164.120/32
+
+# Cloudflare — cloudflarestaging.com
+104.18.28.121/32
+104.18.29.121/32
+
+# Cloudflare — cloudflarestatus.com
+35.201.124.30/32
+
+# Cloudflare — cloudflarestorage.com
+104.16.94.115/32
+104.16.95.115/32
+
+# Cloudflare — cloudflarestoragegw.com
+122.114.89.161/32
+
+# Cloudflare — cloudflarestream.com
+104.16.93.114/32
+104.16.94.114/32
+104.16.95.114/32
+104.16.96.114/32
+104.16.97.114/32
+
+# Cloudflare — cloudflaretest.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflarewarp.com
+104.17.89.239/32
+104.17.90.239/32
+
+# Cloudflare — every1dns.net
+# (no public DNS addresses found)
+
+# Cloudflare — one.one.one
+# (no public DNS addresses found)
+
+# Cloudflare — pacloudflare.com
+# (no public DNS addresses found)
+
+# Cloudflare — pages.dev
+104.18.20.135/32
+104.18.21.135/32
+
+# Cloudflare — trycloudflare.com
+104.16.230.132/32
+104.16.231.132/32
+
+# Cloudflare — videodelivery.net
+104.16.199.35/32
+104.16.200.35/32
+104.16.201.35/32
+104.16.202.35/32
+104.16.203.35/32
+
+# Cloudflare — warp.plus
+151.101.1.195/32
+151.101.65.195/32
+
+# Cloudflare — workers.dev
+104.18.12.15/32
+104.18.13.15/32

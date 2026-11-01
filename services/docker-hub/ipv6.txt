@@ -1,9 +1,43 @@
 # DNS-derived IP snapshot for Docker Hub (docker-hub)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Docker Hub — compose-spec.io
+2600:9000:2064:2200:c:6d71:93c0:93a1
+2600:9000:2064:2e00:c:6d71:93c0:93a1
+2600:9000:2064:3400:c:6d71:93c0:93a1
+2600:9000:2064:600:c:6d71:93c0:93a1
+2600:9000:2064:8a00:c:6d71:93c0:93a1
+2600:9000:2064:aa00:c:6d71:93c0:93a1
+2600:9000:2064:b200:c:6d71:93c0:93a1
+2600:9000:2064:dc00:c:6d71:93c0:93a1
+
+# Docker Hub — d1q6f0aelx0por.cloudfront.net
+# (no public DNS addresses found)
+
+# Docker Hub — d2wy8f7a9ursnm.cloudfront.net
+# (no public DNS addresses found)
+
+# Docker Hub — d36jcksde1wxzq.cloudfront.net
+2600:9000:26c8:2600:f:4737:4580:93a1
+2600:9000:26c8:2c00:f:4737:4580:93a1
+2600:9000:26c8:8a00:f:4737:4580:93a1
+2600:9000:26c8:9400:f:4737:4580:93a1
+2600:9000:26c8:cc00:f:4737:4580:93a1
+2600:9000:26c8:d400:f:4737:4580:93a1
+2600:9000:26c8:e000:f:4737:4580:93a1
+2600:9000:26c8:ee00:f:4737:4580:93a1
+
 # Docker Hub — docker.com
 2620:12a:8000::4
 2620:12a:8001::4
+
+# Docker Hub — docker.io
+2600:1f18:2148:bc00:eb39:1baf:a9b:8d58
+2600:1f18:2148:bc01:8ace:b487:fcc3:4aa9
+2600:1f18:2148:bc02:dd71:3e03:179:5785
+
+# Docker Hub — dockerhub.com
+# (no public DNS addresses found)
 
 # Docker Hub — hub.docker.com
 2606:4700:4403::ac40:9045

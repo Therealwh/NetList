@@ -1,3 +1,6 @@
 # NetList seed candidates: Tidal
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+tidal-cms.s3.amazonaws.com
 tidal.com
+tidalhifi.com
+wimpmusic.com

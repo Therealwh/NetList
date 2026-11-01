@@ -7,8 +7,23 @@
 # Telegram — ads.telegram.org
 2001:67c:4e8:f004::9
 
+# Telegram — api.imem.app
+2606:4700:20::681a:41e
+2606:4700:20::681a:51e
+2606:4700:20::ac43:4aa3
+
+# Telegram — api.swiftgram.app
+2606:4700:3032::6815:7c
+2606:4700:3035::ac43:96f4
+
 # Telegram — bugs.telegram.org
 2001:67c:4e8:f004::9
+
+# Telegram — cdn-telegram.org
+# (no public DNS addresses found)
+
+# Telegram — comments.app
+# (no public DNS addresses found)
 
 # Telegram — contest.com
 2001:67c:4e8:1033:3:0:463:337
@@ -18,11 +33,21 @@
 2606:4700:10::6814:1acb
 2606:4700:10::ac42:aa18
 
+# Telegram — graph.org
+# (no public DNS addresses found)
+
 # Telegram — instantview.telegram.org
 2001:67c:4e8:f004::9
 
 # Telegram — k.t.me
 2001:67c:4e8:f004::9
+
+# Telegram — legra.ph
+# (no public DNS addresses found)
+
+# Telegram — mbrx.app
+2606:4700:3031::ac43:94b0
+2606:4700:3037::6815:57f1
 
 # Telegram — oauth.telegram.org
 2001:67c:4e8:f004::9
@@ -43,7 +68,16 @@
 # Telegram — t.me
 2001:67c:4e8:f004::9
 
+# Telegram — tdesktop.com
+# (no public DNS addresses found)
+
+# Telegram — telega.one
+# (no public DNS addresses found)
+
 # Telegram — telegra.ph
+# (no public DNS addresses found)
+
+# Telegram — telegram-cdn.org
 # (no public DNS addresses found)
 
 # Telegram — telegram.dog
@@ -54,6 +88,12 @@
 
 # Telegram — telegram.org
 2001:67c:4e8:f004::9
+
+# Telegram — telegram.space
+# (no public DNS addresses found)
+
+# Telegram — telegramdownload.com
+# (no public DNS addresses found)
 
 # Telegram — telesco.pe
 # (no public DNS addresses found)
@@ -66,6 +106,12 @@
 
 # Telegram — translations.telegram.org
 2001:67c:4e8:f004::9
+
+# Telegram — tx.me
+# (no public DNS addresses found)
+
+# Telegram — usercontent.dev
+# (no public DNS addresses found)
 
 # Telegram — web.t.me
 2001:67c:4e8:f004::9

@@ -1,5 +1,82 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# WeChat — apd-pcdnwxlogin.teg.tencent-cloud.net
+# (no public DNS addresses found)
+
+# WeChat — btrace.qq.com
+# (no public DNS addresses found)
+
+# WeChat — dldir1.qq.com
+# (no public DNS addresses found)
+
+# WeChat — iot-tencent.com
+# (no public DNS addresses found)
+
+# WeChat — lbs.gtimg.com
+2408:872f:d00:14:70::5/128
+2408:8749:c110:804:53::/128
+
+# WeChat — map.qq.com
+240d:c000:2010:1803:0:9a8f:f6f7:8727/128
+240d:c000:2010:1803:0:9a8f:f6fd:a5a6/128
+
+# WeChat — qlogo.cn
+# (no public DNS addresses found)
+
+# WeChat — qpic.cn
+# (no public DNS addresses found)
+
+# WeChat — servicewechat.com
+240d:c000:2010:1e00:0:9f72:f7c4:4089/128
+240d:c000:2010:1e00:0:9f72:f7cb:f893/128
+
+# WeChat — slife.xy-asia.com
+# (no public DNS addresses found)
+
+# WeChat — soup.v.qq.com
+# (no public DNS addresses found)
+
+# WeChat — tenpay.com
+# (no public DNS addresses found)
+
+# WeChat — up-hl.3g.qq.com
+240e:97c:2f::29/128
+240e:97c:2f::2c/128
+
+# WeChat — vweixinf.tc.qq.com
+240d:c010:12b:1::13/128
+240d:c010:12b:1::14/128
+240d:c010:12b:1::17/128
+240d:c010:12b:1::18/128
+240d:c010:12b:1::1a/128
+240d:c010:12b:1::1b/128
+240d:c010:12b:1::1d/128
+240d:c010:12b:1::1f/128
+240d:c010:12b:1::20/128
+
+# WeChat — vweixinthumb.tc.qq.com
+240d:c010:12b:1::13/128
+240d:c010:12b:1::14/128
+240d:c010:12b:1::15/128
+240d:c010:12b:1::16/128
+240d:c010:12b:1::17/128
+240d:c010:12b:1::18/128
+240d:c010:12b:1::1a/128
+240d:c010:12b:1::1b/128
+240d:c010:12b:1::1d/128
+
 # WeChat — wechat.com
+# (no public DNS addresses found)
+
+# WeChat — wechatlegal.net
+# (no public DNS addresses found)
+
+# WeChat — wechatos.net
+# (no public DNS addresses found)
+
+# WeChat — wechatpay.com
+# (no public DNS addresses found)
+
+# WeChat — weixin.com
 # (no public DNS addresses found)
 
 # WeChat — weixin.qq.com
@@ -7,3 +84,41 @@
 240e:e1:aa00:1001::a/128
 240e:e1:aa00:101a::48/128
 240e:e9:6003:23b::25/128
+
+# WeChat — weixin110.qq.com
+240e:e1:a800:120::6e/128
+240e:e1:a802:2::29/128
+
+# WeChat — weixinbridge.com
+# (no public DNS addresses found)
+
+# WeChat — weixinsxy.com
+# (no public DNS addresses found)
+
+# WeChat — wup.imtt.qq.com
+240e:e1:a800:120::1d/128
+240e:e1:a800:120::23/128
+240e:e1:a800:120::c/128
+
+# WeChat — wx.gtimg.com
+# (no public DNS addresses found)
+
+# WeChat — wx.qq.com
+240e:e1:a802:1::1c/128
+
+# WeChat — wxapp.tc.qq.com
+240d:c010:164:1::17/128
+240d:c010:164:1::18/128
+240d:c010:164:1::1f/128
+240d:c010:164:1::20/128
+240d:c010:164:1::21/128
+240d:c010:164:1::22/128
+240d:c010:164:1::23/128
+240d:c010:164:1::24/128
+240d:c010:164:1::25/128
+
+# WeChat — wxs.qq.com
+# (no public DNS addresses found)
+
+# WeChat — yun-hl.3g.qq.com
+240d:c000:2010:1807:0:9a8f:d386:97df/128

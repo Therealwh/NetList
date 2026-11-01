@@ -1,3 +1,9 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# SoundCloud — p-cdn.us
+# (no public DNS addresses found)
+
+# SoundCloud — sndcdn.com
+# (no public DNS addresses found)
+
 # SoundCloud — soundcloud.com
 # (no public DNS addresses found)

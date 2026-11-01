@@ -1,5 +1,83 @@
 # DNS-derived IP snapshot for Vercel (vercel)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Vercel — err.sh
+# (no public DNS addresses found)
+
+# Vercel — hyper.is
+# (no public DNS addresses found)
+
+# Vercel — nextjs.org
+# (no public DNS addresses found)
+
+# Vercel — now.sh
+# (no public DNS addresses found)
+
+# Vercel — static.fun
+# (no public DNS addresses found)
+
+# Vercel — title.sh
+# (no public DNS addresses found)
+
+# Vercel — turborepo.org
+# (no public DNS addresses found)
+
+# Vercel — vercel-analytics.com
+# (no public DNS addresses found)
+
+# Vercel — vercel-dns.com
+# (no public DNS addresses found)
+
+# Vercel — vercel-insights.com
+# (no public DNS addresses found)
+
+# Vercel — vercel-status.com
+# (no public DNS addresses found)
+
+# Vercel — vercel.app
+# (no public DNS addresses found)
+
+# Vercel — vercel.blog
+# (no public DNS addresses found)
+
 # Vercel — vercel.com
+# (no public DNS addresses found)
+
+# Vercel — vercel.events
+# (no public DNS addresses found)
+
+# Vercel — vercel.link
+# (no public DNS addresses found)
+
+# Vercel — vercel.live
+# (no public DNS addresses found)
+
+# Vercel — vercel.pub
+# (no public DNS addresses found)
+
+# Vercel — vercel.sh
+# (no public DNS addresses found)
+
+# Vercel — vercel.store
+# (no public DNS addresses found)
+
+# Vercel — zeit-world.co.uk
+# (no public DNS addresses found)
+
+# Vercel — zeit-world.com
+# (no public DNS addresses found)
+
+# Vercel — zeit-world.net
+# (no public DNS addresses found)
+
+# Vercel — zeit-world.org
+# (no public DNS addresses found)
+
+# Vercel — zeit.co
+# (no public DNS addresses found)
+
+# Vercel — zeit.sh
+# (no public DNS addresses found)
+
+# Vercel — zeitworld.com
 # (no public DNS addresses found)

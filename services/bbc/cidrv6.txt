@@ -1,4 +1,22 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# BBC — aod-dash-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — aod-hls-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — aod-pod-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — as-dash-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — as-hls-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — bbc.co
+# (no public DNS addresses found)
+
 # BBC — bbc.co.uk
 2a04:4e42:200::81/128
 2a04:4e42:400::81/128
@@ -10,3 +28,77 @@
 2a04:4e42:400::81/128
 2a04:4e42:600::81/128
 2a04:4e42::81/128
+
+# BBC — bbc.in
+# (no public DNS addresses found)
+
+# BBC — bbc.net.uk
+# (no public DNS addresses found)
+
+# BBC — bbcchinese.com
+2001:41c1:4007::bbc:5/128
+2001:41c1:4007::bbc:6/128
+2001:41c1:4007::bbc:7/128
+2001:41c1:4007::bbc:8/128
+2001:41c1:4008::bbc:5/128
+2001:41c1:4008::bbc:6/128
+
+# BBC — bbcfmt.hs.llnwd.net
+# (no public DNS addresses found)
+
+# BBC — bbcfmt.s.llnwi.net
+# (no public DNS addresses found)
+
+# BBC — bbci.co
+# (no public DNS addresses found)
+
+# BBC — bbci.co.uk
+# (no public DNS addresses found)
+
+# BBC — bbcmedia.co.uk
+# (no public DNS addresses found)
+
+# BBC — bbcpersian.com
+# (no public DNS addresses found)
+
+# BBC — bbcverticals.com
+# (no public DNS addresses found)
+
+# BBC — bidi.net.uk
+# (no public DNS addresses found)
+
+# BBC — ve-dash-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — ve-uhd-push-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vod-dash-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vod-dash-ww-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vod-hls-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vod-sub-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vod-thumb-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vod-thumb-ww-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vs-cmaf-push-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vs-cmaf-pushb-ww-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vs-hls-push-uk-live.akamaized.net
+# (no public DNS addresses found)
+
+# BBC — vs-hls-pushb-uk-live.akamaized.net
+# (no public DNS addresses found)

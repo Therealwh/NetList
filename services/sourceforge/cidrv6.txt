@@ -1,4 +1,13 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# SourceForge — fsdn.com
+# (no public DNS addresses found)
+
+# SourceForge — sf.net
+# (no public DNS addresses found)
+
+# SourceForge — sourceforge.com
+# (no public DNS addresses found)
+
 # SourceForge — sourceforge.net
 2606:4700::6812:c95/128
 2606:4700::6812:d95/128

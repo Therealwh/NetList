@@ -1,3 +1,15 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Rutube — rutube-cdn.net
+# (no public DNS addresses found)
+
+# Rutube — rutube-cdn.ru
+# (no public DNS addresses found)
+
+# Rutube — rutube.com
+# (no public DNS addresses found)
+
+# Rutube — rutube.net
+# (no public DNS addresses found)
+
 # Rutube — rutube.ru
 # (no public DNS addresses found)

@@ -1,3 +1,17 @@
 # NetList seed candidates: Epic Games
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+battlebreakers.com
+eac-cdn.com
+easy.ac
+easyanticheat.net
 epicgames.com
+epicgames.dev
+fortnite.com
+helpshift.com
+paragon.com
+playparagon.com
+roborecall.com
+shadowcomplex.com
+spyjinx.com
+unrealengine.com
+unrealtournament.com

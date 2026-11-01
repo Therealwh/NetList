@@ -1,9 +1,218 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Steam — a4e8s8k3.map2.ssl.hwcdn.net
+# (no public DNS addresses found)
+
+# Steam — alibaba.cdn.steampipe.steamcontent.com
+2600:9000:20d1:5600:13:8ee3:f9c0:21/128
+2600:9000:20d1:8800:13:8ee3:f9c0:21/128
+2600:9000:20d1:a200:13:8ee3:f9c0:21/128
+2600:9000:20d1:be00:13:8ee3:f9c0:21/128
+2600:9000:20d1:c600:13:8ee3:f9c0:21/128
+2600:9000:20d1:c800:13:8ee3:f9c0:21/128
+2600:9000:20d1:d000:13:8ee3:f9c0:21/128
+2600:9000:20d1:f800:13:8ee3:f9c0:21/128
+
+# Steam — cdn-ali.content.steamchina.com
+# (no public DNS addresses found)
+
+# Steam — cdn-qc.content.steamchina.com
+# (no public DNS addresses found)
+
+# Steam — cdn-ws.content.steamchina.com
+# (no public DNS addresses found)
+
+# Steam — csgo.wmsj.cn
+# (no public DNS addresses found)
+
+# Steam — dl.steam.clngaa.com
+240e:930:c300:c00::14/128
+240e:930:c300:c00::17/128
+240e:93c:109:100::9d/128
+240e:93c:109:100::a0/128
+
+# Steam — dl.steam.ksyna.com
+# (no public DNS addresses found)
+
+# Steam — dota2.com
+# (no public DNS addresses found)
+
+# Steam — dota2.wmsj.cn
+# (no public DNS addresses found)
+
+# Steam — edge.steam-dns.top.comcast.net
+2001:558:fe1c:170::1e/128
+2001:558:fe1c:170::3e/128
+2001:558:fe1c:170::6/128
+2001:558:fe1c:170::7/128
+2001:558:fe1c:170::b/128
+2001:558:fe1c:89::2/128
+
+# Steam — f3b7q2p3.ssl.hwcdn.net
+# (no public DNS addresses found)
+
+# Steam — fanatical.com
+2606:4700:10::6814:1390/128
+2606:4700:10::ac42:9b1d/128
+
+# Steam — humblebundle.com
+# (no public DNS addresses found)
+
+# Steam — lv.queniujq.cn
+# (no public DNS addresses found)
+
+# Steam — playartifact.com
+# (no public DNS addresses found)
+
+# Steam — s.team
+# (no public DNS addresses found)
+
+# Steam — st.dl.bscstorage.net
+240e:951:2c10:600::10/128
+240e:951:2c10:600::d/128
+240e:951:2c10:600::e/128
+240e:951:2c10:600::f/128
+
+# Steam — st.dl.eccdnx.com
+# (no public DNS addresses found)
+
+# Steam — st.dl.pinyuncloud.com
+# (no public DNS addresses found)
+
+# Steam — steam-api.com
+# (no public DNS addresses found)
+
+# Steam — steam-chat.com
+# (no public DNS addresses found)
+
+# Steam — steam.apac.qtlglb.com
+# (no public DNS addresses found)
+
+# Steam — steam.cdn.on.net
+# (no public DNS addresses found)
+
+# Steam — steam.cdn.orcon.net.nz
+2404:4408:2:512e::2000/128
+
+# Steam — steam.cdn.slingshot.co.nz
+2404:4408:2:512e::2000/128
+
+# Steam — steam.cdn.webra.ru
+2a02:258:ffe:fffe::70:34/128
+
+# Steam — steam.eca.qtlglb.com
+# (no public DNS addresses found)
+
+# Steam — steam.naeu.qtlglb.com
+# (no public DNS addresses found)
+
+# Steam — steam.ru.qtlglb.com
+# (no public DNS addresses found)
+
+# Steam — steam.tv
+# (no public DNS addresses found)
+
+# Steam — steambroadcast.akamaized.net
+# (no public DNS addresses found)
+
+# Steam — steamcdn-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Steam — steamcloudsweden.blob.core.windows.net
+# (no public DNS addresses found)
+
+# Steam — steamcommunity-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Steam — steamcommunity-a.akamaihd.net.edgesuite.net
+# (no public DNS addresses found)
+
 # Steam — steamcommunity.com
 # (no public DNS addresses found)
+
+# Steam — steamconnecttest.com
+2600:1405:7400:5::17d7:df26/128
+2600:1405:7400:5::17d7:df47/128
+
+# Steam — steamcontent.com
+# (no public DNS addresses found)
+
+# Steam — steamcontent.tnkjmec.com
+# (no public DNS addresses found)
+
+# Steam — steamdeck.com
+# (no public DNS addresses found)
+
+# Steam — steamgames.com
+# (no public DNS addresses found)
+
+# Steam — steammobile.akamaized.net
+2600:1405:8400:10::173e:e2c3/128
+2600:1405:8400:10::173e:e2c6/128
+
+# Steam — steampipe-kr.akamaized.net
+2600:1404:ec00:2400::17db:576d/128
+2600:1404:ec00:240a::1735:7fc8/128
+
+# Steam — steampipe-partner.akamaized.net
+2600:1405:8400:13::17de:3e2/128
+2600:1405:8400:13::17de:3ea/128
+
+# Steam — steampipe.akamaized.net
+2600:1405:8400:13::17de:3e2/128
+2600:1405:8400:13::17de:3e4/128
 
 # Steam — steampowered.com
 # (no public DNS addresses found)
 
+# Steam — steampowered.com.8686c.com
+# (no public DNS addresses found)
+
+# Steam — steamserver.net
+# (no public DNS addresses found)
+
+# Steam — steamstat.us
+2606:4700:10::6814:1de6/128
+2606:4700:10::ac42:ab87/128
+
 # Steam — steamstatic.com
+# (no public DNS addresses found)
+
+# Steam — steamstatic.com.8686c.com
+# (no public DNS addresses found)
+
+# Steam — steamstore-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Steam — steamugcquincy.blob.core.windows.net
+# (no public DNS addresses found)
+
+# Steam — steamunlocked.net
+2606:4700:20::681a:e12/128
+2606:4700:20::681a:f12/128
+2606:4700:20::ac43:4735/128
+
+# Steam — steamusercontent-a.akamaihd.net
+2600:1405:7400:5::17d7:df28/128
+2600:1405:7400:5::17d7:df45/128
+
+# Steam — steamuserimages-a.akamaihd.net
+2600:1405:7400:5::17d7:df27/128
+2600:1405:7400:5::17d7:df46/128
+
+# Steam — steamvideo-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Steam — underlords.com
+# (no public DNS addresses found)
+
+# Steam — valve.net
+# (no public DNS addresses found)
+
+# Steam — valvesoftware.com
+# (no public DNS addresses found)
+
+# Steam — wmsjsteam.com
+# (no public DNS addresses found)
+
+# Steam — xz.pphimalayanrt.com
 # (no public DNS addresses found)

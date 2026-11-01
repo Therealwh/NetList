@@ -1,3 +1,43 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# JetBrains — datalore.io
+# (no public DNS addresses found)
+
+# JetBrains — grazie.ai
+# (no public DNS addresses found)
+
+# JetBrains — intellij.com
+# (no public DNS addresses found)
+
+# JetBrains — intellij.net
+# (no public DNS addresses found)
+
+# JetBrains — intellij.org
+# (no public DNS addresses found)
+
+# JetBrains — jetbrains.ai
+# (no public DNS addresses found)
+
 # JetBrains — jetbrains.com
+# (no public DNS addresses found)
+
+# JetBrains — jetbrains.io
+# (no public DNS addresses found)
+
+# JetBrains — jetbrains.net
+# (no public DNS addresses found)
+
+# JetBrains — jetbrains.org
+# (no public DNS addresses found)
+
+# JetBrains — jetbrains.space
+2a05:d018:38c:6202:761f:8eb9:b703:f07d/128
+2a05:d018:38c:6203:e7b9:311b:b59e:1068/128
+
+# JetBrains — jetbrains.team
+# (no public DNS addresses found)
+
+# JetBrains — kotlinconf.com
+# (no public DNS addresses found)
+
+# JetBrains — kotlinlang.org
 # (no public DNS addresses found)

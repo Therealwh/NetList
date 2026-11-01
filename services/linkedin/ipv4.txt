@@ -1,5 +1,48 @@
 # DNS-derived IP snapshot for LinkedIn (linkedin)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# LinkedIn — bizographics.com
+# (no public DNS addresses found)
+
+# LinkedIn — e122475.dscg.akamaiedge.net
+23.223.242.27
+23.223.242.8
+
+# LinkedIn — l-0005.dc-msedge.net
+13.107.43.14
+
+# LinkedIn — l-0005.l-msedge.net
+13.107.42.14
+
+# LinkedIn — licdn.cn
+# (no public DNS addresses found)
+
+# LinkedIn — licdn.cn.cdn20.com
+# (no public DNS addresses found)
+
+# LinkedIn — licdn.com
+# (no public DNS addresses found)
+
+# LinkedIn — linkedin.at
+108.174.10.24
+
+# LinkedIn — linkedin.cn
+52.130.75.155
+
 # LinkedIn — linkedin.com
+130.211.32.14
+
+# LinkedIn — linkedin.sc.omtrdc.net
+63.140.36.144
+63.140.36.154
+63.140.36.212
+63.140.36.253
+63.140.37.172
+63.140.37.191
+63.140.37.201
+63.140.37.254
+63.140.37.45
+63.140.37.53
+
+# LinkedIn — lnkd.in
 130.211.32.14

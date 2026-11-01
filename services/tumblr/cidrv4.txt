@@ -1,3 +1,14 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Tumblr — tmblr.co
+74.114.154.15/32
+
+# Tumblr — tumblr.co
+107.23.223.185/32
+107.23.241.100/32
+107.23.241.98/32
+107.23.241.99/32
+54.236.67.202/32
+54.236.70.234/32
+
 # Tumblr — tumblr.com
 192.0.77.40/32

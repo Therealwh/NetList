@@ -1,5 +1,17 @@
 # DNS-derived IP snapshot for Instagram (instagram)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Instagram — cdninstagram.com
+# (no public DNS addresses found)
+
+# Instagram — ig.me
+2a03:2880:f381:22:face:b00c:0:4420
+
+# Instagram — igsonar.com
+# (no public DNS addresses found)
+
+# Instagram — instagr.am
+2a03:2880:f381:22:face:b00c:0:4420
+
 # Instagram — instagram.com
-2a03:2880:f38a:22:face:b00c:0:4420
+2a03:2880:f31d:22:face:b00c:0:4420

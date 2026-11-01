@@ -1,6 +1,24 @@
 # DNS-derived IP snapshot for Notion (notion)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Notion — http-inputs-notion.splunkcloud.com
+18.214.252.60
+34.228.45.57
+44.215.234.239
+
+# Notion — notion-static.com
+# (no public DNS addresses found)
+
+# Notion — notion.com
+208.103.161.1
+208.103.161.16
+208.103.161.17
+208.103.161.2
+
+# Notion — notion.new
+208.103.161.1
+208.103.161.2
+
 # Notion — notion.site
 208.103.161.32
 208.103.161.33

@@ -1,4 +1,13 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Netlify — acd89244c803f7181.awsglobalaccelerator.com
+# (no public DNS addresses found)
+
+# Netlify — afa7f374f51cc8991.awsglobalaccelerator.com
+# (no public DNS addresses found)
+
+# Netlify — d33wubrfki0l68.cloudfront.net
+# (no public DNS addresses found)
+
 # Netlify — netlify.com
-2600:1f16:1a4:a001::1f5/128
-2600:1f16:1a4:a001::1f6/128
+2600:1f1c:446:4900::1f5/128
+2600:1f1c:446:4900::1f6/128

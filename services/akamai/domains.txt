@@ -1,3 +1,8 @@
 # NetList seed candidates: Akamai
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 akamai.com
+akamai.net
+akamaiedge.net
+akamaihd.net
+akamaistream.net
+akamaized.net

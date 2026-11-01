@@ -1,6 +1,233 @@
 # DNS-derived IP snapshot for Netflix (netflix)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Netflix — cookielaw.org
+2606:4700::6812:562a
+2606:4700::6812:572a
+
+# Netflix — e13252.dscg.akamaiedge.net
+2600:1405:8400:481::33c4
+2600:1405:8400:488::33c4
+
+# Netflix — fast.com
+2600:1418:a000:888::24fe
+2600:1418:a000:8a0::24fe
+
+# Netflix — flxvpn.net
+# (no public DNS addresses found)
+
+# Netflix — h-netflix.online-metrix.net
+# (no public DNS addresses found)
+
+# Netflix — netflix.ca
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
 # Netflix — netflix.com
 2a00:86c0:2042::1
 2a00:86c0:2043::1
+
+# Netflix — netflix.com.au
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflix.com.edgesuite.net
+# (no public DNS addresses found)
+
+# Netflix — netflix.net
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest0.com
+# (no public DNS addresses found)
+
+# Netflix — netflixdnstest1.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest10.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest2.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest3.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest4.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest5.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest6.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest7.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest8.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixdnstest9.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixinvestor.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixstudios.com
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — netflixtechblog.com
+# (no public DNS addresses found)
+
+# Netflix — nflxext.com
+# (no public DNS addresses found)
+
+# Netflix — nflximg.com
+# (no public DNS addresses found)
+
+# Netflix — nflximg.net
+# (no public DNS addresses found)
+
+# Netflix — nflxsearch.net
+2600:1f14:62a:de80::de70
+2600:1f14:62a:de81::de70
+2600:1f14:62a:de82::de70
+2600:1f18:631e:2f80::de70
+2600:1f18:631e:2f81::de70
+2600:1f18:631e:2f82::de70
+2a05:d018:76c:b680::de70
+2a05:d018:76c:b684::de70
+2a05:d018:76c:b685::de70
+
+# Netflix — nflxso.net
+# (no public DNS addresses found)
+
+# Netflix — nflxvideo.net
+2600:1f14:62a:de80::de70
+2600:1f18:631e:2f81::de70
+2a05:d018:76c:b680::de70
+
+# Netflix — onetrust.com
+2606:4700:4403::6812:2089
+2a06:98c1:3103::ac40:9b77
+
+# Netflix — us-west-2.amazonaws.com
+# (no public DNS addresses found)

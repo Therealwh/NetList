@@ -1,5 +1,11 @@
 # DNS-derived IP snapshot for Иви (ivi)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Иви — ivi-cdn.net
+# (no public DNS addresses found)
+
 # Иви — ivi.ru
+# (no public DNS addresses found)
+
+# Иви — ivi.tv
 # (no public DNS addresses found)

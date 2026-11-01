@@ -3,3 +3,9 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Контур — kontur.ru
 # (no public DNS addresses found)
+
+# Контур — metrika.kontur.ru
+# (no public DNS addresses found)
+
+# Контур — sentry.kontur.host
+# (no public DNS addresses found)

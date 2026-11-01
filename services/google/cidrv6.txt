@@ -1,146 +1,2264 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Google — 0emm.com
+# (no public DNS addresses found)
+
+# Google — 1e100.net
+# (no public DNS addresses found)
+
+# Google — 1ucrs.com
+# (no public DNS addresses found)
+
+# Google — 265.com
+2607:f8b0:4023:80d::6e/128
+
+# Google — 2mdn-cn.net
+2607:f8b0:4023:80b::6e/128
+
+# Google — 2mdn.net
+# (no public DNS addresses found)
+
+# Google — 466453.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — abc.xyz
+2606:4700:7::a29f:810b/128
+2606:4700:7::a29f:820b/128
+
 # Google — accounts.google.com
-2607:f8b0:4023:101b::54/128
+2607:f8b0:4023:c03::54/128
+
+# Google — adgoogle.net
+2001:4860:4802:32::1b/128
+
+# Google — admeld.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
 
 # Google — admin.google.com
-2607:f8b0:4023:1000::65/128
-2607:f8b0:4023:1000::71/128
-2607:f8b0:4023:1000::8a/128
-2607:f8b0:4023:1000::8b/128
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — admob-cn.com
+2607:f8b0:4023:80b::6e/128
+
+# Google — admob.com
+2607:f8b0:4023:c03::64/128
+2607:f8b0:4023:c03::66/128
+2607:f8b0:4023:c03::71/128
+2607:f8b0:4023:c03::8a/128
+
+# Google — adsense.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — adsensecustomsearchads.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::8b/128
+
+# Google — adsenseformobileapps.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — adservice.google.com
+2607:f8b0:4023:807::9a/128
+2607:f8b0:4023:807::9b/128
+2607:f8b0:4023:807::9c/128
+2607:f8b0:4023:807::9d/128
+
+# Google — advertisercommunity.com
+2001:4860:4802:32::1b/128
+
+# Google — advertiserscommunity.com
+2001:4860:4802:32::1b/128
+
+# Google — adwords-community.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — adwords.com
+2607:f8b0:4023:c0b::66/128
+2607:f8b0:4023:c0b::71/128
+2607:f8b0:4023:c0b::8a/128
+2607:f8b0:4023:c0b::8b/128
+
+# Google — adwordsexpress.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
 
 # Google — aistudio.google.com
-2607:f8b0:4023:100f::64/128
-2607:f8b0:4023:100f::66/128
-2607:f8b0:4023:100f::71/128
-2607:f8b0:4023:100f::8b/128
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — amp.dev
+# (no public DNS addresses found)
+
+# Google — ampproject.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — ampproject.net
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+
+# Google — ampproject.org
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
 
 # Google — analytics.google.com
-2607:f8b0:4023:1004::65/128
-2607:f8b0:4023:1004::66/128
-2607:f8b0:4023:1004::8a/128
-2607:f8b0:4023:1004::8b/128
+2001:4860:4802:32::181/128
+2001:4860:4802:34::181/128
+2001:4860:4802:36::181/128
+2001:4860:4802:38::181/128
+
+# Google — android.clients.google.com
+# (no public DNS addresses found)
+
+# Google — android.com
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — androidify.com
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — androidtv.com
+# (no public DNS addresses found)
+
+# Google — angulardart.org
+2001:4860:4802:32::1d/128
+
+# Google — api.ai
+# (no public DNS addresses found)
+
+# Google — apigee.com
+# (no public DNS addresses found)
+
+# Google — app-analytics-services.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — app-measurement-cn.com
+2607:f8b0:4023:80d::6e/128
+
+# Google — app-measurement.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — app-measurement.net
+# (no public DNS addresses found)
+
+# Google — appbridge.ca
+# (no public DNS addresses found)
+
+# Google — appbridge.io
+# (no public DNS addresses found)
+
+# Google — appbridge.it
+# (no public DNS addresses found)
 
 # Google — apps.google.com
-2607:f8b0:4023:1002::65/128
-2607:f8b0:4023:1002::66/128
-2607:f8b0:4023:1002::71/128
-2607:f8b0:4023:1002::8a/128
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::8b/128
+
+# Google — apps5.oingo.com
+# (no public DNS addresses found)
+
+# Google — appspot.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+
+# Google — apture.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+
+# Google — area120.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — asp-cc.com
+# (no public DNS addresses found)
+
+# Google — autodraw.com
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — avail.googleflights.net
+# (no public DNS addresses found)
+
+# Google — bandpage.com
+2001:4860:4802:32::1d/128
+
+# Google — baselinestudy.com
+# (no public DNS addresses found)
+
+# Google — baselinestudy.org
+# (no public DNS addresses found)
+
+# Google — bazel.build
+2606:4700:7::2fd/128
+2a06:98c1:58::2fd/128
+
+# Google — bdn.dev
+# (no public DNS addresses found)
+
+# Google — beacons.gcp.gvt2.com
+2607:f8b0:4009:80f::2003/128
+
+# Google — beacons.gvt2.com
+2607:f8b0:4023:807::5e/128
+
+# Google — beacons2.gvt2.com
+2001:4860:4802:32::3/128
+
+# Google — beacons3.gvt2.com
+# (no public DNS addresses found)
+
+# Google — beatthatquote.com
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — blink.org
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — blog.google
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — blogblog.com
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogger.com
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.ae
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.al
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.am
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.ba
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.be
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.bg
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.bj
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.ca
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.cf
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.ch
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.cl
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.co.at
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.co.id
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.co.il
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.co.ke
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.co.nz
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.co.uk
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.co.za
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.com
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.com.ar
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.com.au
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.com.br
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.com.by
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.com.co
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.com.cy
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.com.ee
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.com.eg
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.com.es
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.com.mt
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.com.ng
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.com.tr
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.com.uy
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.cv
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.cz
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.de
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.dk
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.fi
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.fr
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.gr
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.hk
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.hr
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.hu
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.ie
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.in
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.is
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.it
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.jp
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.kr
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.li
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.lt
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.lu
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.md
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.mk
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.mx
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.my
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.nl
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.no
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.pe
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.pt
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.qa
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.re
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.ro
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.rs
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.ru
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.se
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.sg
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.si
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.sk
+2607:f8b0:4023:807::bf/128
+
+# Google — blogspot.sn
+2607:f8b0:4023:80d::bf/128
+
+# Google — blogspot.td
+# (no public DNS addresses found)
+
+# Google — blogspot.tw
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.ug
+2607:f8b0:4023:80b::bf/128
+
+# Google — blogspot.vn
+# (no public DNS addresses found)
+
+# Google — brocaproject.com
+2001:4860:4802:32::1d/128
+
+# Google — brotli.org
+2001:4860:4802:32::1d/128
+
+# Google — bumpshare.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — bumptop.ca
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — bumptop.com
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — bumptop.net
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — bumptop.org
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — bumptunes.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — c.admob.com
+# (no public DNS addresses found)
+
+# Google — c.android.clients.google.com
+# (no public DNS addresses found)
+
+# Google — c.gle
+2001:4860:4802:32::1b/128
+
+# Google — cache-management-prod.google.com
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — cache.pack.google.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8b/128
 
 # Google — calendar.google.com
-2607:f8b0:4023:1011::64/128
-2607:f8b0:4023:1011::65/128
-2607:f8b0:4023:1011::66/128
-2607:f8b0:4023:1011::8a/128
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8a/128
+
+# Google — campuslondon.com
+2001:4860:4802:32::1d/128
+
+# Google — capitalg.com
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — certificate-transparency.dev
+# (no public DNS addresses found)
+
+# Google — certificate-transparency.org
+2001:4860:4802:32::1b/128
+
+# Google — charlestonroadregistry.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — chat.gle
+# (no public DNS addresses found)
+
+# Google — checkin.gstatic.com
+2607:f8b0:4023:80d::5e/128
+
+# Google — chrome.com
+2001:4860:4802:32::1b/128
+
+# Google — chromebook.com
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — chromecast.com
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — chromeexperiments.com
+2607:f8b0:4023:80d::79/128
+
+# Google — chromeos.dev
+# (no public DNS addresses found)
+
+# Google — chromercise.com
+# (no public DNS addresses found)
+
+# Google — chromestatus.com
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — chromium.org
+2620:0:890::100/128
+
+# Google — chronicle.security
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — chroniclesec.com
+# (no public DNS addresses found)
+
+# Google — clickserve.cc-dt.com
+# (no public DNS addresses found)
+
+# Google — clickserve.dartsearch.net
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — clickserver.googleads.com
+# (no public DNS addresses found)
 
 # Google — clients2.google.com
-2607:f8b0:4023:100d::65/128
-2607:f8b0:4023:100d::66/128
-2607:f8b0:4023:100d::8a/128
-2607:f8b0:4023:100d::8b/128
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8a/128
 
 # Google — clients4.google.com
-2607:f8b0:4023:100b::64/128
-2607:f8b0:4023:100b::65/128
-2607:f8b0:4023:100b::8a/128
-2607:f8b0:4023:100b::8b/128
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8a/128
 
 # Google — clients6.google.com
-2607:f8b0:4023:1015::64/128
-2607:f8b0:4023:1015::65/128
-2607:f8b0:4023:1015::8a/128
-2607:f8b0:4023:1015::8b/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — clientservices.googleapis.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+
+# Google — cloudburstresearch.com
+2001:4860:4802:32::1d/128
+
+# Google — cloudfunctions.net
+# (no public DNS addresses found)
+
+# Google — cloudproxy.app
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — cloudrobotics.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+
+# Google — cn.widevine.com
+2607:f8b0:4023:807::5f/128
+
+# Google — cobrasearch.com
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — codespot.com
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+
+# Google — connectivitycheck.gstatic.com
+2607:f8b0:4023:80b::5e/128
+
+# Google — conscrypt.com
+# (no public DNS addresses found)
+
+# Google — conscrypt.org
+# (no public DNS addresses found)
+
+# Google — cookiechoices.org
+2001:4860:4802:32::1d/128
+
+# Google — coova.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — coova.net
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — coova.org
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — crashlytics.com
+# (no public DNS addresses found)
+
+# Google — crbug.com
+2001:4860:4802:32::1d/128
+
+# Google — creativelab5.com
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — crossmediapanel.com
+2001:4860:4802:32::1b/128
+
+# Google — crr.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — crrev.com
+2001:4860:4802:32::1d/128
+
+# Google — cs4hs.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — csi.gstatic.com
+2a00:1450:4025:2403::5e/128
+2a00:1450:4025:2403::78/128
+
+# Google — dart.dev
+# (no public DNS addresses found)
+
+# Google — dartlang.org
+# (no public DNS addresses found)
+
+# Google — dartpad.dev
+# (no public DNS addresses found)
+
+# Google — dartsearch-cn.net
+2607:f8b0:4023:807::6e/128
+
+# Google — dartsearch.net
+# (no public DNS addresses found)
+
+# Google — data-vocabulary.org
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::8b/128
+
+# Google — dataliberation.org
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — debug.com
+2001:4860:4802:32::1d/128
+
+# Google — debugproject.com
+2001:4860:4802:32::1d/128
+
+# Google — deepmind.com
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — deja.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — deps.dev
+# (no public DNS addresses found)
+
+# Google — deps.info
+# (no public DNS addresses found)
+
+# Google — devsitetest.how
+2001:4860:4802:32::1b/128
+
+# Google — dg-meta.video.google.com
+2607:f8b0:4023:1c07::66/128
+2607:f8b0:4023:1c07::71/128
+2607:f8b0:4023:1c07::8a/128
+2607:f8b0:4023:1c07::8b/128
+
+# Google — dialogflow.com
+2607:f8b0:4003:c01::64/128
+
+# Google — digisfera.com
+# (no public DNS addresses found)
+
+# Google — digitalassetlinks.org
+2001:4860:4802:32::1d/128
+
+# Google — digitalattackmap.com
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — dl.google.com
+2607:f8b0:4023:80b::5b/128
+2607:f8b0:4023:80b::5d/128
+2607:f8b0:4023:80b::88/128
+2607:f8b0:4023:80b::be/128
+
+# Google — dl.l.google.com
+2607:f8b0:4023:807::5b/128
+2607:f8b0:4023:807::5d/128
+2607:f8b0:4023:807::88/128
+2607:f8b0:4023:807::be/128
 
 # Google — docs.google.com
-2607:f8b0:4023:1004::64/128
-2607:f8b0:4023:1004::71/128
-2607:f8b0:4023:1004::8a/128
-2607:f8b0:4023:1004::8b/128
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — doubleclick-cn.net
+2607:f8b0:4023:80b::6e/128
+
+# Google — doubleclick.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
 
 # Google — doubleclick.net
-2607:f8b0:4023:1009::64/128
-2607:f8b0:4023:1009::71/128
-2607:f8b0:4023:1009::8a/128
-2607:f8b0:4023:1009::8b/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — download.mlcc.google.com
+2607:f8b0:4023:807::5e/128
+
+# Google — download.tensorflow.google.com
+2607:f8b0:4023:80d::5e/128
+
+# Google — episodic.com
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — fastlane.ci
+2001:4860:4802:32::1d/128
+
+# Google — fastlane.tools
+# (no public DNS addresses found)
+
+# Google — feedburner.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — fflick.com
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — financeleadsonline.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+
+# Google — firebaseapp.com
+2620:0:890::100/128
+
+# Google — firebaseio.com
+# (no public DNS addresses found)
+
+# Google — flutter.dev
+2620:0:890::100/128
+
+# Google — flutterapp.com
+# (no public DNS addresses found)
+
+# Google — fontfiles.googleapis.com
+2607:f8b0:4023:80d::5f/128
+
+# Google — fonts.googleapis.com
+2607:f8b0:4023:80b::5f/128
 
 # Google — fonts.gstatic.com
-2607:f8b0:4023:1002::5e/128
+2607:f8b0:4023:807::5e/128
+
+# Google — foofle.com
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::6a/128
+
+# Google — froogle.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — fuchsia.dev
+2001:4860:4802:32::1b/128
+
+# Google — g-tun.com
+# (no public DNS addresses found)
+
+# Google — g.cn
+2607:f8b0:4023:80d::6e/128
 
 # Google — g.co
-2607:f8b0:4023:100b::64/128
-2607:f8b0:4023:100b::65/128
-2607:f8b0:4023:100b::66/128
-2607:f8b0:4023:100b::71/128
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+
+# Google — g.dev
+2001:4860:4802:32::1b/128
+
+# Google — g.page
+2001:4860:4802:32::1b/128
+
+# Google — g0.gstatic.com
+2607:f8b0:4023:80d::5e/128
+
+# Google — g1.gstatic.com
+2607:f8b0:4023:80b::5e/128
+
+# Google — g2.gstatic.com
+2607:f8b0:4023:80b::5e/128
+
+# Google — g3.gstatic.com
+2607:f8b0:4023:80b::5e/128
+
+# Google — gateway.dev
+# (no public DNS addresses found)
+
+# Google — gcp.gvt2.com
+# (no public DNS addresses found)
+
+# Google — gcr.io
+2607:f8b0:4023:c0b::52/128
+
+# Google — gerritcodereview.com
+2001:4860:4802:32::1d/128
+
+# Google — get.app
+2001:4860:4802:32::1b/128
+
+# Google — get.dev
+2001:4860:4802:32::1b/128
+
+# Google — get.how
+2001:4860:4802:32::1b/128
+
+# Google — get.page
+2001:4860:4802:32::1b/128
+
+# Google — getbumptop.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — getmdl.io
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — getoutline.org
+2606:4700:3031::ac43:85db/128
+2606:4700:3037::6815:5d4/128
+
+# Google — ggoogle.com
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+
+# Google — gipscorp.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — gkecnapps.cn
+2607:f8b0:4023:80d::6e/128
+
+# Google — globaledu.org
+2001:4860:4802:32::1d/128
+
+# Google — gmail.com
+2607:f8b0:4023:80d::11/128
+2607:f8b0:4023:80d::12/128
+2607:f8b0:4023:80d::13/128
+2607:f8b0:4023:80d::53/128
+
+# Google — gmodules.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+
+# Google — go-lang.com
+2607:f8b0:4023:807::8d/128
+
+# Google — go-lang.net
+2607:f8b0:4023:807::8d/128
+
+# Google — go-lang.org
+2607:f8b0:4023:807::8d/128
+
+# Google — go.dev
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — godoc.org
+# (no public DNS addresses found)
+
+# Google — gogle.com
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — gogole.com
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::93/128
+
+# Google — golang.com
+2607:f8b0:4023:80b::8d/128
+
+# Google — golang.net
+2607:f8b0:4023:807::8d/128
+
+# Google — golang.org
+2607:f8b0:4023:80d::8d/128
+
+# Google — gonglchuangl.net
+2607:f8b0:4023:80d::6e/128
+
+# Google — gongyichuangyi.net
+2607:f8b0:4023:80b::6e/128
+
+# Google — goo.gl
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — googel.com
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::93/128
+
+# Google — googil.com
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — googl.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google-analytics-cn.com
+2607:f8b0:4023:80d::6e/128
 
 # Google — google-analytics.com
-2607:f8b0:4023:1004::67/128
-2607:f8b0:4023:1004::68/128
-2607:f8b0:4023:1004::69/128
-2607:f8b0:4023:1004::6a/128
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+
+# Google — google-ohttp-relay-safebrowsing.fastly-edge.com
+2a04:4e42:26::347/128
+
+# Google — google-syndication.com
+# (no public DNS addresses found)
+
+# Google — google.ad
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.ae
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.al
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.am
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.as
+2607:f8b0:4023:807::5e/128
+
+# Google — google.at
+2607:f8b0:4023:807::5e/128
+
+# Google — google.az
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.ba
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.be
+2607:f8b0:4023:807::5e/128
+
+# Google — google.berlin
+2001:4860:4802:32::1d/128
+
+# Google — google.bf
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.bg
+2607:f8b0:4023:807::5e/128
+
+# Google — google.bi
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.bj
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.bs
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.bt
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.by
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.ca
+2607:f8b0:4023:807::5e/128
+
+# Google — google.cat
+2607:f8b0:4023:807::5e/128
+
+# Google — google.cd
+2607:f8b0:4023:807::5e/128
+
+# Google — google.cf
+2607:f8b0:4023:807::5e/128
+
+# Google — google.cg
+2607:f8b0:4023:807::5e/128
+
+# Google — google.ch
+2607:f8b0:4023:807::5e/128
+
+# Google — google.ci
+2607:f8b0:4023:807::5e/128
+
+# Google — google.cl
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.cm
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.cn
+2607:f8b0:4023:80d::6e/128
+
+# Google — google.co.ao
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.co.bw
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.ck
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::6a/128
+
+# Google — google.co.cr
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.co.id
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.co.il
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.co.in
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.jp
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.ke
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.kr
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.ls
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.ma
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — google.co.mz
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.co.nz
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.co.th
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.tz
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.ug
+2607:f8b0:4023:80b::5e/128
 
 # Google — google.co.uk
-2607:f8b0:4023:1000::5e/128
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.co.uz
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.co.ve
+2607:f8b0:4023:807::5e/128
+
+# Google — google.co.vi
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+
+# Google — google.co.za
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.co.zm
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.co.zw
+2607:f8b0:4023:80d::5e/128
 
 # Google — google.com
-2607:f8b0:4023:1004::64/128
-2607:f8b0:4023:1004::66/128
-2607:f8b0:4023:1004::71/128
-2607:f8b0:4023:1004::8a/128
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::8b/128
+
+# Google — google.com.af
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.com.ag
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.ai
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.com.ar
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.au
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.bd
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.bh
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.bn
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.com.bo
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.br
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.bz
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.co
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.cu
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.cy
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.com.do
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.ec
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.eg
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.et
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.fj
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.gh
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.gi
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — google.com.gt
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.hk
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.jm
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.kh
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.kw
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.lb
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.ly
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.mm
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+
+# Google — google.com.mt
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.mx
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.my
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.na
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.ng
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.ni
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.np
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.om
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.pa
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.pe
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.pg
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+
+# Google — google.com.ph
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.pk
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.pr
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.py
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.qa
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.sa
+2607:f8b0:4023:807::5e/128
+
+# Google — google.com.sb
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — google.com.sg
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.sl
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.sv
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.tj
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.com.tr
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.tw
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.ua
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.uy
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.com.vc
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.com.vn
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.cv
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+
+# Google — google.cz
+2607:f8b0:4023:807::5e/128
+
+# Google — google.de
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.dev
+2001:4860:4802:32::1b/128
+
+# Google — google.dj
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.dk
+2607:f8b0:4023:807::5e/128
+
+# Google — google.dm
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.dz
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.ee
+2607:f8b0:4023:807::5e/128
+
+# Google — google.es
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.fi
+2607:f8b0:4023:807::5e/128
+
+# Google — google.fm
+2607:f8b0:4023:807::5e/128
+
+# Google — google.fr
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.ga
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.ge
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.gg
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.gl
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::6a/128
+
+# Google — google.gm
+2607:f8b0:4023:807::5e/128
+
+# Google — google.gr
+2607:f8b0:4023:807::5e/128
+
+# Google — google.gy
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.hn
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.hr
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.ht
+2607:f8b0:4023:807::5e/128
+
+# Google — google.hu
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.ie
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.im
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.iq
+2607:f8b0:4023:807::5e/128
+
+# Google — google.is
+2607:f8b0:4023:807::5e/128
+
+# Google — google.it
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.je
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — google.jo
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.kg
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.ki
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+
+# Google — google.kz
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.la
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.li
+2607:f8b0:4023:807::5e/128
+
+# Google — google.lk
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.lt
+2607:f8b0:4023:807::5e/128
+
+# Google — google.lu
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.lv
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.md
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::6a/128
+
+# Google — google.me
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — google.mg
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.mk
+2607:f8b0:4023:807::5e/128
+
+# Google — google.ml
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.mn
+2607:f8b0:4023:807::5e/128
+
+# Google — google.ms
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.mu
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.mv
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.mw
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.ne
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.net
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::6a/128
+
+# Google — google.nl
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.no
+2607:f8b0:4023:807::5e/128
+
+# Google — google.nr
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — google.nu
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::93/128
+
+# Google — google.org
+2001:4860:4802:32::1b/128
+
+# Google — google.pl
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.pn
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::6a/128
+
+# Google — google.ps
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.pt
+2607:f8b0:4023:807::5e/128
+
+# Google — google.ro
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.rs
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.ru
+2607:f8b0:4023:807::5e/128
+
+# Google — google.rw
+2607:f8b0:4023:807::5e/128
+
+# Google — google.sc
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.se
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.sh
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.si
+2607:f8b0:4023:807::5e/128
+
+# Google — google.sk
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.sm
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.sn
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.so
+2607:f8b0:4023:807::5e/128
+
+# Google — google.sr
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::6a/128
+
+# Google — google.st
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.td
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.tg
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.tl
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.tm
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::93/128
+
+# Google — google.tn
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.to
+2607:f8b0:4023:80b::5e/128
+
+# Google — google.tt
+2607:f8b0:4023:80d::5e/128
+
+# Google — google.ventures
+2001:4860:4802:32::1d/128
+
+# Google — google.vg
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — google.vu
+2607:f8b0:4023:807::5e/128
+
+# Google — google.ws
+2607:f8b0:4023:80b::5e/128
+
+# Google — googleacquisitionmigration.com
+# (no public DNS addresses found)
+
+# Google — googleadapis.com
+# (no public DNS addresses found)
+
+# Google — googleadservices-cn.com
+2607:f8b0:4023:80b::6e/128
 
 # Google — googleadservices.com
 # (no public DNS addresses found)
 
+# Google — googleanalytics.com
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — googleapis-cn.com
+2607:f8b0:4023:807::6e/128
+
+# Google — googleapis.cn
+# (no public DNS addresses found)
+
 # Google — googleapis.com
-2607:f8b0:4023:1015::67/128
-2607:f8b0:4023:1015::68/128
-2607:f8b0:4023:1015::69/128
-2607:f8b0:4023:1015::93/128
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+
+# Google — googleapps-cn.com
+2607:f8b0:4023:80b::6e/128
+
+# Google — googleapps.com
+2607:f8b0:4023:80b::76/128
+
+# Google — googlearth.com
+# (no public DNS addresses found)
+
+# Google — googleblog.com
+2607:f8b0:4023:80d::84/128
+
+# Google — googlebot.com
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::6a/128
+
+# Google — googlecapital.com
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — googlecert.net
+2001:4860:4802:32::1d/128
+
+# Google — googlecnapps.cn
+2607:f8b0:4023:80d::6e/128
+
+# Google — googlecode.com
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+
+# Google — googlecommerce.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — googlecompare.co.uk
+2001:4860:4802:32::1b/128
+
+# Google — googledanmark.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — googledomains.com
+2001:4860:4802:32::1d/128
+
+# Google — googledrive.com
+2607:f8b0:4023:807::84/128
+
+# Google — googlee.com
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — googleearth.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+
+# Google — googlefiber.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — googlefiber.net
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::6a/128
+
+# Google — googlefinland.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — googleflights-cn.net
+2607:f8b0:4023:807::6e/128
 
 # Google — googlemail.com
-2607:f8b0:4023:1015::11/128
-2607:f8b0:4023:1015::12/128
-2607:f8b0:4023:1015::13/128
-2607:f8b0:4023:1015::53/128
+2607:f8b0:4023:80b::11/128
+2607:f8b0:4023:80b::12/128
+2607:f8b0:4023:80b::13/128
+2607:f8b0:4023:80b::53/128
+
+# Google — googlemaps.com
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::6a/128
+2607:f8b0:4023:807::93/128
+
+# Google — googlemashups.com
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::93/128
+
+# Google — googleoptimize-cn.com
+2607:f8b0:4023:80d::6e/128
+
+# Google — googleoptimize.com
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — googlepagecreator.com
+2607:f8b0:4023:807::79/128
+
+# Google — googlephotos.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — googleplay.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — googleplus.com
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — googlescholar.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — googlesource.com
+2607:f8b0:4023:c03::52/128
+
+# Google — googlestore.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — googlesverige.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — googlesyndication-cn.com
+2607:f8b0:4023:807::6e/128
 
 # Google — googlesyndication.com
-2607:f8b0:4023:100f::63/128
-2607:f8b0:4023:100f::69/128
-2607:f8b0:4023:100f::6a/128
-2607:f8b0:4023:100f::93/128
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::67/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::69/128
+
+# Google — googletagmanager-cn.com
+2607:f8b0:4023:80d::6e/128
 
 # Google — googletagmanager.com
-2607:f8b0:4023:1015::61/128
+2607:f8b0:4023:807::61/128
+
+# Google — googletagservices-cn.com
+2607:f8b0:4023:80b::6e/128
+
+# Google — googletagservices.com
+# (no public DNS addresses found)
+
+# Google — googletraveladservices-cn.com
+2607:f8b0:4023:80b::6e/128
+
+# Google — googletraveladservices.com
+2607:f8b0:4023:80b::5f/128
 
 # Google — googleusercontent.com
-2607:f8b0:4023:1015::84/128
+2607:f8b0:4023:807::84/128
+
+# Google — googlevads-cn.com
+2607:f8b0:4023:80b::6e/128
+
+# Google — googleventures.com
+# (no public DNS addresses found)
 
 # Google — googlevideo.com
-2607:f8b0:4023:1004::63/128
-2607:f8b0:4023:1004::67/128
-2607:f8b0:4023:1004::6a/128
-2607:f8b0:4023:1004::93/128
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::69/128
+2607:f8b0:4023:807::93/128
+
+# Google — googlr.com
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::6a/128
+2607:f8b0:4023:80b::93/128
+
+# Google — goolge.com
+2607:f8b0:4023:807::63/128
+2607:f8b0:4023:807::67/128
+2607:f8b0:4023:807::68/128
+2607:f8b0:4023:807::6a/128
+
+# Google — gooogle.com
+2607:f8b0:4023:80b::63/128
+2607:f8b0:4023:80b::68/128
+2607:f8b0:4023:80b::69/128
+2607:f8b0:4023:80b::93/128
+
+# Google — gridaware.app
+2001:4860:4802:32::1b/128
+
+# Google — gsrc.io
+2001:4860:4802:32::1d/128
+
+# Google — gstatic-cn.com
+2607:f8b0:4023:807::6e/128
+
+# Google — gstatic.cn
+2607:f8b0:4023:80b::6e/128
 
 # Google — gstatic.com
-2607:f8b0:4023:1013::5e/128
-2607:f8b0:4023:1013::78/128
+2607:f8b0:4023:80d::5e/128
+2607:f8b0:4023:80d::78/128
+
+# Google — gstaticadssl.l.google.com
+2607:f8b0:4023:80b::5e/128
+
+# Google — gstaticcnapps.cn
+2607:f8b0:4023:80d::6e/128
+
+# Google — gsuite.com
+2001:4860:4802:32::1d/128
+
+# Google — gtm.oasisfeng.com
+2607:f8b0:4023:80d::61/128
+
+# Google — gv.com
+# (no public DNS addresses found)
+
+# Google — gvt0.com
+# (no public DNS addresses found)
+
+# Google — gvt1-cn.com
+2607:f8b0:4023:80b::6e/128
+
+# Google — gvt2-cn.com
+2607:f8b0:4023:807::6e/128
+
+# Google — gvt3.com
+# (no public DNS addresses found)
+
+# Google — gvt5.com
+# (no public DNS addresses found)
+
+# Google — gvt6.com
+# (no public DNS addresses found)
+
+# Google — gvt7.com
+# (no public DNS addresses found)
+
+# Google — gvt9.com
+# (no public DNS addresses found)
+
+# Google — gwtproject.org
+# (no public DNS addresses found)
+
+# Google — hdrplusdata.org
+2001:4860:4802:32::1d/128
+
+# Google — hey.gle
+2001:4860:4802:32::1b/128
+
+# Google — hindiweb.com
+2001:4860:4802:32::1d/128
+
+# Google — howtogetmo.co.uk
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — html5rocks.com
+2607:f8b0:4023:80b::79/128
+
+# Google — hwgo.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — iam.soy
+2001:4860:4802:32::1b/128
+
+# Google — iamremarkable.org
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — igoogle.com
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+
+# Google — imasdk.googleapis.com
+2607:f8b0:4023:80b::5f/128
+
+# Google — impermium.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — itasoftware.com
+2001:4860:4802:32::1d/128
+
+# Google — j2objc.org
+2001:4860:4802:32::1d/128
+
+# Google — jibemobile.com
+2001:4860:4802:32::1d/128
+
+# Google — kaggle.com
+# (no public DNS addresses found)
+
+# Google — kaggle.io
+# (no public DNS addresses found)
 
 # Google — keep.google.com
-2001:4860:4826:b000::/128
-2001:4860:4827:b000::/128
-2001:4860:4828:b000::/128
-2001:4860:4829:b000::/128
-2001:4860:482a:b000::/128
-2001:4860:482b:b000::/128
-2001:4860:482c:b000::/128
-2001:4860:482d:b000::/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+
+# Google — keyhole.com
+# (no public DNS addresses found)
+
+# Google — keytransparency.com
+2001:4860:4802:32::1d/128
+
+# Google — keytransparency.foo
+2001:4860:4802:32::1d/128
+
+# Google — keytransparency.org
+2001:4860:4802:32::1d/128
+
+# Google — lanternal.com
+2001:4860:4802:32::1b/128
 
 # Google — lh3.googleusercontent.com
-2607:f8b0:4023:100b::84/128
+2607:f8b0:4023:80d::84/128
+
+# Google — like.com
+# (no public DNS addresses found)
+
+# Google — madewithcode.com
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
 
 # Google — mail.google.com
-2607:f8b0:4023:1009::11/128
-2607:f8b0:4023:1009::12/128
-2607:f8b0:4023:1009::13/128
-2607:f8b0:4023:1009::53/128
+2607:f8b0:4023:80d::11/128
+2607:f8b0:4023:80d::12/128
+2607:f8b0:4023:80d::13/128
+2607:f8b0:4023:80d::53/128
+
+# Google — material.io
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — mdialog.com
+# (no public DNS addresses found)
 
 # Google — meet.google.com
 2001:4860:4826:500::/128
@@ -152,8 +2270,11 @@
 2001:4860:482c:500::/128
 2001:4860:482d:500::/128
 
+# Google — meet.new
+2001:4860:4802:32::1d/128
+
 # Google — meetings.clients6.google.com
-2607:f8b0:4023:1017::5f/128
+2607:f8b0:4023:807::5f/128
 
 # Google — meetings.googleapis.com
 2001:4860:4840:400::/128
@@ -165,41 +2286,734 @@
 2001:4860:4846:400::/128
 2001:4860:4847:400::/128
 
+# Google — mfg-inspector.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+
+# Google — mobileview.page
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+
+# Google — moodstocks.com
+# (no public DNS addresses found)
+
+# Google — near.by
+2001:4860:4802:32::1d/128
+
+# Google — nest.com
+# (no public DNS addresses found)
+
+# Google — neverware.com
+# (no public DNS addresses found)
+
+# Google — nomulus.foo
+2001:4860:4802:32::1d/128
+
 # Google — notebook.google.com
-2607:f8b0:4023:1015::64/128
-2607:f8b0:4023:1015::66/128
-2607:f8b0:4023:1015::71/128
-2607:f8b0:4023:1015::8a/128
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — oasisfeng.com
+# (no public DNS addresses found)
+
+# Google — oauthz.com
+2001:4860:4802:32::1b/128
+
+# Google — ogs.google.com
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — ok.gle
+2001:4860:4802:32::1b/128
+
+# Google — on.here
+2001:4860:4802:32::1b/128
+
+# Google — on2.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+
+# Google — onefifteen.net
+# (no public DNS addresses found)
+
+# Google — onefifteen.org
+# (no public DNS addresses found)
+
+# Google — oneworldmanystories.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — opensourceinsight.dev
+# (no public DNS addresses found)
+
+# Google — opensourceinsights.dev
+# (no public DNS addresses found)
+
+# Google — openthread.io
+2001:4860:4802:32::1b/128
+
+# Google — openweave.io
+2001:4860:4802:32::1b/128
+
+# Google — orbitera.com
+# (no public DNS addresses found)
+
+# Google — page.link
+2607:f8b0:4023:80b::84/128
+
+# Google — pagead-googlehosted.l.google.com
+2607:f8b0:4023:80b::84/128
+
+# Google — pagespeedmobilizer.com
+2001:4860:4802:32::1b/128
+
+# Google — pageview.mobi
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — panoramio.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+
+# Google — partylikeits1986.org
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — paxlicense.org
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — performanceparameters.googleapis.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — picasa.com
+2607:f8b0:4023:80d::67/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::93/128
+
+# Google — picasaweb.com
+2607:f8b0:4023:80d::5b/128
+2607:f8b0:4023:80d::5d/128
+2607:f8b0:4023:80d::88/128
+2607:f8b0:4023:80d::be/128
+
+# Google — picasaweb.net
+2607:f8b0:4023:80d::5b/128
+2607:f8b0:4023:80d::5d/128
+2607:f8b0:4023:80d::88/128
+2607:f8b0:4023:80d::be/128
+
+# Google — picasaweb.org
+2607:f8b0:4023:807::5b/128
+2607:f8b0:4023:807::5d/128
+2607:f8b0:4023:807::88/128
+2607:f8b0:4023:807::be/128
+
+# Google — picnik.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+
+# Google — pittpatt.com
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — pixate.com
+# (no public DNS addresses found)
+
+# Google — pki.goog
+2001:4860:4802:32::1d/128
+
+# Google — play-fe.googleapis.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — play.google.com
+2001:4860:4826:700::/128
+2001:4860:4827:700::/128
+2001:4860:4828:700::/128
+2001:4860:4829:700::/128
+2001:4860:482a:700::/128
+2001:4860:482b:700::/128
+2001:4860:482c:700::/128
+2001:4860:482d:700::/128
+
+# Google — play.googleapis.com
+2001:4860:4840:400::/128
+2001:4860:4841:400::/128
+2001:4860:4842:400::/128
+2001:4860:4843:400::/128
+2001:4860:4844:400::/128
+2001:4860:4845:400::/128
+2001:4860:4846:400::/128
+2001:4860:4847:400::/128
+
+# Google — plus.codes
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — polymer-project.org
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — polymerproject.org
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — postini.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — privacysandbox.com
+2001:4860:4802:32::1d/128
+
+# Google — prod-controlbe.floonet.goog
+2607:f8b0:4002:c08::5e/128
+
+# Google — prod-databe.floonet.goog
+2607:f8b0:4009:81c::2003/128
+
+# Google — prod.databe.floonet.goog
+2607:f8b0:4009:812::2003/128
+
+# Google — projectara.com
+# (no public DNS addresses found)
+
+# Google — projectbaseline.com
+# (no public DNS addresses found)
+
+# Google — publishproxy.com
+# (no public DNS addresses found)
+
+# Google — qiao-cn.com
+# (no public DNS addresses found)
+
+# Google — qpx.googleflights.net
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+
+# Google — questvisual.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+
+# Google — quickoffice.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+
+# Google — quiksee.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — recaptcha-cn.net
+2607:f8b0:4023:807::6e/128
+
+# Google — recaptcha.net
+2607:f8b0:4023:807::5e/128
+
+# Google — redhotlabs.com
+# (no public DNS addresses found)
+
+# Google — redirector.bdn.dev
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — redirector.c.chat.google.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — redirector.c.mail.google.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — redirector.c.pack.google.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — redirector.c.youtubeeducation.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — redirector.gcpcdn.gvt1.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::8a/128
+
+# Google — redirector.gvt1.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+
+# Google — redirector.offline-maps.gvt1.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — redirector.snap.gvt1.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::8a/128
+
+# Google — redirector.xn--ngstr-lra8j.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — registry.google
+2001:4860:4802:32::1d/128
+
+# Google — revolv.com
+2001:4860:4802:32::1d/128
+
+# Google — ridepenguin.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+
+# Google — run.app
+2001:4860:4802:32::35/128
+2001:4860:4802:34::35/128
+2001:4860:4802:36::35/128
+2001:4860:4802:38::35/128
+
+# Google — safebrowsing-cache.google.com
+2607:f8b0:4009:80c::200e/128
+
+# Google — safebrowsing.googleapis.com
+2607:f8b0:4023:80d::5f/128
+
+# Google — savethedate.foo
+# (no public DNS addresses found)
+
+# Google — saynow.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — schema.org
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+
+# Google — schemer.com
+2001:4860:4802:32::1b/128
+
+# Google — screenwisetrends.com
+2001:4860:4802:32::1b/128
+
+# Google — screenwisetrendspanel.com
+2001:4860:4802:32::1b/128
 
 # Google — script.google.com
-2607:f8b0:4023:1011::65/128
-2607:f8b0:4023:1011::71/128
-2607:f8b0:4023:1011::8a/128
-2607:f8b0:4023:1011::8b/128
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — service.urchin.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — shattered.io
+2606:4700:3030::6815:1969/128
+2606:4700:3030::ac43:8604/128
 
 # Google — sheets.google.com
-2607:f8b0:4023:1009::64/128
-2607:f8b0:4023:1009::65/128
-2607:f8b0:4023:1009::8a/128
-2607:f8b0:4023:1009::8b/128
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
 
 # Google — sites.google.com
-2607:f8b0:4023:1009::64/128
-2607:f8b0:4023:1009::65/128
-2607:f8b0:4023:1009::71/128
-2607:f8b0:4023:1009::8a/128
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
 
 # Google — slides.google.com
-2607:f8b0:4023:101b::65/128
-2607:f8b0:4023:101b::66/128
-2607:f8b0:4023:101b::71/128
-2607:f8b0:4023:101b::8b/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — snapseed.com
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — solveforx.com
+2001:4860:4802:32::1b/128
+
+# Google — ssl-google-analytics.l.google.com
+2607:f8b0:4023:807::61/128
+
+# Google — ssl.gstatic.com
+2607:f8b0:4023:80d::5e/128
+
+# Google — stadia.dev
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — staging-controlbe.floonet.goog
+2607:f8b0:4002:c03::5e/128
+
+# Google — staging-databe.floonet.goog
+2607:f8b0:4002:c0c::5e/128
+
+# Google — staging.databe.floonet.goog
+2607:f8b0:4009:81f::2003/128
+
+# Google — stcroixmosquito.com
+2001:4860:4802:32::1d/128
+
+# Google — stcroixmosquitoproject.com
+2001:4860:4802:32::1d/128
 
 # Google — stream.meet.google.com
-2607:f8b0:4023:1002::66/128
-2607:f8b0:4023:1002::71/128
-2607:f8b0:4023:1002::8a/128
-2607:f8b0:4023:1002::8b/128
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — studywatchbyverily.com
+# (no public DNS addresses found)
+
+# Google — studywatchbyverily.org
+# (no public DNS addresses found)
+
+# Google — stxmosquito.com
+2001:4860:4802:32::1d/128
+
+# Google — stxmosquitoproject.com
+2001:4860:4802:32::1d/128
+
+# Google — stxmosquitoproject.net
+2001:4860:4802:32::1d/128
+
+# Google — stxmosquitoproject.org
+2001:4860:4802:32::1d/128
+
+# Google — synergyse.com
+2001:4860:4802:32::1d/128
+
+# Google — tac.googleapis.com
+2607:f8b0:4023:80b::5f/128
+
+# Google — teachparentstech.org
+2001:4860:4802:32::1d/128
+
+# Google — tensorflow.org
+2001:4860:4802:32::1b/128
+
+# Google — tfhub.dev
+# (no public DNS addresses found)
+
+# Google — thecleversense.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — thegooglestore.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — thinkquarterly.co.uk
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — thinkquarterly.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — thinkwithgoogle.com
+2607:f8b0:4023:807::64/128
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+
+# Google — tiltbrush.com
+# (no public DNS addresses found)
+
+# Google — tools.google.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — txcloud.net
+# (no public DNS addresses found)
+
+# Google — txvia.com
+# (no public DNS addresses found)
+
+# Google — unfiltered.news
+# (no public DNS addresses found)
+
+# Google — update.googleapis.com
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — urchin.com
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::6a/128
+2607:f8b0:4023:80d::93/128
+
+# Google — useplannr.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — usvimosquito.com
+2001:4860:4802:32::1d/128
+
+# Google — usvimosquitoproject.com
+2001:4860:4802:32::1d/128
+
+# Google — v8.dev
+# (no public DNS addresses found)
+
+# Google — v8project.org
+2001:4860:4802:32::1d/128
+
+# Google — velostrata.com
+# (no public DNS addresses found)
+
+# Google — verily.com
+# (no public DNS addresses found)
+
+# Google — verilylifesciences.com
+# (no public DNS addresses found)
+
+# Google — verilystudyhub.com
+# (no public DNS addresses found)
+
+# Google — verilystudywatch.com
+# (no public DNS addresses found)
+
+# Google — verilystudywatch.org
+# (no public DNS addresses found)
+
+# Google — voice.telephony.goog
+# (no public DNS addresses found)
+
+# Google — wallet.com
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::71/128
+2607:f8b0:4023:80d::8a/128
+
+# Google — waveprotocol.org
+2607:f8b0:4023:80b::79/128
+
+# Google — waymo.com
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8a/128
+2607:f8b0:4023:807::8b/128
+
+# Google — waze.com
+2600:1901:0:b230::/128
+
+# Google — wear.googleapis.com
+2607:f8b0:4023:807::5f/128
+
+# Google — web.app
+2620:0:890::100/128
+
+# Google — web.dev
+2001:4860:4802:32::1b/128
+
+# Google — webappfieldguide.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+2607:f8b0:4023:80b::8b/128
+
+# Google — webmproject.org
+2607:f8b0:4023:80d::63/128
+2607:f8b0:4023:80d::68/128
+2607:f8b0:4023:80d::69/128
+2607:f8b0:4023:80d::93/128
+
+# Google — webpkgcache.com
+2607:f8b0:4023:80b::84/128
+
+# Google — webrtc.org
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::65/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128
+
+# Google — weltweitwachsen.de
+2001:4860:4802:32::1d/128
+
+# Google — whatbrowser.org
+2001:4860:4802:32::1b/128
+
+# Google — widevine.com
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::66/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+
+# Google — withgoogle.com
+2607:f8b0:4023:807::65/128
+2607:f8b0:4023:807::66/128
+2607:f8b0:4023:807::71/128
+2607:f8b0:4023:807::8b/128
+
+# Google — womenwill.com
+2001:4860:4802:32::1d/128
+
+# Google — womenwill.com.br
+2001:4860:4802:32::1d/128
+
+# Google — womenwill.id
+2001:4860:4802:32::1d/128
+
+# Google — womenwill.in
+2001:4860:4802:32::1d/128
+
+# Google — womenwill.mx
+2001:4860:4802:32::1d/128
+
+# Google — www-google-analytics.l.google.com
+2607:f8b0:4023:80b::64/128
+2607:f8b0:4023:80b::65/128
+2607:f8b0:4023:80b::71/128
+2607:f8b0:4023:80b::8a/128
+
+# Google — www-googletagmanager.l.google.com
+2607:f8b0:4023:80b::61/128
+
+# Google — www.destinationurl.com
+# (no public DNS addresses found)
+
+# Google — www.gstatic.com
+2607:f8b0:4023:807::5e/128
+
+# Google — www.pxcc.com
+# (no public DNS addresses found)
+
+# Google — www.recaptcha-cn.net
+2607:f8b0:4023:80b::6e/128
+
+# Google — www.recaptcha.net
+2607:f8b0:4023:80b::5e/128
+
+# Google — x.company
+2001:4860:4802:32::15/128
+2001:4860:4802:34::15/128
+2001:4860:4802:36::15/128
+2001:4860:4802:38::15/128
+
+# Google — x.team
+2001:4860:4802:32::1d/128
+
+# Google — xn--9kr7l.com
+# (no public DNS addresses found)
+
+# Google — xn--9trs65b.com
+# (no public DNS addresses found)
+
+# Google — xn--flw351e.com
+# (no public DNS addresses found)
+
+# Google — xn--ggle-55da.com
+# (no public DNS addresses found)
+
+# Google — xn--gogl-0nd52e.com
+# (no public DNS addresses found)
+
+# Google — xn--gogl-1nd42e.com
+2001:4860:4802:32::1b/128
+
+# Google — xn--ngstr-lra8j.com
+# (no public DNS addresses found)
+
+# Google — xn--p8j9a0d9c9a.xn--q9jyb4c
+2001:4860:4802:32::1b/128
+
+# Google — xplr.co
+2001:4860:4802:32::1b/128
 
 # Google — youtube.googleapis.com
 2001:4860:4840:400::/128
@@ -210,3 +3024,12 @@
 2001:4860:4845:400::/128
 2001:4860:4846:400::/128
 2001:4860:4847:400::/128
+
+# Google — zukunftswerkstatt.de
+2001:4860:4802:32::1d/128
+
+# Google — zynamics.com
+2607:f8b0:4023:80d::64/128
+2607:f8b0:4023:80d::66/128
+2607:f8b0:4023:80d::8a/128
+2607:f8b0:4023:80d::8b/128

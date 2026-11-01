@@ -1,6 +1,15 @@
 # DNS-derived IP snapshot for SourceForge (sourceforge)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# SourceForge — fsdn.com
+# (no public DNS addresses found)
+
+# SourceForge — sf.net
+# (no public DNS addresses found)
+
+# SourceForge — sourceforge.com
+# (no public DNS addresses found)
+
 # SourceForge — sourceforge.net
 2606:4700::6812:c95
 2606:4700::6812:d95

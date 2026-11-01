@@ -1,10 +1,150 @@
 # DNS-derived IP snapshot for WeChat (wechat)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# WeChat — apd-pcdnwxlogin.teg.tencent-cloud.net
+# (no public DNS addresses found)
+
+# WeChat — btrace.qq.com
+# (no public DNS addresses found)
+
+# WeChat — dldir1.qq.com
+113.1.0.145
+113.1.0.163
+113.1.0.206
+116.162.16.30
+116.162.16.31
+42.59.25.174
+
+# WeChat — iot-tencent.com
+# (no public DNS addresses found)
+
+# WeChat — lbs.gtimg.com
+43.175.44.35
+
+# WeChat — map.qq.com
+43.129.2.172
+43.129.2.244
+
+# WeChat — qlogo.cn
+# (no public DNS addresses found)
+
+# WeChat — qpic.cn
+58.60.9.47
+
+# WeChat — servicewechat.com
+124.156.189.109
+129.226.106.233
+
+# WeChat — slife.xy-asia.com
+106.14.165.254
+
+# WeChat — soup.v.qq.com
+101.32.212.216
+43.135.105.195
+
+# WeChat — tenpay.com
+# (no public DNS addresses found)
+
+# WeChat — up-hl.3g.qq.com
+121.14.76.247
+121.14.76.43
+121.14.78.51
+
+# WeChat — vweixinf.tc.qq.com
+43.175.129.18
+43.175.129.19
+43.175.129.25
+43.175.129.26
+43.175.129.28
+43.175.129.29
+43.175.129.30
+43.175.129.31
+43.175.129.32
+43.175.129.33
+43.175.129.34
+43.175.129.36
+43.175.129.37
+43.175.129.38
+43.175.129.39
+43.175.129.40
+
+# WeChat — vweixinthumb.tc.qq.com
+43.175.129.18
+43.175.129.19
+43.175.129.25
+43.175.129.26
+43.175.129.28
+43.175.129.29
+43.175.129.30
+43.175.129.31
+43.175.129.32
+43.175.129.33
+43.175.129.34
+43.175.129.36
+43.175.129.37
+43.175.129.38
+43.175.129.39
+43.175.129.40
+
 # WeChat — wechat.com
 43.163.178.94
 43.163.181.74
 
+# WeChat — wechatlegal.net
+124.156.190.71
+43.163.181.189
+
+# WeChat — wechatos.net
+# (no public DNS addresses found)
+
+# WeChat — wechatpay.com
+# (no public DNS addresses found)
+
+# WeChat — weixin.com
+183.47.102.225
+183.47.103.67
+
 # WeChat — weixin.qq.com
 124.156.190.237
 43.163.178.44
+
+# WeChat — weixin110.qq.com
+124.156.190.71
+43.163.181.189
+
+# WeChat — weixinbridge.com
+# (no public DNS addresses found)
+
+# WeChat — weixinsxy.com
+# (no public DNS addresses found)
+
+# WeChat — wup.imtt.qq.com
+43.154.240.161
+43.154.240.217
+43.154.240.64
+
+# WeChat — wx.gtimg.com
+43.175.44.34
+43.175.44.46
+
+# WeChat — wx.qq.com
+43.159.234.18
+
+# WeChat — wxapp.tc.qq.com
+43.146.27.108
+43.146.27.109
+43.146.27.110
+43.146.27.111
+43.146.27.119
+43.146.27.120
+43.146.27.121
+43.146.27.122
+43.146.27.31
+43.146.27.32
+
+# WeChat — wxs.qq.com
+# (no public DNS addresses found)
+
+# WeChat — yun-hl.3g.qq.com
+43.129.2.77
+43.155.124.51

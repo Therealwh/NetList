@@ -1,4 +1,17 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Rutube — rutube-cdn.net
+# (no public DNS addresses found)
+
+# Rutube — rutube-cdn.ru
+5.101.152.161/32
+
+# Rutube — rutube.com
+103.224.182.245/32
+
+# Rutube — rutube.net
+13.248.169.48/32
+76.223.54.146/32
+
 # Rutube — rutube.ru
 109.238.90.239/32
 178.248.233.148/32

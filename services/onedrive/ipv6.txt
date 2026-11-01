@@ -1,8 +1,43 @@
 # DNS-derived IP snapshot for OneDrive (onedrive)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# OneDrive — 1drv.com
+# (no public DNS addresses found)
+
+# OneDrive — livefilestore.com
+# (no public DNS addresses found)
+
+# OneDrive — microsoftpersonalcontent.com
+# (no public DNS addresses found)
+
+# OneDrive — oneclient.sfx.ms
+2600:1404:ec00:2404::17db:572f
+2600:1404:ec00:2406::17db:5710
+2600:1404:ec00:240e::1735:7f86
+
+# OneDrive — onedrive.com
+# (no public DNS addresses found)
+
 # OneDrive — onedrive.live.com
+# (no public DNS addresses found)
+
+# OneDrive — photos.live.com
 # (no public DNS addresses found)
 
 # OneDrive — sharepoint.com
 # (no public DNS addresses found)
+
+# OneDrive — sharepointonline.com
+# (no public DNS addresses found)
+
+# OneDrive — skydrive.wns.windows.com
+2603:1030:a07:a::401
+
+# OneDrive — spoprod-a.akamaihd.net
+# (no public DNS addresses found)
+
+# OneDrive — storage.live.com
+# (no public DNS addresses found)
+
+# OneDrive — storage.msn.com
+2620:1ec:50::11

@@ -1,3 +1,7 @@
 # NetList seed candidates: Rutube
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+rutube-cdn.net
+rutube-cdn.ru
+rutube.com
+rutube.net
 rutube.ru

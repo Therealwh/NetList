@@ -4,3 +4,6 @@
 
 # Hetzner — hetzner.de
 2a01:4f8:0:1::7:4/128
+
+# Hetzner — sentry.hetzner.company
+2a01:4f8:0:100::1:6/128

@@ -1,6 +1,12 @@
 # DNS-derived IP snapshot for ESET (eset)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# ESET — epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+98.67.237.69
+
+# ESET — eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+18.159.98.220
+
 # ESET — eset.com
 91.228.166.47
 91.228.167.128

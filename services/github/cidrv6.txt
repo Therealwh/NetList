@@ -1,8 +1,57 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# GitHub — atom.io
+# (no public DNS addresses found)
+
+# GitHub — dependabot.com
+# (no public DNS addresses found)
+
+# GitHub — ghcr.io
+# (no public DNS addresses found)
+
+# GitHub — git.io
+# (no public DNS addresses found)
+
+# GitHub — github-api.arkoselabs.com
+2600:9000:21da:0:1a:387f:96c0:93a1/128
+2600:9000:21da:2e00:1a:387f:96c0:93a1/128
+2600:9000:21da:4a00:1a:387f:96c0:93a1/128
+2600:9000:21da:6000:1a:387f:96c0:93a1/128
+2600:9000:21da:a400:1a:387f:96c0:93a1/128
+2600:9000:21da:b200:1a:387f:96c0:93a1/128
+2600:9000:21da:d000:1a:387f:96c0:93a1/128
+2600:9000:21da:ec00:1a:387f:96c0:93a1/128
+
+# GitHub — github-atom-io-herokuapp-com.freetls.fastly.net
+2a04:4e42:26::591/128
+
+# GitHub — github-avatars.oss-cn-hongkong.aliyuncs.com
+# (no public DNS addresses found)
+
+# GitHub — github-cloud.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# GitHub — github-production-release-asset-2e65be.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# GitHub — github-production-repository-file-5c1aeb.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# GitHub — github-production-repository-image-32fea6.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# GitHub — github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# GitHub — github-production-user-asset-6210df.s3.amazonaws.com
+# (no public DNS addresses found)
+
 # GitHub — github.blog
 # (no public DNS addresses found)
 
 # GitHub — github.com
+# (no public DNS addresses found)
+
+# GitHub — github.community
 # (no public DNS addresses found)
 
 # GitHub — github.dev
@@ -11,11 +60,138 @@
 # GitHub — github.io
 # (no public DNS addresses found)
 
+# GitHub — githubapp.com
+# (no public DNS addresses found)
+
 # GitHub — githubassets.com
+# (no public DNS addresses found)
+
+# GitHub — githubcopilot.com
+# (no public DNS addresses found)
+
+# GitHub — githubhackathon.com
+# (no public DNS addresses found)
+
+# GitHub — githubnext.com
+2606:50c0:8000::153/128
+2606:50c0:8001::153/128
+2606:50c0:8002::153/128
+2606:50c0:8003::153/128
+
+# GitHub — githubpreview.dev
 # (no public DNS addresses found)
 
 # GitHub — githubstatus.com
 # (no public DNS addresses found)
 
+# GitHub — githubuniverse.com
+2606:50c0:8000::153/128
+2606:50c0:8001::153/128
+2606:50c0:8002::153/128
+2606:50c0:8003::153/128
+
 # GitHub — githubusercontent.com
 # (no public DNS addresses found)
+
+# GitHub — myoctocat.com
+2606:50c0:8000::153/128
+2606:50c0:8001::153/128
+2606:50c0:8002::153/128
+2606:50c0:8003::153/128
+
+# GitHub — npm.community
+# (no public DNS addresses found)
+
+# GitHub — npmjs.com
+2606:4700::6811:8675/128
+2606:4700::6811:8775/128
+
+# GitHub — npmjs.org
+2606:4700::6810:122/128
+2606:4700::6810:22/128
+2606:4700::6810:222/128
+2606:4700::6810:322/128
+2606:4700::6810:422/128
+2606:4700::6810:522/128
+2606:4700::6810:622/128
+2606:4700::6810:722/128
+2606:4700::6810:822/128
+2606:4700::6810:922/128
+2606:4700::6810:a22/128
+2606:4700::6810:b22/128
+
+# GitHub — opensource.guide
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa0.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa1.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa10.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa11.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa12.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa13.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa14.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa15.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa16.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa17.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa18.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa19.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa2.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa3.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa4.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa5.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa6.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa7.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa8.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — productionresultssa9.blob.core.windows.net
+# (no public DNS addresses found)
+
+# GitHub — rawgit.com
+2606:4700:3030::ac43:d94e/128
+2606:4700:3031::6815:183d/128
+
+# GitHub — rawgithub.com
+# (no public DNS addresses found)
+
+# GitHub — repo.new
+# (no public DNS addresses found)
+
+# GitHub — thegithubshop.com
+2620:127:f00f:5::/128

@@ -1,5 +1,8 @@
 # DNS-derived IP snapshot for Wink (wink)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Wink — wink.rt.ru
+# (no public DNS addresses found)
+
 # Wink — wink.ru
 # (no public DNS addresses found)

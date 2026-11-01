@@ -1,3 +1,5 @@
 # NetList seed candidates: Контур
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 kontur.ru
+metrika.kontur.ru
+sentry.kontur.host

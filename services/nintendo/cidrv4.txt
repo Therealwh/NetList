@@ -1,3 +1,488 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Nintendo — 100classicbooks.com
+# (no public DNS addresses found)
+
+# Nintendo — ac-pocketcamp.com
+18.238.171.14/32
+18.238.171.43/32
+18.238.171.6/32
+18.238.171.86/32
+
+# Nintendo — amiibo.com
+151.101.130.132/32
+151.101.194.132/32
+151.101.2.132/32
+151.101.66.132/32
+
+# Nintendo — ayudanintendo.com
+52.57.155.181/32
+
+# Nintendo — bowsersinsidestory.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — dialga.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — diddykongracing.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — dkr.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — donkeykongcountryreturns.com
+192.159.190.35/32
+
+# Nintendo — drmario-world.com
+173.223.151.251/32
+
+# Nintendo — excitebots.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — fire-emblem-heroes.com
+184.26.237.182/32
+
+# Nintendo — fireemblemawakening.com
+192.159.190.32/32
+
+# Nintendo — flipnotestudio.com
+# (no public DNS addresses found)
+
+# Nintendo — giratina.com
+69.172.200.183/32
+
+# Nintendo — gloryofheracles.com
+104.21.74.46/32
+172.67.198.102/32
+
+# Nintendo — hackyourconsole.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — kirbysepicyarn.com
+192.159.190.32/32
+
+# Nintendo — kirbysuperstarultra.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — kyurem.com
+204.74.99.103/32
+
+# Nintendo — legendofzelda.cn
+192.159.190.35/32
+
+# Nintendo — legendofzelda.com.cn
+192.159.190.35/32
+
+# Nintendo — marioandluigidreamteam.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — mariobroswii.com
+104.21.89.32/32
+172.67.136.146/32
+
+# Nintendo — mariokart.cn
+192.159.190.35/32
+
+# Nintendo — mariokart.com.cn
+192.159.190.35/32
+
+# Nintendo — mariokart7.com
+192.159.190.35/32
+
+# Nintendo — mariokart8.com
+192.159.190.35/32
+
+# Nintendo — mariosupersluggers.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — miitomo.com
+23.36.217.165/32
+23.36.217.183/32
+
+# Nintendo — miitomo.com.cn
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — miiverse.com
+192.159.190.35/32
+
+# Nintendo — newsupermariobrosu.com
+192.159.190.35/32
+
+# Nintendo — nintendo-europe-sales.com
+45.60.13.86/32
+45.60.19.86/32
+
+# Nintendo — nintendo-europe.com
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.at
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.be
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.ch
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.co.jp
+13.248.184.86/32
+76.223.57.182/32
+
+# Nintendo — nintendo.co.kr
+15.197.249.22/32
+3.33.219.64/32
+
+# Nintendo — nintendo.co.uk
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.co.za
+23.227.38.65/32
+
 # Nintendo — nintendo.com
 192.159.190.35/32
+
+# Nintendo — nintendo.com.au
+76.76.21.21/32
+
+# Nintendo — nintendo.com.hk
+35.71.150.64/32
+52.223.57.61/32
+
+# Nintendo — nintendo.com.pt
+205.166.76.53/32
+
+# Nintendo — nintendo.de
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.dk
+62.220.191.214/32
+
+# Nintendo — nintendo.es
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.eu
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.fi
+62.220.191.214/32
+
+# Nintendo — nintendo.fr
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.it
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.jp
+202.247.68.5/32
+
+# Nintendo — nintendo.net
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.nl
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.no
+62.220.191.214/32
+
+# Nintendo — nintendo.pt
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.ru
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendo.se
+62.220.191.214/32
+
+# Nintendo — nintendo.tw
+35.71.128.65/32
+52.223.0.36/32
+
+# Nintendo — nintendo3ds.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — nintendodsi.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — nintendoeurope.com
+3.124.50.15/32
+35.156.131.180/32
+63.183.79.72/32
+
+# Nintendo — nintendolabo.cn
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — nintendonetwork.net
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — nintendonyc.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — nintendostore.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — nintendoswitch.cn
+# (no public DNS addresses found)
+
+# Nintendo — nintendoswitch.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — nintendoswitch.com.cn
+# (no public DNS addresses found)
+
+# Nintendo — nintendoswitch.net
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — nintendoswitchtogether.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — nintendowifi.net
+205.166.76.53/32
+
+# Nintendo — nintendowii.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — personaltrainermath.com
+104.21.14.97/32
+172.67.158.155/32
+
+# Nintendo — playnintendo.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokedex3d.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemon-moon.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokemon-sun.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokemon-sunmoon.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemon.com
+3.213.215.176/32
+54.161.23.154/32
+
+# Nintendo — pokemonbank.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonblackwhite.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonbw.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokemonchampionships.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemongoldsilver.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonhome.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokemonletsgoeevee.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokemonletsgopikachu.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokemonmysterydungeon.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonpicross.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonplatinum.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonrubysapphire.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonsunmoon.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonswordshield.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokemonultrasunmoon.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — pokemonvgc.com
+34.196.147.228/32
+44.214.243.144/32
+44.218.139.203/32
+
+# Nintendo — pokemonwifi.net
+# (no public DNS addresses found)
+
+# Nintendo — splatoon2tournament.com
+185.114.4.157/32
+
+# Nintendo — starfox.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — supermario.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — supermario3dworld.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — supermariobros.com.cn
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — supermariogalaxy.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — supermariorun.com
+184.26.234.224/32
+
+# Nintendo — superpapermario.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — supersmashbros.cn
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — supersmashbros.com.cn
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — thelegendarystarfy.com
+# (no public DNS addresses found)
+
+# Nintendo — thewonderful101.com
+192.159.190.35/32
+
+# Nintendo — wariolandshakeit.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — wariowarediy.com
+104.21.61.199/32
+172.67.213.126/32
+
+# Nintendo — wii-u.com
+192.159.190.35/32
+
+# Nintendo — wiifit.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — wiifitu.com
+# (no public DNS addresses found)
+
+# Nintendo — wiipartyu.com
+# (no public DNS addresses found)
+
+# Nintendo — wiisports.com
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — wiisportsresort.com
+104.21.94.193/32
+172.67.168.160/32
+
+# Nintendo — wiiugamepad.com
+# (no public DNS addresses found)
+
+# Nintendo — wiivc.net
+192.159.190.35/32
+3.218.0.127/32
+
+# Nintendo — xenoblade.com
+192.159.190.35/32
+
+# Nintendo — xn--mts47c3w9b1qr.cn
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — xn--mts47c3w9b1qr.net
+165.160.13.20/32
+165.160.15.20/32
+
+# Nintendo — yoshisnewisland.com
+192.159.190.32/32
+192.195.204.150/32

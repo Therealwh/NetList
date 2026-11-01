@@ -1,3 +1,615 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Amazon — a2z.com
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.cn
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.co.uk
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.com
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.com.au
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.de
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.es
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.eu
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.fr
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.in
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.it
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.jp
+# (no public DNS addresses found)
+
+# Amazon — aboutamazon.pl
+# (no public DNS addresses found)
+
+# Amazon — acmvalidations.com
+# (no public DNS addresses found)
+
+# Amazon — acmvalidationsaws.com
+# (no public DNS addresses found)
+
+# Amazon — aesworkshops.com
+# (no public DNS addresses found)
+
+# Amazon — aiv-cdn.net
+# (no public DNS addresses found)
+
+# Amazon — aiv-delivery.net
+# (no public DNS addresses found)
+
+# Amazon — alexa.com
+2600:9000:26c8:1c00:14:c0a5:99c0:93a1/128
+2600:9000:26c8:2400:14:c0a5:99c0:93a1/128
+2600:9000:26c8:2600:14:c0a5:99c0:93a1/128
+2600:9000:26c8:3e00:14:c0a5:99c0:93a1/128
+2600:9000:26c8:7200:14:c0a5:99c0:93a1/128
+2600:9000:26c8:7c00:14:c0a5:99c0:93a1/128
+2600:9000:26c8:b200:14:c0a5:99c0:93a1/128
+2600:9000:26c8:f000:14:c0a5:99c0:93a1/128
+
+# Amazon — alexafund.cn
+# (no public DNS addresses found)
+
+# Amazon — alexafund.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amaaozn.com
+# (no public DNS addresses found)
+
+# Amazon — amazon-adsystem.com
+# (no public DNS addresses found)
+
+# Amazon — amazon-fashions.com
+# (no public DNS addresses found)
+
+# Amazon — amazon-jp-recruiting.com
+# (no public DNS addresses found)
+
+# Amazon — amazon-lantern.com
+# (no public DNS addresses found)
+
+# Amazon — amazon-launchpad.com
+# (no public DNS addresses found)
+
+# Amazon — amazon.ae
+# (no public DNS addresses found)
+
+# Amazon — amazon.ca
+# (no public DNS addresses found)
+
+# Amazon — amazon.cn
+# (no public DNS addresses found)
+
+# Amazon — amazon.co.jp
+# (no public DNS addresses found)
+
+# Amazon — amazon.co.uk
+# (no public DNS addresses found)
+
 # Amazon — amazon.com
+# (no public DNS addresses found)
+
+# Amazon — amazon.com.au
+# (no public DNS addresses found)
+
+# Amazon — amazon.com.br
+# (no public DNS addresses found)
+
+# Amazon — amazon.com.mx
+# (no public DNS addresses found)
+
+# Amazon — amazon.com.tr
+# (no public DNS addresses found)
+
+# Amazon — amazon.de
+# (no public DNS addresses found)
+
+# Amazon — amazon.es
+# (no public DNS addresses found)
+
+# Amazon — amazon.fr
+# (no public DNS addresses found)
+
+# Amazon — amazon.in
+# (no public DNS addresses found)
+
+# Amazon — amazon.it
+# (no public DNS addresses found)
+
+# Amazon — amazon.jobs
+# (no public DNS addresses found)
+
+# Amazon — amazon.jp
+# (no public DNS addresses found)
+
+# Amazon — amazon.nl
+# (no public DNS addresses found)
+
+# Amazon — amazon.red
+# (no public DNS addresses found)
+
+# Amazon — amazon.sg
+# (no public DNS addresses found)
+
+# Amazon — amazonalexavoxcon.com
+# (no public DNS addresses found)
+
+# Amazon — amazonauthorinsights.com
+# (no public DNS addresses found)
+
+# Amazon — amazonaws-china.com
+# (no public DNS addresses found)
+
+# Amazon — amazonaws.co.uk
+# (no public DNS addresses found)
+
+# Amazon — amazonaws.com
+# (no public DNS addresses found)
+
+# Amazon — amazonaws.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonaws.tv
+2600:1f18:297:ba0e:7900:f622:48a8:f266/128
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003/128
+2600:1f18:297:ba24:b508:76de:f4a:df34/128
+
+# Amazon — amazonbusiness.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonbusiness.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonbusiness.org
+# (no public DNS addresses found)
+
+# Amazon — amazonbusinessblog.com
+2600:9000:26bd:2600:1b:f25c:9480:93a1/128
+2600:9000:26bd:3200:1b:f25c:9480:93a1/128
+2600:9000:26bd:7600:1b:f25c:9480:93a1/128
+2600:9000:26bd:7c00:1b:f25c:9480:93a1/128
+2600:9000:26bd:8c00:1b:f25c:9480:93a1/128
+2600:9000:26bd:a000:1b:f25c:9480:93a1/128
+2600:9000:26bd:c400:1b:f25c:9480:93a1/128
+2600:9000:26bd:d200:1b:f25c:9480:93a1/128
+
+# Amazon — amazonchoice.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonchoice.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonchoices.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonchoices.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazondevicesupport.com
+# (no public DNS addresses found)
+
+# Amazon — amazonfctours.com
+# (no public DNS addresses found)
+
+# Amazon — amazonianblog.com
+# (no public DNS addresses found)
+
+# Amazon — amazonimages.com
+# (no public DNS addresses found)
+
+# Amazon — amazoninspire.cn
+# (no public DNS addresses found)
+
+# Amazon — amazoninspire.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonlaunchpad.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonlaunchpad.com
+# (no public DNS addresses found)
+
+# Amazon — amazonlaunchpad.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonlending.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonliterarypartnership.com
+# (no public DNS addresses found)
+
+# Amazon — amazonlumberyard.wang
+# (no public DNS addresses found)
+
+# Amazon — amazonnow.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonnow.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonpay.com
+# (no public DNS addresses found)
+
+# Amazon — amazonpay.in
+# (no public DNS addresses found)
+
+# Amazon — amazonprimevideo.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonprimevideo.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonprimevideos.com
+# (no public DNS addresses found)
+
+# Amazon — amazonsdi.com
+# (no public DNS addresses found)
+
+# Amazon — amazonstudiosguilds.com
+# (no public DNS addresses found)
+
+# Amazon — amazontools.com
+# (no public DNS addresses found)
+
+# Amazon — amazontours.com
+# (no public DNS addresses found)
+
+# Amazon — amazontrust.com
+# (no public DNS addresses found)
+
+# Amazon — amazonuniversity.jobs
+# (no public DNS addresses found)
+
+# Amazon — amazonvideo.cc
+2600:1f18:297:ba0e:7900:f622:48a8:f266/128
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003/128
+2600:1f18:297:ba24:b508:76de:f4a:df34/128
+
+# Amazon — amazonvideo.com
+# (no public DNS addresses found)
+
+# Amazon — amazonvideodirect.com
+# (no public DNS addresses found)
+
+# Amazon — amazonworkdocs.cn
+# (no public DNS addresses found)
+
+# Amazon — amazonworkdocs.com
+# (no public DNS addresses found)
+
+# Amazon — amazonworkdocs.com.cn
+# (no public DNS addresses found)
+
+# Amazon — amplifyapp.com
+# (no public DNS addresses found)
+
+# Amazon — amplifyframework.com
+# (no public DNS addresses found)
+
+# Amazon — amzn.asia
+# (no public DNS addresses found)
+
+# Amazon — amzn.com
+# (no public DNS addresses found)
+
+# Amazon — amzn.to
+# (no public DNS addresses found)
+
+# Amazon — amznl.com
+# (no public DNS addresses found)
+
+# Amazon — assoc-amazon.cn
+# (no public DNS addresses found)
+
+# Amazon — associates-amazon.com
+# (no public DNS addresses found)
+
+# Amazon — audible.com
+# (no public DNS addresses found)
+
+# Amazon — avodmp4s3ww-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Amazon — aws-iot-hackathon.com
+# (no public DNS addresses found)
+
+# Amazon — awsautopilot.com
+# (no public DNS addresses found)
+
+# Amazon — awsautoscaling.com
+# (no public DNS addresses found)
+
+# Amazon — awsbraket.com
+# (no public DNS addresses found)
+
+# Amazon — awscloud.com
+# (no public DNS addresses found)
+
+# Amazon — awscommandlineinterface.com
+# (no public DNS addresses found)
+
+# Amazon — awsedstart.com
+# (no public DNS addresses found)
+
+# Amazon — awseducate.com
+# (no public DNS addresses found)
+
+# Amazon — awseducate.net
+# (no public DNS addresses found)
+
+# Amazon — awseducate.org
+# (no public DNS addresses found)
+
+# Amazon — awsloft-johannesburg.com
+# (no public DNS addresses found)
+
+# Amazon — awsloft-stockholm.com
+# (no public DNS addresses found)
+
+# Amazon — awssecworkshops.com
+# (no public DNS addresses found)
+
+# Amazon — awsstatic.com
+# (no public DNS addresses found)
+
+# Amazon — awsthinkbox.com
+# (no public DNS addresses found)
+
+# Amazon — awstrack.me
+# (no public DNS addresses found)
+
+# Amazon — awstrust.com
+# (no public DNS addresses found)
+
+# Amazon — boxofficemojo.com
+# (no public DNS addresses found)
+
+# Amazon — cdkworkshop.com
+# (no public DNS addresses found)
+
+# Amazon — cloudfront.net
+# (no public DNS addresses found)
+
+# Amazon — containersonaws.com
+# (no public DNS addresses found)
+
+# Amazon — createspace.com
+# (no public DNS addresses found)
+
+# Amazon — elasticbeanstalk.com
+# (no public DNS addresses found)
+
+# Amazon — gameon-masters.com
+# (no public DNS addresses found)
+
+# Amazon — gdansk-amazon.com
+# (no public DNS addresses found)
+
+# Amazon — images-amazon.com
+# (no public DNS addresses found)
+
+# Amazon — images-cn-8.ssl-images-amazon.com
+2600:9000:2064:1000:10:1731:ff49:ac01/128
+2600:9000:2064:3600:10:1731:ff49:ac01/128
+2600:9000:2064:4600:10:1731:ff49:ac01/128
+2600:9000:2064:5000:10:1731:ff49:ac01/128
+2600:9000:2064:9200:10:1731:ff49:ac01/128
+2600:9000:2064:a000:10:1731:ff49:ac01/128
+2600:9000:2064:a600:10:1731:ff49:ac01/128
+2600:9000:2064:ee00:10:1731:ff49:ac01/128
+
+# Amazon — images-cn.ssl-images-amazon.com
+2600:9000:2064:1200:10:1731:ff49:ac01/128
+2600:9000:2064:4a00:10:1731:ff49:ac01/128
+2600:9000:2064:600:10:1731:ff49:ac01/128
+2600:9000:2064:6e00:10:1731:ff49:ac01/128
+2600:9000:2064:be00:10:1731:ff49:ac01/128
+2600:9000:2064:c000:10:1731:ff49:ac01/128
+2600:9000:2064:cc00:10:1731:ff49:ac01/128
+2600:9000:2064:f000:10:1731:ff49:ac01/128
+
+# Amazon — imdb.com
+# (no public DNS addresses found)
+
+# Amazon — imdb.to
+# (no public DNS addresses found)
+
+# Amazon — kindle.cn
+# (no public DNS addresses found)
+
+# Amazon — kindle.co.jp
+# (no public DNS addresses found)
+
+# Amazon — kindle.co.uk
+# (no public DNS addresses found)
+
+# Amazon — kindle.com
+# (no public DNS addresses found)
+
+# Amazon — kindle.de
+2001:8d8:100f:f000::27f/128
+
+# Amazon — kindle.es
+# (no public DNS addresses found)
+
+# Amazon — kindle.fr
+# (no public DNS addresses found)
+
+# Amazon — kindle.in
+2600:1f18:297:ba0e:7900:f622:48a8:f266/128
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003/128
+2600:1f18:297:ba24:b508:76de:f4a:df34/128
+
+# Amazon — kindle.it
+# (no public DNS addresses found)
+
+# Amazon — kindle.jp
+2600:1f18:297:ba0e:7900:f622:48a8:f266/128
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003/128
+2600:1f18:297:ba24:b508:76de:f4a:df34/128
+
+# Amazon — kindleoasis.cn
+# (no public DNS addresses found)
+
+# Amazon — kindleoasis.com
+# (no public DNS addresses found)
+
+# Amazon — kindleoasis.com.cn
+# (no public DNS addresses found)
+
+# Amazon — kindleoasis.info
+# (no public DNS addresses found)
+
+# Amazon — kindleoasis.jp
+2600:1f18:297:ba0e:7900:f622:48a8:f266/128
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003/128
+2600:1f18:297:ba24:b508:76de:f4a:df34/128
+
+# Amazon — kindleoasis.org
+# (no public DNS addresses found)
+
+# Amazon — kindleoasis.us
+2600:1f18:297:ba0e:7900:f622:48a8:f266/128
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003/128
+2600:1f18:297:ba24:b508:76de:f4a:df34/128
+
+# Amazon — kindleoasisnews.com
+# (no public DNS addresses found)
+
+# Amazon — kindleproject.com
+# (no public DNS addresses found)
+
+# Amazon — llnwd.net
+# (no public DNS addresses found)
+
+# Amazon — media-amazon.com
+# (no public DNS addresses found)
+
+# Amazon — media-imdb.com
+# (no public DNS addresses found)
+
+# Amazon — prime-video.com
+# (no public DNS addresses found)
+
+# Amazon — primeday.cn
+# (no public DNS addresses found)
+
+# Amazon — primeday.com.cn
+# (no public DNS addresses found)
+
+# Amazon — primeday.info
+# (no public DNS addresses found)
+
+# Amazon — primevideo.cc
+# (no public DNS addresses found)
+
+# Amazon — primevideo.com
+# (no public DNS addresses found)
+
+# Amazon — primevideo.info
+# (no public DNS addresses found)
+
+# Amazon — primevideo.org
+# (no public DNS addresses found)
+
+# Amazon — primevideo.tv
+# (no public DNS addresses found)
+
+# Amazon — pv-cdn.net
+# (no public DNS addresses found)
+
+# Amazon — seattlespheres.com
+# (no public DNS addresses found)
+
+# Amazon — siege-amazon.com
+# (no public DNS addresses found)
+
+# Amazon — ssl-images-amazon.com
+# (no public DNS addresses found)
+
+# Amazon — thinkboxsoftware.com
+# (no public DNS addresses found)
+
+# Amazon — ueberamazon.de
+# (no public DNS addresses found)
+
+# Amazon — wfm.com
+2600:9000:2064:200:5:b065:f7c0:93a1/128
+2600:9000:2064:3e00:5:b065:f7c0:93a1/128
+2600:9000:2064:4600:5:b065:f7c0:93a1/128
+2600:9000:2064:4a00:5:b065:f7c0:93a1/128
+2600:9000:2064:5800:5:b065:f7c0:93a1/128
+2600:9000:2064:6c00:5:b065:f7c0:93a1/128
+2600:9000:2064:7600:5:b065:f7c0:93a1/128
+2600:9000:2064:e600:5:b065:f7c0:93a1/128
+
+# Amazon — wholecitiesfoundation.org
+2600:9000:2357:2200:7:ee73:e380:93a1/128
+2600:9000:2357:5400:7:ee73:e380:93a1/128
+2600:9000:2357:800:7:ee73:e380:93a1/128
+2600:9000:2357:8400:7:ee73:e380:93a1/128
+2600:9000:2357:8600:7:ee73:e380:93a1/128
+2600:9000:2357:ae00:7:ee73:e380:93a1/128
+2600:9000:2357:dc00:7:ee73:e380:93a1/128
+2600:9000:2357:ee00:7:ee73:e380:93a1/128
+
+# Amazon — wholefoods.com
+2600:9000:26c8:1200:7:9f8:bc00:93a1/128
+2600:9000:26c8:3400:7:9f8:bc00:93a1/128
+2600:9000:26c8:3a00:7:9f8:bc00:93a1/128
+2600:9000:26c8:3c00:7:9f8:bc00:93a1/128
+2600:9000:26c8:5200:7:9f8:bc00:93a1/128
+2600:9000:26c8:8000:7:9f8:bc00:93a1/128
+2600:9000:26c8:ae00:7:9f8:bc00:93a1/128
+2600:9000:26c8:b200:7:9f8:bc00:93a1/128
+
+# Amazon — wholefoodsmarket.co.uk
+# (no public DNS addresses found)
+
+# Amazon — wholefoodsmarket.com
+# (no public DNS addresses found)
+
+# Amazon — wholekidsfoundation.org
+2600:9000:250e:0:1:9c06:9640:93a1/128
+2600:9000:250e:2400:1:9c06:9640:93a1/128
+2600:9000:250e:2c00:1:9c06:9640:93a1/128
+2600:9000:250e:4c00:1:9c06:9640:93a1/128
+2600:9000:250e:5000:1:9c06:9640:93a1/128
+2600:9000:250e:a200:1:9c06:9640:93a1/128
+2600:9000:250e:da00:1:9c06:9640:93a1/128
+2600:9000:250e:de00:1:9c06:9640:93a1/128
+
+# Amazon — wholeplanetfoundation.org
+2600:9000:26fe:200:13:b902:d2c0:93a1/128
+2600:9000:26fe:2800:13:b902:d2c0:93a1/128
+2600:9000:26fe:2c00:13:b902:d2c0:93a1/128
+2600:9000:26fe:2e00:13:b902:d2c0:93a1/128
+2600:9000:26fe:3400:13:b902:d2c0:93a1/128
+2600:9000:26fe:a00:13:b902:d2c0:93a1/128
+2600:9000:26fe:aa00:13:b902:d2c0:93a1/128
+2600:9000:26fe:b000:13:b902:d2c0:93a1/128
+
+# Amazon — yamaxun.cn
+# (no public DNS addresses found)
+
+# Amazon — yamaxun.com
+# (no public DNS addresses found)
+
+# Amazon — z.cn
 # (no public DNS addresses found)

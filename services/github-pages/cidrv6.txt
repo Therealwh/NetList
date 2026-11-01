@@ -1,3 +1,112 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# GitHub Pages — atom.io
+# (no public DNS addresses found)
+
+# GitHub Pages — dependabot.com
+# (no public DNS addresses found)
+
+# GitHub Pages — ghcr.io
+# (no public DNS addresses found)
+
+# GitHub Pages — git.io
+# (no public DNS addresses found)
+
+# GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
+2a04:4e42:26::591/128
+
+# GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
+# (no public DNS addresses found)
+
+# GitHub Pages — github-cloud.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# GitHub Pages — github.blog
+# (no public DNS addresses found)
+
+# GitHub Pages — github.com
+# (no public DNS addresses found)
+
+# GitHub Pages — github.community
+# (no public DNS addresses found)
+
+# GitHub Pages — github.dev
+# (no public DNS addresses found)
+
 # GitHub Pages — github.io
 # (no public DNS addresses found)
+
+# GitHub Pages — githubapp.com
+# (no public DNS addresses found)
+
+# GitHub Pages — githubassets.com
+# (no public DNS addresses found)
+
+# GitHub Pages — githubcopilot.com
+# (no public DNS addresses found)
+
+# GitHub Pages — githubhackathon.com
+# (no public DNS addresses found)
+
+# GitHub Pages — githubnext.com
+2606:50c0:8000::153/128
+2606:50c0:8001::153/128
+2606:50c0:8002::153/128
+2606:50c0:8003::153/128
+
+# GitHub Pages — githubpreview.dev
+# (no public DNS addresses found)
+
+# GitHub Pages — githubstatus.com
+# (no public DNS addresses found)
+
+# GitHub Pages — githubuniverse.com
+2606:50c0:8000::153/128
+2606:50c0:8001::153/128
+2606:50c0:8002::153/128
+2606:50c0:8003::153/128
+
+# GitHub Pages — githubusercontent.com
+# (no public DNS addresses found)
+
+# GitHub Pages — myoctocat.com
+2606:50c0:8000::153/128
+2606:50c0:8001::153/128
+2606:50c0:8002::153/128
+2606:50c0:8003::153/128
+
+# GitHub Pages — npm.community
+# (no public DNS addresses found)
+
+# GitHub Pages — npmjs.com
+2606:4700::6811:8675/128
+2606:4700::6811:8775/128
+
+# GitHub Pages — npmjs.org
+2606:4700::6810:122/128
+2606:4700::6810:22/128
+2606:4700::6810:222/128
+2606:4700::6810:322/128
+2606:4700::6810:422/128
+2606:4700::6810:522/128
+2606:4700::6810:622/128
+2606:4700::6810:722/128
+2606:4700::6810:822/128
+2606:4700::6810:922/128
+2606:4700::6810:a22/128
+2606:4700::6810:b22/128
+
+# GitHub Pages — opensource.guide
+# (no public DNS addresses found)
+
+# GitHub Pages — rawgit.com
+2606:4700:3030::ac43:d94e/128
+2606:4700:3031::6815:183d/128
+
+# GitHub Pages — rawgithub.com
+# (no public DNS addresses found)
+
+# GitHub Pages — repo.new
+# (no public DNS addresses found)
+
+# GitHub Pages — thegithubshop.com
+2620:127:f00f:5::/128

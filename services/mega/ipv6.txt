@@ -1,6 +1,15 @@
 # DNS-derived IP snapshot for MEGA (mega)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# MEGA — mega.co.nz
+2a0b:e46:1:50::30
+2a0b:e46:1:50::31
+
+# MEGA — mega.io
+2001:678:25c:2215::552
+2a0b:e40:3::23
+2a0b:e46:1:50::37
+
 # MEGA — mega.nz
 2a0b:e46:1:144::5
 2a0b:e46:1:145::5

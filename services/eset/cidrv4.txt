@@ -1,4 +1,10 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# ESET — epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+98.67.237.69/32
+
+# ESET — eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+18.159.98.220/32
+
 # ESET — eset.com
 91.228.166.47/32
 91.228.167.128/32

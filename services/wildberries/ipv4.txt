@@ -1,10 +1,67 @@
 # DNS-derived IP snapshot for Wildberries (wildberries)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Wildberries — ads-gate.wildberries.ru
+185.62.202.4
+
+# Wildberries — ads-media.wildberries.ru
+213.184.155.31
+85.198.77.43
+85.198.79.43
+
+# Wildberries — ads.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-api-sandbox.wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-api-sandbox.wildberries.ru
+194.1.214.253
+
+# Wildberries — advert-api.wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-api.wildberries.ru
+194.1.214.253
+
+# Wildberries — advert-media-api.wb.ru
+# (no public DNS addresses found)
+
+# Wildberries — advert-media-api.wildberries.ru
+194.1.214.253
+
+# Wildberries — analytics-stage.wildberries.ru
+# (no public DNS addresses found)
+
+# Wildberries — analytics.wildberries.ru
+213.184.155.75
+85.198.77.15
+85.198.79.102
+
+# Wildberries — marketing-info.wildberries.ru
+185.62.202.12
+
+# Wildberries — marketplace-sentry.wb.ru
+185.62.202.8
+
+# Wildberries — sentry.wb.ru
+91.230.107.136
+
 # Wildberries — wb.ru
 185.138.253.1
 185.138.255.1
 213.184.155.142
+
+# Wildberries — wbcontent.net
+# (no public DNS addresses found)
+
+# Wildberries — wbstatic.net
+185.62.201.169
+185.62.201.170
+185.62.201.171
+
+# Wildberries — web-analytics.wildberries.ru
+# (no public DNS addresses found)
 
 # Wildberries — wildberries.ru
 185.62.202.2

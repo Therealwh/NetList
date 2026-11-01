@@ -1,4 +1,20 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Notion — http-inputs-notion.splunkcloud.com
+# (no public DNS addresses found)
+
+# Notion — notion-static.com
+# (no public DNS addresses found)
+
+# Notion — notion.com
+2602:f79a:0:1::1/128
+2602:f79a:0:1::2/128
+2602:f79a::1/128
+2602:f79a::2/128
+
+# Notion — notion.new
+2602:f79a::1/128
+2602:f79a::2/128
+
 # Notion — notion.site
 # (no public DNS addresses found)
 

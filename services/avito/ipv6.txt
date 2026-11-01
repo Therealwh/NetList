@@ -3,3 +3,9 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Avito — avito.ru
 # (no public DNS addresses found)
+
+# Avito — avito.st
+# (no public DNS addresses found)
+
+# Avito — stats.avito.ru
+# (no public DNS addresses found)

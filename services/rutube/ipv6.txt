@@ -1,5 +1,17 @@
 # DNS-derived IP snapshot for Rutube (rutube)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Rutube — rutube-cdn.net
+# (no public DNS addresses found)
+
+# Rutube — rutube-cdn.ru
+# (no public DNS addresses found)
+
+# Rutube — rutube.com
+# (no public DNS addresses found)
+
+# Rutube — rutube.net
+# (no public DNS addresses found)
+
 # Rutube — rutube.ru
 # (no public DNS addresses found)

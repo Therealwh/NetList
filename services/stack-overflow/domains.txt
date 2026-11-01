@@ -1,4 +1,22 @@
 # NetList seed candidates: Stack Overflow
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+askubuntu.com
+blogoverflow.com
+codeforaliving.io
+mathoverflow.net
+serverfault.com
+sstatic.net
+stackapps.com
+stackauth.com
 stackexchange.com
+stackmod.blog
+stackoverflow.blog
+stackoverflow.co
 stackoverflow.com
+stackoverflow.email
+stackoverflowbusiness.com
+stackoverflowcareers.com
+stacksnippets.net
+superuser.com
+tex-talk.net
+thesffblog.com

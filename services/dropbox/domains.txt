@@ -61,3 +61,4 @@ getdropbox.com
 hellofax.com
 learn.dropbox.com
 links.dropbox.com
+paper-attachments.s3.amazonaws.com

@@ -1,11 +1,98 @@
 # DNS-derived IP snapshot for GitHub (github)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# GitHub — atom.io
+140.82.112.18
+
+# GitHub — dependabot.com
+140.82.114.17
+
+# GitHub — ghcr.io
+20.29.134.18
+
+# GitHub — git.io
+140.82.113.22
+
+# GitHub — github-api.arkoselabs.com
+13.225.61.108
+13.225.61.116
+13.225.61.18
+13.225.61.64
+
+# GitHub — github-atom-io-herokuapp-com.freetls.fastly.net
+151.101.162.79
+
+# GitHub — github-avatars.oss-cn-hongkong.aliyuncs.com
+47.79.66.61
+
+# GitHub — github-cloud.s3.amazonaws.com
+16.15.183.116
+16.15.207.209
+16.15.212.192
+16.15.212.38
+16.15.237.26
+16.182.99.210
+54.231.169.138
+54.231.232.186
+
+# GitHub — github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.183.122
+16.15.207.116
+16.15.212.192
+16.15.228.161
+16.15.237.107
+16.15.237.26
+16.15.252.207
+16.182.36.178
+
+# GitHub — github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.16.18
+52.216.24.192
+52.216.48.226
+52.216.57.18
+52.217.125.66
+52.217.132.122
+52.217.132.138
+54.231.236.98
+
+# GitHub — github-production-repository-image-32fea6.s3.amazonaws.com
+16.15.183.122
+16.15.207.116
+16.15.212.192
+16.15.228.161
+16.15.237.107
+16.15.237.26
+16.15.252.207
+16.182.36.178
+
+# GitHub — github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+16.15.162.127
+16.15.191.117
+16.15.229.3
+52.216.44.226
+52.216.53.162
+52.217.232.50
+52.217.69.16
+54.231.201.250
+
+# GitHub — github-production-user-asset-6210df.s3.amazonaws.com
+16.15.171.244
+16.15.228.89
+16.15.244.89
+16.15.253.237
+16.182.32.186
+52.216.35.50
+54.231.163.170
+54.231.168.154
+
 # GitHub — github.blog
 192.0.66.2
 
 # GitHub — github.com
-140.82.114.4
+140.82.112.3
+
+# GitHub — github.community
+140.82.114.17
 
 # GitHub — github.dev
 52.224.38.193
@@ -16,7 +103,35 @@
 185.199.110.153
 185.199.111.153
 
+# GitHub — githubapp.com
+140.82.112.29
+140.82.112.30
+140.82.113.29
+140.82.113.30
+140.82.114.29
+140.82.114.30
+
 # GitHub — githubassets.com
+# (no public DNS addresses found)
+
+# GitHub — githubcopilot.com
+140.82.112.17
+140.82.112.18
+140.82.113.17
+140.82.113.18
+140.82.114.17
+140.82.114.18
+
+# GitHub — githubhackathon.com
+140.82.112.18
+
+# GitHub — githubnext.com
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# GitHub — githubpreview.dev
 # (no public DNS addresses found)
 
 # GitHub — githubstatus.com
@@ -25,5 +140,157 @@
 185.199.110.153
 185.199.111.153
 
+# GitHub — githubuniverse.com
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
 # GitHub — githubusercontent.com
 # (no public DNS addresses found)
+
+# GitHub — myoctocat.com
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# GitHub — npm.community
+140.82.114.17
+
+# GitHub — npmjs.com
+104.17.134.117
+104.17.135.117
+
+# GitHub — npmjs.org
+104.16.0.34
+104.16.1.34
+104.16.10.34
+104.16.11.34
+104.16.2.34
+104.16.3.34
+104.16.4.34
+104.16.5.34
+104.16.6.34
+104.16.7.34
+104.16.8.34
+104.16.9.34
+
+# GitHub — opensource.guide
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# GitHub — productionresultssa0.blob.core.windows.net
+20.209.226.1
+20.209.226.129
+20.209.227.33
+
+# GitHub — productionresultssa1.blob.core.windows.net
+20.209.226.1
+20.209.226.129
+20.209.227.33
+
+# GitHub — productionresultssa10.blob.core.windows.net
+20.209.226.1
+20.209.226.129
+20.209.227.33
+
+# GitHub — productionresultssa11.blob.core.windows.net
+20.209.226.1
+20.209.226.129
+20.209.227.33
+
+# GitHub — productionresultssa12.blob.core.windows.net
+20.209.226.1
+20.209.226.129
+20.209.227.33
+
+# GitHub — productionresultssa13.blob.core.windows.net
+20.209.226.1
+20.209.226.129
+20.209.227.33
+
+# GitHub — productionresultssa14.blob.core.windows.net
+20.209.226.1
+20.209.226.129
+20.209.227.33
+
+# GitHub — productionresultssa15.blob.core.windows.net
+20.209.112.225
+20.209.113.193
+20.209.178.193
+
+# GitHub — productionresultssa16.blob.core.windows.net
+20.150.82.228
+20.150.88.228
+52.239.172.36
+
+# GitHub — productionresultssa17.blob.core.windows.net
+20.150.82.228
+20.150.88.228
+52.239.172.36
+
+# GitHub — productionresultssa18.blob.core.windows.net
+20.150.82.228
+20.150.88.228
+52.239.172.36
+
+# GitHub — productionresultssa19.blob.core.windows.net
+20.209.112.225
+20.209.113.193
+20.209.178.193
+
+# GitHub — productionresultssa2.blob.core.windows.net
+57.150.27.1
+57.150.86.161
+57.150.87.97
+
+# GitHub — productionresultssa3.blob.core.windows.net
+57.150.27.1
+57.150.86.161
+57.150.87.97
+
+# GitHub — productionresultssa4.blob.core.windows.net
+57.150.27.1
+57.150.86.161
+57.150.87.97
+
+# GitHub — productionresultssa5.blob.core.windows.net
+20.209.112.225
+20.209.113.193
+20.209.178.193
+
+# GitHub — productionresultssa6.blob.core.windows.net
+20.209.112.225
+20.209.113.193
+20.209.178.193
+
+# GitHub — productionresultssa7.blob.core.windows.net
+57.150.4.193
+57.150.75.161
+57.150.84.225
+
+# GitHub — productionresultssa8.blob.core.windows.net
+57.150.4.193
+57.150.75.161
+57.150.84.225
+
+# GitHub — productionresultssa9.blob.core.windows.net
+20.150.82.228
+20.150.88.228
+52.239.172.36
+
+# GitHub — rawgit.com
+104.21.24.61
+172.67.217.78
+
+# GitHub — rawgithub.com
+# (no public DNS addresses found)
+
+# GitHub — repo.new
+140.82.114.17
+
+# GitHub — thegithubshop.com
+23.227.38.65

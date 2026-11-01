@@ -1,13 +1,23 @@
 # DNS-derived IP snapshot for Android (android)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Android — aida.googleapis.com
+172.217.112.4
+172.217.113.4
+172.217.114.4
+172.217.115.4
+172.217.116.4
+172.217.117.4
+172.217.118.4
+172.217.119.4
+
 # Android — android.com
-142.250.114.103
-142.250.114.104
-142.250.114.105
-142.250.114.106
-142.250.114.147
-142.250.114.99
+192.178.142.103
+192.178.142.104
+192.178.142.105
+192.178.142.106
+192.178.142.147
+192.178.142.99
 
 # Android — android.googleapis.com
 172.217.112.4
@@ -18,3 +28,6 @@
 172.217.117.4
 172.217.118.4
 172.217.119.4
+
+# Android — android.googlesource.com
+142.251.2.82

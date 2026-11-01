@@ -1,3 +1,6 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Deezer — deezer.com
 # (no public DNS addresses found)
+
+# Deezer — dzcdn.net
+# (no public DNS addresses found)

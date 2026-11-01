@@ -1,3 +1,10 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Хабр — habr.com
 # (no public DNS addresses found)
+
+# Хабр — habr.io
+# (no public DNS addresses found)
+
+# Хабр — habrastorage.org
+2a14:b680:0:56::34/128
+2a14:b680:0:56::35/128

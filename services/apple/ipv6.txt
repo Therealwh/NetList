@@ -1,35 +1,2769 @@
 # DNS-derived IP snapshot for Apple (apple)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Apple — 100beatscheap.com
+# (no public DNS addresses found)
+
+# Apple — 12diasdepresentesdeitunes.com
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.cl
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.co
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.co.cr
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.co.ni
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.co.ve
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.com
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.com.co
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.com.hn
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.com.ni
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.com.ve
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.cr
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.gt
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.hn
+# (no public DNS addresses found)
+
+# Apple — 12diasderegalosdeitunes.pe
+# (no public DNS addresses found)
+
+# Apple — 12joursdecadeauxdeitunes.com
+# (no public DNS addresses found)
+
+# Apple — 1monsterbeatsbydreus.com
+# (no public DNS addresses found)
+
+# Apple — 1to1computing.com.au
+# (no public DNS addresses found)
+
+# Apple — 1to1conference.com.au
+# (no public DNS addresses found)
+
+# Apple — 2013beatsbydrdreonline.com
+# (no public DNS addresses found)
+
+# Apple — 2013beatsbydrdreshop.com
+# (no public DNS addresses found)
+
+# Apple — 2013beatsbydreshop.com
+# (no public DNS addresses found)
+
+# Apple — 2013beatshdcybermonday.com
+# (no public DNS addresses found)
+
+# Apple — 2013cheapestbeats.com
+# (no public DNS addresses found)
+
+# Apple — 2013newbeatsworld.com
+# (no public DNS addresses found)
+
+# Apple — 2013pascherbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — 2014cheapbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — 2beatsdre.com
+# (no public DNS addresses found)
+
+# Apple — 2buybeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — 2drdrebeats.com
+# (no public DNS addresses found)
+
+# Apple — 40shopping.com
+# (no public DNS addresses found)
+
+# Apple — 4beatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — 5beatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — 5lml.com
+# (no public DNS addresses found)
+
+# Apple — a0pple.net
+# (no public DNS addresses found)
+
+# Apple — a1.mzstatic.com
+2600:1405:8400:381::2a1
+2600:1405:8400:383::2a1
+2600:1405:8400:387::2a1
+2600:1405:8400:390::2a1
+2600:1405:8400:396::2a1
+
+# Apple — a2.mzstatic.com
+2600:1405:8400:381::2a1
+2600:1405:8400:383::2a1
+2600:1405:8400:384::2a1
+2600:1405:8400:387::2a1
+2600:1405:8400:390::2a1
+
+# Apple — a3.mzstatic.com
+2600:1405:8400:385::2a1
+2600:1405:8400:388::2a1
+2600:1405:8400:389::2a1
+2600:1405:8400:38f::2a1
+2600:1405:8400:397::2a1
+
+# Apple — a4.mzstatic.com
+2600:1405:8400:381::2a1
+2600:1405:8400:383::2a1
+2600:1405:8400:384::2a1
+2600:1405:8400:387::2a1
+2600:1405:8400:390::2a1
+
+# Apple — a5.mzstatic.com
+2600:1405:8400:380::2a1
+2600:1405:8400:388::2a1
+2600:1405:8400:389::2a1
+2600:1405:8400:38f::2a1
+2600:1405:8400:397::2a1
+
+# Apple — aaagradeheadphones.com
+# (no public DNS addresses found)
+
+# Apple — aanaan.com
+# (no public DNS addresses found)
+
+# Apple — aapl.tw
+# (no public DNS addresses found)
+
+# Apple — aaplimg.com
+# (no public DNS addresses found)
+
+# Apple — abcheadphones.com
+# (no public DNS addresses found)
+
+# Apple — abeatsbydrdre.com
+# (no public DNS addresses found)
+
+# Apple — adcdownload.apple.com
+2620:149:a32:f000::139
+2620:149:a32:f000::140
+
+# Apple — adcdownload.apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — aeasyshop.com
+# (no public DNS addresses found)
+
+# Apple — airmay.com
+2600:1f18:4ae:c605:dd5d:b838:5816:d7fb
+2600:1f18:4ae:c606:78d4:4260:db4e:aeee
+
+# Apple — airport.brussels
+# (no public DNS addresses found)
+
+# Apple — airport.com
+# (no public DNS addresses found)
+
+# Apple — airport.eu
+# (no public DNS addresses found)
+
+# Apple — airsupportapp.com
+# (no public DNS addresses found)
+
+# Apple — airtunes.com
+# (no public DNS addresses found)
+
+# Apple — airtunes.info
+# (no public DNS addresses found)
+
+# Apple — airtunes.net
+# (no public DNS addresses found)
+
+# Apple — ajtalk.com
+2600:1f18:4ae:c605:dd5d:b838:5816:d7fb
+2600:1f18:4ae:c606:78d4:4260:db4e:aeee
+
+# Apple — akadns.net
+# (no public DNS addresses found)
+
+# Apple — albeats.com
+# (no public DNS addresses found)
+
+# Apple — alchemysynth.com
+# (no public DNS addresses found)
+
+# Apple — amp-api-edge.apps.apple.com
+2a04:4e42:26::774
+
+# Apple — amp-api-search-edge.apps.apple.com
+2a04:4e42:26::774
+
+# Apple — amp-api-updates.apps.apple.com
+2a04:4e42:26::774
+
+# Apple — amp-api.apps.apple.com
+2a04:4e42:26::774
+
+# Apple — amp-api.media.apple.com
+2a04:4e42:8a::774
+
+# Apple — annstores.net
+# (no public DNS addresses found)
+
+# Apple — aokwholesale.net
+# (no public DNS addresses found)
+
+# Apple — ap0le.com
+# (no public DNS addresses found)
+
+# Apple — api-edge.apps.apple.com
+2600:1405:7400:284::2a1
+2600:1405:7400:296::2a1
+2600:1405:7400:298::2a1
+2600:1405:7400:29f::2a1
+2600:1405:7400:2a1::2a1
+
+# Apple — aple.com
+# (no public DNS addresses found)
+
+# Apple — aplestore.com
+# (no public DNS addresses found)
+
+# Apple — aplleipods.com
+# (no public DNS addresses found)
+
+# Apple — apole.com
+# (no public DNS addresses found)
+
+# Apple — app-site-association.cdn-apple.com
+2620:149:a00:0:17:253:253:5
+2620:149:a00:0:17:253:253:8
+2620:149:a00:f000::131
+2620:149:a00:f000::155
+2620:149:a2d:0:17:253:251:4
+2620:149:a2d:0:17:253:251:5
+2620:149:a32:f000::152
+2620:149:a32:f000::197
+
+# Apple — app-store.wang
+# (no public DNS addresses found)
+
+# Apple — app0le.com
+# (no public DNS addresses found)
+
 # Apple — appattest.apple.com
+# (no public DNS addresses found)
+
+# Apple — appe-store.com
+# (no public DNS addresses found)
+
+# Apple — appl-e.com
+# (no public DNS addresses found)
+
+# Apple — appl.com
+# (no public DNS addresses found)
+
+# Apple — appl4e.com
+# (no public DNS addresses found)
+
+# Apple — appla.com
+# (no public DNS addresses found)
+
+# Apple — appldnld.apple.com
+2620:149:a32:f000::133
+
+# Apple — appldnld.apple.com.edgesuite.net
+2600:1404:ec00:2404::17db:572e
+2600:1404:ec00:240e::1735:7f8e
+
+# Apple — appldnld.g.aaplimg.com
+2620:149:a32:f000::131
+
+# Apple — apple-appstore.cn
 # (no public DNS addresses found)
 
 # Apple — apple-cloudkit.com
 # (no public DNS addresses found)
 
+# Apple — apple-darwin.com
+# (no public DNS addresses found)
+
+# Apple — apple-darwin.net
+# (no public DNS addresses found)
+
+# Apple — apple-darwin.org
+# (no public DNS addresses found)
+
+# Apple — apple-dns.cn
+# (no public DNS addresses found)
+
+# Apple — apple-dns.com
+# (no public DNS addresses found)
+
+# Apple — apple-dns.com.cn
+# (no public DNS addresses found)
+
 # Apple — apple-dns.net
+# (no public DNS addresses found)
+
+# Apple — apple-enews.com
+# (no public DNS addresses found)
+
+# Apple — apple-events.akamaized.net
+2600:1404:ec00:240e::1735:7f8d
+2600:1404:ec00:240e::1735:7f8e
+2600:1404:ec00:240e::1735:7f8f
+2600:1404:ec00:240e::1735:7f90
+2600:1404:ec00:240e::1735:7f91
+
+# Apple — apple-expo.com
+# (no public DNS addresses found)
+
+# Apple — apple-expo.eu
+# (no public DNS addresses found)
+
+# Apple — apple-hk.com
+# (no public DNS addresses found)
+
+# Apple — apple-ibooks.cn
+# (no public DNS addresses found)
+
+# Apple — apple-icloud.cn
+# (no public DNS addresses found)
+
+# Apple — apple-imac.com
+# (no public DNS addresses found)
+
+# Apple — apple-inc.net
+# (no public DNS addresses found)
+
+# Apple — apple-itunes.cn
 # (no public DNS addresses found)
 
 # Apple — apple-livephotoskit.com
 # (no public DNS addresses found)
 
+# Apple — apple-mapkit.com
+# (no public DNS addresses found)
+
+# Apple — apple-maps.cn
+# (no public DNS addresses found)
+
 # Apple — apple-native-relay.apple.com
-2620:149:1361:1::8
-2620:149:1361:2::4
-2620:149:1361:2::5
-2620:149:1361:2::9
-2620:149:1361:2::a
-2620:149:1361::10
-2620:149:a42:200::12
-2620:149:a42:200::18
+2620:149:a42:707::6
+2620:149:a42:707::7
+2620:149:a42:707::9
+2620:149:a42:707::b
+2620:149:a42:708::10
+2620:149:a42:708::5
+2620:149:a42:708::9
+2620:149:a42:708::d
+
+# Apple — apple-online.com
+# (no public DNS addresses found)
+
+# Apple — apple-pay.com
+# (no public DNS addresses found)
+
+# Apple — apple-pay.rs
+# (no public DNS addresses found)
+
+# Apple — apple-pay.wang
+# (no public DNS addresses found)
+
+# Apple — apple-store.cn
+# (no public DNS addresses found)
+
+# Apple — apple-store.net
+# (no public DNS addresses found)
+
+# Apple — apple-store.wang
+# (no public DNS addresses found)
+
+# Apple — apple-usa.net
+# (no public DNS addresses found)
+
+# Apple — apple-watch.com.ru
+# (no public DNS addresses found)
+
+# Apple — apple.ae
+# (no public DNS addresses found)
+
+# Apple — apple.at
+# (no public DNS addresses found)
+
+# Apple — apple.be
+# (no public DNS addresses found)
+
+# Apple — apple.bg
+# (no public DNS addresses found)
+
+# Apple — apple.bs
+# (no public DNS addresses found)
+
+# Apple — apple.ca
+# (no public DNS addresses found)
+
+# Apple — apple.ch
+# (no public DNS addresses found)
+
+# Apple — apple.cl
+# (no public DNS addresses found)
+
+# Apple — apple.cm
+# (no public DNS addresses found)
+
+# Apple — apple.cn
+# (no public DNS addresses found)
+
+# Apple — apple.co
+# (no public DNS addresses found)
+
+# Apple — apple.co.cr
+# (no public DNS addresses found)
+
+# Apple — apple.co.hu
+# (no public DNS addresses found)
+
+# Apple — apple.co.jp
+# (no public DNS addresses found)
+
+# Apple — apple.co.kr
+# (no public DNS addresses found)
+
+# Apple — apple.co.mz
+# (no public DNS addresses found)
+
+# Apple — apple.co.nz
+# (no public DNS addresses found)
+
+# Apple — apple.co.th
+# (no public DNS addresses found)
+
+# Apple — apple.co.uk
+# (no public DNS addresses found)
 
 # Apple — apple.com
 2620:149:af0::10
 
+# Apple — apple.com.af
+# (no public DNS addresses found)
+
+# Apple — apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — apple.com.au
+# (no public DNS addresses found)
+
+# Apple — apple.com.bo
+# (no public DNS addresses found)
+
+# Apple — apple.com.br
+# (no public DNS addresses found)
+
+# Apple — apple.com.cdn20.com
+# (no public DNS addresses found)
+
+# Apple — apple.com.cn
+# (no public DNS addresses found)
+
+# Apple — apple.com.co
+# (no public DNS addresses found)
+
+# Apple — apple.com.de
+# (no public DNS addresses found)
+
+# Apple — apple.com.do
+# (no public DNS addresses found)
+
+# Apple — apple.com.gr
+# (no public DNS addresses found)
+
+# Apple — apple.com.gy
+# (no public DNS addresses found)
+
+# Apple — apple.com.jm
+# (no public DNS addresses found)
+
+# Apple — apple.com.lk
+# (no public DNS addresses found)
+
+# Apple — apple.com.mg
+# (no public DNS addresses found)
+
+# Apple — apple.com.mwcloudcdn.com
+# (no public DNS addresses found)
+
+# Apple — apple.com.mwcname.com
+# (no public DNS addresses found)
+
+# Apple — apple.com.mx
+# (no public DNS addresses found)
+
+# Apple — apple.com.my
+# (no public DNS addresses found)
+
+# Apple — apple.com.pa
+# (no public DNS addresses found)
+
+# Apple — apple.com.pe
+# (no public DNS addresses found)
+
+# Apple — apple.com.pl
+# (no public DNS addresses found)
+
+# Apple — apple.com.pr
+# (no public DNS addresses found)
+
+# Apple — apple.com.pt
+# (no public DNS addresses found)
+
+# Apple — apple.com.py
+# (no public DNS addresses found)
+
+# Apple — apple.com.sg
+# (no public DNS addresses found)
+
+# Apple — apple.com.sv
+# (no public DNS addresses found)
+
+# Apple — apple.com.tr
+# (no public DNS addresses found)
+
+# Apple — apple.com.tw
+# (no public DNS addresses found)
+
+# Apple — apple.com.uy
+# (no public DNS addresses found)
+
+# Apple — apple.comscoreresearch.com
+# (no public DNS addresses found)
+
+# Apple — apple.cz
+# (no public DNS addresses found)
+
+# Apple — apple.de
+# (no public DNS addresses found)
+
+# Apple — apple.dk
+# (no public DNS addresses found)
+
+# Apple — apple.ee
+# (no public DNS addresses found)
+
+# Apple — apple.es
+# (no public DNS addresses found)
+
+# Apple — apple.eu
+# (no public DNS addresses found)
+
+# Apple — apple.fi
+# (no public DNS addresses found)
+
+# Apple — apple.fr
+# (no public DNS addresses found)
+
+# Apple — apple.hamburg
+# (no public DNS addresses found)
+
+# Apple — apple.hn
+# (no public DNS addresses found)
+
+# Apple — apple.hr
+# (no public DNS addresses found)
+
+# Apple — apple.hu
+# (no public DNS addresses found)
+
+# Apple — apple.ie
+# (no public DNS addresses found)
+
+# Apple — apple.in
+# (no public DNS addresses found)
+
+# Apple — apple.is
+# (no public DNS addresses found)
+
+# Apple — apple.it
+# (no public DNS addresses found)
+
+# Apple — apple.jo
+# (no public DNS addresses found)
+
+# Apple — apple.jp
+# (no public DNS addresses found)
+
+# Apple — apple.kr
+# (no public DNS addresses found)
+
+# Apple — apple.lk
+# (no public DNS addresses found)
+
+# Apple — apple.lt
+# (no public DNS addresses found)
+
+# Apple — apple.lv
+# (no public DNS addresses found)
+
+# Apple — apple.me
+# (no public DNS addresses found)
+
+# Apple — apple.my
+# (no public DNS addresses found)
+
+# Apple — apple.net
+# (no public DNS addresses found)
+
+# Apple — apple.net.gr
+# (no public DNS addresses found)
+
+# Apple — apple.news
+2600:1405:8400:3::17d1:540e
+2600:1405:8400:3::17d1:5430
+2600:1405:8400:3::17d1:5443
+2600:1405:8400:3::17d1:5444
+
+# Apple — apple.nl
+# (no public DNS addresses found)
+
+# Apple — apple.no
+# (no public DNS addresses found)
+
+# Apple — apple.pk
+# (no public DNS addresses found)
+
+# Apple — apple.pl
+# (no public DNS addresses found)
+
+# Apple — apple.pt
+# (no public DNS addresses found)
+
+# Apple — apple.ro
+# (no public DNS addresses found)
+
+# Apple — apple.rs
+# (no public DNS addresses found)
+
+# Apple — apple.ru
+# (no public DNS addresses found)
+
+# Apple — apple.sa
+# (no public DNS addresses found)
+
+# Apple — apple.se
+# (no public DNS addresses found)
+
+# Apple — apple.sg
+# (no public DNS addresses found)
+
+# Apple — apple.si
+# (no public DNS addresses found)
+
+# Apple — apple.sk
+# (no public DNS addresses found)
+
+# Apple — apple.so
+# (no public DNS addresses found)
+
+# Apple — apple.tt
+# (no public DNS addresses found)
+
+# Apple — apple.tw
+# (no public DNS addresses found)
+
+# Apple — apple.uk
+# (no public DNS addresses found)
+
+# Apple — apple.us
+# (no public DNS addresses found)
+
+# Apple — apple.xn--czr694b
+# (no public DNS addresses found)
+
+# Apple — apple.xn--fiqs8s
+# (no public DNS addresses found)
+
+# Apple — apple.xyz
+# (no public DNS addresses found)
+
+# Apple — appleaccount.net
+# (no public DNS addresses found)
+
+# Apple — appleafrica.com
+# (no public DNS addresses found)
+
+# Apple — appleantilles.com
+# (no public DNS addresses found)
+
+# Apple — appleappstore.cn
+# (no public DNS addresses found)
+
+# Apple — appleappstore.net
+# (no public DNS addresses found)
+
+# Apple — appleappstore.tv
+# (no public DNS addresses found)
+
+# Apple — appleaustralia.com
+# (no public DNS addresses found)
+
+# Apple — appleaustralia.com.au
+# (no public DNS addresses found)
+
+# Apple — appleaustralia.net.au
+# (no public DNS addresses found)
+
+# Apple — applebk.net
+# (no public DNS addresses found)
+
+# Apple — applecarbon.com
+# (no public DNS addresses found)
+
+# Apple — applecard.tv
+# (no public DNS addresses found)
+
+# Apple — applecare.berlin
+# (no public DNS addresses found)
+
+# Apple — applecare.cc
+# (no public DNS addresses found)
+
+# Apple — applecare.eu
+# (no public DNS addresses found)
+
+# Apple — applecare.hamburg
+# (no public DNS addresses found)
+
+# Apple — applecare.wang
+# (no public DNS addresses found)
+
+# Apple — applecentar.co.rs
+# (no public DNS addresses found)
+
+# Apple — applecentar.rs
+# (no public DNS addresses found)
+
+# Apple — applecenter.cn
+# (no public DNS addresses found)
+
+# Apple — applecenter.com.cn
+# (no public DNS addresses found)
+
+# Apple — applecentre.com.au
+# (no public DNS addresses found)
+
+# Apple — applecentre.info
+# (no public DNS addresses found)
+
+# Apple — appleclassicipod.com
+# (no public DNS addresses found)
+
+# Apple — appleclub.com.hk
+# (no public DNS addresses found)
+
+# Apple — applecom.com
+# (no public DNS addresses found)
+
+# Apple — applecomputer-imac.com
+# (no public DNS addresses found)
+
+# Apple — applecomputer.cn
+# (no public DNS addresses found)
+
+# Apple — applecomputer.co.in
+# (no public DNS addresses found)
+
+# Apple — applecomputer.co.nz
+# (no public DNS addresses found)
+
+# Apple — applecomputer.com
+# (no public DNS addresses found)
+
+# Apple — applecomputer.com.cn
+# (no public DNS addresses found)
+
+# Apple — applecomputer.com.hk
+# (no public DNS addresses found)
+
+# Apple — applecomputer.com.tw
+# (no public DNS addresses found)
+
+# Apple — applecomputer.hu
+# (no public DNS addresses found)
+
+# Apple — applecomputer.kr
+# (no public DNS addresses found)
+
+# Apple — applecomputerimac.com
+# (no public DNS addresses found)
+
+# Apple — applecomputerinc.info
+# (no public DNS addresses found)
+
+# Apple — applecomputers.co.nz
+# (no public DNS addresses found)
+
+# Apple — applecoronavirus.com
+# (no public DNS addresses found)
+
+# Apple — appledarwin.com
+# (no public DNS addresses found)
+
+# Apple — appledarwin.net
+# (no public DNS addresses found)
+
+# Apple — appledns.cn
+# (no public DNS addresses found)
+
+# Apple — appledns.com.cn
+# (no public DNS addresses found)
+
+# Apple — appleenews.com
+# (no public DNS addresses found)
+
+# Apple — appleexpo.eu
+# (no public DNS addresses found)
+
+# Apple — appleexpo.info
+# (no public DNS addresses found)
+
+# Apple — applefilmaker.com
+# (no public DNS addresses found)
+
+# Apple — applefilmmaker.com
+# (no public DNS addresses found)
+
+# Apple — applefinalcutproworld.com
+# (no public DNS addresses found)
+
+# Apple — applefinalcutproworld.net
+# (no public DNS addresses found)
+
+# Apple — applefinalcutproworld.org
+# (no public DNS addresses found)
+
+# Apple — applehongkong.com
+# (no public DNS addresses found)
+
+# Apple — applehongkong.com.hk
+# (no public DNS addresses found)
+
+# Apple — appleicloud.cn
+# (no public DNS addresses found)
+
+# Apple — appleid-applemx.com
+# (no public DNS addresses found)
+
+# Apple — appleid-applemx.us
+# (no public DNS addresses found)
+
+# Apple — appleid-iclou.com
+# (no public DNS addresses found)
+
+# Apple — appleid-uk.us
+# (no public DNS addresses found)
+
+# Apple — appleid.berlin
+# (no public DNS addresses found)
+
+# Apple — appleid.cdn-apple.com
+2600:1404:ec00:2408::1735:7fe7
+2600:1404:ec00:240e::1735:7f8f
+
+# Apple — appleid.com
+# (no public DNS addresses found)
+
+# Apple — appleid.hamburg
+# (no public DNS addresses found)
+
+# Apple — appleid.hk
+# (no public DNS addresses found)
+
+# Apple — appleimac.com
+# (no public DNS addresses found)
+
+# Apple — appleinclegal.com
+# (no public DNS addresses found)
+
+# Apple — appleiphone.hu
+# (no public DNS addresses found)
+
+# Apple — appleiphone.net
+# (no public DNS addresses found)
+
+# Apple — appleiphonecell.com
+# (no public DNS addresses found)
+
+# Apple — appleipodsettlement.com
+# (no public DNS addresses found)
+
+# Apple — appleiservices.com
+# (no public DNS addresses found)
+
+# Apple — applelink.com
+# (no public DNS addresses found)
+
+# Apple — applemagickeyboard.com
+# (no public DNS addresses found)
+
+# Apple — applemalaysia.com.my
+# (no public DNS addresses found)
+
+# Apple — applemasters.info
+# (no public DNS addresses found)
+
+# Apple — applemusic.berlin
+# (no public DNS addresses found)
+
+# Apple — applemusic.co
+# (no public DNS addresses found)
+
+# Apple — applemusic.com
+# (no public DNS addresses found)
+
+# Apple — applemusic.com.au
+# (no public DNS addresses found)
+
+# Apple — applemusic.hamburg
+# (no public DNS addresses found)
+
+# Apple — applemusic.wang
+# (no public DNS addresses found)
+
+# Apple — applemusicconnect.com
+# (no public DNS addresses found)
+
+# Apple — applemusicfestival.com
+# (no public DNS addresses found)
+
+# Apple — applemx-icloud.com
+# (no public DNS addresses found)
+
+# Apple — applenews.berlin
+# (no public DNS addresses found)
+
+# Apple — applenews.hamburg
+# (no public DNS addresses found)
+
+# Apple — applenews.tv
+# (no public DNS addresses found)
+
+# Apple — applenewsformat.com
+# (no public DNS addresses found)
+
+# Apple — appleone.audio
+# (no public DNS addresses found)
+
+# Apple — appleone.blog
+# (no public DNS addresses found)
+
+# Apple — appleone.chat
+# (no public DNS addresses found)
+
+# Apple — appleone.cloud
+# (no public DNS addresses found)
+
+# Apple — appleone.club
+# (no public DNS addresses found)
+
+# Apple — appleone.community
+# (no public DNS addresses found)
+
+# Apple — appleone.film
+# (no public DNS addresses found)
+
+# Apple — appleone.guide
+# (no public DNS addresses found)
+
+# Apple — appleone.host
+# (no public DNS addresses found)
+
+# Apple — appleone.space
+# (no public DNS addresses found)
+
+# Apple — appleone.tech
+# (no public DNS addresses found)
+
+# Apple — appleone.website
+# (no public DNS addresses found)
+
+# Apple — appleonline.com
+# (no public DNS addresses found)
+
+# Apple — appleonline.net
+# (no public DNS addresses found)
+
+# Apple — appleoriginalproductions.com
+# (no public DNS addresses found)
+
+# Apple — appleos.tv
+# (no public DNS addresses found)
+
+# Apple — applepay.berlin
+# (no public DNS addresses found)
+
+# Apple — applepay.co.rs
+# (no public DNS addresses found)
+
+# Apple — applepay.com.tw
+# (no public DNS addresses found)
+
+# Apple — applepay.hamburg
+# (no public DNS addresses found)
+
+# Apple — applepay.hk
+# (no public DNS addresses found)
+
+# Apple — applepay.info
+# (no public DNS addresses found)
+
+# Apple — applepay.jp
+# (no public DNS addresses found)
+
+# Apple — applepay.rs
+# (no public DNS addresses found)
+
+# Apple — applepay.tv
+# (no public DNS addresses found)
+
+# Apple — applepaycash.cn
+# (no public DNS addresses found)
+
+# Apple — applepaycash.com.cn
+# (no public DNS addresses found)
+
+# Apple — applepaycash.net
+# (no public DNS addresses found)
+
+# Apple — applepaycash.tv
+# (no public DNS addresses found)
+
+# Apple — applepaymerchantsupplies.info
+# (no public DNS addresses found)
+
+# Apple — applepaysupplies.berlin
+# (no public DNS addresses found)
+
+# Apple — applepaysupplies.cn
+# (no public DNS addresses found)
+
+# Apple — applepaysupplies.com
+# (no public DNS addresses found)
+
+# Apple — applepaysupplies.com.cn
+# (no public DNS addresses found)
+
+# Apple — applepaysupplies.info
+# (no public DNS addresses found)
+
+# Apple — applepaysupplies.net
+# (no public DNS addresses found)
+
+# Apple — applepaysupplies.tv
+# (no public DNS addresses found)
+
+# Apple — applepencil.net
+# (no public DNS addresses found)
+
+# Apple — applepodcasts.com
+# (no public DNS addresses found)
+
+# Apple — applepremiumreseller.com.au
+# (no public DNS addresses found)
+
+# Apple — applepremiumresellers.com.au
+# (no public DNS addresses found)
+
+# Apple — applereach.com
+# (no public DNS addresses found)
+
+# Apple — applereach.net
+# (no public DNS addresses found)
+
+# Apple — apples-msk.ru
+# (no public DNS addresses found)
+
+# Apple — appleschoolcontent.com
+# (no public DNS addresses found)
+
+# Apple — applescreensavers.com
+# (no public DNS addresses found)
+
+# Apple — applescript.info
+# (no public DNS addresses found)
+
+# Apple — appleshare.info
+# (no public DNS addresses found)
+
+# Apple — appleshop.co.uk
+# (no public DNS addresses found)
+
+# Apple — applesiri.cn
+# (no public DNS addresses found)
+
+# Apple — applestor.com
+# (no public DNS addresses found)
+
+# Apple — applestore.bg
+# (no public DNS addresses found)
+
+# Apple — applestore.cc
+# (no public DNS addresses found)
+
+# Apple — applestore.ch
+# (no public DNS addresses found)
+
+# Apple — applestore.cm
+# (no public DNS addresses found)
+
+# Apple — applestore.cn
+# (no public DNS addresses found)
+
+# Apple — applestore.co.hu
+# (no public DNS addresses found)
+
+# Apple — applestore.co.jp
+# (no public DNS addresses found)
+
+# Apple — applestore.co.ug
+# (no public DNS addresses found)
+
+# Apple — applestore.co.uk
+# (no public DNS addresses found)
+
+# Apple — applestore.com
+# (no public DNS addresses found)
+
+# Apple — applestore.com.au
+# (no public DNS addresses found)
+
+# Apple — applestore.com.bn
+# (no public DNS addresses found)
+
+# Apple — applestore.com.cn
+# (no public DNS addresses found)
+
+# Apple — applestore.com.ee
+# (no public DNS addresses found)
+
+# Apple — applestore.com.eg
+# (no public DNS addresses found)
+
+# Apple — applestore.com.gr
+# (no public DNS addresses found)
+
+# Apple — applestore.com.hk
+# (no public DNS addresses found)
+
+# Apple — applestore.com.hr
+# (no public DNS addresses found)
+
+# Apple — applestore.com.jo
+# (no public DNS addresses found)
+
+# Apple — applestore.com.my
+# (no public DNS addresses found)
+
+# Apple — applestore.com.ph
+# (no public DNS addresses found)
+
+# Apple — applestore.com.pl
+# (no public DNS addresses found)
+
+# Apple — applestore.com.pt
+# (no public DNS addresses found)
+
+# Apple — applestore.com.ro
+# (no public DNS addresses found)
+
+# Apple — applestore.com.ru
+# (no public DNS addresses found)
+
+# Apple — applestore.com.sn
+# (no public DNS addresses found)
+
+# Apple — applestore.com.tw
+# (no public DNS addresses found)
+
+# Apple — applestore.de
+# (no public DNS addresses found)
+
+# Apple — applestore.hk
+# (no public DNS addresses found)
+
+# Apple — applestore.kr
+# (no public DNS addresses found)
+
+# Apple — applestore.me
+# (no public DNS addresses found)
+
+# Apple — applestore.net
+# (no public DNS addresses found)
+
+# Apple — applestore.net.gr
+# (no public DNS addresses found)
+
+# Apple — applestore.ph
+# (no public DNS addresses found)
+
+# Apple — applestore.qa
+# (no public DNS addresses found)
+
+# Apple — applestore.sg
+# (no public DNS addresses found)
+
+# Apple — applestore.wang
+# (no public DNS addresses found)
+
+# Apple — applestoreonline.com
+# (no public DNS addresses found)
+
+# Apple — applestorepro.eu
+# (no public DNS addresses found)
+
+# Apple — applesurveys.com
+# (no public DNS addresses found)
+
+# Apple — appleswift.com
+# (no public DNS addresses found)
+
+# Apple — appletaiwan.com
+# (no public DNS addresses found)
+
+# Apple — appletips.net
+# (no public DNS addresses found)
+
+# Apple — appletv.com
+# (no public DNS addresses found)
+
+# Apple — appletv.fr
+# (no public DNS addresses found)
+
+# Apple — appletv.wang
+# (no public DNS addresses found)
+
+# Apple — appletv4.cn
+# (no public DNS addresses found)
+
+# Apple — appletv4.com.cn
+# (no public DNS addresses found)
+
+# Apple — appletvapp.apple
+# (no public DNS addresses found)
+
+# Apple — applewallet.com
+# (no public DNS addresses found)
+
+# Apple — applewallet.tv
+# (no public DNS addresses found)
+
+# Apple — applewatch.hk
+# (no public DNS addresses found)
+
+# Apple — applewatch.tv
+# (no public DNS addresses found)
+
+# Apple — applewatch.tw
+# (no public DNS addresses found)
+
+# Apple — applewatch.wang
+# (no public DNS addresses found)
+
+# Apple — applewatchedition.com
+# (no public DNS addresses found)
+
+# Apple — applewatchseries3.net
+# (no public DNS addresses found)
+
+# Apple — applewatchsport.com
+# (no public DNS addresses found)
+
+# Apple — appleweb.net
+# (no public DNS addresses found)
+
+# Apple — appleworldwidedeveloper.hb-api.omtrdc.net
+# (no public DNS addresses found)
+
+# Apple — appleworldwidedeveloper.sc.omtrdc.net
+# (no public DNS addresses found)
+
+# Apple — applexpo.net
+# (no public DNS addresses found)
+
+# Apple — applezh.com
+# (no public DNS addresses found)
+
+# Apple — applf.com
+# (no public DNS addresses found)
+
+# Apple — applfe.com
+# (no public DNS addresses found)
+
+# Apple — applle.com
+# (no public DNS addresses found)
+
+# Apple — applw.com
+# (no public DNS addresses found)
+
+# Apple — appmediagroup.com
+# (no public DNS addresses found)
+
+# Apple — apps.mzstatic.com
+2620:149:a32:f000::137
+2620:149:a32:f000::150
+
+# Apple — appsto.re
+# (no public DNS addresses found)
+
+# Apple — appstore.co.id
+# (no public DNS addresses found)
+
+# Apple — appstore.com
+# (no public DNS addresses found)
+
+# Apple — appstore.hk
+# (no public DNS addresses found)
+
+# Apple — appstore.my
+# (no public DNS addresses found)
+
+# Apple — appstore.ph
+# (no public DNS addresses found)
+
+# Apple — appstoreapple.cn
+# (no public DNS addresses found)
+
+# Apple — appule.com
+# (no public DNS addresses found)
+
+# Apple — appye.com
+# (no public DNS addresses found)
+
+# Apple — apyle.com
+# (no public DNS addresses found)
+
+# Apple — apzones.com
+# (no public DNS addresses found)
+
+# Apple — asto.re
+# (no public DNS addresses found)
+
+# Apple — aucheapbeats.com
+# (no public DNS addresses found)
+
+# Apple — audiobeatsau.com
+# (no public DNS addresses found)
+
+# Apple — audiobeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — audiomonsterbeatsonline.com
+# (no public DNS addresses found)
+
+# Apple — auricularemonsterbeats.com
+# (no public DNS addresses found)
+
+# Apple — auricularesbeatsbaratosshop.com
+# (no public DNS addresses found)
+
+# Apple — auricularesbeatsmarkt.com
+# (no public DNS addresses found)
+
+# Apple — ausbeatsbydrdre.com
+# (no public DNS addresses found)
+
 # Apple — axm-servicediscovery.apple.com
 # (no public DNS addresses found)
 
+# Apple — bag-glasses1.com
+# (no public DNS addresses found)
+
+# Apple — bandgirlz.com
+# (no public DNS addresses found)
+
+# Apple — baxsound.com
+# (no public DNS addresses found)
+
+# Apple — bbestmall.com
+# (no public DNS addresses found)
+
+# Apple — beatbd.com
+# (no public DNS addresses found)
+
+# Apple — beatbydre2013.com
+# (no public DNS addresses found)
+
+# Apple — beatbydreheadphonesonsale.com
+# (no public DNS addresses found)
+
+# Apple — beatbydrekopen.com
+# (no public DNS addresses found)
+
+# Apple — beatbydremonster.com
+# (no public DNS addresses found)
+
+# Apple — beatbydreuk2014.com
+# (no public DNS addresses found)
+
+# Apple — beatdrdres.com
+# (no public DNS addresses found)
+
+# Apple — beatfactoryoutlets.com
+# (no public DNS addresses found)
+
+# Apple — beatmonstersaustralia.net
+# (no public DNS addresses found)
+
+# Apple — beats-by-dre-australia.com
+# (no public DNS addresses found)
+
+# Apple — beats-bydrdre.net
+# (no public DNS addresses found)
+
+# Apple — beats-bydre-mall.com
+# (no public DNS addresses found)
+
+# Apple — beats-bydrecheapsale.com
+# (no public DNS addresses found)
+
+# Apple — beats-bydreoutletonline.com
+# (no public DNS addresses found)
+
+# Apple — beats-bydreoutletsale.com
+# (no public DNS addresses found)
+
+# Apple — beats-bydreoutletsale.net
+# (no public DNS addresses found)
+
+# Apple — beats-bydreoutletssale.net
+# (no public DNS addresses found)
+
+# Apple — beats-bydrestore.com
+# (no public DNS addresses found)
+
+# Apple — beats-bydreuk.com
+# (no public DNS addresses found)
+
+# Apple — beats-deal.com
+# (no public DNS addresses found)
+
+# Apple — beats-dre-us.com
+# (no public DNS addresses found)
+
+# Apple — beats-headphones-buy-cheap.com
+# (no public DNS addresses found)
+
+# Apple — beats-headphones.us
+# (no public DNS addresses found)
+
+# Apple — beats-sale.com
+# (no public DNS addresses found)
+
+# Apple — beats-seller.com
+# (no public DNS addresses found)
+
+# Apple — beats-soaho.com
+# (no public DNS addresses found)
+
+# Apple — beats1.cc
+# (no public DNS addresses found)
+
+# Apple — beats1.cn
+# (no public DNS addresses found)
+
+# Apple — beats1.com.cn
+# (no public DNS addresses found)
+
+# Apple — beats1.tv
+# (no public DNS addresses found)
+
+# Apple — beats123.com
+# (no public DNS addresses found)
+
+# Apple — beats2.com.cn
+# (no public DNS addresses found)
+
+# Apple — beats4.cn
+# (no public DNS addresses found)
+
+# Apple — beats4.net
+# (no public DNS addresses found)
+
+# Apple — beats4outlets.com
+# (no public DNS addresses found)
+
+# Apple — beats4salecheap.com
+# (no public DNS addresses found)
+
+# Apple — beatsallsale.com
+# (no public DNS addresses found)
+
+# Apple — beatsaudifonos.com
+# (no public DNS addresses found)
+
+# Apple — beatsaudiobydre.com
+# (no public DNS addresses found)
+
+# Apple — beatsaudiobydre.net
+# (no public DNS addresses found)
+
+# Apple — beatsaudios.net
+# (no public DNS addresses found)
+
+# Apple — beatsbeatsmonster.com
+# (no public DNS addresses found)
+
+# Apple — beatsbestdeals.com
+# (no public DNS addresses found)
+
+# Apple — beatsblackfridaydeals.net
+# (no public DNS addresses found)
+
+# Apple — beatsblackfridayretails.com
+# (no public DNS addresses found)
+
+# Apple — beatsboxingdayuksale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdre-headphones.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdre-officials5.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdre-online.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdre-onsale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdre-store.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdre-store.us
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdre4sale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdrebiz.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdrecustom.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdredanmark.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdremall.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdreoutlet.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdres.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdresale.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdrestore.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrdreus.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-beatsheadphone.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-chen.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-club.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-headphones.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-headphonesshop.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-mall.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-outlet.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-outletsale.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-outletstore.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-sell.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-store.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-studio.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre-us.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre.com.cn
+# (no public DNS addresses found)
+
+# Apple — beatsbydre.jp
+# (no public DNS addresses found)
+
+# Apple — beatsbydre2081.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre411.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydre4usales.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreauofficial.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreausale.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydreaustralia-sale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreaustraliaonline.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreaustraliaonlines.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreaustraliasales.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrebeatsby.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreblackfriday2013.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreblackfridaypro.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreboxingdayca.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrecasquesfr.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrecheap-outletstore.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrecheaper.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrecheaponlinesales.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrecolors.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrecustomwireless.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrecybermondaydeals2013.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrecybermondaydeals2013.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydredanmarks.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydredealsblackfriday.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydredealscybermonday.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrediscount.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrediscountonline.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydredr.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreexecutivesale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreformall2013-nl.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreforsalesonline.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreforshop2013-nl.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreforstore.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreforyououtlet.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrefr.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrefrcasquepascher.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrefriday.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydregot.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrehd.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrehd.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydreheadphones-nz.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreheadphonesolo.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrehut.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreinexpensive.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreireland-sales.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreirelandonlines.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreirelandsale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreirelandsonline.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydremall2013.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydremonsteraustralia.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrenls.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrenorge1.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydreofficialdanmark.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreoksale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreol.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreonlie2013-nl.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreonlines-ireland.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreonlines-uk.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreonlinesale-nz.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreoordopjes.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreoslo.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreoutletsale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreoutletscheap.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrerealstore.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydres-shop.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresale-uk.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresalemall2013.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresaleonlines-nz.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresales.us
+# (no public DNS addresses found)
+
+# Apple — beatsbydresalesonline-australia.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresdanmark.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydreshop-uk.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreshops.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydresingapores.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresingaporesale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresold.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresolohdonline-canada.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresonline-nz.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrespeakers.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydressale.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydressolo.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydresstudio.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrestorevip.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrestudio-australia.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrestudio.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydretoutlet.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreuk.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydreuk.net
+# (no public DNS addresses found)
+
+# Apple — beatsbydreus.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrevipde.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrew.com
+# (no public DNS addresses found)
+
+# Apple — beatsbydrsmonsterinusa.com
+# (no public DNS addresses found)
+
+# Apple — beatsbymusic.net
+# (no public DNS addresses found)
+
+# Apple — beatsbysdrbre.com
+# (no public DNS addresses found)
+
+# Apple — beatsbysdrdres.com
+# (no public DNS addresses found)
+
+# Apple — beatscasque-france.com
+# (no public DNS addresses found)
+
+# Apple — beatscheap-nz.com
+# (no public DNS addresses found)
+
+# Apple — beatscheap-uk.com
+# (no public DNS addresses found)
+
+# Apple — beatscheapforsale.com
+# (no public DNS addresses found)
+
+# Apple — beatscollection2014.com
+# (no public DNS addresses found)
+
+# Apple — beatscustomblackfriday.com
+# (no public DNS addresses found)
+
+# Apple — beatsdanmark2013.com
+# (no public DNS addresses found)
+
+# Apple — beatsdrdre-headphones.com
+# (no public DNS addresses found)
+
+# Apple — beatsdrdre-it.com
+# (no public DNS addresses found)
+
+# Apple — beatsdrdre-solo.com
+# (no public DNS addresses found)
+
+# Apple — beatsdrdre2014.com
+# (no public DNS addresses found)
+
+# Apple — beatsdrdrecuffie.net
+# (no public DNS addresses found)
+
+# Apple — beatsdrdrekaufenschweiz.net
+# (no public DNS addresses found)
+
+# Apple — beatsdrdreneon.com
+# (no public DNS addresses found)
+
+# Apple — beatsdre-monster.com
+# (no public DNS addresses found)
+
+# Apple — beatsdre.net
+# (no public DNS addresses found)
+
+# Apple — beatsdre4cheap.com
+# (no public DNS addresses found)
+
+# Apple — beatsdrecheap.com
+# (no public DNS addresses found)
+
+# Apple — beatsdredreheadphones.com
+# (no public DNS addresses found)
+
+# Apple — beatsdreforsale.com
+# (no public DNS addresses found)
+
+# Apple — beatsdreinau.com
+# (no public DNS addresses found)
+
+# Apple — beatsdremonster-uk.com
+# (no public DNS addresses found)
+
+# Apple — beatsdrenewcolorful4usale.com
+# (no public DNS addresses found)
+
+# Apple — beatsdreoutletsale.com
+# (no public DNS addresses found)
+
+# Apple — beatsdresale2013.com
+# (no public DNS addresses found)
+
+# Apple — beatsdresalestore.com
+# (no public DNS addresses found)
+
+# Apple — beatsdresolo2013.com
+# (no public DNS addresses found)
+
+# Apple — beatsdreus.com
+# (no public DNS addresses found)
+
+# Apple — beatsearbudsheadphoness.com
+# (no public DNS addresses found)
+
+# Apple — beatselectronic.net
+# (no public DNS addresses found)
+
+# Apple — beatselectronics.com
+# (no public DNS addresses found)
+
+# Apple — beatselectronicsllc.tt.omtrdc.net
+# (no public DNS addresses found)
+
+# Apple — beatsep.cn
+# (no public DNS addresses found)
+
+# Apple — beatsep.com
+# (no public DNS addresses found)
+
+# Apple — beatsep.net
+# (no public DNS addresses found)
+
+# Apple — beatsfacstore.com
+# (no public DNS addresses found)
+
+# Apple — beatsfactoroutlets.com
+# (no public DNS addresses found)
+
+# Apple — beatsfactorycollection.com
+# (no public DNS addresses found)
+
+# Apple — beatsfactoryoutles.com
+# (no public DNS addresses found)
+
+# Apple — beatsforcheap-usa.com
+# (no public DNS addresses found)
+
+# Apple — beatsforme.com
+# (no public DNS addresses found)
+
+# Apple — beatsfranceofficiel.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphones-discount.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphones1.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphones2u.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphonesale.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphonesdealer.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphonesforcheap.net
+# (no public DNS addresses found)
+
+# Apple — beatsheadphonesonline.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphoness.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphonestudio.com
+# (no public DNS addresses found)
+
+# Apple — beatsheadphonesusamall.com
+# (no public DNS addresses found)
+
+# Apple — beatshopuk.com
+# (no public DNS addresses found)
+
+# Apple — beatsincanada.com
+# (no public DNS addresses found)
+
+# Apple — beatsinsingapore.com
+# (no public DNS addresses found)
+
+# Apple — beatsireland.net
+# (no public DNS addresses found)
+
+# Apple — beatsjoy.com
+# (no public DNS addresses found)
+
+# Apple — beatsmonstersales.com
+# (no public DNS addresses found)
+
+# Apple — beatsmusic.com
+# (no public DNS addresses found)
+
+# Apple — beatsmusic.wang
+# (no public DNS addresses found)
+
+# Apple — beatsneon.com
+# (no public DNS addresses found)
+
+# Apple — beatsnzsale.com
+# (no public DNS addresses found)
+
+# Apple — beatsodre.com
+# (no public DNS addresses found)
+
+# Apple — beatsofdre-usa.com
+# (no public DNS addresses found)
+
+# Apple — beatsonblackfriday2013.com
+# (no public DNS addresses found)
+
+# Apple — beatsone.net
+# (no public DNS addresses found)
+
+# Apple — beatsoutlet.net
+# (no public DNS addresses found)
+
+# Apple — beatsoutletanytime.com
+# (no public DNS addresses found)
+
+# Apple — beatsoutletonlines.com
+# (no public DNS addresses found)
+
+# Apple — beatspascher-bydre.com
+# (no public DNS addresses found)
+
+# Apple — beatspascher-fr.net
+# (no public DNS addresses found)
+
+# Apple — beatspascher.net
+# (no public DNS addresses found)
+
+# Apple — beatspaschers.net
+# (no public DNS addresses found)
+
+# Apple — beatspillnewcolor.com
+# (no public DNS addresses found)
+
+# Apple — beatspills.com
+# (no public DNS addresses found)
+
+# Apple — beatspromonsterjp.com
+# (no public DNS addresses found)
+
+# Apple — beatspromotions.com
+# (no public DNS addresses found)
+
+# Apple — beatssales.com
+# (no public DNS addresses found)
+
+# Apple — beatssaleus.com
+# (no public DNS addresses found)
+
+# Apple — beatssaustraliabuy.com
+# (no public DNS addresses found)
+
+# Apple — beatssbyaustralia.com
+# (no public DNS addresses found)
+
+# Apple — beatssbydredanmark.com
+# (no public DNS addresses found)
+
+# Apple — beatsshop-uk.com
+# (no public DNS addresses found)
+
+# Apple — beatsshop-usa.com
+# (no public DNS addresses found)
+
+# Apple — beatsshopstore.com
+# (no public DNS addresses found)
+
+# Apple — beatssingapores.com
+# (no public DNS addresses found)
+
+# Apple — beatssingaporeshop.com
+# (no public DNS addresses found)
+
+# Apple — beatsstudiohodetelefoner.com
+# (no public DNS addresses found)
+
+# Apple — beatsstudiosite.com
+# (no public DNS addresses found)
+
+# Apple — beatstoreusa.com
+# (no public DNS addresses found)
+
+# Apple — beatsua.com
+# (no public DNS addresses found)
+
+# Apple — beatswholesale.us
+# (no public DNS addresses found)
+
+# Apple — beatswirelesscheap.com
+# (no public DNS addresses found)
+
+# Apple — beatswirelesscuffie.com
+# (no public DNS addresses found)
+
+# Apple — beddit.tv
+# (no public DNS addresses found)
+
+# Apple — begin-trade.com
+# (no public DNS addresses found)
+
+# Apple — bestbeats4u.com
+# (no public DNS addresses found)
+
+# Apple — bestiphonestuff.com
+# (no public DNS addresses found)
+
+# Apple — bestshoesale2014.net
+# (no public DNS addresses found)
+
+# Apple — biitii.com
+# (no public DNS addresses found)
+
+# Apple — blackfridaydrebeatsnew.com
+# (no public DNS addresses found)
+
+# Apple — blackfridaydrebeatsshop.com
+# (no public DNS addresses found)
+
+# Apple — bloommicroventures.com
+# (no public DNS addresses found)
+
+# Apple — bookonsky.net
+# (no public DNS addresses found)
+
+# Apple — bossae.com
+# (no public DNS addresses found)
+
+# Apple — braeburncapital.com
+# (no public DNS addresses found)
+
+# Apple — brandeasygo.com
+# (no public DNS addresses found)
+
+# Apple — brandelectronic.com
+# (no public DNS addresses found)
+
+# Apple — brandproducts1688.com
+# (no public DNS addresses found)
+
+# Apple — brands098.com
+# (no public DNS addresses found)
+
+# Apple — burstly.net
+# (no public DNS addresses found)
+
+# Apple — burstlyrewards.com
+# (no public DNS addresses found)
+
+# Apple — businesswebwise.com
+# (no public DNS addresses found)
+
+# Apple — buy-from-shanghai.com
+# (no public DNS addresses found)
+
+# Apple — buyaapl.com
+# (no public DNS addresses found)
+
+# Apple — buyaapl.net
+# (no public DNS addresses found)
+
+# Apple — buyaple.com
+# (no public DNS addresses found)
+
+# Apple — buybeatsbydre-uk.com
+# (no public DNS addresses found)
+
+# Apple — buybeatsheadphonesbydre.com
+# (no public DNS addresses found)
+
+# Apple — buycheapbeatsbus.com
+# (no public DNS addresses found)
+
+# Apple — buycheapbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — buycheapbeatsbydreshop.com
+# (no public DNS addresses found)
+
+# Apple — buycheapbeatsdreuk.com
+# (no public DNS addresses found)
+
+# Apple — buydrdrebeatbox.com
+# (no public DNS addresses found)
+
+# Apple — buyminibeatbox.com
+# (no public DNS addresses found)
+
+# Apple — buyonlineheadphones.com
+# (no public DNS addresses found)
+
+# Apple — buyshoponly.com
+# (no public DNS addresses found)
+
+# Apple — buzzardflapper.com
+# (no public DNS addresses found)
+
+# Apple — bybeatsdre.com
+# (no public DNS addresses found)
+
+# Apple — bydrebeats.com
+# (no public DNS addresses found)
+
+# Apple — calendarserver.org
+# (no public DNS addresses found)
+
+# Apple — camelphat.com
+# (no public DNS addresses found)
+
+# Apple — camelspaceeffect.com
+# (no public DNS addresses found)
+
+# Apple — canada-beatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — carbon.com
+# (no public DNS addresses found)
+
+# Apple — carekit.org
+# (no public DNS addresses found)
+
+# Apple — casque-fr.com
+# (no public DNS addresses found)
+
+# Apple — casquebeatsbydrdresolohd.com
+# (no public DNS addresses found)
+
+# Apple — casquebeatsdocteurdre.com
+# (no public DNS addresses found)
+
+# Apple — casquebeatsdre2013.com
+# (no public DNS addresses found)
+
+# Apple — casquebeatsenligne.com
+# (no public DNS addresses found)
+
+# Apple — casquebeatsfracheter.com
+# (no public DNS addresses found)
+
+# Apple — casquebeatsmer.net
+# (no public DNS addresses found)
+
+# Apple — casquebeatsofficiel-fr.com
+# (no public DNS addresses found)
+
+# Apple — casquebeatspascher2013.com
+# (no public DNS addresses found)
+
+# Apple — casquebeatssolo.net
+# (no public DNS addresses found)
+
+# Apple — casquedrdrebeatssfr.com
+# (no public DNS addresses found)
+
+# Apple — casquemonsterbeats.com
+# (no public DNS addresses found)
+
+# Apple — casquemonsterbeatsbydre2013.com
+# (no public DNS addresses found)
+
+# Apple — casquesbeatsaudio.com
+# (no public DNS addresses found)
+
+# Apple — catalina.hk
+# (no public DNS addresses found)
+
+# Apple — cdn-apple-mapkit.com
+# (no public DNS addresses found)
+
 # Apple — cdn-apple.com
+# (no public DNS addresses found)
+
+# Apple — cds-cdn.v.aaplimg.com
+2620:149:a32:f000::150
+
+# Apple — cds.apple.com
+2620:149:a32:f000::142
+
+# Apple — cds.apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — cdsassets.apple.com
+2620:149:a32:f000::145
+2620:149:a32:f000::147
+
+# Apple — cheap-beats-by-dre.net
+# (no public DNS addresses found)
+
+# Apple — cheap-beatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — cheapbagshoes.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeats.us
+# (no public DNS addresses found)
+
+# Apple — cheapbeats365.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeats4sale.net
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsaustraliasale.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbus.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydr.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydrdrepro.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydre-au.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydre99.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydrefau.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydremall.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydremonster.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydrenz.net
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydreonsale.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydreoutlet-nz.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydreoutlet.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydreoutlets2013.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydresale.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydreshop.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydrestudioedition.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsbydrestudioutlet.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsdrdresolo.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsdrestudios.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsheadphone2014.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsheadphones.us
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsie.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsla.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatssale4u.com
+# (no public DNS addresses found)
+
+# Apple — cheapbeatsshopbydre.com
+# (no public DNS addresses found)
+
+# Apple — cheapcustombeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — cheapdrdrebeats8.com
+# (no public DNS addresses found)
+
+# Apple — cheapdrdrebeatsca.com
+# (no public DNS addresses found)
+
+# Apple — cheapdrebeats8.net
+# (no public DNS addresses found)
+
+# Apple — cheaperbeatsbydresale.com
+# (no public DNS addresses found)
+
+# Apple — cheapestbeatsdrdre.com
+# (no public DNS addresses found)
+
+# Apple — cheapheadphonesland.com
+# (no public DNS addresses found)
+
+# Apple — cheapheadphonessale.com
+# (no public DNS addresses found)
+
+# Apple — cheapheadsetmall.com
+# (no public DNS addresses found)
+
+# Apple — cheapheadsetshop.com
+# (no public DNS addresses found)
+
+# Apple — cheapmonsterbeatsbydrdre.com
+# (no public DNS addresses found)
+
+# Apple — cheapmonsterbeatsheadsets.com
+# (no public DNS addresses found)
+
+# Apple — cheapmonsterbeatssale.com
+# (no public DNS addresses found)
+
+# Apple — cheapmonsterbeatsusa.us
+# (no public DNS addresses found)
+
+# Apple — cheapmonstersbeatsonsale.com
+# (no public DNS addresses found)
+
+# Apple — cheapnewbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — cheapsalemonster.com
+# (no public DNS addresses found)
+
+# Apple — cheapshoesvip.com
+# (no public DNS addresses found)
+
+# Apple — cheapwireless04.com
+# (no public DNS addresses found)
+
+# Apple — cheapwirelessbeats.com
+# (no public DNS addresses found)
+
+# Apple — cheerwholesale.us
+# (no public DNS addresses found)
+
+# Apple — chihair-straightener.com
+# (no public DNS addresses found)
+
+# Apple — chinaclothesstore.com
+# (no public DNS addresses found)
+
+# Apple — chomp.com
+# (no public DNS addresses found)
+
+# Apple — ciattackers.com
+# (no public DNS addresses found)
+
+# Apple — cl1-cdn.origin-apple.com.akadns.net
+2620:149:a32:f000::132
+2620:149:a32:f000::145
+
+# Apple — cl1.apple.com
+2620:149:a32:f000::144
+2620:149:a32:f000::146
+
+# Apple — cl2-cdn.origin-apple.com.akadns.net
+2620:149:a32:f000::137
+2620:149:a32:f000::141
+
+# Apple — cl2-cn.apple.com
+# (no public DNS addresses found)
+
+# Apple — cl2.apple.com
+2620:149:a32:f000::137
+2620:149:a32:f000::141
+
+# Apple — cl2.apple.com.edgekey.net.globalredir.akadns.net
+# (no public DNS addresses found)
+
+# Apple — cl3-cdn.origin-apple.com.akadns.net
+2620:149:a32:f000::132
+2620:149:a32:f000::197
+
+# Apple — cl3.apple.com
+2620:149:a32:f000::136
+2620:149:a32:f000::152
+
+# Apple — cl4-cdn.origin-apple.com.akadns.net
+2620:149:a32:f000::133
+2620:149:a32:f000::142
+
+# Apple — cl4-cn.apple.com
+# (no public DNS addresses found)
+
+# Apple — cl4.apple.com
+2620:149:a32:f000::143
+2620:149:a32:f000::198
+
+# Apple — cl5-cdn.origin-apple.com.akadns.net
+2600:1405:8400:385::3a14
+2600:1405:8400:38b::3a14
+
+# Apple — cl5.apple.com
+2600:1405:8400:385::3a14
+2600:1405:8400:38b::3a14
+
+# Apple — clientflow.apple.com
+2620:149:a32:f000::133
+2620:149:a32:f000::140
+
+# Apple — clientflow.apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — cmhalq.com
+# (no public DNS addresses found)
+
+# Apple — cn-smp-paymentservices.apple.com
+# (no public DNS addresses found)
+
+# Apple — cnshopin.com
+# (no public DNS addresses found)
+
+# Apple — communities.apple.com
+# (no public DNS addresses found)
+
+# Apple — configuration-lb.ls-apple.com.akadns.net
+2620:149:a32:f000::144
+2620:149:a32:f000::149
+
+# Apple — configuration.apple.com
+2620:149:a32:f000::136
+2620:149:a32:f000::150
+
+# Apple — configuration.apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — cooliphonecasesstore.com
+# (no public DNS addresses found)
+
+# Apple — coolmonster.net
+# (no public DNS addresses found)
+
+# Apple — coreml.net
+# (no public DNS addresses found)
+
+# Apple — cozydrdrebeats.com
+# (no public DNS addresses found)
+
+# Apple — cqcorea.com
+# (no public DNS addresses found)
+
+# Apple — crashlytics.com
+# (no public DNS addresses found)
+
+# Apple — cstat.apple.com
+2620:149:a32:f000::140
+2620:149:a32:f000::141
+
+# Apple — cstat.cdn-apple.com
+2600:1405:7400:c::17de:1b1f
+2600:1405:7400:c::17de:1b34
+
+# Apple — cuffiesaldi.com
+# (no public DNS addresses found)
+
+# Apple — cups.org
+# (no public DNS addresses found)
+
+# Apple — custom-iphonecase.com
+# (no public DNS addresses found)
+
+# Apple — custombeatsbydrebuy.com
+# (no public DNS addresses found)
+
+# Apple — custombeatsdeals.com
+# (no public DNS addresses found)
+
+# Apple — custombeatsforcheap.com
+# (no public DNS addresses found)
+
+# Apple — custombeatsny.com
+# (no public DNS addresses found)
+
+# Apple — custombeatssbydreus.com
+# (no public DNS addresses found)
+
+# Apple — customdrdrebeats.com
+# (no public DNS addresses found)
+
+# Apple — customizedbeatbydre.com
+# (no public DNS addresses found)
+
+# Apple — customizedbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — customizedbeatsdre.com
+# (no public DNS addresses found)
+
+# Apple — cybermondaybeats4sale.com
+# (no public DNS addresses found)
+
+# Apple — danemarket.com
+2606:4700:3035::ac43:8749
+2606:4700:3036::6815:6d4
+
+# Apple — danmarkbeatsbydrdre.com
+# (no public DNS addresses found)
+
+# Apple — darwinsource.com
+# (no public DNS addresses found)
+
+# Apple — darwinsource.org
+# (no public DNS addresses found)
+
+# Apple — darwinsourcecode.com
+# (no public DNS addresses found)
+
+# Apple — dashwood360.com
+# (no public DNS addresses found)
+
+# Apple — dctbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — dd-cdn.origin-apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — dealsbeatsblackfriday.com
+# (no public DNS addresses found)
+
+# Apple — dejavu.apple.com
+# (no public DNS addresses found)
+
+# Apple — designeriphonescases.com
+# (no public DNS addresses found)
+
+# Apple — desktopmovie.com
+# (no public DNS addresses found)
+
+# Apple — desktopmovie.net
+# (no public DNS addresses found)
+
+# Apple — desktopmovie.org
+# (no public DNS addresses found)
+
+# Apple — desktopmovies.net
+# (no public DNS addresses found)
+
+# Apple — desktopmovies.org
+# (no public DNS addresses found)
+
+# Apple — detaliczny.com
+# (no public DNS addresses found)
+
+# Apple — developer-advisor.com
+# (no public DNS addresses found)
+
+# Apple — device-manager.us
 # (no public DNS addresses found)
 
 # Apple — deviceenrollment.apple.com
@@ -38,93 +2772,2696 @@
 # Apple — deviceservices-external.apple.com
 # (no public DNS addresses found)
 
+# Apple — devimages-cdn.apple.com
+2620:149:a32:f000::134
+2620:149:a32:f000::147
+
+# Apple — devstreaming-cdn.apple.com
+2620:149:a32:f000::134
+2620:149:a32:f000::135
+
+# Apple — digicert.com
+# (no public DNS addresses found)
+
+# Apple — digitalhub.com
+# (no public DNS addresses found)
+
+# Apple — discountbeatsbydre-us.com
+# (no public DNS addresses found)
+
+# Apple — discountbeatsstore.com
+# (no public DNS addresses found)
+
+# Apple — discussionsapple.com
+# (no public DNS addresses found)
+
+# Apple — discussionschinese.apple.com
+# (no public DNS addresses found)
+
+# Apple — dispatcher.is.autonavi.com
+# (no public DNS addresses found)
+
+# Apple — dkbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — dl-iphone.com
+# (no public DNS addresses found)
+
+# Apple — dot-mac.de
+# (no public DNS addresses found)
+
+# Apple — dotmac.de
+# (no public DNS addresses found)
+
+# Apple — download.developer.apple.com
+2620:149:a32:f000::150
+
+# Apple — downloadsforipod.com
+# (no public DNS addresses found)
+
+# Apple — drbeatsukmart.com
+# (no public DNS addresses found)
+
+# Apple — drdre-beats.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeats-chen.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeats-headphone.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeats-usa.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeatsale.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeatsbillig.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeatsdesale.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeatsdiscount.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeatsforu.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeatsretail2013.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeatssale7.com
+# (no public DNS addresses found)
+
+# Apple — drdrebeatsuk.com
+# (no public DNS addresses found)
+
+# Apple — drdrefnac.com
+# (no public DNS addresses found)
+
+# Apple — drdreheadphonebeats.com
+# (no public DNS addresses found)
+
+# Apple — drdreheadphonekey.com
+# (no public DNS addresses found)
+
+# Apple — drdreheadphonesusstore.com
+# (no public DNS addresses found)
+
+# Apple — drdremonster-beats.com
+# (no public DNS addresses found)
+
+# Apple — drdremonsterdre.com
+# (no public DNS addresses found)
+
+# Apple — drdreprobeatssale.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-australia.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-france.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-monster.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-monsteraustralia.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-monsterusa.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-singapore.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-singapore.net
+# (no public DNS addresses found)
+
+# Apple — drebeats-singaporecheap.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-singaporecheap.net
+# (no public DNS addresses found)
+
+# Apple — drebeats-solo.com
+# (no public DNS addresses found)
+
+# Apple — drebeats-studio.com
+# (no public DNS addresses found)
+
+# Apple — drebeatsaustralia-cheap.com
+# (no public DNS addresses found)
+
+# Apple — drebeatsaustralia-cheap.net
+# (no public DNS addresses found)
+
+# Apple — drebeatsbuy.com
+# (no public DNS addresses found)
+
+# Apple — drebeatsbydreoutlet.com
+# (no public DNS addresses found)
+
+# Apple — drebeatscanada.com
+# (no public DNS addresses found)
+
+# Apple — drebeatsdeutschland.net
+# (no public DNS addresses found)
+
+# Apple — drebeatsforsaleus.com
+# (no public DNS addresses found)
+
+# Apple — drebeatsheadphones-nz.com
+# (no public DNS addresses found)
+
+# Apple — drebeatshome.com
+# (no public DNS addresses found)
+
+# Apple — drebeatsoldes.com
+# (no public DNS addresses found)
+
+# Apple — drebeatsoutletstore.com
+# (no public DNS addresses found)
+
+# Apple — drebeatspill.com
+# (no public DNS addresses found)
+
+# Apple — drebeatssite.com
+# (no public DNS addresses found)
+
+# Apple — drebeatssolocybermondaysale.com
+# (no public DNS addresses found)
+
+# Apple — drebeatsstudio2013.com
+# (no public DNS addresses found)
+
+# Apple — drebeatstudio.com
+# (no public DNS addresses found)
+
+# Apple — drebyby.com
+# (no public DNS addresses found)
+
+# Apple — dremonsterbeatsoutlets.com
+# (no public DNS addresses found)
+
+# Apple — dreprobeats.com
+# (no public DNS addresses found)
+
+# Apple — dreprofy.com
+# (no public DNS addresses found)
+
+# Apple — dtsell.com
+# (no public DNS addresses found)
+
+# Apple — dvdstudiopro.biz
+# (no public DNS addresses found)
+
+# Apple — dvdstudiopro.com
+# (no public DNS addresses found)
+
+# Apple — dvdstudiopro.info
+# (no public DNS addresses found)
+
+# Apple — dvdstudiopro.net
+# (no public DNS addresses found)
+
+# Apple — dvdstudiopro.org
+# (no public DNS addresses found)
+
+# Apple — dvdstudiopro.us
+# (no public DNS addresses found)
+
+# Apple — e16991.b.akamaiedge.net
+# (no public DNS addresses found)
+
+# Apple — earphonescheapest.com
+# (no public DNS addresses found)
+
+# Apple — earpod.net
+# (no public DNS addresses found)
+
+# Apple — ebookforipad.com
+# (no public DNS addresses found)
+
+# Apple — ebuyheadphones.com
+# (no public DNS addresses found)
+
+# Apple — ecgapp.com.cn
+# (no public DNS addresses found)
+
+# Apple — ecgapp.net
+# (no public DNS addresses found)
+
+# Apple — edge.apple
+# (no public DNS addresses found)
+
+# Apple — edu-research.org
+# (no public DNS addresses found)
+
+# Apple — emac.co.in
+# (no public DNS addresses found)
+
+# Apple — emac.in
+# (no public DNS addresses found)
+
+# Apple — emagic.de
+# (no public DNS addresses found)
+
+# Apple — esbeatsbydrebuy.com
+# (no public DNS addresses found)
+
+# Apple — etheadphones.com
+# (no public DNS addresses found)
+
+# Apple — euroipad.com
+# (no public DNS addresses found)
+
+# Apple — eworld.com
+# (no public DNS addresses found)
+
+# Apple — experiments.apple.com
+2600:1405:8400:488::f55
+2600:1405:8400:489::f55
+
+# Apple — faceid99.com
+# (no public DNS addresses found)
+
+# Apple — faceid99.net
+# (no public DNS addresses found)
+
+# Apple — faceidglobal.com
+# (no public DNS addresses found)
+
+# Apple — faceshift.cn
+# (no public DNS addresses found)
+
+# Apple — facetime.net
+# (no public DNS addresses found)
+
+# Apple — famosascalvas.com
+# (no public DNS addresses found)
+
+# Apple — fides-pol.apple.com
+# (no public DNS addresses found)
+
+# Apple — finalcutpro.com
+# (no public DNS addresses found)
+
+# Apple — find-apple.com
+# (no public DNS addresses found)
+
+# Apple — findmybeats.com
+# (no public DNS addresses found)
+
+# Apple — findmyipad.com
+# (no public DNS addresses found)
+
+# Apple — firewire.cl
+# (no public DNS addresses found)
+
+# Apple — firewire.eu
+# (no public DNS addresses found)
+
+# Apple — foundationdb.org
+# (no public DNS addresses found)
+
+# Apple — fr-beatsbydrestore.com
+# (no public DNS addresses found)
+
+# Apple — francecasquebeatssolde.com
+# (no public DNS addresses found)
+
+# Apple — frcasquesbeats.com
+# (no public DNS addresses found)
+
+# Apple — free-aa.com
+# (no public DNS addresses found)
+
+# Apple — free-sns.com
+# (no public DNS addresses found)
+
+# Apple — frishoes.com
+# (no public DNS addresses found)
+
+# Apple — fundaiphone5s.com
+# (no public DNS addresses found)
+
+# Apple — gamebeforethegame.com
+# (no public DNS addresses found)
+
 # Apple — gc.apple.com
 # (no public DNS addresses found)
 
 # Apple — gdmf.apple.com
 # (no public DNS addresses found)
 
+# Apple — geoport.com
+# (no public DNS addresses found)
+
+# Apple — getdrebeatssale.com
+# (no public DNS addresses found)
+
+# Apple — gmnetworks.net
+# (no public DNS addresses found)
+
+# Apple — gobeatsye.com
+# (no public DNS addresses found)
+
+# Apple — gobuyonlinestore.net
+# (no public DNS addresses found)
+
+# Apple — goodsdunk.net
+# (no public DNS addresses found)
+
+# Apple — gs-loc-cn.apple.com
+# (no public DNS addresses found)
+
+# Apple — gs-loc.apple.com
+# (no public DNS addresses found)
+
+# Apple — gsp10-ssl-cn.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gsp11-cn.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gsp12-cn.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gsp13-cn.ls.apple.com
+2600:1405:7400:5::17d7:df2f
+2600:1405:7400:5::17d7:df4e
+
+# Apple — gsp4-cn.ls.apple.com
+2600:1405:7400:5::17d7:df23
+2600:1405:7400:5::17d7:df44
+
+# Apple — gsp4-cn.ls.apple.com.edgekey.net
+2600:1405:8400:383::7be
+2600:1405:8400:38c::7be
+
+# Apple — gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
+# (no public DNS addresses found)
+
+# Apple — gsp5-cn.ls.apple.com
+2600:1405:7400:5::17d7:df1e
+2600:1405:7400:5::17d7:df22
+
+# Apple — gsp85-cn-ssl.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gspe11-2-cn-ssl.ls.apple.com
+240e:cf:8000:1001::7f
+240e:d6:660b:1:8000::24
+
+# Apple — gspe12-cn-ssl.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gspe19-2-cn-ssl.ls-apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — gspe19-2-cn-ssl.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gspe19-cn-ssl.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gspe19-cn.ls-apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — gspe19-cn.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gspe21-ssl.ls.apple.com
+2620:149:a32:f000::131
+2620:149:a32:f000::133
+
+# Apple — gspe35-ssl.ls.apple.com
+2620:149:a32:f000::134
+2620:149:a32:f000::141
+
+# Apple — gspe79-cn-ssl.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — gspe85-cn-ssl.ls.apple.com
+# (no public DNS addresses found)
+
+# Apple — guzzoni-apple-com.v.aaplimg.com
+# (no public DNS addresses found)
+
+# Apple — guzzoni.apple.com
+# (no public DNS addresses found)
+
+# Apple — guzzoni.smoot.apple.com
+# (no public DNS addresses found)
+
+# Apple — headphonepubs.com
+# (no public DNS addresses found)
+
+# Apple — headphones-cool.com
+# (no public DNS addresses found)
+
+# Apple — headphones-dre.com
+# (no public DNS addresses found)
+
+# Apple — headphones-outlet-online.com
+# (no public DNS addresses found)
+
+# Apple — headphonesbeatsaudio.com
+# (no public DNS addresses found)
+
+# Apple — headphonesbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — headphoneses.com
+# (no public DNS addresses found)
+
+# Apple — headphoneshome.com
+# (no public DNS addresses found)
+
+# Apple — headphoneshotsales.com
+# (no public DNS addresses found)
+
+# Apple — headphonesol.com
+# (no public DNS addresses found)
+
+# Apple — headphonesretailer.com
+# (no public DNS addresses found)
+
+# Apple — headphonessupply.com
+# (no public DNS addresses found)
+
+# Apple — headphonezip.com
+# (no public DNS addresses found)
+
+# Apple — headset987.com
+# (no public DNS addresses found)
+
+# Apple — hebiphone.com
+# (no public DNS addresses found)
+
+# Apple — hellokittybeats.com
+# (no public DNS addresses found)
+
+# Apple — hf-iphone.com
+# (no public DNS addresses found)
+
+# Apple — highbolt.net
+# (no public DNS addresses found)
+
+# Apple — highdefinitionbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — hipaa6020.com
+# (no public DNS addresses found)
+
+# Apple — hipzoom.net
+# (no public DNS addresses found)
+
+# Apple — homepod.cn
+# (no public DNS addresses found)
+
+# Apple — honawalaan.com
+# (no public DNS addresses found)
+
+# Apple — hopstop.tv
+# (no public DNS addresses found)
+
+# Apple — hotbeatsonsale.com
+# (no public DNS addresses found)
+
+# Apple — hotmonsterbeats.com
+# (no public DNS addresses found)
+
+# Apple — hottestheadphonesonline.com
+# (no public DNS addresses found)
+
+# Apple — hrsaz.com
+# (no public DNS addresses found)
+
+# Apple — i-book.com
+# (no public DNS addresses found)
+
+# Apple — i-book.net
+# (no public DNS addresses found)
+
+# Apple — ibeats-uk.com
+# (no public DNS addresses found)
+
+# Apple — ibeatsbydre.cc
+# (no public DNS addresses found)
+
+# Apple — ibeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — ibook.co.nz
+# (no public DNS addresses found)
+
+# Apple — ibook.com
+# (no public DNS addresses found)
+
+# Apple — ibook.eu
+# (no public DNS addresses found)
+
+# Apple — ibook.net
+# (no public DNS addresses found)
+
+# Apple — ibookpartner.com
+# (no public DNS addresses found)
+
+# Apple — ibooksauthor.com
+# (no public DNS addresses found)
+
+# Apple — ichat.co.in
+# (no public DNS addresses found)
+
+# Apple — icloud-apple.cn
+# (no public DNS addresses found)
+
 # Apple — icloud-content.com
+# (no public DNS addresses found)
+
+# Apple — icloud-content.com.cn
+# (no public DNS addresses found)
+
+# Apple — icloud-isupport.com
+# (no public DNS addresses found)
+
+# Apple — icloud-sandbox.com
 # (no public DNS addresses found)
 
 # Apple — icloud.apple.com
 # (no public DNS addresses found)
 
+# Apple — icloud.ch
+# (no public DNS addresses found)
+
 # Apple — icloud.com
 2620:149:af0::10
 
+# Apple — icloud.com.cn
+# (no public DNS addresses found)
+
+# Apple — icloud.de
+# (no public DNS addresses found)
+
+# Apple — icloud.ee
+# (no public DNS addresses found)
+
+# Apple — icloud.fi
+# (no public DNS addresses found)
+
+# Apple — icloud.fr
+# (no public DNS addresses found)
+
+# Apple — icloud.hu
+# (no public DNS addresses found)
+
+# Apple — icloud.ie
+# (no public DNS addresses found)
+
+# Apple — icloud.is
+# (no public DNS addresses found)
+
+# Apple — icloud.jp
+# (no public DNS addresses found)
+
+# Apple — icloud.lv
+# (no public DNS addresses found)
+
+# Apple — icloud.net.cn
+# (no public DNS addresses found)
+
+# Apple — icloud.om
+# (no public DNS addresses found)
+
+# Apple — icloud.org
+# (no public DNS addresses found)
+
+# Apple — icloud.pt
+# (no public DNS addresses found)
+
+# Apple — icloud.ro
+# (no public DNS addresses found)
+
+# Apple — icloud.se
+# (no public DNS addresses found)
+
+# Apple — icloud.si
+# (no public DNS addresses found)
+
+# Apple — icloud.sk
+# (no public DNS addresses found)
+
+# Apple — icloud.vn
+# (no public DNS addresses found)
+
+# Apple — icloudads.net
+# (no public DNS addresses found)
+
+# Apple — icloudapple.cn
+# (no public DNS addresses found)
+
+# Apple — icloudbox.net
+# (no public DNS addresses found)
+
+# Apple — icloudbrowser.net
+# (no public DNS addresses found)
+
+# Apple — icloude.com
+# (no public DNS addresses found)
+
+# Apple — icloudhome.com
+# (no public DNS addresses found)
+
+# Apple — icloudmail.net
+# (no public DNS addresses found)
+
+# Apple — icloudmusic.net
+# (no public DNS addresses found)
+
+# Apple — icloudnet.net
+# (no public DNS addresses found)
+
+# Apple — icloudo.com
+# (no public DNS addresses found)
+
+# Apple — icloudo.de
+# (no public DNS addresses found)
+
+# Apple — icloudo.net
+# (no public DNS addresses found)
+
+# Apple — icloudos.de
+# (no public DNS addresses found)
+
+# Apple — icloudos.net
+# (no public DNS addresses found)
+
+# Apple — icloudpay.net
+# (no public DNS addresses found)
+
+# Apple — icloudsecure.net
+# (no public DNS addresses found)
+
+# Apple — icloudsetup.com
+# (no public DNS addresses found)
+
+# Apple — icons.axm-usercontent-apple.com
+# (no public DNS addresses found)
+
 # Apple — identity.apple.com
+# (no public DNS addresses found)
+
+# Apple — ids-apple.com
+# (no public DNS addresses found)
+
+# Apple — idvd.eu
+# (no public DNS addresses found)
+
+# Apple — igoshopping.net
+# (no public DNS addresses found)
+
+# Apple — ikids.com
+# (no public DNS addresses found)
+
+# Apple — ilecture.co.nz
+# (no public DNS addresses found)
+
+# Apple — ilife.eu
+# (no public DNS addresses found)
+
+# Apple — ilife.gr
+# (no public DNS addresses found)
+
+# Apple — ilife.wang
+# (no public DNS addresses found)
+
+# Apple — illianacomputerrecycling.com
+# (no public DNS addresses found)
+
+# Apple — imac-apple.com
+# (no public DNS addresses found)
+
+# Apple — imac-applecomputer.com
+# (no public DNS addresses found)
+
+# Apple — imac.co
+# (no public DNS addresses found)
+
+# Apple — imac.co.nz
+# (no public DNS addresses found)
+
+# Apple — imac.com
+# (no public DNS addresses found)
+
+# Apple — imac.eu
+# (no public DNS addresses found)
+
+# Apple — imac.gr
+# (no public DNS addresses found)
+
+# Apple — imac.one
+# (no public DNS addresses found)
+
+# Apple — imac.rs
+# (no public DNS addresses found)
+
+# Apple — imacapple.com
+# (no public DNS addresses found)
+
+# Apple — imacapplecomputer.com
+# (no public DNS addresses found)
+
+# Apple — imacsources.com
+# (no public DNS addresses found)
+
+# Apple — images.apple.com.edgekey.net.globalredir.akadns.net
+2600:1405:8400:280::1aca
+2600:1405:8400:28d::1aca
+
+# Apple — imessage.tv
+# (no public DNS addresses found)
+
+# Apple — imonsterbeats.com
+# (no public DNS addresses found)
+
+# Apple — imovie.eu
+# (no public DNS addresses found)
+
+# Apple — imoviegallery.com
+# (no public DNS addresses found)
+
+# Apple — imoviestage.com
+# (no public DNS addresses found)
+
+# Apple — incentivetravelgifts.com
+# (no public DNS addresses found)
+
+# Apple — indiaipad.com
+# (no public DNS addresses found)
+
+# Apple — init-kt.apple.com
+2600:1405:7400:5::17d7:df22
+2600:1405:7400:5::17d7:df35
+
+# Apple — init-p01md-lb.push-apple.com.akadns.net
+2600:1405:7400:7::172d:7bb9
+2600:1405:7400:7::172d:7bc2
+
+# Apple — init-p01md.apple.com
+2600:1405:7400:7::172d:7ba4
+2600:1405:7400:7::172d:7bb9
+
+# Apple — init-p01st-lb.push-apple.com.akadns.net
+2620:149:a32:f000::141
+2620:149:a32:f000::150
+
+# Apple — init-p01st.push.apple.com
+2620:149:a32:f000::141
+2620:149:a32:f000::150
+
+# Apple — init-s01st-lb.push-apple.com.akadns.net
+2620:149:a32:f000::140
+2620:149:a32:f000::148
+
+# Apple — init-s01st.push.apple.com
+2620:149:a32:f000::140
+2620:149:a32:f000::148
+
+# Apple — init.ess.apple.com
+2620:149:a32:f000::131
+2620:149:a32:f000::133
+2620:149:a32:f000::143
+2620:149:a32:f000::147
+
+# Apple — init.gc-lb.apple.com.akadns.net
+2600:1405:8400:13::17de:3e3
+2600:1405:8400:13::17de:3ea
+
+# Apple — init.gc.apple.com
+2600:1405:8400:13::17de:3e3
+2600:1405:8400:13::17de:3ea
+
+# Apple — insidear.cn
+# (no public DNS addresses found)
+
+# Apple — insidemacintosh.com
+# (no public DNS addresses found)
+
+# Apple — ioffergift.com
+# (no public DNS addresses found)
+
+# Apple — ios-icloud.com
+# (no public DNS addresses found)
+
+# Apple — iosinthecar.com
+# (no public DNS addresses found)
+
+# Apple — ipa-iphone.net
+# (no public DNS addresses found)
+
+# Apple — ipad.co.kr
+# (no public DNS addresses found)
+
+# Apple — ipad.de
+# (no public DNS addresses found)
+
+# Apple — ipad.host
+# (no public DNS addresses found)
+
+# Apple — ipad.wang
+# (no public DNS addresses found)
+
+# Apple — ipad3.com
+# (no public DNS addresses found)
+
+# Apple — ipadair.cl
+# (no public DNS addresses found)
+
+# Apple — ipadair.cm
+# (no public DNS addresses found)
+
+# Apple — ipadair.com.br
+# (no public DNS addresses found)
+
+# Apple — ipadair.com.es
+# (no public DNS addresses found)
+
+# Apple — ipadair.fr
+# (no public DNS addresses found)
+
+# Apple — ipadair.hk
+# (no public DNS addresses found)
+
+# Apple — ipadair.ie
+# (no public DNS addresses found)
+
+# Apple — ipadair.jp
+# (no public DNS addresses found)
+
+# Apple — ipadair.tw
+# (no public DNS addresses found)
+
+# Apple — ipadaustralia.com
+# (no public DNS addresses found)
+
+# Apple — ipadmini.cm
+# (no public DNS addresses found)
+
+# Apple — ipadmini.com.lk
+# (no public DNS addresses found)
+
+# Apple — ipadmini.lk
+# (no public DNS addresses found)
+
+# Apple — ipadpro.buzz
+# (no public DNS addresses found)
+
+# Apple — ipcdn.apple.com
+2620:149:a32:f000::137
+2620:149:a32:f000::146
+
+# Apple — iphine.com
+# (no public DNS addresses found)
+
+# Apple — iphone-8.com.cn
+# (no public DNS addresses found)
+
+# Apple — iphone-cd.com
+# (no public DNS addresses found)
+
+# Apple — iphone-cn.com
+# (no public DNS addresses found)
+
+# Apple — iphone-ld.apple.com
+2620:149:a32:f000::148
+2620:149:a32:f000::154
+
+# Apple — iphone-ld.origin-apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — iphone-sh.com
+# (no public DNS addresses found)
+
+# Apple — iphone-vip1.com
+# (no public DNS addresses found)
+
+# Apple — iphone-vip2.com
+# (no public DNS addresses found)
+
+# Apple — iphone-vip3.com
+# (no public DNS addresses found)
+
+# Apple — iphone-vip4.com
+# (no public DNS addresses found)
+
+# Apple — iphone-vip5.com
+# (no public DNS addresses found)
+
+# Apple — iphone-x.tv
+# (no public DNS addresses found)
+
+# Apple — iphone-yh.com
+# (no public DNS addresses found)
+
+# Apple — iphone-zh.com
+# (no public DNS addresses found)
+
+# Apple — iphone.cm
+# (no public DNS addresses found)
+
+# Apple — iphone.com
+# (no public DNS addresses found)
+
+# Apple — iphone.com.au
+# (no public DNS addresses found)
+
+# Apple — iphone.com.gr
+# (no public DNS addresses found)
+
+# Apple — iphone.es
+# (no public DNS addresses found)
+
+# Apple — iphone.host
+# (no public DNS addresses found)
+
+# Apple — iphone.net.gr
+# (no public DNS addresses found)
+
+# Apple — iphone.pt
+# (no public DNS addresses found)
+
+# Apple — iphone.rs
+# (no public DNS addresses found)
+
+# Apple — iphone.ru
+# (no public DNS addresses found)
+
+# Apple — iphone.wang
+# (no public DNS addresses found)
+
+# Apple — iphone4.com
+# (no public DNS addresses found)
+
+# Apple — iphone4.com.br
+# (no public DNS addresses found)
+
+# Apple — iphone4s.com
+# (no public DNS addresses found)
+
+# Apple — iphone5.com
+# (no public DNS addresses found)
+
+# Apple — iphone5casescovers.com
+# (no public DNS addresses found)
+
+# Apple — iphone5s5case.com
+# (no public DNS addresses found)
+
+# Apple — iphoneacessorios.com.br
+# (no public DNS addresses found)
+
+# Apple — iphonecase2013.com
+# (no public DNS addresses found)
+
+# Apple — iphonecase5.com
+# (no public DNS addresses found)
+
+# Apple — iphonecases100.com
+# (no public DNS addresses found)
+
+# Apple — iphonecases5.com
+# (no public DNS addresses found)
+
+# Apple — iphoneclaro.com.br
+# (no public DNS addresses found)
+
+# Apple — iphonecollcase.com
+# (no public DNS addresses found)
+
+# Apple — iphonefc.com
+# (no public DNS addresses found)
+
+# Apple — iphonegermany.com
+# (no public DNS addresses found)
+
+# Apple — iphonehangzhou.com
+# (no public DNS addresses found)
+
+# Apple — iphoneimessage.com
+# (no public DNS addresses found)
+
+# Apple — iphoneplus.wang
+# (no public DNS addresses found)
+
+# Apple — iphonerip.net
+# (no public DNS addresses found)
+
+# Apple — iphonese.tv
+# (no public DNS addresses found)
+
+# Apple — iphoneunlockimei.com
+# (no public DNS addresses found)
+
+# Apple — iphonexs.tv
+# (no public DNS addresses found)
+
+# Apple — iphoto.eu
+# (no public DNS addresses found)
+
+# Apple — iphoto.no
+# (no public DNS addresses found)
+
+# Apple — iphoto.se
+# (no public DNS addresses found)
+
+# Apple — iphoto.wang
+# (no public DNS addresses found)
+
+# Apple — ipod.ca
+# (no public DNS addresses found)
+
+# Apple — ipod.ch
+# (no public DNS addresses found)
+
+# Apple — ipod.cm
+# (no public DNS addresses found)
+
+# Apple — ipod.co
+# (no public DNS addresses found)
+
+# Apple — ipod.co.nz
+# (no public DNS addresses found)
+
+# Apple — ipod.co.uk
+# (no public DNS addresses found)
+
+# Apple — ipod.co.za
+# (no public DNS addresses found)
+
+# Apple — ipod.com
+# (no public DNS addresses found)
+
+# Apple — ipod.com.au
+# (no public DNS addresses found)
+
+# Apple — ipod.com.cn
+# (no public DNS addresses found)
+
+# Apple — ipod.com.fr
+# (no public DNS addresses found)
+
+# Apple — ipod.com.hk
+# (no public DNS addresses found)
+
+# Apple — ipod.com.sg
+# (no public DNS addresses found)
+
+# Apple — ipod.com.tw
+# (no public DNS addresses found)
+
+# Apple — ipod.de
+# (no public DNS addresses found)
+
+# Apple — ipod.es
+# (no public DNS addresses found)
+
+# Apple — ipod.eu
+# (no public DNS addresses found)
+
+# Apple — ipod.fr
+# (no public DNS addresses found)
+
+# Apple — ipod.gr
+# (no public DNS addresses found)
+
+# Apple — ipod.hk
+# (no public DNS addresses found)
+
+# Apple — ipod.is
+# (no public DNS addresses found)
+
+# Apple — ipod.net
+# (no public DNS addresses found)
+
+# Apple — ipod.no
+# (no public DNS addresses found)
+
+# Apple — ipod.pk
+# (no public DNS addresses found)
+
+# Apple — ipod.rs
+# (no public DNS addresses found)
+
+# Apple — ipod.ru
+# (no public DNS addresses found)
+
+# Apple — ipod.tw
+# (no public DNS addresses found)
+
+# Apple — ipodcentre.nl
+# (no public DNS addresses found)
+
+# Apple — ipodcleaner.com
+# (no public DNS addresses found)
+
+# Apple — ipoditouch.com
+# (no public DNS addresses found)
+
+# Apple — ipodnano.com
+# (no public DNS addresses found)
+
+# Apple — ipodnano.net
+# (no public DNS addresses found)
+
+# Apple — ipodprices.com
+# (no public DNS addresses found)
+
+# Apple — ipodrip.ca
+# (no public DNS addresses found)
+
+# Apple — ipodrocks.com.au
+# (no public DNS addresses found)
+
+# Apple — ipods.com
+# (no public DNS addresses found)
+
+# Apple — ipodshop.com.au
+# (no public DNS addresses found)
+
+# Apple — ipodtouch.co
+# (no public DNS addresses found)
+
+# Apple — ipodtouch.com
+# (no public DNS addresses found)
+
+# Apple — ipple.com
 # (no public DNS addresses found)
 
 # Apple — iprofiles.apple.com
 # (no public DNS addresses found)
 
+# Apple — is1-ssl.mzstatic.com
+2620:149:a32:f000::139
+2620:149:a32:f000::141
+2620:149:a32:f000::151
+2620:149:a32:f000::197
+
+# Apple — is1.mzstatic.com
+2600:1404:ec00:2400::17db:576b
+2600:1404:ec00:2402::17db:5749
+
+# Apple — is2-ssl.mzstatic.com
+2620:149:a32:f000::142
+2620:149:a32:f000::148
+2620:149:a32:f000::150
+2620:149:a32:f000::151
+
+# Apple — is2.mzstatic.com
+2600:1404:ec00:2400::17db:576b
+2600:1404:ec00:2402::17db:5749
+
+# Apple — is3-ssl.mzstatic.com
+2620:149:a32:f000::143
+2620:149:a32:f000::145
+2620:149:a32:f000::146
+2620:149:a32:f000::154
+
+# Apple — is3.mzstatic.com
+2600:1404:ec00:2400::17db:576b
+2600:1404:ec00:2402::17db:5749
+
+# Apple — is4-ssl.mzstatic.com
+2620:149:a32:f000::142
+2620:149:a32:f000::148
+2620:149:a32:f000::150
+2620:149:a32:f000::151
+
+# Apple — is4.mzstatic.com
+2600:1404:ec00:2400::17db:576b
+2600:1404:ec00:2402::17db:5749
+
+# Apple — is5-ssl.mzstatic.com
+2620:149:a32:f000::145
+2620:149:a32:f000::146
+2620:149:a32:f000::152
+2620:149:a32:f000::198
+
+# Apple — is5.mzstatic.com
+2600:1404:ec00:2400::17db:576b
+2600:1404:ec00:2402::17db:5749
+
+# Apple — ischool.com
+# (no public DNS addresses found)
+
+# Apple — islamiccenterofnewlondon.com
+# (no public DNS addresses found)
+
+# Apple — italiabeatsbydrdre.com
+# (no public DNS addresses found)
+
+# Apple — itools.info
+# (no public DNS addresses found)
+
+# Apple — itun.es
+# (no public DNS addresses found)
+
+# Apple — itunbes.com
+# (no public DNS addresses found)
+
+# Apple — ituneas.com
+# (no public DNS addresses found)
+
+# Apple — itunes-apple.cn
+# (no public DNS addresses found)
+
+# Apple — itunes-radio.net
+# (no public DNS addresses found)
+
+# Apple — itunes.ca
+# (no public DNS addresses found)
+
+# Apple — itunes.co
+# (no public DNS addresses found)
+
+# Apple — itunes.co.th
+# (no public DNS addresses found)
+
+# Apple — itunes.com
+# (no public DNS addresses found)
+
+# Apple — itunes.com.edgekey.net
+# (no public DNS addresses found)
+
+# Apple — itunes.hk
+# (no public DNS addresses found)
+
+# Apple — itunes.mx
+# (no public DNS addresses found)
+
+# Apple — itunes.org
+# (no public DNS addresses found)
+
+# Apple — itunes.rio
+# (no public DNS addresses found)
+
+# Apple — itunes.us
+# (no public DNS addresses found)
+
+# Apple — itunes12days.com
+# (no public DNS addresses found)
+
+# Apple — itunesapple.cn
+# (no public DNS addresses found)
+
+# Apple — itunesessentials.com
+# (no public DNS addresses found)
+
+# Apple — itunesfestivals.com
+# (no public DNS addresses found)
+
+# Apple — itunesiradio.com
+# (no public DNS addresses found)
+
+# Apple — ituneslatino.com
+# (no public DNS addresses found)
+
+# Apple — ituneslogin.net
+# (no public DNS addresses found)
+
+# Apple — itunesmatch.com
+# (no public DNS addresses found)
+
+# Apple — itunesparty.com
+# (no public DNS addresses found)
+
+# Apple — itunesradio.cn
+# (no public DNS addresses found)
+
+# Apple — itunesradio.com
+# (no public DNS addresses found)
+
+# Apple — itunesradio.com.cn
+# (no public DNS addresses found)
+
+# Apple — itunesradio.rio
+# (no public DNS addresses found)
+
+# Apple — itunesradio.tv
+# (no public DNS addresses found)
+
+# Apple — itunesradio.tw
+# (no public DNS addresses found)
+
+# Apple — itunesstore.co
+# (no public DNS addresses found)
+
+# Apple — itunesu.com
+# (no public DNS addresses found)
+
+# Apple — itunesu.net
+# (no public DNS addresses found)
+
+# Apple — iutunes.com
+# (no public DNS addresses found)
+
 # Apple — iwork.apple.com
 # (no public DNS addresses found)
 
+# Apple — iwork.com
+# (no public DNS addresses found)
+
+# Apple — iwork.se
+# (no public DNS addresses found)
+
+# Apple — iwork.wang
+# (no public DNS addresses found)
+
+# Apple — jetfuelapp.com
+# (no public DNS addresses found)
+
+# Apple — jetfuelapps.com
+# (no public DNS addresses found)
+
+# Apple — jkbeats.com
+# (no public DNS addresses found)
+
+# Apple — kickshatchannel.com
+# (no public DNS addresses found)
+
+# Apple — km.support.apple.com
+2600:1405:7400:7::172d:7bb3
+2600:1405:7400:7::172d:7bba
+
+# Apple — kobbeatssbydredk.com
+# (no public DNS addresses found)
+
+# Apple — kopfhorergunstigshop.com
+# (no public DNS addresses found)
+
+# Apple — latticedata.com
+# (no public DNS addresses found)
+
+# Apple — launchpad.wang
+# (no public DNS addresses found)
+
+# Apple — leecountytimes.com
+# (no public DNS addresses found)
+
+# Apple — lexuemei.com
+# (no public DNS addresses found)
+
+# Apple — livephotos.cn
+# (no public DNS addresses found)
+
+# Apple — livephotos.com.cn
+# (no public DNS addresses found)
+
+# Apple — livephotos.tv
+# (no public DNS addresses found)
+
+# Apple — lojaiphone.com.br
+# (no public DNS addresses found)
+
+# Apple — lookup-api.apple.com.edgekey.net
+# (no public DNS addresses found)
+
+# Apple — lovebeatsdr.com
+# (no public DNS addresses found)
+
+# Apple — lovemarca.com
+# (no public DNS addresses found)
+
+# Apple — ls.apple.com.edgesuite.net
+# (no public DNS addresses found)
+
+# Apple — luckyissue.com
+2620:127:f00f:4::
+
+# Apple — lyzsxx.com
+# (no public DNS addresses found)
+
+# Apple — mac-mini.com
+# (no public DNS addresses found)
+
+# Apple — mac.com
+# (no public DNS addresses found)
+
+# Apple — mac.com.au
+# (no public DNS addresses found)
+
+# Apple — mac.eu
+# (no public DNS addresses found)
+
+# Apple — mac.rs
+# (no public DNS addresses found)
+
+# Apple — mac.wang
+# (no public DNS addresses found)
+
+# Apple — macappsto.re
+# (no public DNS addresses found)
+
+# Apple — macbook.co
+# (no public DNS addresses found)
+
+# Apple — macbook.hk
+# (no public DNS addresses found)
+
+# Apple — macbook.tw
+# (no public DNS addresses found)
+
+# Apple — macbook.wang
+# (no public DNS addresses found)
+
+# Apple — macbookair.cn
+# (no public DNS addresses found)
+
+# Apple — macbookair.co.kr
+# (no public DNS addresses found)
+
+# Apple — macbookair.co.uk
+# (no public DNS addresses found)
+
+# Apple — macbookair.com
+# (no public DNS addresses found)
+
+# Apple — macbookair.com.au
+# (no public DNS addresses found)
+
+# Apple — macbookair.com.cn
+# (no public DNS addresses found)
+
+# Apple — macbookair.com.es
+# (no public DNS addresses found)
+
+# Apple — macbookair.es
+# (no public DNS addresses found)
+
+# Apple — macbookair.hk
+# (no public DNS addresses found)
+
+# Apple — macbookair.jp
+# (no public DNS addresses found)
+
+# Apple — macbookair.kr
+# (no public DNS addresses found)
+
+# Apple — macbookair.net
+# (no public DNS addresses found)
+
+# Apple — macbookpro.co
+# (no public DNS addresses found)
+
+# Apple — macbookpro.com
+# (no public DNS addresses found)
+
+# Apple — macbookpro.com.au
+# (no public DNS addresses found)
+
+# Apple — macbookpro.net
+# (no public DNS addresses found)
+
+# Apple — macbookpro.us
+# (no public DNS addresses found)
+
+# Apple — macbookpros.com
+# (no public DNS addresses found)
+
+# Apple — macbooksale.com
+# (no public DNS addresses found)
+
+# Apple — macboxset.com
+# (no public DNS addresses found)
+
+# Apple — mach-os.com
+# (no public DNS addresses found)
+
+# Apple — mach-os.net
+# (no public DNS addresses found)
+
+# Apple — machos.net
+# (no public DNS addresses found)
+
+# Apple — macintosh.eu
+# (no public DNS addresses found)
+
+# Apple — macintoshsoftware.com
+# (no public DNS addresses found)
+
+# Apple — macmini.com
+# (no public DNS addresses found)
+
+# Apple — macos.com.au
+# (no public DNS addresses found)
+
+# Apple — macosforge.org
+# (no public DNS addresses found)
+
+# Apple — macossierra.com
+# (no public DNS addresses found)
+
+# Apple — macosx.info
+# (no public DNS addresses found)
+
+# Apple — macosxlion.com
+# (no public DNS addresses found)
+
+# Apple — macpazar.com
+# (no public DNS addresses found)
+
+# Apple — macreach.com
+# (no public DNS addresses found)
+
+# Apple — macreach.net
+# (no public DNS addresses found)
+
+# Apple — macruby.com
+# (no public DNS addresses found)
+
+# Apple — macruby.net
+# (no public DNS addresses found)
+
+# Apple — macruby.org
+# (no public DNS addresses found)
+
+# Apple — mairbeats.com
+# (no public DNS addresses found)
+
+# Apple — makeeu.com
+# (no public DNS addresses found)
+
+# Apple — mallheadphone.com
+# (no public DNS addresses found)
+
+# Apple — maps.apple.com
+2600:1405:7400:10::17d9:929
+2600:1405:7400:10::17d9:93b
+
 # Apple — mask-api.icloud.com
-2620:149:a42:280::25
-2620:149:a42:280::2:1
-2620:149:a42:280::2:3
-2620:149:a42:280::2:6
-2620:149:a42:280::2:9
-2620:149:a42:280::2d
-2620:149:a42:280::35
+2620:149:a42:780::1a
+2620:149:a42:780::22
+2620:149:a42:780::a
 
 # Apple — mask-h2.icloud.com
-2620:149:1361:2::9
-2620:149:1361:2::a
-2620:149:1361:2::b
-2620:149:1361::4
-2620:149:1361::b
-2620:149:a42:200::12
-2620:149:a42:200::14
-2620:149:a42:201::15
+2620:149:a42:707::4
+2620:149:a42:707::5
+2620:149:a42:707::6
+2620:149:a42:707::b
+2620:149:a42:708::12
+2620:149:a42:708::5
+2620:149:a42:708::a
+2620:149:a42:708::c
 
 # Apple — mask.icloud.com
-2620:149:1361:1::8
-2620:149:1361:2::4
-2620:149:1361:2::a
-2620:149:1361::a
-2620:149:a42:200::14
-2620:149:a42:200::4
-2620:149:a42:200::5
-2620:149:a42:201::11
+2620:149:a42:707::4
+2620:149:a42:707::b
+2620:149:a42:708::11
+2620:149:a42:708::15
+2620:149:a42:708::4
+2620:149:a42:708::b
+2620:149:a42:708::d
+2620:149:a42:708::f
+
+# Apple — mbeats-tech.com
+# (no public DNS addresses found)
+
+# Apple — mbheadphone.com
+# (no public DNS addresses found)
 
 # Apple — mdmenrollment.apple.com
 # (no public DNS addresses found)
 
+# Apple — me.com
+# (no public DNS addresses found)
+
+# Apple — mensura.cdn-apple.com
+2620:149:a32:f000::134
+2620:149:a32:f000::137
+
+# Apple — mesu-cdn.apple.com.akadns.net
+2620:149:a32:f000::139
+2620:149:a32:f000::143
+
+# Apple — mesu-china.apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — mesu.apple.com
+2620:149:a32:f000::140
+2620:149:a32:f000::151
+
 # Apple — metrics.icloud.com
-2620:149:a42:280::20
-2620:149:a42:280::28
-2620:149:a42:280::30
-2620:149:a42:280::38
-2620:149:a42:280::4:3
+2620:149:a41:280::27
+2620:149:a41:280::2f
+2620:149:a41:280::37
+2620:149:a41:280::3f
+2620:149:a41:280::e
+
+# Apple — micstl.com
+# (no public DNS addresses found)
+
+# Apple — ml.cdn-apple.com
+2620:149:a32:f000::152
+2620:149:a32:f000::196
+
+# Apple — mmonsterheadphones.net
+# (no public DNS addresses found)
+
+# Apple — mobileme.dk
+# (no public DNS addresses found)
+
+# Apple — monbeats2013.com
+# (no public DNS addresses found)
+
+# Apple — monster-beats-by-dr-dre.com
+# (no public DNS addresses found)
+
+# Apple — monster-beats-headphones.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeats-cheap.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeats-headphone.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeats-onsale.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeats-solo.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeats-solo.net
+# (no public DNS addresses found)
+
+# Apple — monsterbeats365buy.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeats8beatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsale.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsalestore.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsau.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydrdre-nz.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydrdre-usa.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydrdrecanada.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydrdrestudio.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydre-nz.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydre-usa.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydre2015.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydreaustraliacheap.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydrebilligde.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydrefactory.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydrenew.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydres.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsbydreshop.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatscasques.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatscommunity.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsdrdrecheap.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsfactory.net
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsfinland.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsforsale.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsheadphone.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsheadphones.net
+# (no public DNS addresses found)
+
+# Apple — monsterbeatshere.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsitaly.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsmall.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsnegozi.net
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsok.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsonlinestoreuk.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsoutlet.us
+# (no public DNS addresses found)
+
+# Apple — monsterbeatspascher.net
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsru.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatssales.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatssalg.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsshops.net
+# (no public DNS addresses found)
+
+# Apple — monsterbeatsstore.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatssydneyaustralia.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatstang.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatstienda.com
+# (no public DNS addresses found)
+
+# Apple — monsterbeatstudio.com
+# (no public DNS addresses found)
+
+# Apple — monsterbydrebeat.com
+# (no public DNS addresses found)
+
+# Apple — monstercasquebeatspascher.net
+# (no public DNS addresses found)
+
+# Apple — monstercheapbeatss.com
+# (no public DNS addresses found)
+
+# Apple — monsterdrebeats-canada.net
+# (no public DNS addresses found)
+
+# Apple — monsterdrebeats-usa.com
+# (no public DNS addresses found)
+
+# Apple — monsterdrebeats-usa.net
+# (no public DNS addresses found)
+
+# Apple — monsterheadphone.net
+# (no public DNS addresses found)
+
+# Apple — monsterproduct.net
+# (no public DNS addresses found)
+
+# Apple — monstersbeatbydres.com
+# (no public DNS addresses found)
+
+# Apple — monstersdebea.com
+# (no public DNS addresses found)
+
+# Apple — monstershopcheapbeats.net
+# (no public DNS addresses found)
+
+# Apple — moreheadphones.com
+# (no public DNS addresses found)
+
+# Apple — mr-apple.com.tw
+# (no public DNS addresses found)
+
+# Apple — ms4dre.com
+# (no public DNS addresses found)
+
+# Apple — musickit.net
+# (no public DNS addresses found)
+
+# Apple — myappleid.com
+# (no public DNS addresses found)
+
+# Apple — mybeatsbydrestudio.com
+# (no public DNS addresses found)
+
+# Apple — mybeatsbydreuk.com
+# (no public DNS addresses found)
+
+# Apple — mybeatscheapbydre.com
+# (no public DNS addresses found)
+
+# Apple — myferrariheadphones.com
+# (no public DNS addresses found)
+
+# Apple — myicloud.net
+# (no public DNS addresses found)
+
+# Apple — myipod.net
+# (no public DNS addresses found)
+
+# Apple — mylcloud.net
+# (no public DNS addresses found)
+
+# Apple — mzstatic.com
+2620:149:af0::11
+
+# Apple — namemybeats.com
+# (no public DNS addresses found)
+
+# Apple — neborder.com
+# (no public DNS addresses found)
+
+# Apple — negozimonsterbeats.com
+# (no public DNS addresses found)
+
+# Apple — negoziomonsterbeats.com
+# (no public DNS addresses found)
+
+# Apple — newbeatsblackfriday.com
+# (no public DNS addresses found)
+
+# Apple — newbemany.com
+# (no public DNS addresses found)
+
+# Apple — newdrediscount.com
+# (no public DNS addresses found)
+
+# Apple — newestbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — newlysprung.net
+# (no public DNS addresses found)
+
+# Apple — newmonst1erbeatsto1re.com
+# (no public DNS addresses found)
+
+# Apple — newmonsterbeatsheadphones.com
+# (no public DNS addresses found)
+
+# Apple — newschristmasshopping.com
+# (no public DNS addresses found)
+
+# Apple — newton.com
+# (no public DNS addresses found)
+
+# Apple — next.com
+# (no public DNS addresses found)
+
+# Apple — nflhotsalejerseys.com
+# (no public DNS addresses found)
+
+# Apple — nicesshop.net
+# (no public DNS addresses found)
+
+# Apple — offerairjordanlebron.com
+# (no public DNS addresses found)
+
+# Apple — officialbeatsbydreshop.com
+# (no public DNS addresses found)
+
+# Apple — officialbeatsbydrestore.com
+# (no public DNS addresses found)
+
+# Apple — officialdrdre.com
+# (no public DNS addresses found)
+
+# Apple — officialheadphone.com
+# (no public DNS addresses found)
+
+# Apple — offrezdesipods.com
+# (no public DNS addresses found)
+
+# Apple — ogameblog.com
+# (no public DNS addresses found)
+
+# Apple — onbeatsbydresale.com
+# (no public DNS addresses found)
+
+# Apple — onlineapplestore.com
+# (no public DNS addresses found)
+
+# Apple — onlinemonsterbeatsonsale.com
+# (no public DNS addresses found)
+
+# Apple — onlyiphone5case.com
+# (no public DNS addresses found)
+
+# Apple — onsalekey.com
+# (no public DNS addresses found)
+
+# Apple — onsaletrend.com
+# (no public DNS addresses found)
+
+# Apple — organicfruitapps.com
+# (no public DNS addresses found)
+
+# Apple — oscdn.apple.com
+2600:1404:ec00:240e::1735:7f85
+2600:1404:ec00:240e::1735:7f8a
+
+# Apple — oscdn.origin-apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — outletbeatsshop.com
+# (no public DNS addresses found)
+
+# Apple — overapple.com
+# (no public DNS addresses found)
+
+# Apple — p-events-delivery.akamaized.net
+2600:1404:ec00:240a::1735:7fcd
+2600:1404:ec00:240c::1735:7fab
+
+# Apple — pancake.apple.com
+2620:149:a0d:f000::143
+2620:149:a0d:f000::198
+2620:149:a1e:f000::3
+2620:149:a1e:f100::2
+
+# Apple — pascherbeatsmonster.com
+# (no public DNS addresses found)
+
+# Apple — paulsimon-music.com
+# (no public DNS addresses found)
+
+# Apple — pba0.apple.com
+2620:149:a32:f000::138
+2620:149:a32:f000::149
+
+# Apple — perfectkickz.net
+# (no public DNS addresses found)
+
+# Apple — personeelsland.com
+# (no public DNS addresses found)
+
+# Apple — picknicekicks.net
+# (no public DNS addresses found)
+
+# Apple — pickshoesclothes.com
+# (no public DNS addresses found)
+
+# Apple — pillbeatsblackfridaysale.com
+# (no public DNS addresses found)
+
+# Apple — pocketbiketrader.com
+# (no public DNS addresses found)
 
 # Apple — pong.icloud.com
-2403:300:1369:0:6::1
+2403:300:a41:80::10
+2403:300:a41:80::20
+2403:300:a41:80::4:2
+2403:300:a41:80::4:4
+2403:300:a41:80::4:7
+
+# Apple — powerbeats2wireless.com
+# (no public DNS addresses found)
+
+# Apple — powerbeatsbydrdre.com
+# (no public DNS addresses found)
+
+# Apple — powerbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — powerbook.eu
+# (no public DNS addresses found)
 
 # Apple — probe.icloud.com
-2620:149:136c:2::e
-2620:149:136c::e
-2620:149:a43:10b::12
-2620:149:a43:111::6
-2620:149:a43:111::7
-2620:149:a43:111::b
-2620:149:a43:112::9
-2620:149:a43:113::5
+2403:300:a41:80::10
+2403:300:a41:80::20
+2403:300:a41:80::4:2
+2403:300:a41:80::4:4
+2403:300:a41:80::4:7
+
+# Apple — probe.siri.apple.com
+# (no public DNS addresses found)
+
+# Apple — prod-support.apple-support.akadns.net
+2600:1405:7400:7::172d:7bb3
+2600:1405:7400:7::172d:7bba
+
+# Apple — promonsterbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — prostudiobeatscybersale.com
+# (no public DNS addresses found)
+
+# Apple — publicassets.cdn-apple.com
+2620:149:a32:f000::140
+2620:149:a32:f000::145
+
+# Apple — pullstring.net
+# (no public DNS addresses found)
+
+# Apple — push-apple.com.akadns.net
+# (no public DNS addresses found)
 
 # Apple — push.apple.com
 # (no public DNS addresses found)
 
+# Apple — quatrowireless.com
+# (no public DNS addresses found)
+
+# Apple — quicktime.cc
+# (no public DNS addresses found)
+
+# Apple — quicktime.com
+# (no public DNS addresses found)
+
+# Apple — quicktime.com.au
+# (no public DNS addresses found)
+
+# Apple — quicktime.eu
+# (no public DNS addresses found)
+
+# Apple — quicktime.net
+# (no public DNS addresses found)
+
+# Apple — quicktime.tv
+# (no public DNS addresses found)
+
+# Apple — qwapi.com
+# (no public DNS addresses found)
+
+# Apple — rbsgr.com
+# (no public DNS addresses found)
+
+# Apple — reform-apple.com
+# (no public DNS addresses found)
+
+# Apple — repsneakermall.com
+# (no public DNS addresses found)
+
+# Apple — repswing.com
+# (no public DNS addresses found)
+
+# Apple — researchandcare.org
+# (no public DNS addresses found)
+
+# Apple — researchkit.cn
+# (no public DNS addresses found)
+
+# Apple — researchkit.com.cn
+# (no public DNS addresses found)
+
+# Apple — researchkit.hk
+# (no public DNS addresses found)
+
+# Apple — researchkit.net
+# (no public DNS addresses found)
+
+# Apple — researchkit.org
+# (no public DNS addresses found)
+
+# Apple — researchkit.tv
+# (no public DNS addresses found)
+
+# Apple — s.mzstatic.com
+2620:149:a32:f000::132
+2620:149:a32:f000::144
+
+# Apple — s1.mzstatic.com
+2600:1405:8400:480::2a1
+2600:1405:8400:484::2a1
+2600:1405:8400:485::2a1
+2600:1405:8400:486::2a1
+2600:1405:8400:488::2a1
+
+# Apple — s2.mzstatic.com
+2600:1405:8400:481::2a1
+2600:1405:8400:482::2a1
+2600:1405:8400:483::2a1
+2600:1405:8400:487::2a1
+2600:1405:8400:489::2a1
+
+# Apple — s3.mzstatic.com
+2600:1405:8400:481::2a1
+2600:1405:8400:482::2a1
+2600:1405:8400:483::2a1
+2600:1405:8400:487::2a1
+2600:1405:8400:489::2a1
+
+# Apple — s4.mzstatic.com
+2600:1405:8400:480::2a1
+2600:1405:8400:483::2a1
+2600:1405:8400:484::2a1
+2600:1405:8400:485::2a1
+2600:1405:8400:488::2a1
+
+# Apple — s5.mzstatic.com
+2600:1405:8400:480::2a1
+2600:1405:8400:481::2a1
+2600:1405:8400:483::2a1
+2600:1405:8400:485::2a1
+2600:1405:8400:488::2a1
+
+# Apple — safebrowsing.apple
+# (no public DNS addresses found)
+
+# Apple — salebeatslasteststyle4you.com
+# (no public DNS addresses found)
+
+# Apple — saleblackfridaydrebeats.com
+# (no public DNS addresses found)
+
+# Apple — salecheaphandbags.com
+# (no public DNS addresses found)
+
+# Apple — samebags.com
+# (no public DNS addresses found)
+
+# Apple — sanvaras.com
+2606:4700:3030::ac43:89ca
+2606:4700:3033::6815:5e9b
+
+# Apple — scnshop.cc
+# (no public DNS addresses found)
+
+# Apple — seed-sequoia.siri.apple.com
+# (no public DNS addresses found)
+
+# Apple — seed-swallow.siri.apple.com
+# (no public DNS addresses found)
+
+# Apple — seed.siri.apple.com
+# (no public DNS addresses found)
+
+# Apple — sequoia.apple.com
+# (no public DNS addresses found)
+
+# Apple — services-apple.net
+# (no public DNS addresses found)
+
+# Apple — servicetalk.io
+# (no public DNS addresses found)
+
 # Apple — setup.icloud.com
-2620:149:a42:280::25
-2620:149:a42:280::2:1
-2620:149:a42:280::2:4
-2620:149:a42:280::2:7
-2620:149:a42:280::2:a
-2620:149:a42:280::2:b
-2620:149:a42:280::3d
+2620:149:a42:780::1a
+2620:149:a42:780::22
+2620:149:a42:780::2:2
+2620:149:a42:780::2:3
+2620:149:a42:780::a
+
+# Apple — sh-pod1-smp-device.apple.com
+# (no public DNS addresses found)
+
+# Apple — sh-pod2-smp-device.apple.com
+# (no public DNS addresses found)
+
+# Apple — sh-pod3-smp-device.apple.com
+# (no public DNS addresses found)
+
+# Apple — shazam-insights.cdn-apple.com
+2620:149:a32:f000::132
+2620:149:a32:f000::150
+
+# Apple — shazam.com
+# (no public DNS addresses found)
+
+# Apple — shoers.com
+# (no public DNS addresses found)
+
+# Apple — shoestop2.com
+# (no public DNS addresses found)
+
+# Apple — shop-headphones.net
+# (no public DNS addresses found)
+
+# Apple — shopbeatsdre.com
+# (no public DNS addresses found)
+
+# Apple — shopbydre.com
+# (no public DNS addresses found)
+
+# Apple — shopcustomizedbeats.com
+# (no public DNS addresses found)
+
+# Apple — shopdrebeats.com
+# (no public DNS addresses found)
+
+# Apple — shopmonsterbeats.com
+# (no public DNS addresses found)
+
+# Apple — shopping-days.net
+# (no public DNS addresses found)
+
+# Apple — shoppinguheadphones.com
+# (no public DNS addresses found)
+
+# Apple — simplyipod.com
+# (no public DNS addresses found)
+
+# Apple — siri.com
+# (no public DNS addresses found)
+
+# Apple — smp-device-content.apple.com
+2620:149:a00:f000::139
+2620:149:a00:f000::141
+2620:149:a00:f000::145
+2620:149:a00:f000::152
+2620:149:a32:f000::131
+2620:149:a32:f000::138
+2620:149:a32:f000::142
+2620:149:a32:f000::150
+
+# Apple — sneaker666.com
+# (no public DNS addresses found)
+
+# Apple — sneakerpage.net
+# (no public DNS addresses found)
+
+# Apple — sneakerskick.com
+2606:4700:3036::6815:44e5
+2606:4700:3036::ac43:c781
+
+# Apple — solostudioksale.com
+# (no public DNS addresses found)
+
+# Apple — soso7778.com
+# (no public DNS addresses found)
+
+# Apple — specialtyheadphones.com
+# (no public DNS addresses found)
+
+# Apple — spektral.cc
+# (no public DNS addresses found)
+
+# Apple — spiritclubs.com
+# (no public DNS addresses found)
+
+# Apple — static.gc.apple.com
+2600:1405:8400:13::17de:3e3
+2600:1405:8400:13::17de:3ea
+
+# Apple — stocks-sparkline-lb.apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — stocks-sparkline.apple.com
+2600:1405:8400:3::17d1:5412
+2600:1405:8400:3::17d1:5423
+
+# Apple — store.apple.com
+2600:1405:7400:7::172d:7bbe
+2600:1405:7400:7::172d:7bc8
+
+# Apple — store.apple.com.edgekey.net
+# (no public DNS addresses found)
+
+# Apple — store.apple.com.edgekey.net.globalredir.akadns.net
+# (no public DNS addresses found)
+
+# Apple — store.storeimages.apple.com.akadns.net
+2600:1405:8400:480::1477
+2600:1405:8400:489::1477
+
+# Apple — store.storeimages.cdn-apple.com
+2600:1405:8400:480::1477
+2600:1405:8400:489::1477
+
+# Apple — straightouttasomewhere.com
+# (no public DNS addresses found)
+
+# Apple — studiobeatsbydrdre.com
+# (no public DNS addresses found)
+
+# Apple — sulwerphoto.com
+# (no public DNS addresses found)
+
+# Apple — sunglassessale2014.com
+# (no public DNS addresses found)
+
+# Apple — superearsenjoy.com
+# (no public DNS addresses found)
+
+# Apple — supplybestjerseys.com
+# (no public DNS addresses found)
+
+# Apple — support-china.apple-support.akadns.net
+2600:1405:7400:7::172d:7bb3
+2600:1405:7400:7::172d:7bba
+
+# Apple — support.apple.com
+2600:1405:7400:7::172d:7bb3
+2600:1405:7400:7::172d:7bba
+
+# Apple — sustainthesound.com
+# (no public DNS addresses found)
+
+# Apple — sverigebeatsbydrdre.com
+# (no public DNS addresses found)
+
+# Apple — swallow-apple-com.v.aaplimg.com
+# (no public DNS addresses found)
+
+# Apple — swallow.apple.com
+# (no public DNS addresses found)
+
+# Apple — swcatalog-cdn.apple.com.akadns.net
+2600:1405:8400:480::1759
+2600:1405:8400:487::1759
+
+# Apple — swcatalog.apple.com
+2600:1405:8400:480::1759
+2600:1405:8400:487::1759
+
+# Apple — swcdn.apple.com
+2620:149:a32:f000::149
+
+# Apple — swcdn.g.aaplimg.com
+2620:149:a32:f000::145
+
+# Apple — swdist.apple.com
+2620:149:a32:f000::138
+2620:149:a32:f000::150
+2620:149:a32:f000::151
+2620:149:a32:f000::153
+
+# Apple — swdist.apple.com.akadns.net
+# (no public DNS addresses found)
+
+# Apple — swift.org
+# (no public DNS addresses found)
+
+# Apple — swiftui.cn
+# (no public DNS addresses found)
+
+# Apple — swiftui.com.cn
+# (no public DNS addresses found)
+
+# Apple — swscan-cdn.apple.com.akadns.net
+2600:1405:8400:480::1759
+2600:1405:8400:487::1759
+
+# Apple — swscan.apple.com
+2600:1405:8400:480::1759
+2600:1405:8400:487::1759
+
+# Apple — sylvan.apple.com
+2620:149:a32:f000::137
+2620:149:a32:f000::140
+
+# Apple — szcheapmonsterheadphones.com
+# (no public DNS addresses found)
+
+# Apple — szwinnertechnology.com
+# (no public DNS addresses found)
+
+# Apple — takegoto.com
+# (no public DNS addresses found)
+
+# Apple — texture.com
+# (no public DNS addresses found)
+
+# Apple — the-monster-beats.com
+# (no public DNS addresses found)
+
+# Apple — thebeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — thebeatsbydre.net
+# (no public DNS addresses found)
+
+# Apple — thebeatsheadphonesale.com
+# (no public DNS addresses found)
+
+# Apple — theuab.net
+# (no public DNS addresses found)
+
+# Apple — thinkdifferent.us
+# (no public DNS addresses found)
+
+# Apple — tj-pod1-smp-device.apple.com
+# (no public DNS addresses found)
+
+# Apple — tj-pod2-smp-device.apple.com
+# (no public DNS addresses found)
+
+# Apple — tj-pod3-smp-device.apple.com
+# (no public DNS addresses found)
+
+# Apple — topbeatsbydrdreoutlet.com
+# (no public DNS addresses found)
+
+# Apple — topbeatsdealer.com
+# (no public DNS addresses found)
+
+# Apple — topbeatsforsale.com
+# (no public DNS addresses found)
+
+# Apple — touchid.tv
+# (no public DNS addresses found)
+
+# Apple — touchid.wang
+# (no public DNS addresses found)
+
+# Apple — tracking-location.com
+# (no public DNS addresses found)
+
+# Apple — tradevip1.com
+# (no public DNS addresses found)
+
+# Apple — truedepth3d.com
+# (no public DNS addresses found)
+
+# Apple — tryrating.com
+# (no public DNS addresses found)
+
+# Apple — tteshop.com
+# (no public DNS addresses found)
+
+# Apple — tvappstore.net
+# (no public DNS addresses found)
+
+# Apple — ubnw.net
+# (no public DNS addresses found)
+
+# Apple — ukipad.com
+# (no public DNS addresses found)
+
+# Apple — unstyle.us
+# (no public DNS addresses found)
+
+# Apple — updates-http.cdn-apple.com
+2620:149:a32:f000::141
+2620:149:a32:f000::150
+
+# Apple — updates-http.cdn-apple.com.akadns.net
+2620:149:a32:f000::146
+
+# Apple — updates.cdn-apple.com
+2620:149:a32:f000::147
+2620:149:a32:f000::148
+
+# Apple — usa-beatsbydreheadphonesonsale.net
+# (no public DNS addresses found)
+
+# Apple — v-has.com
+# (no public DNS addresses found)
+
+# Apple — vertexsmb.com
+2620:12a:8000::3
+2620:12a:8001::3
+
+# Apple — vip-beats.com
+# (no public DNS addresses found)
+
+# Apple — vipbeatsbydre.com
+# (no public DNS addresses found)
+
+# Apple — vipheadphones.com
+# (no public DNS addresses found)
+
+# Apple — vipshoes2.com
+# (no public DNS addresses found)
 
 # Apple — vpp.itunes.apple.com
+# (no public DNS addresses found)
+
+# Apple — wasdj.com
+# (no public DNS addresses found)
+
+# Apple — weather-data.apple.com
+2600:1405:7400:10::17d9:928
+2600:1405:7400:10::17d9:929
+2600:1405:7400:10::17d9:935
+2600:1405:7400:10::17d9:936
+2600:1405:7400:10::17d9:937
+
+# Apple — weather-data.apple.com.akadns.net
+2600:1405:7400:10::17d9:928
+2600:1405:7400:10::17d9:929
+2600:1405:7400:10::17d9:935
+2600:1405:7400:10::17d9:936
+2600:1405:7400:10::17d9:937
+
+# Apple — weather-map.apple.com
+2600:1405:7400:c::17de:1b09
+2600:1405:7400:c::17de:1b0c
+
+# Apple — weather-map2.apple.com
+2600:1405:7400:c::17de:1b09
+2600:1405:7400:c::17de:1b0c
+
+# Apple — weatherkit.apple.com
+2600:1405:7400:10::17d9:925
+2600:1405:7400:10::17d9:92b
+2600:1405:7400:10::17d9:92f
+2600:1405:7400:10::17d9:938
+2600:1405:7400:10::17d9:93a
+
+# Apple — webkit.org
+# (no public DNS addresses found)
+
+# Apple — webkitgtk.org
+# (no public DNS addresses found)
+
+# Apple — webobjects.co.uk
+# (no public DNS addresses found)
+
+# Apple — webobjects.com
+# (no public DNS addresses found)
+
+# Apple — webobjects.de
+# (no public DNS addresses found)
+
+# Apple — webobjects.eu
+# (no public DNS addresses found)
+
+# Apple — webobjects.net
+# (no public DNS addresses found)
+
+# Apple — wholesale-exporter1.com
+# (no public DNS addresses found)
+
+# Apple — wholesalediscountpurses.com
+# (no public DNS addresses found)
+
+# Apple — wholesalefine.com
+# (no public DNS addresses found)
+
+# Apple — wholesaleonlinemart.com
+# (no public DNS addresses found)
+
+# Apple — worldcoinpay.com
+# (no public DNS addresses found)
+
+# Apple — wpewebkit.org
+# (no public DNS addresses found)
+
+# Apple — wuxiapple.com
+# (no public DNS addresses found)
+
+# Apple — wwapple.net
+# (no public DNS addresses found)
+
+# Apple — www-sms-apple.com
+# (no public DNS addresses found)
+
+# Apple — www.apple.com
+2600:1405:8400:483::1aca
+2600:1405:8400:486::1aca
+
+# Apple — www.apple.com.edgekey.net
+2600:1405:8400:483::1aca
+2600:1405:8400:486::1aca
+
+# Apple — www.apple.com.edgekey.net.globalredir.akadns.net
+2600:1405:8400:483::1aca
+2600:1405:8400:486::1aca
+
+# Apple — www.support.apple.com
+2600:1405:7400:7::172d:7bb3
+2600:1405:7400:7::172d:7bba
+
+# Apple — wwwapple.com
+# (no public DNS addresses found)
+
+# Apple — wwwapple.net
+# (no public DNS addresses found)
+
+# Apple — wwwapplemusic.com
+# (no public DNS addresses found)
+
+# Apple — wwwicloud.com
+# (no public DNS addresses found)
+
+# Apple — wwwipodlounge.com
+# (no public DNS addresses found)
+
+# Apple — wwwitunes.com
+# (no public DNS addresses found)
+
+# Apple — wwwlapple.com
+# (no public DNS addresses found)
+
+# Apple — wwwmacbookair.com
+# (no public DNS addresses found)
+
+# Apple — xn--czrs0t4phtr3a.cn
+# (no public DNS addresses found)
+
+# Apple — xn--fiqs8sxootzz.cn
+# (no public DNS addresses found)
+
+# Apple — xn--fiqs8sxootzz.xn--hxt814e
+# (no public DNS addresses found)
+
+# Apple — xn--gtvq61aiijy0b.xn--hxt814e
+# (no public DNS addresses found)
+
+# Apple — xn--gtvz22d.wang
+# (no public DNS addresses found)
+
+# Apple — xn--gtvz22d.xn--hxt814e
+# (no public DNS addresses found)
+
+# Apple — xn--hxtr4rozx.xn--czr694b
+# (no public DNS addresses found)
+
+# Apple — xn--kput3imi374g.xn--hxt814e
+# (no public DNS addresses found)
+
+# Apple — xn--ohq11k7pl25iyo8a.cn
+# (no public DNS addresses found)
+
+# Apple — xn--ruq8a011kt6y.xn--hxt814e
+# (no public DNS addresses found)
+
+# Apple — xp.apple.com
+2620:149:a32:f000::135
+2620:149:a32:f000::153
+
+# Apple — yourmonsterbeats.com
 # (no public DNS addresses found)

@@ -1,5 +1,20 @@
 # DNS-derived IP snapshot for GitLab (gitlab)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# GitLab — gitlab-assets.oss-cn-hongkong.aliyuncs.com
+# (no public DNS addresses found)
+
+# GitLab — gitlab-static.net
+# (no public DNS addresses found)
+
 # GitLab — gitlab.com
 2606:4700:90:0:f22e:fbec:5bed:a9b9
+
+# GitLab — gitlab.net
+# (no public DNS addresses found)
+
+# GitLab — gitter-static.net
+# (no public DNS addresses found)
+
+# GitLab — gitter.im
+2a05:d014:f9c:f200:3c8b:2a0e:96a7:bbc2

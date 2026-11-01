@@ -1,4 +1,7 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Ubuntu — aerialline.com
+162.43.116.147/32
+
 # Ubuntu — archive.ubuntu.com
 185.125.190.81/32
 185.125.190.82/32
@@ -10,7 +13,186 @@
 91.189.92.23/32
 91.189.92.24/32
 
+# Ubuntu — askubuntu.com
+198.252.206.1/32
+
+# Ubuntu — canonical.com
+185.125.190.20/32
+185.125.190.21/32
+185.125.190.29/32
+
+# Ubuntu — debianadmin.com
+104.21.6.71/32
+172.67.134.150/32
+
+# Ubuntu — debuntu.org
+104.21.3.89/32
+172.67.130.133/32
+
+# Ubuntu — fullcirclemagazine.org
+67.205.25.199/32
+
+# Ubuntu — iloveubuntu.net
+185.206.180.114/32
+185.206.180.183/32
+
+# Ubuntu — omgubuntu.co.uk
+199.16.172.121/32
+199.16.173.168/32
+
+# Ubuntu — snapcraft.io
+185.125.190.20/32
+185.125.190.21/32
+185.125.190.29/32
+
+# Ubuntu — ualinux.com
+104.21.3.103/32
+172.67.153.131/32
+
+# Ubuntu — ubucentrum.net
+104.247.81.99/32
+
+# Ubuntu — ubuntu-br.org
+185.125.188.125/32
+185.125.188.232/32
+185.125.188.84/32
+
+# Ubuntu — ubuntu-cl.org
+208.113.169.158/32
+
+# Ubuntu — ubuntu-fi.org
+51.15.35.116/32
+
+# Ubuntu — ubuntu-fr.org
+217.70.184.55/32
+
+# Ubuntu — ubuntu-gr.org
+147.52.205.205/32
+
+# Ubuntu — ubuntu-hr.org
+161.53.50.215/32
+
+# Ubuntu — ubuntu-ie.org
+185.125.188.125/32
+185.125.188.232/32
+185.125.188.84/32
+
+# Ubuntu — ubuntu-it.org
+195.15.255.252/32
+
+# Ubuntu — ubuntu-manual.org
+173.236.198.236/32
+
+# Ubuntu — ubuntu-news.ru
+5.253.60.6/32
+
+# Ubuntu — ubuntu-nl.org
+212.72.227.45/32
+
+# Ubuntu — ubuntu-pe.org
+185.125.188.125/32
+185.125.188.232/32
+185.125.188.84/32
+
+# Ubuntu — ubuntu-pt.org
+35.185.44.232/32
+
+# Ubuntu — ubuntu-rs.org
+87.237.205.66/32
+
+# Ubuntu — ubuntu-se.org
+185.99.36.61/32
+
+# Ubuntu — ubuntu-touch.io
+75.2.60.5/32
+
+# Ubuntu — ubuntu-tr.net
+94.102.6.26/32
+
+# Ubuntu — ubuntu-tw.org
+140.138.145.240/32
+
+# Ubuntu — ubuntu-vn.org
+43.239.220.253/32
+
+# Ubuntu — ubuntu-za.org
+41.206.209.173/32
+
 # Ubuntu — ubuntu.com
 185.125.190.20/32
 185.125.190.21/32
 185.125.190.29/32
+
+# Ubuntu — ubuntu.cz
+35.185.44.232/32
+
+# Ubuntu — ubuntu.hu
+92.119.121.114/32
+
+# Ubuntu — ubuntu.ir
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.lt
+89.233.108.224/32
+
+# Ubuntu — ubuntu.lv
+5.179.20.166/32
+
+# Ubuntu — ubuntu.net
+185.125.190.20/32
+185.125.190.21/32
+185.125.190.29/32
+
+# Ubuntu — ubuntu.or.kr
+121.78.251.11/32
+
+# Ubuntu — ubuntu.org.cn
+104.21.59.99/32
+172.67.174.194/32
+
+# Ubuntu — ubuntu.pl
+185.238.74.116/32
+
+# Ubuntu — ubuntu.ro
+89.42.42.116/32
+
+# Ubuntu — ubuntu.ru
+162.55.187.222/32
+
+# Ubuntu — ubuntu.se
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.si
+193.95.228.69/32
+
+# Ubuntu — ubuntu.sk
+31.31.75.245/32
+
+# Ubuntu — ubuntuclub.com
+154.206.190.164/32
+
+# Ubuntu — ubuntuforums.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntugeek.com
+104.21.52.204/32
+172.67.203.165/32
+
+# Ubuntu — ubuntuguide.org
+187.77.73.186/32
+
+# Ubuntu — ubuntulinux.jp
+104.21.80.9/32
+172.67.172.144/32
+
+# Ubuntu — ubuntulinux.org
+185.125.190.20/32
+185.125.190.21/32
+185.125.190.29/32
+
+# Ubuntu — ubuntustats.com
+104.21.60.178/32
+172.67.198.240/32
+
+# Ubuntu — ubuntuusers.de
+188.64.56.49/32

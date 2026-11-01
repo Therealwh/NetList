@@ -1,5 +1,131 @@
 # DNS-derived IP snapshot for DuckDuckGo (duckduckgo)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# DuckDuckGo — cispaletter.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — cispaletter.org
+# (no public DNS addresses found)
+
+# DuckDuckGo — cometotheduckside.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — ddg.co
+# (no public DNS addresses found)
+
+# DuckDuckGo — ddg.gg
+# (no public DNS addresses found)
+
+# DuckDuckGo — ddh.gg
+# (no public DNS addresses found)
+
+# DuckDuckGo — dgg.gg
+# (no public DNS addresses found)
+
+# DuckDuckGo — dontbubble.us
+# (no public DNS addresses found)
+
+# DuckDuckGo — donttrack.us
+# (no public DNS addresses found)
+
+# DuckDuckGo — duck.co
+# (no public DNS addresses found)
+
+# DuckDuckGo — duck.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckco.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckco.de
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.ca
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.co
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.co.uk
+# (no public DNS addresses found)
+
 # DuckDuckGo — duckduckgo.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.com.mx
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.com.tw
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.de
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.dk
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.in
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.jp
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.ke
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.mx
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.nl
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.org
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.pl
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.sg
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckgo.uk
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckduckhack.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckgo.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — ducksear.ch
+# (no public DNS addresses found)
+
+# DuckDuckGo — duckside.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — dukgo.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — enteentegeh.de
+# (no public DNS addresses found)
+
+# DuckDuckGo — fixtracking.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — goduckgo.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — hacksear.ch
+# (no public DNS addresses found)
+
+# DuckDuckGo — justduckit.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — privacysimplified.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — privatebrowsingmyths.com
+# (no public DNS addresses found)
+
+# DuckDuckGo — spreadprivacy.com
 # (no public DNS addresses found)

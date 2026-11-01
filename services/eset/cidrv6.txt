@@ -1,3 +1,9 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# ESET — epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+# (no public DNS addresses found)
+
+# ESET — eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+# (no public DNS addresses found)
+
 # ESET — eset.com
 # (no public DNS addresses found)

@@ -1,6 +1,98 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Mozilla — ads-img.mozilla.org
+151.101.1.91/32
+
+# Mozilla — ads.mozilla.org
+151.101.161.91/32
+
+# Mozilla — bugzilla.org
+104.21.65.126/32
+172.67.145.107/32
+
+# Mozilla — crates.io
+151.101.130.137/32
+151.101.194.137/32
+151.101.2.137/32
+151.101.66.137/32
+
+# Mozilla — docs.rs
+151.101.1.91/32
+151.101.129.91/32
+151.101.193.91/32
+151.101.65.91/32
+
+# Mozilla — extensionworkshop.com
+35.190.48.53/32
+
 # Mozilla — firefox.com
 35.190.14.201/32
 
+# Mozilla — firefox.com.cn
+3.33.139.32/32
+
+# Mozilla — firefoxusercontent.com
+13.32.115.120/32
+13.32.115.123/32
+13.32.115.16/32
+13.32.115.60/32
+
+# Mozilla — getpocket.com
+3.168.2.33/32
+3.168.2.53/32
+3.168.2.60/32
+3.168.2.68/32
+
+# Mozilla — incoming-telemetry.thunderbird.net
+23.22.212.119/32
+
+# Mozilla — incoming.telemetry.mozilla.org
+34.54.185.247/32
+
+# Mozilla — mdn.mozillademos.org
+35.190.14.201/32
+
+# Mozilla — media.prod.mdn.mozit.cloud
+# (no public DNS addresses found)
+
+# Mozilla — mofoprod.net
+# (no public DNS addresses found)
+
+# Mozilla — mozilla.com
+35.190.14.201/32
+
+# Mozilla — mozilla.community
+# (no public DNS addresses found)
+
+# Mozilla — mozilla.net
+# (no public DNS addresses found)
+
 # Mozilla — mozilla.org
 35.190.14.201/32
+
+# Mozilla — pocket-image-cache.com
+18.245.113.26/32
+18.245.113.29/32
+18.245.113.62/32
+18.245.113.95/32
+
+# Mozilla — rust-lang.org
+185.199.108.153/32
+185.199.109.153/32
+185.199.110.153/32
+185.199.111.153/32
+
+# Mozilla — rustup.rs
+3.168.2.39/32
+3.168.2.48/32
+3.168.2.7/32
+3.168.2.74/32
+
+# Mozilla — seamonkey-project.org
+140.211.166.60/32
+
+# Mozilla — sentry.prod.mozaws.net
+# (no public DNS addresses found)
+
+# Mozilla — thunderbird.net
+104.20.26.187/32
+172.66.166.3/32

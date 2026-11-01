@@ -1,5 +1,71 @@
 # DNS-derived IP snapshot for Pinterest (pinterest)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Pinterest — pinimg.com
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.at
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.ca
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.ch
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.cl
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.co.kr
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.co.uk
+# (no public DNS addresses found)
+
 # Pinterest — pinterest.com
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.com.au
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.com.mx
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.de
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.dk
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.es
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.fr
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.ie
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.it
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.jp
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.nl
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.nz
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.ph
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.pt
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.ru
+# (no public DNS addresses found)
+
+# Pinterest — pinterest.se
 # (no public DNS addresses found)

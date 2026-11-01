@@ -1,3 +1,756 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Baidu — 17swan.com
+# (no public DNS addresses found)
+
+# Baidu — 37swan.com
+# (no public DNS addresses found)
+
+# Baidu — 91.com
+# (no public DNS addresses found)
+
+# Baidu — 911dns.cn
+# (no public DNS addresses found)
+
+# Baidu — 911dns.com.cn
+# (no public DNS addresses found)
+
+# Baidu — aicdn.work
+# (no public DNS addresses found)
+
+# Baidu — aipage.com
+# (no public DNS addresses found)
+
+# Baidu — aiqicha.cn
+# (no public DNS addresses found)
+
+# Baidu — aiqicha.com
+# (no public DNS addresses found)
+
+# Baidu — apollo-platform.com
+# (no public DNS addresses found)
+
+# Baidu — apollo-share.com
+# (no public DNS addresses found)
+
+# Baidu — apollo.auto
+# (no public DNS addresses found)
+
+# Baidu — baeapps.com
+# (no public DNS addresses found)
+
+# Baidu — baetyl.tech
+# (no public DNS addresses found)
+
+# Baidu — baidu-1img.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-2img.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-3img.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-bank.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-bank.com
+# (no public DNS addresses found)
+
+# Baidu — baidu-cdn.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-cdn.com
+# (no public DNS addresses found)
+
+# Baidu — baidu-cdn.net
+# (no public DNS addresses found)
+
+# Baidu — baidu-img.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-int.com
+# (no public DNS addresses found)
+
+# Baidu — baidu-itm.com
+# (no public DNS addresses found)
+
+# Baidu — baidu-tech.com
+# (no public DNS addresses found)
+
+# Baidu — baidu.cn
+# (no public DNS addresses found)
+
 # Baidu — baidu.com
+# (no public DNS addresses found)
+
+# Baidu — baidu.com.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu.com.hk
+# (no public DNS addresses found)
+
+# Baidu — baidu.hk
+# (no public DNS addresses found)
+
+# Baidu — baidu.mobi
+# (no public DNS addresses found)
+
+# Baidu — baiduads.com
+# (no public DNS addresses found)
+
+# Baidu — baiduapp.com
+# (no public DNS addresses found)
+
+# Baidu — baidubce.cn
+# (no public DNS addresses found)
+
+# Baidu — baidubce.com
+# (no public DNS addresses found)
+
+# Baidu — baidubce.com.cn
+# (no public DNS addresses found)
+
+# Baidu — baidubce.net.cn
+# (no public DNS addresses found)
+
+# Baidu — baidubcr.com
+# (no public DNS addresses found)
+
+# Baidu — baidubos.com
+# (no public DNS addresses found)
+
+# Baidu — baiducloudapi.com
+# (no public DNS addresses found)
+
+# Baidu — baiducontent.com
+# (no public DNS addresses found)
+
+# Baidu — baiduhui.com
+# (no public DNS addresses found)
+
+# Baidu — baidupcs.cn
+# (no public DNS addresses found)
+
+# Baidu — baidupcs.com
+# (no public DNS addresses found)
+
+# Baidu — baidupcs.com.cn
+# (no public DNS addresses found)
+
+# Baidu — baidupcs.net
+# (no public DNS addresses found)
+
+# Baidu — baidustatic.com
+# (no public DNS addresses found)
+
+# Baidu — baiduux.com
+# (no public DNS addresses found)
+
+# Baidu — baiduwaf.com
+# (no public DNS addresses found)
+
+# Baidu — baiduwebgame.com
+# (no public DNS addresses found)
+
+# Baidu — baiduxiaodai.cn
+# (no public DNS addresses found)
+
+# Baidu — baiduxiaodai.com
+# (no public DNS addresses found)
+
+# Baidu — baiduyangguang.org
+# (no public DNS addresses found)
+
+# Baidu — baiduyuncdn.cn
+# (no public DNS addresses found)
+
+# Baidu — baiduyuncdn.com
+# (no public DNS addresses found)
+
+# Baidu — baiduyuncdn.net
+# (no public DNS addresses found)
+
+# Baidu — baiduyundns.cn
+# (no public DNS addresses found)
+
+# Baidu — baiduyundns.com
+# (no public DNS addresses found)
+
+# Baidu — baiduyundns.net
+# (no public DNS addresses found)
+
+# Baidu — baiduyunwaf.com
+# (no public DNS addresses found)
+
+# Baidu — baifae.com
+# (no public DNS addresses found)
+
+# Baidu — baifubao.com
+# (no public DNS addresses found)
+
+# Baidu — baihangbao.cn
+# (no public DNS addresses found)
+
+# Baidu — baihangbao.com
+# (no public DNS addresses found)
+
+# Baidu — baihangdai.cn
+# (no public DNS addresses found)
+
+# Baidu — baihangdai.com
+# (no public DNS addresses found)
+
+# Baidu — baijincdn.cn
+# (no public DNS addresses found)
+
+# Baidu — baijincdn.com
+# (no public DNS addresses found)
+
+# Baidu — bakshifen.com
+# (no public DNS addresses found)
+
+# Baidu — bce-cdn.cn
+# (no public DNS addresses found)
+
+# Baidu — bce-cdn.com
+# (no public DNS addresses found)
+
+# Baidu — bce-cdn.net
+# (no public DNS addresses found)
+
+# Baidu — bceapp.com
+# (no public DNS addresses found)
+
+# Baidu — bcebos.com
+# (no public DNS addresses found)
+
+# Baidu — bcedns.cn
+# (no public DNS addresses found)
+
+# Baidu — bcedns.com
+# (no public DNS addresses found)
+
+# Baidu — bcedns.net
+# (no public DNS addresses found)
+
+# Baidu — bcedocument.com
+# (no public DNS addresses found)
+
+# Baidu — bcehost.com
+# (no public DNS addresses found)
+
+# Baidu — bcehosts.com
+# (no public DNS addresses found)
+
+# Baidu — bceidaas.com
+# (no public DNS addresses found)
+
+# Baidu — bceimg.cn
+# (no public DNS addresses found)
+
+# Baidu — bceimg.com
+# (no public DNS addresses found)
+
+# Baidu — bcelive.com
+# (no public DNS addresses found)
+
+# Baidu — bcevod.com
+# (no public DNS addresses found)
+
+# Baidu — bcewaf.com
+# (no public DNS addresses found)
+
+# Baidu — bchdemo.site
+# (no public DNS addresses found)
+
+# Baidu — bdbae.com
+# (no public DNS addresses found)
+
+# Baidu — bdcloudapi.com
+# (no public DNS addresses found)
+
+# Baidu — bddns.cn
+# (no public DNS addresses found)
+
+# Baidu — bdeceimg.com
+# (no public DNS addresses found)
+
+# Baidu — bdimg.com
+# (no public DNS addresses found)
+
+# Baidu — bdstatic.cn
+# (no public DNS addresses found)
+
+# Baidu — bdstatic.com
+# (no public DNS addresses found)
+
+# Baidu — bdtjrcv.com
+# (no public DNS addresses found)
+
+# Baidu — bduapp.com
+# (no public DNS addresses found)
+
+# Baidu — bdurl.net
+# (no public DNS addresses found)
+
+# Baidu — bdycdn.cn
+# (no public DNS addresses found)
+
+# Baidu — bdycdn.com
+# (no public DNS addresses found)
+
+# Baidu — bdycdn.net
+# (no public DNS addresses found)
+
+# Baidu — bdydns.cn
+# (no public DNS addresses found)
+
+# Baidu — bdydns.com
+# (no public DNS addresses found)
+
+# Baidu — bdydns.net
+# (no public DNS addresses found)
+
+# Baidu — bdymkt.com
+# (no public DNS addresses found)
+
+# Baidu — bdysite.com
+# (no public DNS addresses found)
+
+# Baidu — bdysites.com
+# (no public DNS addresses found)
+
+# Baidu — bfe-networks.com
+# (no public DNS addresses found)
+
+# Baidu — bfe-networks.net
+# (no public DNS addresses found)
+
+# Baidu — chuanke.com
+# (no public DNS addresses found)
+
+# Baidu — cloud-control.top
+# (no public DNS addresses found)
+
+# Baidu — clouda.com
+# (no public DNS addresses found)
+
+# Baidu — cloudajs.org
+# (no public DNS addresses found)
+
+# Baidu — content4ads.com
+# (no public DNS addresses found)
+
+# Baidu — daoru.in
+# (no public DNS addresses found)
+
+# Baidu — data-schema.org.cn
+# (no public DNS addresses found)
+
+# Baidu — dlnel.com
+# (no public DNS addresses found)
+
+# Baidu — dlnel.org
+# (no public DNS addresses found)
+
+# Baidu — dmhmusic.com
+# (no public DNS addresses found)
+
+# Baidu — dnsproxy.cn
+# (no public DNS addresses found)
+
+# Baidu — dnsproxy.com.cn
+# (no public DNS addresses found)
+
+# Baidu — du-xiaomai.com
+# (no public DNS addresses found)
+
+# Baidu — duapp-preview.com
+# (no public DNS addresses found)
+
+# Baidu — duapp.com
+# (no public DNS addresses found)
+
+# Baidu — duapp.net
+# (no public DNS addresses found)
+
+# Baidu — duapps.com
+# (no public DNS addresses found)
+
+# Baidu — dulife.com
+# (no public DNS addresses found)
+
+# Baidu — dulightapp.com
+2606:4700:3030::6815:3f6/128
+2606:4700:3030::ac43:835f/128
+
+# Baidu — dumall.com
+# (no public DNS addresses found)
+
+# Baidu — dusdn.cn
+# (no public DNS addresses found)
+
+# Baidu — dusdn.com
+# (no public DNS addresses found)
+
+# Baidu — dusdn.net
+# (no public DNS addresses found)
+
+# Baidu — dushifen.com
+# (no public DNS addresses found)
+
+# Baidu — duurl.cn
+# (no public DNS addresses found)
+
+# Baidu — duxiaomai.net
+# (no public DNS addresses found)
+
+# Baidu — duxuetang.cn
+# (no public DNS addresses found)
+
+# Baidu — duxuetang.com
+# (no public DNS addresses found)
+
+# Baidu — dwz.cn
+# (no public DNS addresses found)
+
+# Baidu — estrongs.com
+# (no public DNS addresses found)
+
+# Baidu — eyoubaidu.com
+# (no public DNS addresses found)
+
+# Baidu — fhldns.cn
+# (no public DNS addresses found)
+
+# Baidu — fhldns.com
+# (no public DNS addresses found)
+
+# Baidu — fhldns.com.cn
+# (no public DNS addresses found)
+
+# Baidu — fhldns.net
+# (no public DNS addresses found)
+
+# Baidu — game-client.com
+# (no public DNS addresses found)
+
+# Baidu — haluan2u.com
+# (no public DNS addresses found)
+
+# Baidu — hao123.com
+# (no public DNS addresses found)
+
+# Baidu — hao123.net
+# (no public DNS addresses found)
+
+# Baidu — hao123img.com
+# (no public DNS addresses found)
+
+# Baidu — hao222.com
+# (no public DNS addresses found)
+
+# Baidu — hao222.net
+# (no public DNS addresses found)
+
+# Baidu — haokan.com
+# (no public DNS addresses found)
+
+# Baidu — hiapk.com
+# (no public DNS addresses found)
+
+# Baidu — hongmeiti.cn
+# (no public DNS addresses found)
+
+# Baidu — hongmeiti.com
+# (no public DNS addresses found)
+
+# Baidu — hongmeiti.com.cn
+# (no public DNS addresses found)
+
+# Baidu — hongmeiti.net
+# (no public DNS addresses found)
+
+# Baidu — huoyanyunying.com
+# (no public DNS addresses found)
+
+# Baidu — ja-cloud.com
+# (no public DNS addresses found)
+
+# Baidu — jingling.cn
+# (no public DNS addresses found)
+
+# Baidu — jomocdn.cn
+# (no public DNS addresses found)
+
+# Baidu — jomocdn.net
+# (no public DNS addresses found)
+
+# Baidu — jomodns.cn
+# (no public DNS addresses found)
+
+# Baidu — jomodns.com
+# (no public DNS addresses found)
+
+# Baidu — jomodns.net
+# (no public DNS addresses found)
+
+# Baidu — jpaas.cn
+# (no public DNS addresses found)
+
+# Baidu — kanduoduo.com.cn
+# (no public DNS addresses found)
+
+# Baidu — lasmasas.com
+# (no public DNS addresses found)
+
+# Baidu — micro-game-client.com
+# (no public DNS addresses found)
+
+# Baidu — mipcdn.com
+# (no public DNS addresses found)
+
+# Baidu — mipengine.com
+# (no public DNS addresses found)
+
+# Baidu — mipengine.org
+# (no public DNS addresses found)
+
+# Baidu — mipplan.com
+# (no public DNS addresses found)
+
+# Baidu — mipplan.org
+# (no public DNS addresses found)
+
+# Baidu — nhmuni.com
+# (no public DNS addresses found)
+
+# Baidu — nuomi.com
+# (no public DNS addresses found)
+
+# Baidu — oasesalliance.com
+# (no public DNS addresses found)
+
+# Baidu — oortos.tech
+# (no public DNS addresses found)
+
+# Baidu — openintelliedge.tech
+# (no public DNS addresses found)
+
+# Baidu — openrasp.cn
+# (no public DNS addresses found)
+
+# Baidu — openrasp.com
+# (no public DNS addresses found)
+
+# Baidu — openrasp.com.cn
+# (no public DNS addresses found)
+
+# Baidu — openrasp.info
+# (no public DNS addresses found)
+
+# Baidu — openrasp.net
+# (no public DNS addresses found)
+
+# Baidu — openrasp.net.cn
+# (no public DNS addresses found)
+
+# Baidu — openrasp.org
+# (no public DNS addresses found)
+
+# Baidu — openrasp.org.cn
+# (no public DNS addresses found)
+
+# Baidu — paddlepaddle.org.cn
+# (no public DNS addresses found)
+
+# Baidu — popincdn.com
+# (no public DNS addresses found)
+
+# Baidu — pubbcsapp.com
+# (no public DNS addresses found)
+
+# Baidu — qianqian.com
+# (no public DNS addresses found)
+
+# Baidu — qxllq.com
+# (no public DNS addresses found)
+
+# Baidu — sanguows.com
+# (no public DNS addresses found)
+
+# Baidu — searchcraft.cn
+# (no public DNS addresses found)
+
+# Baidu — sg.work
+# (no public DNS addresses found)
+
+# Baidu — shifen.com
+# (no public DNS addresses found)
+
+# Baidu — siteapp-static.com
+# (no public DNS addresses found)
+
+# Baidu — smartapps.cn
+# (no public DNS addresses found)
+
+# Baidu — submusic.cn
+# (no public DNS addresses found)
+
+# Baidu — swan366.com
+# (no public DNS addresses found)
+
+# Baidu — taihe.com
+# (no public DNS addresses found)
+
+# Baidu — tieba.com
+# (no public DNS addresses found)
+
+# Baidu — tiebaimg.com
+# (no public DNS addresses found)
+
+# Baidu — tradaquan.com
+# (no public DNS addresses found)
+
+# Baidu — ttplayer.com
+# (no public DNS addresses found)
+
+# Baidu — umaz.cn
+# (no public DNS addresses found)
+
+# Baidu — videomind.cloud
+# (no public DNS addresses found)
+
+# Baidu — videomind.cn
+# (no public DNS addresses found)
+
+# Baidu — videomind.net
+# (no public DNS addresses found)
+
+# Baidu — vplay8.com
+# (no public DNS addresses found)
+
+# Baidu — webgamehome.com
+# (no public DNS addresses found)
+
+# Baidu — wenku.in
+# (no public DNS addresses found)
+
+# Baidu — wshifen.com
+# (no public DNS addresses found)
+
+# Baidu — wssanguo.com
+# (no public DNS addresses found)
+
+# Baidu — xianfae.com
+# (no public DNS addresses found)
+
+# Baidu — xiaodutv.cn
+240c:4081:ffff:fffe:0:b:0:bb/128
+
+# Baidu — xiaodutv.com
+240c:4081:ffff:fffe:0:b:0:bb/128
+
+# Baidu — xiaoduzaijia.cn
+2a00:18e0:5:2:7577:4e4d:413b:f507/128
+2a00:18e0:5:3:dfe2:c743:85aa:61bc/128
+
+# Baidu — xiaoduzaijia.com.cn
+2a00:18e0:5:2:7577:4e4d:413b:f507/128
+2a00:18e0:5:3:dfe2:c743:85aa:61bc/128
+
+# Baidu — xinzhi.com
+# (no public DNS addresses found)
+
+# Baidu — yeyingkf.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn1.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn10.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn2.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn3.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn4.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn5.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn6.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn7.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn8.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn9.com
+# (no public DNS addresses found)
+
+# Baidu — yjsops.com
+# (no public DNS addresses found)
+
+# Baidu — youyou.com
+# (no public DNS addresses found)
+
+# Baidu — youyou001.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-cdn-dnssec.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-cdn.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-cdn.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-dns.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-dns.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-test.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasucdn.info
+# (no public DNS addresses found)
+
+# Baidu — yunjiasucdn.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasudns.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasudns.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasupreview.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasussl.com
+# (no public DNS addresses found)
+
+# Baidu — zuoyebang.cc
+# (no public DNS addresses found)
+
+# Baidu — zuoyebang.com
+# (no public DNS addresses found)
+
+# Baidu — zybang.com
 # (no public DNS addresses found)

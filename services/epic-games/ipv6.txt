@@ -1,5 +1,48 @@
 # DNS-derived IP snapshot for Epic Games (epic-games)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Epic Games — battlebreakers.com
+# (no public DNS addresses found)
+
+# Epic Games — eac-cdn.com
+# (no public DNS addresses found)
+
+# Epic Games — easy.ac
+2606:4700::6812:10f1
+2606:4700::6812:11f1
+
+# Epic Games — easyanticheat.net
+# (no public DNS addresses found)
+
 # Epic Games — epicgames.com
+# (no public DNS addresses found)
+
+# Epic Games — epicgames.dev
+# (no public DNS addresses found)
+
+# Epic Games — fortnite.com
+# (no public DNS addresses found)
+
+# Epic Games — helpshift.com
+# (no public DNS addresses found)
+
+# Epic Games — paragon.com
+# (no public DNS addresses found)
+
+# Epic Games — playparagon.com
+# (no public DNS addresses found)
+
+# Epic Games — roborecall.com
+# (no public DNS addresses found)
+
+# Epic Games — shadowcomplex.com
+# (no public DNS addresses found)
+
+# Epic Games — spyjinx.com
+# (no public DNS addresses found)
+
+# Epic Games — unrealengine.com
+# (no public DNS addresses found)
+
+# Epic Games — unrealtournament.com
 # (no public DNS addresses found)

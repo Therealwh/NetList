@@ -1,3 +1,18 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# GitLab — gitlab-assets.oss-cn-hongkong.aliyuncs.com
+47.79.66.61/32
+
+# GitLab — gitlab-static.net
+# (no public DNS addresses found)
+
 # GitLab — gitlab.com
 172.65.251.78/32
+
+# GitLab — gitlab.net
+# (no public DNS addresses found)
+
+# GitLab — gitter-static.net
+# (no public DNS addresses found)
+
+# GitLab — gitter.im
+3.72.129.101/32

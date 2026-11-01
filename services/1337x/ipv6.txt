@@ -1,6 +1,39 @@
 # DNS-derived IP snapshot for 1337x (1337x)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# 1337x — 1337x.gd
+# (no public DNS addresses found)
+
+# 1337x — 1337x.is
+# (no public DNS addresses found)
+
+# 1337x — 1337x.st
+2606:4700:3030::6815:5c28
+2606:4700:3033::ac43:ba31
+
 # 1337x — 1337x.to
 2606:4700:3030::ac43:bc43
 2606:4700:3033::6815:28c1
+
+# 1337x — 1337x.tw
+2606:4700:3031::6815:5c46
+2606:4700:3033::ac43:bc9d
+
+# 1337x — 1337xto.to
+2606:4700:3031::6815:351e
+2606:4700:3037::ac43:d04e
+
+# 1337x — 1337xx.to
+2606:4700:3033::ac43:83d5
+2606:4700:3034::6815:bea
+
+# 1337x — x1337x.eu
+2606:4700:3033::ac43:b18c
+2606:4700:3037::6815:4853
+
+# 1337x — x1337x.se
+# (no public DNS addresses found)
+
+# 1337x — x1337x.ws
+2606:4700:3031::6815:3e39
+2606:4700:3033::ac43:dc6d

@@ -4,5 +4,23 @@
 # Battle.net — battle.net
 # (no public DNS addresses found)
 
+# Battle.net — battlenet.com.cn
+# (no public DNS addresses found)
+
 # Battle.net — blizzard.com
+# (no public DNS addresses found)
+
+# Battle.net — blizzard.nefficient.co.kr
+# (no public DNS addresses found)
+
+# Battle.net — blzddist1-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Battle.net — blzddistkr1-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Battle.net — bnetproduct-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Battle.net — cdn.blz-contentstack.com
 # (no public DNS addresses found)

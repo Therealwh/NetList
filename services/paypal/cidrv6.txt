@@ -1,3 +1,742 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# PayPal — account-paypal.info
+# (no public DNS addresses found)
+
+# PayPal — account-paypal.net
+# (no public DNS addresses found)
+
+# PayPal — account-paypal.org
+# (no public DNS addresses found)
+
+# PayPal — accountpaypal.com
+# (no public DNS addresses found)
+
+# PayPal — accountpaypal.net
+# (no public DNS addresses found)
+
+# PayPal — accountpaypal.org
+# (no public DNS addresses found)
+
+# PayPal — anfutong.cn
+# (no public DNS addresses found)
+
+# PayPal — anfutong.com
+# (no public DNS addresses found)
+
+# PayPal — anfutong.com.cn
+# (no public DNS addresses found)
+
+# PayPal — beibao.cn
+# (no public DNS addresses found)
+
+# PayPal — beibao.com
+# (no public DNS addresses found)
+
+# PayPal — beibao.com.cn
+# (no public DNS addresses found)
+
+# PayPal — bill-safe.com
+# (no public DNS addresses found)
+
+# PayPal — billmelater.com
+# (no public DNS addresses found)
+
+# PayPal — billmelater.info
+# (no public DNS addresses found)
+
+# PayPal — billmelater.net
+# (no public DNS addresses found)
+
+# PayPal — bml.info
+# (no public DNS addresses found)
+
+# PayPal — braintreegateway.com
+# (no public DNS addresses found)
+
+# PayPal — braintreegateway.tv
+# (no public DNS addresses found)
+
+# PayPal — braintreepayments.com
+# (no public DNS addresses found)
+
+# PayPal — braintreepayments.info
+# (no public DNS addresses found)
+
+# PayPal — braintreepayments.org
+# (no public DNS addresses found)
+
+# PayPal — braintreepayments.tv
+# (no public DNS addresses found)
+
+# PayPal — braintreepaymentsolutions.com
+# (no public DNS addresses found)
+
+# PayPal — braintreeps.com
+# (no public DNS addresses found)
+
+# PayPal — briantreepayments.net
+# (no public DNS addresses found)
+
+# PayPal — briantreepayments.tv
+# (no public DNS addresses found)
+
+# PayPal — buyfast-paysmart.net
+# (no public DNS addresses found)
+
+# PayPal — card.io
+# (no public DNS addresses found)
+
+# PayPal — cash2.com
+# (no public DNS addresses found)
+
+# PayPal — cashify.com
+# (no public DNS addresses found)
+
+# PayPal — cashify.net
+# (no public DNS addresses found)
+
+# PayPal — devtools-paypal.com
+# (no public DNS addresses found)
+
+# PayPal — experiencebillmelater.com
+# (no public DNS addresses found)
+
+# PayPal — filipino-music.net
+# (no public DNS addresses found)
+
+# PayPal — fundpaypal.com
+# (no public DNS addresses found)
+
+# PayPal — getbraintree.com
+# (no public DNS addresses found)
+
+# PayPal — gmoney.org
+# (no public DNS addresses found)
+
+# PayPal — i-o-u.info
+# (no public DNS addresses found)
+
+# PayPal — krakenjs.com
+# (no public DNS addresses found)
+
+# PayPal — loanbuilder.com
+# (no public DNS addresses found)
+
+# PayPal — login-paypal.com
+# (no public DNS addresses found)
+
+# PayPal — login-paypal.info
+# (no public DNS addresses found)
+
+# PayPal — mywaytopay.info
+# (no public DNS addresses found)
+
+# PayPal — mywaytopay.net
+# (no public DNS addresses found)
+
+# PayPal — pa9pal.com
+# (no public DNS addresses found)
+
+# PayPal — paaypal.com
+# (no public DNS addresses found)
+
+# PayPal — paily.net
+# (no public DNS addresses found)
+
+# PayPal — paily.org
+# (no public DNS addresses found)
+
+# PayPal — paipal.com
+# (no public DNS addresses found)
+
+# PayPal — pavpal.com
+# (no public DNS addresses found)
+
+# PayPal — paydiant.com
+# (no public DNS addresses found)
+
+# PayPal — paylike.com
+# (no public DNS addresses found)
+
+# PayPal — paypa1.com
+# (no public DNS addresses found)
+
+# PayPal — paypa1.org
+# (no public DNS addresses found)
+
+# PayPal — paypaal.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-activate.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-activate.info
+# (no public DNS addresses found)
+
+# PayPal — paypal-activate.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-apac.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-apps.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-biz.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-brandcentral.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-business.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-business.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-business.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-cardcash.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-cash.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-center.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-center.info
+# (no public DNS addresses found)
+
+# PayPal — paypal-center.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-center.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-communication.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-communications.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-communications.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-community.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-community.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-comunidad.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-corp.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-database.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-database.us
+# (no public DNS addresses found)
+
+# PayPal — paypal-donations.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-dynamic.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-engineering.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-europe.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-excelinvoicing.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-exchanges.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-forward.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-galactic.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-gift.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-gifts.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-gpplus.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-here.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-hrsystem.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-innovationlab.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-integration.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-japan.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-knowledge.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-labs.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-latam.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-learning.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-login.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-login.info
+# (no public DNS addresses found)
+
+# PayPal — paypal-login.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-login.us
+# (no public DNS addresses found)
+
+# PayPal — paypal-luxury.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-mainstreet.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-marketing.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-media.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-merchantloyalty.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-mktg.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-mobilemoney.com
+2600:1f18:297:ba0e:7900:f622:48a8:f266/128
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003/128
+2600:1f18:297:ba24:b508:76de:f4a:df34/128
+
+# PayPal — paypal-network.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-notice.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-notify.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-online.info
+# (no public DNS addresses found)
+
+# PayPal — paypal-online.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-online.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-optimizer.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-pages.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-photocard.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-plaza.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-portal.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-prepagata.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-prepagata.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-prepaid.com
+2600:1f18:297:ba0e:7900:f622:48a8:f266/128
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003/128
+2600:1f18:297:ba24:b508:76de:f4a:df34/128
+
+# PayPal — paypal-profile.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-proserv.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-qrshopping.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-recargacelular.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-redeem.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-referral.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-retail.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-scoop.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-search.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-secure.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-secure.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-security.net
+# (no public DNS addresses found)
+
+# PayPal — paypal-security.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-service.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-signin.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-signin.us
+# (no public DNS addresses found)
+
+# PayPal — paypal-special.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-specialoffers.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-sptam.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-status.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-support.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-survey.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-survey.org
+# (no public DNS addresses found)
+
+# PayPal — paypal-team.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-viewpoints.net
+# (no public DNS addresses found)
+
+# PayPal — paypal.ca
+# (no public DNS addresses found)
+
 # PayPal — paypal.com
+# (no public DNS addresses found)
+
+# PayPal — paypal.com.cn
+# (no public DNS addresses found)
+
+# PayPal — paypal.com.hk
+# (no public DNS addresses found)
+
+# PayPal — paypal.com.sg
+# (no public DNS addresses found)
+
+# PayPal — paypal.hk
+# (no public DNS addresses found)
+
+# PayPal — paypal.info
+# (no public DNS addresses found)
+
+# PayPal — paypal.jp
+# (no public DNS addresses found)
+
+# PayPal — paypal.me
+# (no public DNS addresses found)
+
+# PayPal — paypal.net.cn
+# (no public DNS addresses found)
+
+# PayPal — paypal.org.cn
+# (no public DNS addresses found)
+
+# PayPal — paypal.so
+# (no public DNS addresses found)
+
+# PayPal — paypal.us
+# (no public DNS addresses found)
+
+# PayPal — paypalbeacon.com
+# (no public DNS addresses found)
+
+# PayPal — paypalbenefits.com
+# (no public DNS addresses found)
+
+# PayPal — paypalbrasil.com
+# (no public DNS addresses found)
+
+# PayPal — paypalcommunity.cn
+# (no public DNS addresses found)
+
+# PayPal — paypalcommunity.com
+# (no public DNS addresses found)
+
+# PayPal — paypalcommunity.net
+# (no public DNS addresses found)
+
+# PayPal — paypalcommunity.org
+# (no public DNS addresses found)
+
+# PayPal — paypalcorp.com
+# (no public DNS addresses found)
+
+# PayPal — paypalcredit.com
+# (no public DNS addresses found)
+
+# PayPal — paypalcreditcard.com
+# (no public DNS addresses found)
+
+# PayPal — paypalgivingfund.org
+# (no public DNS addresses found)
+
+# PayPal — paypalhere.cn
+# (no public DNS addresses found)
+
+# PayPal — paypalhere.com
+# (no public DNS addresses found)
+
+# PayPal — paypalhere.com.cn
+# (no public DNS addresses found)
+
+# PayPal — paypalhere.info
+# (no public DNS addresses found)
+
+# PayPal — paypalhere.net
+# (no public DNS addresses found)
+
+# PayPal — paypalhere.org
+# (no public DNS addresses found)
+
+# PayPal — paypalhere.tv
+# (no public DNS addresses found)
+
+# PayPal — paypali.net
+# (no public DNS addresses found)
+
+# PayPal — paypalinc.com
+# (no public DNS addresses found)
+
+# PayPal — paypalindia.com
+# (no public DNS addresses found)
+
+# PayPal — paypalinsuranceservices.org
+# (no public DNS addresses found)
+
+# PayPal — paypall.com
+# (no public DNS addresses found)
+
+# PayPal — paypallabs.com
+# (no public DNS addresses found)
+
+# PayPal — paypalme.com
+# (no public DNS addresses found)
+
+# PayPal — paypalnet.net
+# (no public DNS addresses found)
+
+# PayPal — paypalnet.org
+# (no public DNS addresses found)
+
+# PayPal — paypalnetwork.info
+# (no public DNS addresses found)
+
+# PayPal — paypalnetwork.net
+# (no public DNS addresses found)
+
+# PayPal — paypalnetwork.org
+# (no public DNS addresses found)
+
+# PayPal — paypalobjects.com
+# (no public DNS addresses found)
+
+# PayPal — paypalonline.net
+# (no public DNS addresses found)
+
+# PayPal — paypalonline.org
+# (no public DNS addresses found)
+
+# PayPal — paypalprepagata.com
+# (no public DNS addresses found)
+
+# PayPal — paypalprepagata.net
+# (no public DNS addresses found)
+
+# PayPal — paypalservice.com
+# (no public DNS addresses found)
+
+# PayPal — paypalshopping.com
+# (no public DNS addresses found)
+
+# PayPal — paypalshopping.net
+# (no public DNS addresses found)
+
+# PayPal — paypalsurvey.com
+# (no public DNS addresses found)
+
+# PayPal — paypalx.com
+# (no public DNS addresses found)
+
+# PayPal — paypaly.com
+# (no public DNS addresses found)
+
+# PayPal — payppal.com
+# (no public DNS addresses found)
+
+# PayPal — payypal.com
+# (no public DNS addresses found)
+
+# PayPal — pdncommunity.com
+# (no public DNS addresses found)
+
+# PayPal — pp-soc.com
+# (no public DNS addresses found)
+
+# PayPal — ppaypal.com
+# (no public DNS addresses found)
+
+# PayPal — pppds.com
+# (no public DNS addresses found)
+
+# PayPal — pypl.com
+# (no public DNS addresses found)
+
+# PayPal — pypl.info
+# (no public DNS addresses found)
+
+# PayPal — pypl.net
+# (no public DNS addresses found)
+
+# PayPal — pypl.tv
+# (no public DNS addresses found)
+
+# PayPal — s-xoom.com
+# (no public DNS addresses found)
+
+# PayPal — secure-paypal.info
+# (no public DNS addresses found)
+
+# PayPal — securepaypal.info
+# (no public DNS addresses found)
+
+# PayPal — simility.com
+# (no public DNS addresses found)
+
+# PayPal — sslpaypal.org
+# (no public DNS addresses found)
+
+# PayPal — swiftbank.info
+# (no public DNS addresses found)
+
+# PayPal — swiftbank.us
+# (no public DNS addresses found)
+
+# PayPal — swiftcapital.com
+# (no public DNS addresses found)
+
+# PayPal — swiftfinancial.com
+# (no public DNS addresses found)
+
+# PayPal — swiftfinancial.info
+# (no public DNS addresses found)
+
+# PayPal — swiftfinancial.net
+# (no public DNS addresses found)
+
+# PayPal — thepaypalshop.com
+# (no public DNS addresses found)
+
+# PayPal — theshoppingexpresslane.net
+# (no public DNS addresses found)
+
+# PayPal — venmo-touch.com
+# (no public DNS addresses found)
+
+# PayPal — venmo.com
+# (no public DNS addresses found)
+
+# PayPal — venmo.info
+# (no public DNS addresses found)
+
+# PayPal — venmo.net
+# (no public DNS addresses found)
+
+# PayPal — venmo.org
+# (no public DNS addresses found)
+
+# PayPal — venmo.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# PayPal — webmoneyinfo.com
+# (no public DNS addresses found)
+
+# PayPal — wiremoneytoirelandwithxoomeasierandcheaper.com
+# (no public DNS addresses found)
+
+# PayPal — www-paypal.info
+# (no public DNS addresses found)
+
+# PayPal — www-paypal.us
+# (no public DNS addresses found)
+
+# PayPal — wwwxoom.com
+# (no public DNS addresses found)
+
+# PayPal — xn--bnq297cix3a.cn
+# (no public DNS addresses found)
+
+# PayPal — xoom-experience.com
+# (no public DNS addresses found)
+
+# PayPal — xoom.com
+# (no public DNS addresses found)
+
+# PayPal — xoom.io
+# (no public DNS addresses found)
+
+# PayPal — xoom.net.cn
+# (no public DNS addresses found)
+
+# PayPal — xoom.us
+# (no public DNS addresses found)
+
+# PayPal — xoomcom.com
 # (no public DNS addresses found)

@@ -1,6 +1,27 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Сбер — error-tracking.megamarket.tech
+# (no public DNS addresses found)
+
+# Сбер — metrics.21-school.ru
+# (no public DNS addresses found)
+
 # Сбер — sber.ru
 # (no public DNS addresses found)
 
 # Сбер — sberbank.ru
+# (no public DNS addresses found)
+
+# Сбер — sberdevices.ru
+# (no public DNS addresses found)
+
+# Сбер — sbermarket.ru
+# (no public DNS addresses found)
+
+# Сбер — sberpro.vedomosti.ru
+# (no public DNS addresses found)
+
+# Сбер — sentry.sberauto.com
+# (no public DNS addresses found)
+
+# Сбер — tracing-http.megamarket.tech
 # (no public DNS addresses found)

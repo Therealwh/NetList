@@ -1,3 +1,6 @@
 # NetList seed candidates: DigitalOcean
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 digitalocean.com
+digitaloceanspaces.com
+do.co
+nginxconfig.io

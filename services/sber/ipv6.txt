@@ -1,8 +1,29 @@
 # DNS-derived IP snapshot for Сбер (sber)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Сбер — error-tracking.megamarket.tech
+# (no public DNS addresses found)
+
+# Сбер — metrics.21-school.ru
+# (no public DNS addresses found)
+
 # Сбер — sber.ru
 # (no public DNS addresses found)
 
 # Сбер — sberbank.ru
+# (no public DNS addresses found)
+
+# Сбер — sberdevices.ru
+# (no public DNS addresses found)
+
+# Сбер — sbermarket.ru
+# (no public DNS addresses found)
+
+# Сбер — sberpro.vedomosti.ru
+# (no public DNS addresses found)
+
+# Сбер — sentry.sberauto.com
+# (no public DNS addresses found)
+
+# Сбер — tracing-http.megamarket.tech
 # (no public DNS addresses found)

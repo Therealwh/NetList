@@ -1,8 +1,29 @@
 # DNS-derived IP snapshot for Сбер (sber)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Сбер — error-tracking.megamarket.tech
+91.206.127.218
+
+# Сбер — metrics.21-school.ru
+91.221.165.183
+
 # Сбер — sber.ru
 84.252.149.198
 
 # Сбер — sberbank.ru
 84.252.149.206
+
+# Сбер — sberdevices.ru
+95.181.181.254
+
+# Сбер — sbermarket.ru
+195.208.66.164
+
+# Сбер — sberpro.vedomosti.ru
+185.216.195.147
+
+# Сбер — sentry.sberauto.com
+185.169.155.9
+
+# Сбер — tracing-http.megamarket.tech
+91.206.127.218

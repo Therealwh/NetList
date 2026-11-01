@@ -1,5 +1,11 @@
 # DNS-derived IP snapshot for RuStore (rustore)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# RuStore — rustore.net
+# (no public DNS addresses found)
+
 # RuStore — rustore.ru
 95.163.61.31
+
+# RuStore — rustorecdn.ru
+# (no public DNS addresses found)

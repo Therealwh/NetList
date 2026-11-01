@@ -1,8 +1,177 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Riot Games — championshipseriesleague.com
+# (no public DNS addresses found)
+
+# Riot Games — convrgencegame.com
+15.197.167.90/32
+3.33.186.135/32
+
+# Riot Games — historyofdota.com
+3.33.139.32/32
+
+# Riot Games — historyofdota.net
+3.33.139.32/32
+
+# Riot Games — historyofdota.org
+3.33.139.32/32
+
+# Riot Games — instituteofwar.org
+3.33.139.32/32
+
+# Riot Games — lcsmerch.com
+3.33.139.32/32
+
+# Riot Games — leaguehighschool.com
+23.185.0.3/32
+
+# Riot Games — leagueoflegends.ca
+# (no public DNS addresses found)
+
+# Riot Games — leagueoflegends.cn
+3.33.139.32/32
+
+# Riot Games — leagueoflegends.co.kr
+104.16.104.189/32
+
 # Riot Games — leagueoflegends.com
 32.190.165.107/32
 44.242.1.161/32
 
+# Riot Games — leagueoflegends.info
+3.33.139.32/32
+
+# Riot Games — leagueoflegends.kr
+# (no public DNS addresses found)
+
+# Riot Games — leagueoflegends.net
+3.33.139.32/32
+
+# Riot Games — leagueoflegends.org
+# (no public DNS addresses found)
+
+# Riot Games — leagueoflegendsscripts.com
+104.21.85.226/32
+172.67.211.222/32
+
+# Riot Games — leaguesharp.info
+104.21.77.217/32
+172.67.211.232/32
+
+# Riot Games — leaguoflegends.com
+3.33.139.32/32
+
+# Riot Games — learnwithleague.com
+# (no public DNS addresses found)
+
+# Riot Games — lol-europe.com
+# (no public DNS addresses found)
+
+# Riot Games — lolclub.org
+# (no public DNS addresses found)
+
+# Riot Games — lolespor.com
+# (no public DNS addresses found)
+
+# Riot Games — lolesports.com
+15.197.167.90/32
+3.33.186.135/32
+
+# Riot Games — lolfanart.net
+# (no public DNS addresses found)
+
+# Riot Games — lolpcs.com
+3.33.139.32/32
+
+# Riot Games — lolshop.co.kr
+121.254.178.228/32
+
+# Riot Games — lolstatic-a.akamaihd.net
+23.219.87.9/32
+23.53.127.246/32
+
+# Riot Games — lolstatic.com
+# (no public DNS addresses found)
+
+# Riot Games — lolusercontent.com
+# (no public DNS addresses found)
+
+# Riot Games — lpl.com.cn
+# (no public DNS addresses found)
+
+# Riot Games — molesports.com
+# (no public DNS addresses found)
+
+# Riot Games — playvalorant.com
+15.197.167.90/32
+3.33.186.135/32
+
+# Riot Games — pvp.net
+# (no public DNS addresses found)
+
+# Riot Games — pvp.tv
+# (no public DNS addresses found)
+
+# Riot Games — rgpub.io
+# (no public DNS addresses found)
+
+# Riot Games — riot-games.com
+3.33.139.32/32
+
+# Riot Games — riot.com
+67.199.248.12/32
+67.199.248.13/32
+
+# Riot Games — riot.net
+# (no public DNS addresses found)
+
+# Riot Games — riotcdn.net
+# (no public DNS addresses found)
+
+# Riot Games — riotforgegames.com
+15.197.167.90/32
+3.33.186.135/32
+
+# Riot Games — riotgames.co.kr
+# (no public DNS addresses found)
+
 # Riot Games — riotgames.com
-23.201.96.133/32
-23.201.96.153/32
+23.219.89.132/32
+23.219.89.142/32
+
+# Riot Games — riotgames.info
+3.33.139.32/32
+
+# Riot Games — riotgames.jp
+# (no public DNS addresses found)
+
+# Riot Games — riotgames.net
+3.33.139.32/32
+
+# Riot Games — riotgames.tv
+# (no public DNS addresses found)
+
+# Riot Games — riotgames.zendesk.com
+216.198.53.11/32
+216.198.54.11/32
+
+# Riot Games — riotpin.com
+# (no public DNS addresses found)
+
+# Riot Games — riotpoints.com
+# (no public DNS addresses found)
+
+# Riot Games — rstatic.net
+# (no public DNS addresses found)
+
+# Riot Games — ruinedking.com
+15.197.167.90/32
+3.33.186.135/32
+
+# Riot Games — supremacy.com
+# (no public DNS addresses found)
+
+# Riot Games — supremacy.net
+# (no public DNS addresses found)
+
+# Riot Games — ulol.com
+# (no public DNS addresses found)

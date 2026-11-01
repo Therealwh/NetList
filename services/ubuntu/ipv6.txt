@@ -1,6 +1,9 @@
 # DNS-derived IP snapshot for Ubuntu (ubuntu)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Ubuntu — aerialline.com
+# (no public DNS addresses found)
+
 # Ubuntu — archive.ubuntu.com
 2620:2d:4000:1::101
 2620:2d:4000:1::102
@@ -12,7 +15,179 @@
 2a06:bc80:0:1000::17
 2a06:bc80:0:1000::18
 
+# Ubuntu — askubuntu.com
+# (no public DNS addresses found)
+
+# Ubuntu — canonical.com
+2620:2d:4000:1::26
+2620:2d:4000:1::27
+2620:2d:4000:1::28
+
+# Ubuntu — debianadmin.com
+2606:4700:3034::6815:647
+2606:4700:3037::ac43:8696
+
+# Ubuntu — debuntu.org
+2606:4700:3033::ac43:8285
+2606:4700:3034::6815:359
+
+# Ubuntu — fullcirclemagazine.org
+# (no public DNS addresses found)
+
+# Ubuntu — iloveubuntu.net
+2a0b:1640:1:1:1010:1:1:1
+2a0b:1640:1:1:1:1:d38:c44d
+
+# Ubuntu — omgubuntu.co.uk
+# (no public DNS addresses found)
+
+# Ubuntu — snapcraft.io
+2620:2d:4000:1::26
+2620:2d:4000:1::27
+2620:2d:4000:1::28
+
+# Ubuntu — ualinux.com
+2606:4700:3032::6815:367
+2606:4700:3036::ac43:9983
+
+# Ubuntu — ubucentrum.net
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-br.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-cl.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-fi.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-fr.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-gr.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-hr.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-ie.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-it.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-manual.org
+2607:f298:5:118a::13a:3c98
+
+# Ubuntu — ubuntu-news.ru
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-nl.org
+2a02:968:1:6::2
+
+# Ubuntu — ubuntu-pe.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-pt.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-rs.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-se.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-touch.io
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-tr.net
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-tw.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-vn.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu-za.org
+# (no public DNS addresses found)
+
 # Ubuntu — ubuntu.com
 2620:2d:4000:1::26
 2620:2d:4000:1::27
 2620:2d:4000:1::28
+
+# Ubuntu — ubuntu.cz
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.hu
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.ir
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.lt
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.lv
+2001:67c:2198:1336::6
+
+# Ubuntu — ubuntu.net
+2620:2d:4000:1::26
+2620:2d:4000:1::27
+2620:2d:4000:1::28
+
+# Ubuntu — ubuntu.or.kr
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.org.cn
+2606:4700:3032::6815:3b63
+2606:4700:3035::ac43:aec2
+
+# Ubuntu — ubuntu.pl
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.ro
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.ru
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.se
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.si
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.sk
+2a02:2b88:2:1::44f2:1
+
+# Ubuntu — ubuntuclub.com
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntuforums.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntugeek.com
+2606:4700:3031::6815:34cc
+2606:4700:3031::ac43:cba5
+
+# Ubuntu — ubuntuguide.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntulinux.jp
+2606:4700:3030::ac43:ac90
+2606:4700:3031::6815:5009
+
+# Ubuntu — ubuntulinux.org
+2620:2d:4000:1::26
+2620:2d:4000:1::27
+2620:2d:4000:1::28
+
+# Ubuntu — ubuntustats.com
+2606:4700:3033::ac43:c6f0
+2606:4700:3035::6815:3cb2
+
+# Ubuntu — ubuntuusers.de
+2a00:6140:100:398::1

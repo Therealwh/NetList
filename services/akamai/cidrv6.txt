@@ -2,3 +2,18 @@
 # Akamai — akamai.com
 2600:1404:ec00:27::17df:f013/128
 2600:1404:ec00:27::17df:f015/128
+
+# Akamai — akamai.net
+# (no public DNS addresses found)
+
+# Akamai — akamaiedge.net
+# (no public DNS addresses found)
+
+# Akamai — akamaihd.net
+# (no public DNS addresses found)
+
+# Akamai — akamaistream.net
+# (no public DNS addresses found)
+
+# Akamai — akamaized.net
+# (no public DNS addresses found)

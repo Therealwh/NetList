@@ -1,6 +1,16 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Proton Mail — pm.me
+# (no public DNS addresses found)
+
 # Proton Mail — proton.me
+# (no public DNS addresses found)
+
+# Proton Mail — protonmail.ch
 # (no public DNS addresses found)
 
 # Proton Mail — protonmail.com
 # (no public DNS addresses found)
+
+# Proton Mail — protonstatus.com
+2606:4700:3035::6815:14bf/128
+2606:4700:3037::ac43:c216/128

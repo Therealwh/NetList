@@ -1,3 +1,37 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# LinkedIn — bizographics.com
+# (no public DNS addresses found)
+
+# LinkedIn — e122475.dscg.akamaiedge.net
+2600:1405:8400:7::17d1:54a5/128
+2600:1405:8400:7::17d1:54b7/128
+
+# LinkedIn — l-0005.dc-msedge.net
+2620:1ec:22::14/128
+
+# LinkedIn — l-0005.l-msedge.net
+2620:1ec:21::14/128
+
+# LinkedIn — licdn.cn
+# (no public DNS addresses found)
+
+# LinkedIn — licdn.cn.cdn20.com
+# (no public DNS addresses found)
+
+# LinkedIn — licdn.com
+# (no public DNS addresses found)
+
+# LinkedIn — linkedin.at
+2620:109:c002::6cae:a18/128
+
+# LinkedIn — linkedin.cn
+# (no public DNS addresses found)
+
 # LinkedIn — linkedin.com
+2600:1901:0:d5ad::/128
+
+# LinkedIn — linkedin.sc.omtrdc.net
+# (no public DNS addresses found)
+
+# LinkedIn — lnkd.in
 2600:1901:0:d5ad::/128

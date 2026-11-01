@@ -1,3 +1,696 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Disney+ — 20thcenturystudios.com.au
+34.110.155.89/32
+
+# Disney+ — 20thcenturystudios.com.br
+204.236.229.206/32
+
+# Disney+ — 20thcenturystudios.jp
+34.110.155.89/32
+
+# Disney+ — abc-studios.com
+# (no public DNS addresses found)
+
+# Disney+ — abc.com
+52.84.199.106/32
+52.84.199.27/32
+52.84.199.56/32
+52.84.199.73/32
+
+# Disney+ — abcnews.com
+3.168.24.12/32
+3.168.24.126/32
+3.168.24.63/32
+3.168.24.68/32
+
+# Disney+ — abcnews.edgesuite.net
+# (no public DNS addresses found)
+
+# Disney+ — adobedtm.com
+# (no public DNS addresses found)
+
+# Disney+ — adventuresbydisney.com
+23.219.87.136/32
+23.219.87.141/32
+
+# Disney+ — babble.com
+23.220.162.139/32
+23.220.162.140/32
+
+# Disney+ — babyzone.com
+96.45.49.150/32
+
+# Disney+ — bam.nr-data.net
+162.247.243.29/32
+
+# Disney+ — bamgrid.com
+# (no public DNS addresses found)
+
+# Disney+ — beautyandthebeastmusical.co.uk
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — braze.com
+104.17.227.60/32
+104.17.228.60/32
+
+# Disney+ — cdn.optimizely.com
+104.18.65.57/32
+104.18.66.57/32
+
+# Disney+ — conviva.com
+198.202.211.1/32
+
+# Disney+ — d9.flashtalking.com
+50.18.36.179/32
+52.9.197.248/32
+
+# Disney+ — dilcdn.com
+# (no public DNS addresses found)
+
+# Disney+ — disney-asia.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Disney+ — disney-discount.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Disney+ — disney-plus.net
+# (no public DNS addresses found)
+
+# Disney+ — disney-portal.my.onetrust.com
+104.18.32.137/32
+172.64.155.119/32
+
+# Disney+ — disney-studio.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Disney+ — disney-studio.net
+165.160.13.20/32
+165.160.15.20/32
+
+# Disney+ — disney.asia
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.be
+34.110.155.89/32
+
+# Disney+ — disney.bg
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.ca
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.ch
+34.110.155.89/32
+
+# Disney+ — disney.co.il
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.co.jp
+52.197.20.122/32
+
+# Disney+ — disney.co.kr
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.co.th
+34.110.155.89/32
+
+# Disney+ — disney.co.uk
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.co.za
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.com
+130.211.198.204/32
+
+# Disney+ — disney.com.au
+34.110.155.89/32
+
+# Disney+ — disney.com.br
+34.110.155.89/32
+
+# Disney+ — disney.com.hk
+34.110.155.89/32
+
+# Disney+ — disney.com.tw
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.cz
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.de
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.demdex.net
+32.184.149.193/32
+32.190.164.247/32
+34.211.97.182/32
+44.224.148.208/32
+52.25.109.232/32
+52.35.228.123/32
+52.35.8.19/32
+54.185.207.32/32
+
+# Disney+ — disney.dk
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.es
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.fi
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.fr
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.gr
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.hu
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.id
+34.110.155.89/32
+
+# Disney+ — disney.in
+34.110.155.89/32
+
+# Disney+ — disney.io
+108.59.160.10/32
+108.59.160.11/32
+
+# Disney+ — disney.it
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.my
+34.110.155.89/32
+
+# Disney+ — disney.my.sentry.io
+# (no public DNS addresses found)
+
+# Disney+ — disney.nl
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.no
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.ph
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.pl
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.pt
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.ro
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.ru
+34.110.155.89/32
+
+# Disney+ — disney.se
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disney.sg
+34.110.155.89/32
+
+# Disney+ — disneyadsales.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyarena.com
+108.59.160.10/32
+108.59.160.11/32
+
+# Disney+ — disneyaulani.com
+34.110.155.89/32
+
+# Disney+ — disneybaby.com
+23.220.162.139/32
+23.220.162.140/32
+
+# Disney+ — disneycareers.com
+63.131.135.125/32
+
+# Disney+ — disneychannelonstage.com
+13.225.61.109/32
+13.225.61.2/32
+13.225.61.6/32
+13.225.61.9/32
+
+# Disney+ — disneychannelroadtrip.com
+34.110.155.89/32
+
+# Disney+ — disneycruisebrasil.com
+34.110.155.89/32
+
+# Disney+ — disneyenconcert.com
+51.91.236.193/32
+
+# Disney+ — disneyiejobs.com
+34.110.155.89/32
+
+# Disney+ — disneyinflight.com
+150.171.109.227/32
+
+# Disney+ — disneyinternational.com
+13.225.222.32/32
+13.225.222.5/32
+13.225.222.53/32
+13.225.222.60/32
+
+# Disney+ — disneyinternationalhd.com
+34.110.155.89/32
+
+# Disney+ — disneyjunior.com
+34.110.155.89/32
+
+# Disney+ — disneyjuniortreataday.com
+13.225.222.11/32
+13.225.222.49/32
+13.225.222.73/32
+13.225.222.91/32
+
+# Disney+ — disneylandparis.com
+13.225.61.106/32
+13.225.61.127/32
+13.225.61.57/32
+13.225.61.65/32
+
+# Disney+ — disneylatino.com
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disneymagicmoments.co.il
+34.110.155.89/32
+
+# Disney+ — disneymagicmoments.co.uk
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disneymagicmoments.co.za
+34.110.155.89/32
+
+# Disney+ — disneymagicmoments.de
+34.110.155.89/32
+
+# Disney+ — disneymagicmoments.es
+34.110.155.89/32
+
+# Disney+ — disneymagicmoments.fr
+34.110.155.89/32
+
+# Disney+ — disneymagicmoments.gen.tr
+34.110.155.89/32
+
+# Disney+ — disneymagicmoments.gr
+34.110.155.89/32
+
+# Disney+ — disneymagicmoments.it
+34.110.155.89/32
+
+# Disney+ — disneymagicmoments.pl
+34.110.155.89/32
+
+# Disney+ — disneymagicmomentsme.com
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disneyme.com
+34.110.155.89/32
+
+# Disney+ — disneymeetingsandevents.com
+34.110.155.89/32
+
+# Disney+ — disneymovieinsiders.com
+34.110.155.89/32
+
+# Disney+ — disneymusicpromotion.com
+185.119.173.89/32
+
+# Disney+ — disneynewseries.com
+40.83.150.233/32
+
+# Disney+ — disneynow.com
+13.32.115.108/32
+13.32.115.21/32
+13.32.115.40/32
+13.32.115.52/32
+
+# Disney+ — disneypeoplesurveys.com
+34.110.155.89/32
+
+# Disney+ — disneyplus.bn5x.net
+13.57.155.245/32
+54.151.23.193/32
+
 # Disney+ — disneyplus.com
 34.110.155.89/32
+
+# Disney+ — disneyplus.com.ssl.sc.omtrdc.net
+63.140.36.107/32
+63.140.36.154/32
+63.140.36.165/32
+63.140.36.26/32
+63.140.36.86/32
+63.140.37.103/32
+63.140.37.149/32
+63.140.37.201/32
+63.140.37.237/32
+63.140.37.53/32
+
+# Disney+ — disneyprivacycenter.com
+18.245.124.14/32
+18.245.124.43/32
+18.245.124.53/32
+18.245.124.82/32
+
+# Disney+ — disneyredirects.com
+34.110.155.89/32
+
+# Disney+ — disneysrivieraresort.com
+34.110.155.89/32
+
+# Disney+ — disneystore.com
+23.219.87.132/32
+23.219.87.139/32
+
+# Disney+ — disneystreaming.com
+34.110.155.89/32
+
+# Disney+ — disneysubscription.com
+139.104.189.56/32
+
+# Disney+ — disneytermsofuse.com
+18.238.152.101/32
+18.238.152.120/32
+18.238.152.16/32
+18.238.152.6/32
+
+# Disney+ — disneytickets.co.uk
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disneyturkiye.com.tr
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — disneytvajobs.com
+34.110.155.89/32
+
+# Disney+ — disneyworld-go.com
+34.110.155.89/32
+
+# Disney+ — dlp-media.com
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — dmed.technology
+52.222.205.19/32
+52.222.205.7/32
+52.222.205.77/32
+52.222.205.99/32
+
+# Disney+ — dssedge.com
+# (no public DNS addresses found)
+
+# Disney+ — dssott.com
+139.104.206.43/32
+
+# Disney+ — dtci.co
+32.184.150.6/32
+32.187.91.44/32
+32.191.116.194/32
+34.218.138.18/32
+44.231.71.85/32
+44.236.165.96/32
+44.254.191.50/32
+52.27.102.112/32
+
+# Disney+ — dtci.technology
+108.156.224.20/32
+108.156.224.24/32
+108.156.224.71/32
+108.156.224.72/32
+
+# Disney+ — edgedatg.com
+68.71.212.232/32
+
+# Disney+ — espn.co.uk
+108.156.245.109/32
+108.156.245.40/32
+108.156.245.48/32
+108.156.245.60/32
+
+# Disney+ — espn.com
+108.156.245.109/32
+108.156.245.40/32
+108.156.245.48/32
+108.156.245.60/32
+
+# Disney+ — espn.hb.omtrdc.net
+63.140.36.144/32
+63.140.36.154/32
+63.140.36.212/32
+63.140.36.253/32
+63.140.37.172/32
+63.140.37.191/32
+63.140.37.201/32
+63.140.37.254/32
+63.140.37.45/32
+63.140.37.53/32
+
+# Disney+ — espn.net
+199.181.132.250/32
+
+# Disney+ — espncdn.com
+16.147.124.173/32
+32.184.150.6/32
+32.191.167.38/32
+44.231.65.187/32
+44.236.165.96/32
+44.254.191.50/32
+52.27.102.112/32
+
+# Disney+ — espndotcom.tt.omtrdc.net
+63.140.36.131/32
+63.140.36.210/32
+63.140.36.212/32
+63.140.36.26/32
+63.140.36.67/32
+63.140.37.142/32
+63.140.37.151/32
+63.140.37.191/32
+63.140.37.238/32
+63.140.37.246/32
+
+# Disney+ — espnqa.com
+52.84.199.101/32
+52.84.199.110/32
+52.84.199.61/32
+52.84.199.98/32
+
+# Disney+ — execute-api.us-east-1.amazonaws.com
+# (no public DNS addresses found)
+
+# Disney+ — go-disneyworldgo.com
+34.110.155.89/32
+
+# Disney+ — go.com
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — hotstar-cdn.net
+# (no public DNS addresses found)
+
+# Disney+ — hotstar-labs.com
+# (no public DNS addresses found)
+
+# Disney+ — hotstar.com
+13.225.61.10/32
+13.225.61.5/32
+13.225.61.53/32
+13.225.61.97/32
+
+# Disney+ — hotstarext.com
+# (no public DNS addresses found)
+
+# Disney+ — hsprepack.akamaized.net
+23.220.161.15/32
+23.220.161.7/32
+
+# Disney+ — js-agent.newrelic.com
+162.247.243.39/32
+
+# Disney+ — marvel.com
+108.138.159.101/32
+108.138.159.11/32
+108.138.159.28/32
+108.138.159.80/32
+
+# Disney+ — marvel10thanniversary.com
+# (no public DNS addresses found)
+
+# Disney+ — marveldimensionofheroes.com
+34.110.155.89/32
+
+# Disney+ — marvelparty.net
+34.110.155.89/32
+
+# Disney+ — marvelpinball.com
+34.110.155.89/32
+
+# Disney+ — marvelsdoubleagent.com
+34.110.155.89/32
+
+# Disney+ — marvelspotlightplays.com
+13.32.115.117/32
+13.32.115.123/32
+13.32.115.18/32
+13.32.115.44/32
+
+# Disney+ — marvelsuperheroseptember.com
+34.110.155.89/32
+
+# Disney+ — marvelsuperwar.com
+# (no public DNS addresses found)
+
+# Disney+ — mickey.tv
+165.160.13.20/32
+165.160.15.20/32
+
+# Disney+ — moviesanywhere.com
+13.224.187.110/32
+13.224.187.122/32
+13.224.187.58/32
+13.224.187.62/32
+
+# Disney+ — natgeomaps.com
+104.26.4.124/32
+104.26.5.124/32
+172.67.73.128/32
+
+# Disney+ — nationalgeographic.com
+65.9.148.120/32
+65.9.148.18/32
+65.9.148.47/32
+65.9.148.55/32
+
+# Disney+ — nationalgeographicpartners.com
+34.110.155.89/32
+
+# Disney+ — ngeo.com
+75.2.26.191/32
+99.83.251.4/32
+
+# Disney+ — nomadlandmovie.ch
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — playmation.com
+34.110.155.89/32
+
+# Disney+ — shopdisney.com
+23.220.163.19/32
+23.220.163.23/32
+
+# Disney+ — shops-disney.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Disney+ — sorcerersarena.com
+34.110.155.89/32
+
+# Disney+ — spaindisney.com
+165.160.13.20/32
+165.160.15.20/32
+
+# Disney+ — star-brasil.com
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — star-latam.com
+13.248.150.189/32
+76.223.18.1/32
+
+# Disney+ — starott.com
+# (no public DNS addresses found)
+
+# Disney+ — starplus.com
+34.110.155.89/32
+
+# Disney+ — starwars.com
+23.220.163.20/32
+23.220.163.22/32
+
+# Disney+ — starwarsgalacticstarcruiser.com
+34.110.155.89/32
+
+# Disney+ — starwarskids.com
+23.220.161.14/32
+23.220.161.21/32
+23.220.161.5/32
+23.220.161.7/32
+23.220.161.9/32
+
+# Disney+ — streamingdisney.net
+165.160.13.20/32
+165.160.15.20/32
+
+# Disney+ — themarvelexperiencetour.com
+34.110.155.89/32
+
+# Disney+ — thestationbymaker.com
+34.110.155.89/32
+
+# Disney+ — thewaltdisneycompany.com
+18.154.219.110/32
+18.154.219.2/32
+18.154.219.72/32
+18.154.219.91/32
+
+# Disney+ — thisispolaris.com
+34.110.155.89/32
+
+# Disney+ — watchdisneyfe.com
+44.238.248.76/32
+44.249.222.205/32
+50.112.241.30/32
+
+# Disney+ — watchespn.com
+184.33.221.90/32
+32.188.182.31/32
+32.189.238.234/32
+32.191.116.194/32
+32.191.23.223/32
+35.160.154.90/32
+54.191.196.170/32
+54.214.254.232/32

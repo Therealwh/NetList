@@ -2,3 +2,14 @@
 # DigitalOcean — digitalocean.com
 104.19.173.68/32
 104.19.174.68/32
+
+# DigitalOcean — digitaloceanspaces.com
+104.18.42.227/32
+172.64.145.29/32
+
+# DigitalOcean — do.co
+67.199.248.12/32
+67.199.248.13/32
+
+# DigitalOcean — nginxconfig.io
+104.248.26.170/32

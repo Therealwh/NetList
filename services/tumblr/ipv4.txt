@@ -1,5 +1,16 @@
 # DNS-derived IP snapshot for Tumblr (tumblr)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Tumblr — tmblr.co
+74.114.154.15
+
+# Tumblr — tumblr.co
+107.23.223.185
+107.23.241.100
+107.23.241.98
+107.23.241.99
+54.236.67.202
+54.236.70.234
+
 # Tumblr — tumblr.com
 192.0.77.40

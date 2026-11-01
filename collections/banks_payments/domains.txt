@@ -2,14 +2,21 @@
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 alfabank.ru
 cbr.ru
+error-tracking.megamarket.tech
 gazprombank.ru
+metrics.21-school.ru
 mironline.ru
 nspk.ru
 psbank.ru
 sber.ru
 sberbank.ru
+sberdevices.ru
+sbermarket.ru
+sberpro.vedomosti.ru
 sbp.nspk.ru
+sentry.sberauto.com
 tbank.ru
 tinkoff.ru
+tracing-http.megamarket.tech
 vtb.ru
 yoomoney.ru

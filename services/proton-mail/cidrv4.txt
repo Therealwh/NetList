@@ -1,6 +1,16 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Proton Mail — pm.me
+185.70.42.16/32
+
 # Proton Mail — proton.me
 185.70.42.45/32
 
+# Proton Mail — protonmail.ch
+185.70.42.21/32
+
 # Proton Mail — protonmail.com
 185.70.42.12/32
+
+# Proton Mail — protonstatus.com
+104.21.20.191/32
+172.67.194.22/32

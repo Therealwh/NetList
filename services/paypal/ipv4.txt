@@ -1,7 +1,817 @@
 # DNS-derived IP snapshot for PayPal (paypal)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# PayPal — account-paypal.info
+99.83.176.46
+
+# PayPal — account-paypal.net
+99.83.176.46
+
+# PayPal — account-paypal.org
+99.83.176.46
+
+# PayPal — accountpaypal.com
+99.83.176.46
+
+# PayPal — accountpaypal.net
+99.83.176.46
+
+# PayPal — accountpaypal.org
+99.83.176.46
+
+# PayPal — anfutong.cn
+99.83.176.46
+
+# PayPal — anfutong.com
+99.83.176.46
+
+# PayPal — anfutong.com.cn
+99.83.176.46
+
+# PayPal — beibao.cn
+99.83.176.46
+
+# PayPal — beibao.com
+99.83.176.46
+
+# PayPal — beibao.com.cn
+99.83.176.46
+
+# PayPal — bill-safe.com
+3.33.139.32
+
+# PayPal — billmelater.com
+208.76.140.143
+
+# PayPal — billmelater.info
+3.33.139.32
+
+# PayPal — billmelater.net
+3.33.139.32
+
+# PayPal — bml.info
+99.83.176.46
+
+# PayPal — braintreegateway.com
+13.248.139.42
+76.223.13.31
+
+# PayPal — braintreegateway.tv
+99.83.176.46
+
+# PayPal — braintreepayments.com
+151.101.3.1
+151.101.67.1
+
+# PayPal — braintreepayments.info
+3.33.139.32
+
+# PayPal — braintreepayments.org
+3.33.139.32
+
+# PayPal — braintreepayments.tv
+3.33.139.32
+
+# PayPal — braintreepaymentsolutions.com
+151.101.3.1
+151.101.67.1
+
+# PayPal — braintreeps.com
+# (no public DNS addresses found)
+
+# PayPal — briantreepayments.net
+99.83.176.46
+
+# PayPal — briantreepayments.tv
+99.83.176.46
+
+# PayPal — buyfast-paysmart.net
+99.83.176.46
+
+# PayPal — card.io
+3.33.139.32
+
+# PayPal — cash2.com
+3.33.139.32
+
+# PayPal — cashify.com
+3.33.139.32
+
+# PayPal — cashify.net
+3.33.139.32
+
+# PayPal — devtools-paypal.com
+99.83.176.46
+
+# PayPal — experiencebillmelater.com
+99.83.176.46
+
+# PayPal — filipino-music.net
+3.33.139.32
+
+# PayPal — fundpaypal.com
+3.33.139.32
+
+# PayPal — getbraintree.com
+# (no public DNS addresses found)
+
+# PayPal — gmoney.org
+3.33.139.32
+
+# PayPal — i-o-u.info
+99.83.176.46
+
+# PayPal — krakenjs.com
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+# PayPal — loanbuilder.com
+16.15.34.12
+16.15.40.81
+16.15.43.83
+3.5.81.225
+3.5.84.253
+52.218.179.51
+52.92.137.59
+52.92.228.131
+
+# PayPal — login-paypal.com
+99.83.176.46
+
+# PayPal — login-paypal.info
+99.83.176.46
+
+# PayPal — mywaytopay.info
+99.83.176.46
+
+# PayPal — mywaytopay.net
+99.83.176.46
+
+# PayPal — pa9pal.com
+99.83.176.46
+
+# PayPal — paaypal.com
+3.33.139.32
+
+# PayPal — paily.net
+99.83.176.46
+
+# PayPal — paily.org
+99.83.176.46
+
+# PayPal — paipal.com
+3.33.139.32
+
+# PayPal — pavpal.com
+99.83.176.46
+
+# PayPal — paydiant.com
+3.33.139.32
+
+# PayPal — paylike.com
+99.83.176.46
+
+# PayPal — paypa1.com
+3.33.139.32
+
+# PayPal — paypa1.org
+99.83.176.46
+
+# PayPal — paypaal.com
+99.83.176.46
+
+# PayPal — paypal-activate.com
+99.83.176.46
+
+# PayPal — paypal-activate.info
+99.83.176.46
+
+# PayPal — paypal-activate.org
+99.83.176.46
+
+# PayPal — paypal-apac.com
+99.83.176.46
+
+# PayPal — paypal-apps.com
+99.83.176.46
+
+# PayPal — paypal-biz.com
+3.33.139.32
+
+# PayPal — paypal-brandcentral.com
+3.33.139.32
+
+# PayPal — paypal-business.com
+3.33.139.32
+
+# PayPal — paypal-business.net
+99.83.176.46
+
+# PayPal — paypal-business.org
+99.83.176.46
+
+# PayPal — paypal-cardcash.com
+99.83.176.46
+
+# PayPal — paypal-cash.com
+99.83.176.46
+
+# PayPal — paypal-center.com
+99.83.176.46
+
+# PayPal — paypal-center.info
+99.83.176.46
+
+# PayPal — paypal-center.net
+99.83.176.46
+
+# PayPal — paypal-center.org
+99.83.176.46
+
+# PayPal — paypal-communication.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-communications.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-communications.net
+99.83.176.46
+
+# PayPal — paypal-community.com
+99.83.176.46
+
+# PayPal — paypal-community.net
+99.83.176.46
+
+# PayPal — paypal-comunidad.com
+99.83.176.46
+
+# PayPal — paypal-corp.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-database.com
+99.83.176.46
+
+# PayPal — paypal-database.us
+99.83.176.46
+
+# PayPal — paypal-donations.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-dynamic.com
+99.83.176.46
+
+# PayPal — paypal-engineering.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-europe.com
+173.0.84.193
+173.0.88.193
+
+# PayPal — paypal-excelinvoicing.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-exchanges.com
+3.33.139.32
+
+# PayPal — paypal-forward.com
+99.83.176.46
+
+# PayPal — paypal-galactic.com
+3.33.139.32
+
+# PayPal — paypal-gift.com
+3.33.139.32
+
+# PayPal — paypal-gifts.com
+151.101.3.1
+151.101.67.1
+
+# PayPal — paypal-gpplus.com
+99.83.176.46
+
+# PayPal — paypal-here.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-hrsystem.com
+3.33.139.32
+
+# PayPal — paypal-innovationlab.com
+99.83.176.46
+
+# PayPal — paypal-integration.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-japan.com
+3.33.139.32
+
+# PayPal — paypal-knowledge.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-labs.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-latam.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-learning.com
+3.33.139.32
+
+# PayPal — paypal-login.com
+99.83.176.46
+
+# PayPal — paypal-login.info
+99.83.176.46
+
+# PayPal — paypal-login.org
+99.83.176.46
+
+# PayPal — paypal-login.us
+99.83.176.46
+
+# PayPal — paypal-luxury.com
+3.33.139.32
+
+# PayPal — paypal-mainstreet.net
+99.83.176.46
+
+# PayPal — paypal-marketing.com
+3.33.139.32
+
+# PayPal — paypal-media.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-merchantloyalty.com
+99.83.176.46
+
+# PayPal — paypal-mktg.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-mobilemoney.com
+54.157.108.158
+98.83.184.133
+
+# PayPal — paypal-network.org
+99.83.176.46
+
+# PayPal — paypal-notice.com
+99.83.176.46
+
+# PayPal — paypal-notify.com
+162.212.1.84
+
+# PayPal — paypal-online.info
+3.33.139.32
+
+# PayPal — paypal-online.net
+3.33.139.32
+
+# PayPal — paypal-online.org
+3.33.139.32
+
+# PayPal — paypal-optimizer.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-pages.com
+3.33.139.32
+
+# PayPal — paypal-photocard.com
+99.83.176.46
+
+# PayPal — paypal-plaza.com
+99.83.176.46
+
+# PayPal — paypal-portal.com
+3.33.139.32
+
+# PayPal — paypal-prepagata.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-prepagata.net
+99.83.176.46
+
+# PayPal — paypal-prepaid.com
+54.157.108.158
+98.83.184.133
+
+# PayPal — paypal-profile.com
+99.83.176.46
+
+# PayPal — paypal-proserv.com
+168.128.116.106
+
+# PayPal — paypal-qrshopping.org
+3.33.139.32
+
+# PayPal — paypal-recargacelular.com
+3.33.139.32
+
+# PayPal — paypal-redeem.com
+3.33.139.32
+
+# PayPal — paypal-referral.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-retail.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-scoop.com
+3.33.139.32
+
+# PayPal — paypal-search.com
+3.33.139.32
+
+# PayPal — paypal-secure.net
+3.33.139.32
+
+# PayPal — paypal-secure.org
+3.33.139.32
+
+# PayPal — paypal-security.net
+99.83.176.46
+
+# PayPal — paypal-security.org
+99.83.176.46
+
+# PayPal — paypal-service.org
+3.33.139.32
+
+# PayPal — paypal-signin.com
+99.83.176.46
+
+# PayPal — paypal-signin.us
+99.83.176.46
+
+# PayPal — paypal-special.com
+99.83.176.46
+
+# PayPal — paypal-specialoffers.com
+99.83.176.46
+
+# PayPal — paypal-sptam.com
+# (no public DNS addresses found)
+
+# PayPal — paypal-status.com
+20.69.68.249
+
+# PayPal — paypal-support.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal-survey.com
+34.215.150.47
+
+# PayPal — paypal-survey.org
+99.83.176.46
+
+# PayPal — paypal-team.com
+3.33.139.32
+
+# PayPal — paypal-viewpoints.net
+99.83.176.46
+
+# PayPal — paypal.ca
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
 # PayPal — paypal.com
 151.101.195.1
 151.101.3.1
 162.159.141.96
+
+# PayPal — paypal.com.cn
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal.com.hk
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal.com.sg
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal.hk
+3.33.139.32
+
+# PayPal — paypal.info
+# (no public DNS addresses found)
+
+# PayPal — paypal.jp
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypal.me
+151.101.129.21
+151.101.65.21
+162.159.141.96
+
+# PayPal — paypal.net.cn
+3.33.139.32
+
+# PayPal — paypal.org.cn
+3.33.139.32
+
+# PayPal — paypal.so
+3.33.139.32
+
+# PayPal — paypal.us
+3.33.139.32
+
+# PayPal — paypalbeacon.com
+99.83.176.46
+
+# PayPal — paypalbenefits.com
+151.101.199.1
+151.101.43.1
+162.159.141.96
+
+# PayPal — paypalbrasil.com
+3.33.139.32
+
+# PayPal — paypalcommunity.cn
+3.33.139.32
+
+# PayPal — paypalcommunity.com
+99.83.176.46
+
+# PayPal — paypalcommunity.net
+99.83.176.46
+
+# PayPal — paypalcommunity.org
+99.83.176.46
+
+# PayPal — paypalcorp.com
+# (no public DNS addresses found)
+
+# PayPal — paypalcredit.com
+208.76.140.173
+
+# PayPal — paypalcreditcard.com
+99.83.176.46
+
+# PayPal — paypalgivingfund.org
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypalhere.cn
+3.33.139.32
+
+# PayPal — paypalhere.com
+3.33.139.32
+
+# PayPal — paypalhere.com.cn
+3.33.139.32
+
+# PayPal — paypalhere.info
+3.33.139.32
+
+# PayPal — paypalhere.net
+3.33.139.32
+
+# PayPal — paypalhere.org
+3.33.139.32
+
+# PayPal — paypalhere.tv
+3.33.139.32
+
+# PayPal — paypali.net
+99.83.176.46
+
+# PayPal — paypalinc.com
+# (no public DNS addresses found)
+
+# PayPal — paypalindia.com
+3.33.139.32
+
+# PayPal — paypalinsuranceservices.org
+99.83.176.46
+
+# PayPal — paypall.com
+3.33.139.32
+
+# PayPal — paypallabs.com
+173.0.82.144
+
+# PayPal — paypalme.com
+3.33.139.32
+
+# PayPal — paypalnet.net
+99.83.176.46
+
+# PayPal — paypalnet.org
+99.83.176.46
+
+# PayPal — paypalnetwork.info
+99.83.176.46
+
+# PayPal — paypalnetwork.net
+99.83.176.46
+
+# PayPal — paypalnetwork.org
+99.83.176.46
+
+# PayPal — paypalobjects.com
+151.101.3.1
+151.101.67.1
+162.159.141.96
+
+# PayPal — paypalonline.net
+99.83.176.46
+
+# PayPal — paypalonline.org
+99.83.176.46
+
+# PayPal — paypalprepagata.com
+99.83.176.46
+
+# PayPal — paypalprepagata.net
+99.83.176.46
+
+# PayPal — paypalservice.com
+99.83.176.46
+
+# PayPal — paypalshopping.com
+3.33.139.32
+
+# PayPal — paypalshopping.net
+3.33.139.32
+
+# PayPal — paypalsurvey.com
+99.83.176.46
+
+# PayPal — paypalx.com
+99.83.176.46
+
+# PayPal — paypaly.com
+3.33.139.32
+
+# PayPal — payppal.com
+3.33.139.32
+
+# PayPal — payypal.com
+3.33.139.32
+
+# PayPal — pdncommunity.com
+99.83.176.46
+
+# PayPal — pp-soc.com
+99.83.176.46
+
+# PayPal — ppaypal.com
+3.33.139.32
+
+# PayPal — pppds.com
+50.57.224.243
+
+# PayPal — pypl.com
+3.33.139.32
+
+# PayPal — pypl.info
+3.33.139.32
+
+# PayPal — pypl.net
+3.33.139.32
+
+# PayPal — pypl.tv
+3.33.139.32
+
+# PayPal — s-xoom.com
+205.189.102.160
+
+# PayPal — secure-paypal.info
+99.83.176.46
+
+# PayPal — securepaypal.info
+99.83.176.46
+
+# PayPal — simility.com
+# (no public DNS addresses found)
+
+# PayPal — sslpaypal.org
+99.83.176.46
+
+# PayPal — swiftbank.info
+3.33.139.32
+
+# PayPal — swiftbank.us
+3.33.139.32
+
+# PayPal — swiftcapital.com
+16.15.37.151
+16.15.39.191
+3.5.84.3
+3.5.84.53
+3.5.87.88
+52.218.243.90
+52.92.133.91
+52.92.209.107
+
+# PayPal — swiftfinancial.com
+18.161.134.12
+18.161.134.123
+18.161.134.126
+18.161.134.13
+
+# PayPal — swiftfinancial.info
+3.33.139.32
+
+# PayPal — swiftfinancial.net
+3.33.139.32
+
+# PayPal — thepaypalshop.com
+99.83.176.46
+
+# PayPal — theshoppingexpresslane.net
+99.83.176.46
+
+# PayPal — venmo-touch.com
+3.33.139.32
+
+# PayPal — venmo.com
+52.84.150.34
+52.84.150.38
+52.84.150.50
+52.84.150.58
+
+# PayPal — venmo.info
+# (no public DNS addresses found)
+
+# PayPal — venmo.net
+3.33.139.32
+
+# PayPal — venmo.org
+3.33.139.32
+
+# PayPal — venmo.s3.amazonaws.com
+16.15.183.33
+16.15.252.123
+16.15.252.97
+16.15.253.56
+16.15.254.165
+52.216.213.210
+52.216.221.138
+52.217.225.210
+
+# PayPal — webmoneyinfo.com
+99.83.176.46
+
+# PayPal — wiremoneytoirelandwithxoomeasierandcheaper.com
+3.33.139.32
+
+# PayPal — www-paypal.info
+3.33.139.32
+
+# PayPal — www-paypal.us
+3.33.139.32
+
+# PayPal — wwwxoom.com
+3.33.139.32
+
+# PayPal — xn--bnq297cix3a.cn
+3.33.139.32
+
+# PayPal — xoom-experience.com
+99.83.176.46
+
+# PayPal — xoom.com
+151.101.195.1
+151.101.3.1
+162.159.141.96
+
+# PayPal — xoom.io
+3.33.139.32
+
+# PayPal — xoom.net.cn
+3.33.139.32
+
+# PayPal — xoom.us
+3.33.139.32
+
+# PayPal — xoomcom.com
+3.33.139.32

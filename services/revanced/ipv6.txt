@@ -1,0 +1,17 @@
+# DNS-derived IP snapshot for ReVanced (revanced)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# ReVanced — api.revanced.app
+2606:4700:20::681a:802
+2606:4700:20::681a:902
+2606:4700:20::ac43:4746
+
+# ReVanced — revanced.app
+2606:4700:20::681a:802
+2606:4700:20::681a:902
+2606:4700:20::ac43:4746
+
+# ReVanced — www.revanced.app
+2606:4700:20::681a:802
+2606:4700:20::681a:902
+2606:4700:20::ac43:4746

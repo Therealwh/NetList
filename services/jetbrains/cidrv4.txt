@@ -1,6 +1,53 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# JetBrains — datalore.io
+34.249.234.158/32
+
+# JetBrains — grazie.ai
+34.78.67.165/32
+
+# JetBrains — intellij.com
+34.78.67.165/32
+
+# JetBrains — intellij.net
+34.78.67.165/32
+
+# JetBrains — intellij.org
+34.78.67.165/32
+
+# JetBrains — jetbrains.ai
+34.78.67.165/32
+
 # JetBrains — jetbrains.com
-3.161.225.116/32
-3.161.225.119/32
-3.161.225.128/32
-3.161.225.63/32
+18.161.156.30/32
+18.161.156.37/32
+18.161.156.42/32
+18.161.156.89/32
+
+# JetBrains — jetbrains.io
+34.78.67.165/32
+
+# JetBrains — jetbrains.net
+34.78.67.165/32
+
+# JetBrains — jetbrains.org
+13.224.187.109/32
+13.224.187.29/32
+13.224.187.9/32
+13.224.187.94/32
+
+# JetBrains — jetbrains.space
+34.255.246.234/32
+46.137.190.82/32
+
+# JetBrains — jetbrains.team
+54.217.240.89/32
+54.247.121.209/32
+
+# JetBrains — kotlinconf.com
+216.150.1.1/32
+
+# JetBrains — kotlinlang.org
+108.138.167.10/32
+108.138.167.121/32
+108.138.167.2/32
+108.138.167.47/32

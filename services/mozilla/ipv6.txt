@@ -1,8 +1,102 @@
 # DNS-derived IP snapshot for Mozilla (mozilla)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Mozilla — ads-img.mozilla.org
+2a04:4e42::347
+
+# Mozilla — ads.mozilla.org
+2a04:4e42:26::347
+
+# Mozilla — bugzilla.org
+2606:4700:3031::6815:417e
+2606:4700:3032::ac43:916b
+
+# Mozilla — crates.io
+2a04:4e42:200::649
+2a04:4e42:400::649
+2a04:4e42:600::649
+2a04:4e42::649
+
+# Mozilla — docs.rs
+2a04:4e42:200::347
+2a04:4e42:400::347
+2a04:4e42:600::347
+2a04:4e42::347
+
+# Mozilla — extensionworkshop.com
+# (no public DNS addresses found)
+
 # Mozilla — firefox.com
 2600:1901:0:c197::
 
+# Mozilla — firefox.com.cn
+# (no public DNS addresses found)
+
+# Mozilla — firefoxusercontent.com
+2600:9000:20a4:2a00:16:b14c:cc40:93a1
+2600:9000:20a4:5a00:16:b14c:cc40:93a1
+2600:9000:20a4:6400:16:b14c:cc40:93a1
+2600:9000:20a4:ba00:16:b14c:cc40:93a1
+2600:9000:20a4:c600:16:b14c:cc40:93a1
+2600:9000:20a4:d800:16:b14c:cc40:93a1
+2600:9000:20a4:da00:16:b14c:cc40:93a1
+2600:9000:20a4:e400:16:b14c:cc40:93a1
+
+# Mozilla — getpocket.com
+# (no public DNS addresses found)
+
+# Mozilla — incoming-telemetry.thunderbird.net
+# (no public DNS addresses found)
+
+# Mozilla — incoming.telemetry.mozilla.org
+# (no public DNS addresses found)
+
+# Mozilla — mdn.mozillademos.org
+2600:1901:0:c197::
+
+# Mozilla — media.prod.mdn.mozit.cloud
+# (no public DNS addresses found)
+
+# Mozilla — mofoprod.net
+# (no public DNS addresses found)
+
+# Mozilla — mozilla.com
+2600:1901:0:c197::
+
+# Mozilla — mozilla.community
+# (no public DNS addresses found)
+
+# Mozilla — mozilla.net
+# (no public DNS addresses found)
+
 # Mozilla — mozilla.org
 2600:1901:0:c197::
+
+# Mozilla — pocket-image-cache.com
+# (no public DNS addresses found)
+
+# Mozilla — rust-lang.org
+2606:50c0:8000::153
+2606:50c0:8001::153
+2606:50c0:8002::153
+2606:50c0:8003::153
+
+# Mozilla — rustup.rs
+2600:9000:27f5:4600:1:6a0b:1280:93a1
+2600:9000:27f5:4a00:1:6a0b:1280:93a1
+2600:9000:27f5:5000:1:6a0b:1280:93a1
+2600:9000:27f5:5800:1:6a0b:1280:93a1
+2600:9000:27f5:9000:1:6a0b:1280:93a1
+2600:9000:27f5:9c00:1:6a0b:1280:93a1
+2600:9000:27f5:b000:1:6a0b:1280:93a1
+2600:9000:27f5:f200:1:6a0b:1280:93a1
+
+# Mozilla — seamonkey-project.org
+# (no public DNS addresses found)
+
+# Mozilla — sentry.prod.mozaws.net
+# (no public DNS addresses found)
+
+# Mozilla — thunderbird.net
+2606:4700:10::6814:1abb
+2606:4700:10::ac42:a603

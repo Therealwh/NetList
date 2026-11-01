@@ -1,6 +1,85 @@
 # DNS-derived IP snapshot for Xbox (xbox)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Xbox — beth.games
+# (no public DNS addresses found)
+
+# Xbox — bethesda.net
+2600:9000:2466:2e00:1d:9d0:cd40:93a1
+2600:9000:2466:4800:1d:9d0:cd40:93a1
+2600:9000:2466:7c00:1d:9d0:cd40:93a1
+2600:9000:2466:ba00:1d:9d0:cd40:93a1
+2600:9000:2466:c000:1d:9d0:cd40:93a1
+2600:9000:2466:c800:1d:9d0:cd40:93a1
+2600:9000:2466:d800:1d:9d0:cd40:93a1
+2600:9000:2466:e000:1d:9d0:cd40:93a1
+
+# Xbox — bethesdagamestudios.com
+2600:9000:2337:1400:1d:336e:4880:93a1
+2600:9000:2337:5200:1d:336e:4880:93a1
+2600:9000:2337:7200:1d:336e:4880:93a1
+2600:9000:2337:7c00:1d:336e:4880:93a1
+2600:9000:2337:b200:1d:336e:4880:93a1
+2600:9000:2337:cc00:1d:336e:4880:93a1
+2600:9000:2337:d200:1d:336e:4880:93a1
+2600:9000:2337:d600:1d:336e:4880:93a1
+
+# Xbox — bethsoft.com
+# (no public DNS addresses found)
+
+# Xbox — callersbane.com
+# (no public DNS addresses found)
+
+# Xbox — forzamotorsport.net
+# (no public DNS addresses found)
+
+# Xbox — forzaracingchampionship.com
+# (no public DNS addresses found)
+
+# Xbox — forzarc.com
+# (no public DNS addresses found)
+
+# Xbox — gamepass.com
+# (no public DNS addresses found)
+
+# Xbox — img-prod-cms-rt-microsoft-com.akamaized.net
+2600:1405:8400:3::17d1:540e
+2600:1405:8400:3::17d1:5422
+
+# Xbox — login.live.com
+# (no public DNS addresses found)
+
+# Xbox — logincdn.msauth.net
+2620:1ec:bdf::66
+
+# Xbox — minecraft.net
+# (no public DNS addresses found)
+
+# Xbox — minecraftshop.com
+# (no public DNS addresses found)
+
+# Xbox — mojang.com
+# (no public DNS addresses found)
+
+# Xbox — msgamestudios.com
+# (no public DNS addresses found)
+
+# Xbox — orithegame.com
+# (no public DNS addresses found)
+
+# Xbox — renovacionxboxlive.com
+# (no public DNS addresses found)
+
+# Xbox — store-images.s-microsoft.com
+2600:1405:7400:585::3114
+2600:1405:7400:591::3114
+
+# Xbox — tellmewhygame.com
+# (no public DNS addresses found)
+
+# Xbox — xbox.co
+# (no public DNS addresses found)
+
 # Xbox — xbox.com
 2603:1010:3:3::5b
 2603:1020:201:10::10f
@@ -8,5 +87,62 @@
 2603:1030:b:3::152
 2603:1030:c02:8::14
 
+# Xbox — xbox.eu
+# (no public DNS addresses found)
+
+# Xbox — xbox.org
+# (no public DNS addresses found)
+
+# Xbox — xbox360.co
+# (no public DNS addresses found)
+
+# Xbox — xbox360.com
+# (no public DNS addresses found)
+
+# Xbox — xbox360.eu
+# (no public DNS addresses found)
+
+# Xbox — xbox360.org
+# (no public DNS addresses found)
+
+# Xbox — xboxab.com
+# (no public DNS addresses found)
+
+# Xbox — xboxab.net
+# (no public DNS addresses found)
+
+# Xbox — xboxgamepass.com
+# (no public DNS addresses found)
+
+# Xbox — xboxgamestudios.com
+# (no public DNS addresses found)
+
+# Xbox — xboxlive.cn
+# (no public DNS addresses found)
+
 # Xbox — xboxlive.com
+# (no public DNS addresses found)
+
+# Xbox — xboxone.co
+# (no public DNS addresses found)
+
+# Xbox — xboxone.com
+# (no public DNS addresses found)
+
+# Xbox — xboxone.eu
+# (no public DNS addresses found)
+
+# Xbox — xboxplayanywhere.com
+# (no public DNS addresses found)
+
+# Xbox — xboxservice.com
+# (no public DNS addresses found)
+
+# Xbox — xboxservices.com
+# (no public DNS addresses found)
+
+# Xbox — xboxstudios.com
+# (no public DNS addresses found)
+
+# Xbox — xbx.lv
 # (no public DNS addresses found)

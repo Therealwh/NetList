@@ -1,7 +1,126 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Discord — airhorn.solutions
+104.21.40.151/32
+172.67.152.236/32
+
+# Discord — airhornbot.com
+104.21.2.204/32
+172.67.152.229/32
+
+# Discord — bigbeans.solutions
+104.21.59.128/32
+172.67.177.131/32
+
+# Discord — dis.gd
+104.18.37.76/32
+172.64.150.180/32
+
+# Discord — discord-activities.com
+# (no public DNS addresses found)
+
+# Discord — discord-attachments-uploads-prd.storage.googleapis.com
+142.251.108.207/32
+142.251.121.207/32
+192.178.142.207/32
+
+# Discord — discord.co
+104.17.117.93/32
+104.17.51.93/32
+
 # Discord — discord.com
 162.159.128.233/32
 162.159.135.232/32
 162.159.136.232/32
 162.159.137.232/32
 162.159.138.232/32
+
+# Discord — discord.design
+104.21.80.173/32
+172.67.152.113/32
+
+# Discord — discord.dev
+104.21.72.221/32
+172.67.155.163/32
+
+# Discord — discord.gg
+162.159.130.234/32
+162.159.133.234/32
+162.159.134.234/32
+162.159.135.234/32
+162.159.136.234/32
+
+# Discord — discord.gift
+104.21.25.51/32
+172.67.222.182/32
+
+# Discord — discord.gifts
+104.21.82.160/32
+172.67.159.89/32
+
+# Discord — discord.media
+162.159.128.235/32
+162.159.129.235/32
+162.159.130.235/32
+162.159.137.234/32
+162.159.138.234/32
+
+# Discord — discord.new
+104.21.89.187/32
+172.67.191.5/32
+
+# Discord — discord.store
+23.227.38.74/32
+
+# Discord — discord.tools
+# (no public DNS addresses found)
+
+# Discord — discordactivities.com
+104.18.32.174/32
+172.64.155.82/32
+
+# Discord — discordapp.com
+162.159.129.233/32
+162.159.130.233/32
+162.159.133.233/32
+162.159.134.233/32
+162.159.135.233/32
+
+# Discord — discordapp.io
+# (no public DNS addresses found)
+
+# Discord — discordapp.net
+# (no public DNS addresses found)
+
+# Discord — discordapp.page.link
+192.178.142.132/32
+
+# Discord — discordcdn.com
+162.159.128.234/32
+162.159.129.234/32
+162.159.136.233/32
+162.159.137.233/32
+162.159.138.233/32
+
+# Discord — discordmerch.com
+23.227.38.74/32
+
+# Discord — discordpartygames.com
+# (no public DNS addresses found)
+
+# Discord — discordsays.com
+104.18.34.249/32
+172.64.153.7/32
+
+# Discord — discordstatus.com
+18.238.152.118/32
+18.238.152.16/32
+18.238.152.50/32
+18.238.152.6/32
+
+# Discord — hammerandchisel.ssl.zendesk.com
+216.198.53.11/32
+216.198.54.11/32
+
+# Discord — watchanimeattheoffice.com
+172.66.41.34/32
+172.66.42.222/32

@@ -1,0 +1,5 @@
+# NetList seed candidates: ReVanced
+# Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+api.revanced.app
+revanced.app
+www.revanced.app

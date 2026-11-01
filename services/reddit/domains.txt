@@ -1,3 +1,10 @@
 # NetList seed candidates: Reddit
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+redd.it
 reddit.com
+redditmail.com
+redditmedia.com
+redditstatic.com
+reddituploads.com
+reddituploads.com.cdn-cf.behance.net
+reddituploads.com.cdn-cf.dropbox.com

@@ -3,3 +3,10 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Хабр — habr.com
 178.248.237.68
+
+# Хабр — habr.io
+178.248.233.33
+
+# Хабр — habrastorage.org
+95.47.173.34
+95.47.173.35

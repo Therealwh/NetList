@@ -4,3 +4,10 @@
 # Perplexity — perplexity.ai
 2606:4700::6812:1a30
 2606:4700::6812:1b30
+
+# Perplexity — ppl-ai-file-upload.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# Perplexity — pplx-res.cloudinary.com
+2600:1405:7400:284::523
+2600:1405:7400:289::523

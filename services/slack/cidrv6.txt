@@ -1,5 +1,35 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Slack — slack-core.com
+# (no public DNS addresses found)
+
+# Slack — slack-edge.com
+# (no public DNS addresses found)
+
+# Slack — slack-files.com
+# (no public DNS addresses found)
+
+# Slack — slack-imgs.com
+# (no public DNS addresses found)
+
+# Slack — slack-msgs.com
+# (no public DNS addresses found)
+
+# Slack — slack-redir.net
+# (no public DNS addresses found)
+
 # Slack — slack.com
+# (no public DNS addresses found)
+
+# Slack — slackb.com
+# (no public DNS addresses found)
+
+# Slack — slackcertified.com
+# (no public DNS addresses found)
+
+# Slack — slackdemo.com
+# (no public DNS addresses found)
+
+# Slack — slackhq.com
 # (no public DNS addresses found)
 
 # Slack — wss-backup.slack.com

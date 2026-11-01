@@ -1,4 +1,11 @@
 # NetList seed candidates: Сбер
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+error-tracking.megamarket.tech
+metrics.21-school.ru
 sber.ru
 sberbank.ru
+sberdevices.ru
+sbermarket.ru
+sberpro.vedomosti.ru
+sentry.sberauto.com
+tracing-http.megamarket.tech

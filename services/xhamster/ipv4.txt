@@ -1,6 +1,9 @@
 # DNS-derived IP snapshot for XHamster (xhamster)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# XHamster — widgets.stripst.com
+# (no public DNS addresses found)
+
 # XHamster — xhamster.com
 104.16.3.81
 104.16.4.81

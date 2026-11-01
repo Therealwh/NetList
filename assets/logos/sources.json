@@ -933,6 +933,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "revanced": {
+    "candidates": [
+      "revanced"
+    ],
+    "license": "CC0",
+    "source": "simple-icons"
+  },
   "revolut": {
     "candidates": [
       "revolut"

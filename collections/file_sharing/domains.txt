@@ -1,5 +1,6 @@
 # NetList collection: file_sharing
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+1drv.com
 addtodropbox.com
 api-content-au.dropbox.com
 api-content-eu.dropbox.com
@@ -37,6 +38,7 @@ dl-web-uk.dropbox.com
 dl-web.dropbox.com
 dl.dropbox.com
 dl.dropboxusercontent.com
+docs.google.com
 docsend.com
 drive.google.com
 dropbox-dns.com
@@ -61,14 +63,30 @@ files-eu.dropbox.com
 files-jp.dropbox.com
 files-uk.dropbox.com
 getdropbox.com
+googledrive.com
+googleusercontent.com
 hellofax.com
 learn.dropbox.com
 links.dropbox.com
+livefilestore.com
 mediafire.com
+mega.co.nz
+mega.io
 mega.nz
+microsoftpersonalcontent.com
+oneclient.sfx.ms
+onedrive.com
 onedrive.live.com
+paper-attachments.s3.amazonaws.com
+photos.live.com
 pixeldrain.com
 send-anywhere.com
 sharepoint.com
+sharepointonline.com
+skydrive.wns.windows.com
+spoprod-a.akamaihd.net
+storage.live.com
+storage.msn.com
 swisstransfer.com
 wetransfer.com
+www.googleapis.com

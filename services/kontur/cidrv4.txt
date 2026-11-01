@@ -1,3 +1,9 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Контур — kontur.ru
 46.17.206.11/32
+
+# Контур — metrika.kontur.ru
+46.17.203.250/32
+
+# Контур — sentry.kontur.host
+46.17.203.17/32

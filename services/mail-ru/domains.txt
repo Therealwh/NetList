@@ -1,6 +1,8 @@
 # NetList seed candidates: Mail.ru
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 bk.ru
+imgsmail.ru
 inbox.ru
 list.ru
 mail.ru
+mycdn.me

@@ -1,5 +1,11 @@
 # DNS-derived IP snapshot for ESET (eset)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# ESET — epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+# (no public DNS addresses found)
+
+# ESET — eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+# (no public DNS addresses found)
+
 # ESET — eset.com
 # (no public DNS addresses found)

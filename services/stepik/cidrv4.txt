@@ -1,3 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Stepik — stepik.net
+# (no public DNS addresses found)
+
 # Stepik — stepik.org
 178.248.239.111/32

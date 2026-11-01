@@ -1,5 +1,101 @@
 # DNS-derived IP snapshot for Last.fm (last-fm)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Last.fm — audioscrobbler.com
+2600:1f18:297:ba0e:7900:f622:48a8:f266
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+2600:1f18:297:ba24:b508:76de:f4a:df34
+
+# Last.fm — bbfc1.tk
+# (no public DNS addresses found)
+
+# Last.fm — bc9oa.tk
+# (no public DNS addresses found)
+
+# Last.fm — bvuno.tk
+# (no public DNS addresses found)
+
+# Last.fm — cqyos.tk
+# (no public DNS addresses found)
+
+# Last.fm — fuckyeahtfx.com
+# (no public DNS addresses found)
+
+# Last.fm — halkz.tk
+# (no public DNS addresses found)
+
+# Last.fm — itnnl.tk
+# (no public DNS addresses found)
+
+# Last.fm — jdw1v.tk
+# (no public DNS addresses found)
+
+# Last.fm — kn5ak.tk
+# (no public DNS addresses found)
+
+# Last.fm — kwcnn.tk
+# (no public DNS addresses found)
+
 # Last.fm — last.fm
+# (no public DNS addresses found)
+
+# Last.fm — last.us11.list-manage.com
+# (no public DNS addresses found)
+
+# Last.fm — lastfm-img2.akamaized.net
+# (no public DNS addresses found)
+
+# Last.fm — lastfm.cn
+2600:1f18:297:ba0e:7900:f622:48a8:f266
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+2600:1f18:297:ba24:b508:76de:f4a:df34
+
+# Last.fm — lastfm.de
+# (no public DNS addresses found)
+
+# Last.fm — lastfm.es
+# (no public DNS addresses found)
+
+# Last.fm — lastfm.eu
+# (no public DNS addresses found)
+
+# Last.fm — lastfm.freetls.fastly.net
+2a04:4e42:26::591
+
+# Last.fm — lastfm.ph
+# (no public DNS addresses found)
+
+# Last.fm — lastfm.pl
+# (no public DNS addresses found)
+
+# Last.fm — lastfm.ru
+# (no public DNS addresses found)
+
+# Last.fm — lastfmpresents.com
+2600:1f18:297:ba0e:7900:f622:48a8:f266
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+2600:1f18:297:ba24:b508:76de:f4a:df34
+
+# Last.fm — mwrel.tk
+# (no public DNS addresses found)
+
+# Last.fm — oilofhaemony.com
+# (no public DNS addresses found)
+
+# Last.fm — ouchmonkey.com
+# (no public DNS addresses found)
+
+# Last.fm — pqqx2.tk
+# (no public DNS addresses found)
+
+# Last.fm — rfnva.tk
+# (no public DNS addresses found)
+
+# Last.fm — rmohl.tk
+# (no public DNS addresses found)
+
+# Last.fm — tnjqk.tk
+# (no public DNS addresses found)
+
+# Last.fm — wznka.tk
 # (no public DNS addresses found)

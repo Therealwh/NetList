@@ -1,8 +1,69 @@
 # DNS-derived IP snapshot for Stack Overflow (stack-overflow)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Stack Overflow — askubuntu.com
+198.252.206.1
+
+# Stack Overflow — blogoverflow.com
+15.197.167.90
+3.33.186.135
+
+# Stack Overflow — codeforaliving.io
+15.197.167.90
+3.33.186.135
+
+# Stack Overflow — mathoverflow.net
+198.252.206.1
+
+# Stack Overflow — serverfault.com
+198.252.206.1
+
+# Stack Overflow — sstatic.net
+198.252.206.17
+
+# Stack Overflow — stackapps.com
+198.252.206.1
+
+# Stack Overflow — stackauth.com
+198.252.206.1
+
 # Stack Overflow — stackexchange.com
 198.252.206.1
 
+# Stack Overflow — stackmod.blog
+165.160.13.20
+165.160.15.20
+
+# Stack Overflow — stackoverflow.blog
+15.197.167.90
+3.33.186.135
+
+# Stack Overflow — stackoverflow.co
+15.197.167.90
+3.33.186.135
+
 # Stack Overflow — stackoverflow.com
 198.252.206.1
+
+# Stack Overflow — stackoverflow.email
+198.252.206.19
+
+# Stack Overflow — stackoverflowbusiness.com
+15.197.167.90
+3.33.186.135
+
+# Stack Overflow — stackoverflowcareers.com
+15.197.167.90
+3.33.186.135
+
+# Stack Overflow — stacksnippets.net
+198.252.206.1
+
+# Stack Overflow — superuser.com
+198.252.206.1
+
+# Stack Overflow — tex-talk.net
+213.239.221.185
+
+# Stack Overflow — thesffblog.com
+192.64.117.75

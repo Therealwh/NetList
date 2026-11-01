@@ -1,4 +1,166 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# eBay — about.co.kr
+183.111.131.197/32
+
+# eBay — auction.co.kr
+183.111.140.234/32
+
+# eBay — e-bay.it
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay-25-assets.s3-us-west-1.amazonaws.com
+16.15.0.122/32
+16.15.0.18/32
+16.15.0.193/32
+16.15.0.227/32
+16.15.0.39/32
+16.15.0.89/32
+16.15.1.125/32
+52.219.121.98/32
+
+# eBay — ebay-us.com
+# (no public DNS addresses found)
+
+# eBay — ebay.at
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.be
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.ca
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.ch
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.cn
+222.73.220.176/32
+
+# eBay — ebay.co.krhe
+# (no public DNS addresses found)
+
+# eBay — ebay.co.nz
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.co.uk
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.co.ve
+3.33.139.32/32
+
+# eBay — ebay.co.za
+# (no public DNS addresses found)
+
 # eBay — ebay.com
-23.201.96.153/32
-23.201.96.157/32
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay.com.ar
+54.157.108.158/32
+98.83.184.133/32
+
+# eBay — ebay.com.au
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.com.ec
+3.33.139.32/32
+
+# eBay — ebay.com.hk
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.com.mt
+3.33.139.32/32
+
+# eBay — ebay.com.ph
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.com.sg
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay.de
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay.es
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay.fr
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay.ie
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay.in
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.it
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay.lt
+3.33.139.32/32
+
+# eBay — ebay.nl
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebay.ph
+23.211.139.203/32
+23.211.139.208/32
+
+# eBay — ebay.pk
+3.33.139.32/32
+
+# eBay — ebay.pl
+23.219.89.138/32
+23.219.89.139/32
+
+# eBay — ebaycdn.net
+# (no public DNS addresses found)
+
+# eBay — ebayimg.com
+# (no public DNS addresses found)
+
+# eBay — ebayinc.com
+34.111.20.166/32
+
+# eBay — ebaykorea.com
+3.33.139.32/32
+
+# eBay — ebaymainstreet.com
+23.185.0.2/32
+
+# eBay — ebayprivacycenter.com
+34.111.20.166/32
+
+# eBay — ebayrtm.com
+# (no public DNS addresses found)
+
+# eBay — ebaystatic.com
+# (no public DNS addresses found)
+
+# eBay — esmplus.com
+121.254.148.201/32
+
+# eBay — g9.co.kr
+117.52.47.253/32
+183.111.134.253/32
+
+# eBay — gmarket.co.kr
+117.52.47.78/32
+183.111.134.78/32

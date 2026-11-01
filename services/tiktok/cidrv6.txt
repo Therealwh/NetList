@@ -1,3 +1,123 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# TikTok — bytedapm.com
+# (no public DNS addresses found)
+
+# TikTok — bytegecko-i18n.com
+# (no public DNS addresses found)
+
+# TikTok — byteintlapi.com
+# (no public DNS addresses found)
+
+# TikTok — byteoversea.com
+# (no public DNS addresses found)
+
+# TikTok — capcut.com
+# (no public DNS addresses found)
+
+# TikTok — capcutapi.com
+# (no public DNS addresses found)
+
+# TikTok — capcutapi.us
+# (no public DNS addresses found)
+
+# TikTok — capcutstatic.com
+# (no public DNS addresses found)
+
+# TikTok — ibytedtos.com
+# (no public DNS addresses found)
+
+# TikTok — ibyteimg.com
+# (no public DNS addresses found)
+
+# TikTok — ipstatp.com
+# (no public DNS addresses found)
+
+# TikTok — isnssdk.com
+# (no public DNS addresses found)
+
+# TikTok — lf16-effectcdn.byteeffecttos-g.com
+# (no public DNS addresses found)
+
+# TikTok — lf16-pkgcdn.pitaya-clientai.com
+# (no public DNS addresses found)
+
+# TikTok — marscode.com
+# (no public DNS addresses found)
+
+# TikTok — muscdn.com
+# (no public DNS addresses found)
+
+# TikTok — musical.ly
+# (no public DNS addresses found)
+
+# TikTok — p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
+# (no public DNS addresses found)
+
+# TikTok — p16-tiktokcdn-com.akamaized.net
+2600:1405:8400:17::17de:3a3/128
+2600:1405:8400:17::17de:3a4/128
+
+# TikTok — roovza-launches.appsflyersdk.com
+# (no public DNS addresses found)
+
+# TikTok — roovza.inapps.appsflyersdk.com
+# (no public DNS addresses found)
+
+# TikTok — roovza.launches.appsflyersdk.com
+# (no public DNS addresses found)
+
+# TikTok — roovza.skadsdk.appsflyersdk.com
+2600:9000:2020:3e00:17:9ba7:39c0:93a1/128
+2600:9000:2020:4c00:17:9ba7:39c0:93a1/128
+2600:9000:2020:6600:17:9ba7:39c0:93a1/128
+2600:9000:2020:aa00:17:9ba7:39c0:93a1/128
+2600:9000:2020:ca00:17:9ba7:39c0:93a1/128
+2600:9000:2020:f600:17:9ba7:39c0:93a1/128
+2600:9000:2020:f800:17:9ba7:39c0:93a1/128
+2600:9000:2020:fc00:17:9ba7:39c0:93a1/128
+
+# TikTok — sgpstatp.com
+# (no public DNS addresses found)
+
+# TikTok — snssdk.com
+# (no public DNS addresses found)
+
+# TikTok — tik-tokapi.com
+# (no public DNS addresses found)
+
 # TikTok — tiktok.com
+# (no public DNS addresses found)
+
+# TikTok — tiktok.org
+2606:4700:3033::6815:7b/128
+2606:4700:3034::ac43:96f3/128
+
+# TikTok — tiktokcdn-us.com
+# (no public DNS addresses found)
+
+# TikTok — tiktokcdn.com
+# (no public DNS addresses found)
+
+# TikTok — tiktokd.net
+# (no public DNS addresses found)
+
+# TikTok — tiktokd.org
+# (no public DNS addresses found)
+
+# TikTok — tiktokmusic.app
+# (no public DNS addresses found)
+
+# TikTok — tiktokv.com
+# (no public DNS addresses found)
+
+# TikTok — tiktokv.us
+# (no public DNS addresses found)
+
+# TikTok — trae-api-sg.mchost.guru
+# (no public DNS addresses found)
+
+# TikTok — trae.ai
+# (no public DNS addresses found)
+
+# TikTok — ttwebview.com
 # (no public DNS addresses found)

@@ -1,3 +1,25 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# LINE — lin.ee
+147.92.240.249/32
+147.92.242.107/32
+
+# LINE — line-apps.com
+# (no public DNS addresses found)
+
+# LINE — line-cdn.net
+# (no public DNS addresses found)
+
+# LINE — line-scdn.net
+# (no public DNS addresses found)
+
 # LINE — line.me
 147.92.243.206/32
+
+# LINE — linecorp.com
+147.92.242.144/32
+
+# LINE — naver.jp
+# (no public DNS addresses found)
+
+# LINE — nhncorp.jp
+# (no public DNS addresses found)

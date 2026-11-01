@@ -1,8 +1,25 @@
 # NetList collection: news_education
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+aod-dash-uk-live.akamaized.net
+aod-hls-uk-live.akamaized.net
+aod-pod-uk-live.akamaized.net
 apnews.com
+as-dash-uk-live.akamaized.net
+as-hls-uk-live.akamaized.net
+bbc.co
 bbc.co.uk
 bbc.com
+bbc.in
+bbc.net.uk
+bbcchinese.com
+bbcfmt.hs.llnwd.net
+bbcfmt.s.llnwi.net
+bbci.co
+bbci.co.uk
+bbcmedia.co.uk
+bbcpersian.com
+bbcverticals.com
+bidi.net.uk
 coursera.org
 dw.com
 edx.org
@@ -11,6 +28,19 @@ meduza.io
 rbc.ru
 reuters.com
 ria.ru
+stepik.net
 stepik.org
 tass.ru
 theguardian.com
+ve-dash-uk-live.akamaized.net
+ve-uhd-push-uk-live.akamaized.net
+vod-dash-uk-live.akamaized.net
+vod-dash-ww-live.akamaized.net
+vod-hls-uk-live.akamaized.net
+vod-sub-uk-live.akamaized.net
+vod-thumb-uk-live.akamaized.net
+vod-thumb-ww-live.akamaized.net
+vs-cmaf-push-uk-live.akamaized.net
+vs-cmaf-pushb-ww-live.akamaized.net
+vs-hls-push-uk-live.akamaized.net
+vs-hls-pushb-uk-live.akamaized.net

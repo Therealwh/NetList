@@ -1,3 +1,9 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Контур — kontur.ru
 # (no public DNS addresses found)
+
+# Контур — metrika.kontur.ru
+# (no public DNS addresses found)
+
+# Контур — sentry.kontur.host
+# (no public DNS addresses found)

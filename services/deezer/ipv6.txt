@@ -3,3 +3,6 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Deezer — deezer.com
 # (no public DNS addresses found)
+
+# Deezer — dzcdn.net
+# (no public DNS addresses found)

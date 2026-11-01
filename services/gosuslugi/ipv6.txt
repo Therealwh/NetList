@@ -1,5 +1,11 @@
 # DNS-derived IP snapshot for Госуслуги (gosuslugi)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Госуслуги — esia.gosuslugi.ru
+# (no public DNS addresses found)
+
 # Госуслуги — gosuslugi.ru
+# (no public DNS addresses found)
+
+# Госуслуги — lk.gosuslugi.ru
 # (no public DNS addresses found)

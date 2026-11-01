@@ -1,8 +1,108 @@
 # DNS-derived IP snapshot for Spotify (spotify)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Spotify — adeventtracker.spotify.com
+35.186.224.24
+
+# Spotify — adstudio-assets.scdn.co
+151.101.162.248
+
+# Spotify — audio-ak-spotify-com.akamaized.net
+23.219.87.106
+23.219.87.68
+
+# Spotify — audio4-ak-spotify-com.akamaized.net
+23.219.87.106
+23.219.87.68
+
+# Spotify — bloodhound.spotify.com
+35.186.224.24
+
+# Spotify — byspotify.com
+# (no public DNS addresses found)
+
+# Spotify — cdn-spotify-experiments.conductrics.com
+84.17.63.178
+
+# Spotify — heads-ak-spotify-com.akamaized.net
+23.220.162.141
+23.220.162.149
+
+# Spotify — heads4-ak-spotify-com.akamaized.net
+23.220.162.141
+23.220.162.149
+
+# Spotify — pscdn.co
+# (no public DNS addresses found)
+
 # Spotify — scdn.co
 # (no public DNS addresses found)
 
+# Spotify — spoti.fi
+35.167.216.18
+44.230.115.150
+44.252.253.233
+
+# Spotify — spotify-com.akamaized.net
+# (no public DNS addresses found)
+
+# Spotify — spotify-everywhere.com
+54.157.108.158
+98.83.184.133
+
+# Spotify — spotify.app.link
+18.238.152.11
+18.238.152.35
+18.238.152.49
+18.238.152.97
+
 # Spotify — spotify.com
 35.186.224.24
+
+# Spotify — spotify.com.edgesuite.net
+# (no public DNS addresses found)
+
+# Spotify — spotify.design
+54.157.108.158
+98.83.184.133
+
+# Spotify — spotify.map.fastly.net
+# (no public DNS addresses found)
+
+# Spotify — spotify.map.fastlylb.net
+# (no public DNS addresses found)
+
+# Spotify — spotifycdn.com
+# (no public DNS addresses found)
+
+# Spotify — spotifycdn.net
+# (no public DNS addresses found)
+
+# Spotify — spotifycharts.com
+54.157.108.158
+98.83.184.133
+
+# Spotify — spotifycodes.com
+216.239.32.21
+216.239.34.21
+216.239.36.21
+216.239.38.21
+
+# Spotify — spotifyforbrands.com
+54.157.108.158
+98.83.184.133
+
+# Spotify — spotifyjobs.com
+216.239.32.21
+216.239.34.21
+216.239.36.21
+216.239.38.21
+
+# Spotify — spotifynewsroom.jp
+216.239.32.21
+
+# Spotify — spotilocal.com
+# (no public DNS addresses found)
+
+# Spotify — tospotify.com
+# (no public DNS addresses found)

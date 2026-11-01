@@ -1,6 +1,839 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Baidu — 17swan.com
+# (no public DNS addresses found)
+
+# Baidu — 37swan.com
+# (no public DNS addresses found)
+
+# Baidu — 91.com
+103.211.221.12/32
+110.242.69.104/32
+110.242.69.107/32
+110.242.69.109/32
+157.0.146.108/32
+157.0.146.135/32
+
+# Baidu — 911dns.cn
+# (no public DNS addresses found)
+
+# Baidu — 911dns.com.cn
+# (no public DNS addresses found)
+
+# Baidu — aicdn.work
+# (no public DNS addresses found)
+
+# Baidu — aipage.com
+103.235.46.159/32
+103.235.46.160/32
+111.45.11.205/32
+112.80.248.37/32
+14.215.183.249/32
+153.3.238.230/32
+163.177.18.166/32
+180.97.93.217/32
+182.61.240.39/32
+182.61.62.88/32
+39.156.66.159/32
+
+# Baidu — aiqicha.cn
+157.0.146.79/32
+180.101.50.122/32
+
+# Baidu — aiqicha.com
+157.0.146.79/32
+180.101.50.122/32
+
+# Baidu — apollo-platform.com
+# (no public DNS addresses found)
+
+# Baidu — apollo-share.com
+# (no public DNS addresses found)
+
+# Baidu — apollo.auto
+110.242.68.84/32
+39.156.68.51/32
+
+# Baidu — baeapps.com
+# (no public DNS addresses found)
+
+# Baidu — baetyl.tech
+# (no public DNS addresses found)
+
+# Baidu — baidu-1img.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-2img.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-3img.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-bank.cn
+123.125.114.11/32
+
+# Baidu — baidu-bank.com
+123.125.114.11/32
+
+# Baidu — baidu-cdn.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-cdn.com
+# (no public DNS addresses found)
+
+# Baidu — baidu-cdn.net
+# (no public DNS addresses found)
+
+# Baidu — baidu-img.cn
+# (no public DNS addresses found)
+
+# Baidu — baidu-int.com
+39.156.68.35/32
+
+# Baidu — baidu-itm.com
+# (no public DNS addresses found)
+
+# Baidu — baidu-tech.com
+119.75.219.36/32
+180.149.131.33/32
+
+# Baidu — baidu.cn
+220.181.7.203/32
+39.156.70.37/32
+
 # Baidu — baidu.com
 110.242.74.102/32
 111.63.65.103/32
 111.63.65.247/32
 124.237.177.164/32
+
+# Baidu — baidu.com.cn
+162.105.207.191/32
+
+# Baidu — baidu.com.hk
+220.181.7.203/32
+39.156.70.37/32
+
+# Baidu — baidu.hk
+220.181.7.203/32
+39.156.70.37/32
+
+# Baidu — baidu.mobi
+39.156.66.95/32
+
+# Baidu — baiduads.com
+# (no public DNS addresses found)
+
+# Baidu — baiduapp.com
+220.181.50.22/32
+
+# Baidu — baidubce.cn
+# (no public DNS addresses found)
+
+# Baidu — baidubce.com
+14.215.189.29/32
+
+# Baidu — baidubce.com.cn
+# (no public DNS addresses found)
+
+# Baidu — baidubce.net.cn
+# (no public DNS addresses found)
+
+# Baidu — baidubcr.com
+# (no public DNS addresses found)
+
+# Baidu — baidubos.com
+# (no public DNS addresses found)
+
+# Baidu — baiducloudapi.com
+# (no public DNS addresses found)
+
+# Baidu — baiducontent.com
+220.181.7.203/32
+39.156.70.37/32
+
+# Baidu — baiduhui.com
+# (no public DNS addresses found)
+
+# Baidu — baidupcs.cn
+# (no public DNS addresses found)
+
+# Baidu — baidupcs.com
+140.249.34.71/32
+
+# Baidu — baidupcs.com.cn
+# (no public DNS addresses found)
+
+# Baidu — baidupcs.net
+# (no public DNS addresses found)
+
+# Baidu — baidustatic.com
+220.181.7.203/32
+39.156.70.37/32
+
+# Baidu — baiduux.com
+119.75.222.180/32
+
+# Baidu — baiduwaf.com
+# (no public DNS addresses found)
+
+# Baidu — baiduwebgame.com
+# (no public DNS addresses found)
+
+# Baidu — baiduxiaodai.cn
+123.125.114.11/32
+
+# Baidu — baiduxiaodai.com
+123.125.114.11/32
+
+# Baidu — baiduyangguang.org
+# (no public DNS addresses found)
+
+# Baidu — baiduyuncdn.cn
+# (no public DNS addresses found)
+
+# Baidu — baiduyuncdn.com
+# (no public DNS addresses found)
+
+# Baidu — baiduyuncdn.net
+# (no public DNS addresses found)
+
+# Baidu — baiduyundns.cn
+# (no public DNS addresses found)
+
+# Baidu — baiduyundns.com
+# (no public DNS addresses found)
+
+# Baidu — baiduyundns.net
+# (no public DNS addresses found)
+
+# Baidu — baiduyunwaf.com
+# (no public DNS addresses found)
+
+# Baidu — baifae.com
+# (no public DNS addresses found)
+
+# Baidu — baifubao.com
+# (no public DNS addresses found)
+
+# Baidu — baihangbao.cn
+123.125.114.11/32
+
+# Baidu — baihangbao.com
+123.125.114.11/32
+
+# Baidu — baihangdai.cn
+123.125.114.11/32
+
+# Baidu — baihangdai.com
+123.125.114.11/32
+
+# Baidu — baijincdn.cn
+# (no public DNS addresses found)
+
+# Baidu — baijincdn.com
+# (no public DNS addresses found)
+
+# Baidu — bakshifen.com
+# (no public DNS addresses found)
+
+# Baidu — bce-cdn.cn
+# (no public DNS addresses found)
+
+# Baidu — bce-cdn.com
+# (no public DNS addresses found)
+
+# Baidu — bce-cdn.net
+# (no public DNS addresses found)
+
+# Baidu — bceapp.com
+# (no public DNS addresses found)
+
+# Baidu — bcebos.com
+# (no public DNS addresses found)
+
+# Baidu — bcedns.cn
+# (no public DNS addresses found)
+
+# Baidu — bcedns.com
+# (no public DNS addresses found)
+
+# Baidu — bcedns.net
+# (no public DNS addresses found)
+
+# Baidu — bcedocument.com
+# (no public DNS addresses found)
+
+# Baidu — bcehost.com
+# (no public DNS addresses found)
+
+# Baidu — bcehosts.com
+# (no public DNS addresses found)
+
+# Baidu — bceidaas.com
+220.181.38.226/32
+
+# Baidu — bceimg.cn
+# (no public DNS addresses found)
+
+# Baidu — bceimg.com
+# (no public DNS addresses found)
+
+# Baidu — bcelive.com
+# (no public DNS addresses found)
+
+# Baidu — bcevod.com
+# (no public DNS addresses found)
+
+# Baidu — bcewaf.com
+# (no public DNS addresses found)
+
+# Baidu — bchdemo.site
+# (no public DNS addresses found)
+
+# Baidu — bdbae.com
+# (no public DNS addresses found)
+
+# Baidu — bdcloudapi.com
+# (no public DNS addresses found)
+
+# Baidu — bddns.cn
+# (no public DNS addresses found)
+
+# Baidu — bdeceimg.com
+# (no public DNS addresses found)
+
+# Baidu — bdimg.com
+220.181.7.203/32
+39.156.70.37/32
+
+# Baidu — bdstatic.cn
+# (no public DNS addresses found)
+
+# Baidu — bdstatic.com
+220.181.7.203/32
+39.156.70.37/32
+
+# Baidu — bdtjrcv.com
+111.206.223.106/32
+112.34.113.13/32
+180.149.144.163/32
+
+# Baidu — bduapp.com
+# (no public DNS addresses found)
+
+# Baidu — bdurl.net
+# (no public DNS addresses found)
+
+# Baidu — bdycdn.cn
+# (no public DNS addresses found)
+
+# Baidu — bdycdn.com
+# (no public DNS addresses found)
+
+# Baidu — bdycdn.net
+# (no public DNS addresses found)
+
+# Baidu — bdydns.cn
+# (no public DNS addresses found)
+
+# Baidu — bdydns.com
+# (no public DNS addresses found)
+
+# Baidu — bdydns.net
+# (no public DNS addresses found)
+
+# Baidu — bdymkt.com
+# (no public DNS addresses found)
+
+# Baidu — bdysite.com
+# (no public DNS addresses found)
+
+# Baidu — bdysites.com
+# (no public DNS addresses found)
+
+# Baidu — bfe-networks.com
+3.131.150.69/32
+
+# Baidu — bfe-networks.net
+3.131.150.69/32
+
+# Baidu — chuanke.com
+182.61.200.216/32
+
+# Baidu — cloud-control.top
+180.149.144.210/32
+
+# Baidu — clouda.com
+# (no public DNS addresses found)
+
+# Baidu — cloudajs.org
+61.135.185.83/32
+
+# Baidu — content4ads.com
+# (no public DNS addresses found)
+
+# Baidu — daoru.in
+# (no public DNS addresses found)
+
+# Baidu — data-schema.org.cn
+# (no public DNS addresses found)
+
+# Baidu — dlnel.com
+# (no public DNS addresses found)
+
+# Baidu — dlnel.org
+# (no public DNS addresses found)
+
+# Baidu — dmhmusic.com
+54.223.241.55/32
+
+# Baidu — dnsproxy.cn
+# (no public DNS addresses found)
+
+# Baidu — dnsproxy.com.cn
+# (no public DNS addresses found)
+
+# Baidu — du-xiaomai.com
+# (no public DNS addresses found)
+
+# Baidu — duapp-preview.com
+# (no public DNS addresses found)
+
+# Baidu — duapp.com
+180.149.132.118/32
+202.108.23.17/32
+
+# Baidu — duapp.net
+# (no public DNS addresses found)
+
+# Baidu — duapps.com
+8.155.4.28/32
+
+# Baidu — dulife.com
+# (no public DNS addresses found)
+
+# Baidu — dulightapp.com
+104.21.3.246/32
+172.67.131.95/32
+
+# Baidu — dumall.com
+110.242.68.122/32
+124.237.176.111/32
+39.156.66.114/32
+
+# Baidu — dusdn.cn
+# (no public DNS addresses found)
+
+# Baidu — dusdn.com
+# (no public DNS addresses found)
+
+# Baidu — dusdn.net
+# (no public DNS addresses found)
+
+# Baidu — dushifen.com
+# (no public DNS addresses found)
+
+# Baidu — duurl.cn
+# (no public DNS addresses found)
+
+# Baidu — duxiaomai.net
+# (no public DNS addresses found)
+
+# Baidu — duxuetang.cn
+# (no public DNS addresses found)
+
+# Baidu — duxuetang.com
+# (no public DNS addresses found)
+
+# Baidu — dwz.cn
+182.61.200.113/32
+
+# Baidu — estrongs.com
+# (no public DNS addresses found)
+
+# Baidu — eyoubaidu.com
+# (no public DNS addresses found)
+
+# Baidu — fhldns.cn
+# (no public DNS addresses found)
+
+# Baidu — fhldns.com
+# (no public DNS addresses found)
+
+# Baidu — fhldns.com.cn
+# (no public DNS addresses found)
+
+# Baidu — fhldns.net
+# (no public DNS addresses found)
+
+# Baidu — game-client.com
+180.149.132.54/32
+
+# Baidu — haluan2u.com
+180.76.3.141/32
+
+# Baidu — hao123.com
+110.242.74.173/32
+111.63.102.184/32
+
+# Baidu — hao123.net
+110.242.69.86/32
+124.237.176.248/32
+39.156.68.154/32
+
+# Baidu — hao123img.com
+# (no public DNS addresses found)
+
+# Baidu — hao222.com
+110.242.69.86/32
+124.237.176.248/32
+39.156.68.154/32
+
+# Baidu — hao222.net
+110.242.69.86/32
+124.237.176.248/32
+39.156.68.154/32
+
+# Baidu — haokan.com
+124.237.177.233/32
+180.97.93.171/32
+
+# Baidu — hiapk.com
+103.211.221.12/32
+110.242.69.104/32
+110.242.69.107/32
+110.242.69.109/32
+157.0.146.108/32
+157.0.146.135/32
+
+# Baidu — hongmeiti.cn
+# (no public DNS addresses found)
+
+# Baidu — hongmeiti.com
+# (no public DNS addresses found)
+
+# Baidu — hongmeiti.com.cn
+# (no public DNS addresses found)
+
+# Baidu — hongmeiti.net
+# (no public DNS addresses found)
+
+# Baidu — huoyanyunying.com
+202.173.11.186/32
+
+# Baidu — ja-cloud.com
+# (no public DNS addresses found)
+
+# Baidu — jingling.cn
+180.149.131.33/32
+
+# Baidu — jomocdn.cn
+# (no public DNS addresses found)
+
+# Baidu — jomocdn.net
+# (no public DNS addresses found)
+
+# Baidu — jomodns.cn
+# (no public DNS addresses found)
+
+# Baidu — jomodns.com
+# (no public DNS addresses found)
+
+# Baidu — jomodns.net
+# (no public DNS addresses found)
+
+# Baidu — jpaas.cn
+# (no public DNS addresses found)
+
+# Baidu — kanduoduo.com.cn
+# (no public DNS addresses found)
+
+# Baidu — lasmasas.com
+180.76.3.141/32
+
+# Baidu — micro-game-client.com
+180.149.132.54/32
+
+# Baidu — mipcdn.com
+153.3.237.250/32
+220.181.33.209/32
+39.156.68.143/32
+
+# Baidu — mipengine.com
+# (no public DNS addresses found)
+
+# Baidu — mipengine.org
+180.76.190.147/32
+
+# Baidu — mipplan.com
+# (no public DNS addresses found)
+
+# Baidu — mipplan.org
+# (no public DNS addresses found)
+
+# Baidu — nhmuni.com
+# (no public DNS addresses found)
+
+# Baidu — nuomi.com
+112.80.255.214/32
+180.97.34.232/32
+180.97.93.28/32
+
+# Baidu — oasesalliance.com
+36.110.219.46/32
+
+# Baidu — oortos.tech
+# (no public DNS addresses found)
+
+# Baidu — openintelliedge.tech
+180.76.151.66/32
+
+# Baidu — openrasp.cn
+110.242.68.209/32
+
+# Baidu — openrasp.com
+110.242.68.209/32
+
+# Baidu — openrasp.com.cn
+110.242.68.209/32
+
+# Baidu — openrasp.info
+# (no public DNS addresses found)
+
+# Baidu — openrasp.net
+110.242.68.209/32
+
+# Baidu — openrasp.net.cn
+110.242.68.209/32
+
+# Baidu — openrasp.org
+110.242.68.209/32
+
+# Baidu — openrasp.org.cn
+110.242.68.209/32
+
+# Baidu — paddlepaddle.org.cn
+106.12.155.111/32
+
+# Baidu — popincdn.com
+182.61.201.12/32
+
+# Baidu — pubbcsapp.com
+111.13.100.104/32
+119.75.219.53/32
+180.149.132.56/32
+202.108.23.200/32
+
+# Baidu — qianqian.com
+# (no public DNS addresses found)
+
+# Baidu — qxllq.com
+# (no public DNS addresses found)
+
+# Baidu — sanguows.com
+180.149.132.54/32
+
+# Baidu — searchcraft.cn
+# (no public DNS addresses found)
+
+# Baidu — sg.work
+# (no public DNS addresses found)
+
+# Baidu — shifen.com
+202.108.250.218/32
+
+# Baidu — siteapp-static.com
+# (no public DNS addresses found)
+
+# Baidu — smartapps.cn
+110.242.68.217/32
+112.34.112.105/32
+124.237.176.122/32
+
+# Baidu — submusic.cn
+# (no public DNS addresses found)
+
+# Baidu — swan366.com
+# (no public DNS addresses found)
+
+# Baidu — taihe.com
+120.53.129.96/32
+
+# Baidu — tieba.com
+111.206.209.45/32
+111.45.3.159/32
+112.34.113.222/32
+124.237.176.189/32
+180.101.49.188/32
+182.61.240.54/32
+
+# Baidu — tiebaimg.com
+103.235.46.139/32
+103.235.46.140/32
+111.206.209.40/32
+111.206.209.42/32
+111.206.209.43/32
+112.34.111.194/32
+112.80.248.167/32
+112.80.248.231/32
+124.237.176.191/32
+14.215.177.221/32
+163.177.151.76/32
+180.97.104.167/32
+180.97.34.146/32
+182.61.200.13/32
+183.232.231.118/32
+220.181.107.183/32
+220.181.107.184/32
+220.181.107.185/32
+223.109.81.34/32
+223.109.81.35/32
+39.156.66.138/32
+
+# Baidu — tradaquan.com
+180.76.3.141/32
+
+# Baidu — ttplayer.com
+# (no public DNS addresses found)
+
+# Baidu — umaz.cn
+220.181.38.117/32
+61.135.163.212/32
+
+# Baidu — videomind.cloud
+# (no public DNS addresses found)
+
+# Baidu — videomind.cn
+# (no public DNS addresses found)
+
+# Baidu — videomind.net
+# (no public DNS addresses found)
+
+# Baidu — vplay8.com
+220.181.112.117/32
+
+# Baidu — webgamehome.com
+180.149.132.54/32
+
+# Baidu — wenku.in
+# (no public DNS addresses found)
+
+# Baidu — wshifen.com
+# (no public DNS addresses found)
+
+# Baidu — wssanguo.com
+180.149.132.54/32
+
+# Baidu — xianfae.com
+# (no public DNS addresses found)
+
+# Baidu — xiaodutv.cn
+180.76.186.249/32
+
+# Baidu — xiaodutv.com
+180.76.186.249/32
+
+# Baidu — xiaoduzaijia.cn
+110.242.68.122/32
+124.237.176.111/32
+39.156.66.114/32
+
+# Baidu — xiaoduzaijia.com.cn
+5.22.145.121/32
+5.22.145.16/32
+
+# Baidu — xinzhi.com
+# (no public DNS addresses found)
+
+# Baidu — yeyingkf.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn1.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn10.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn2.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn3.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn4.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn5.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn6.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn7.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn8.com
+# (no public DNS addresses found)
+
+# Baidu — yjs-cdn9.com
+# (no public DNS addresses found)
+
+# Baidu — yjsops.com
+# (no public DNS addresses found)
+
+# Baidu — youyou.com
+# (no public DNS addresses found)
+
+# Baidu — youyou001.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-cdn-dnssec.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-cdn.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-cdn.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-dns.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-dns.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu-test.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasu.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasucdn.info
+# (no public DNS addresses found)
+
+# Baidu — yunjiasucdn.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasudns.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasudns.net
+# (no public DNS addresses found)
+
+# Baidu — yunjiasupreview.com
+# (no public DNS addresses found)
+
+# Baidu — yunjiasussl.com
+# (no public DNS addresses found)
+
+# Baidu — zuoyebang.cc
+49.233.94.217/32
+
+# Baidu — zuoyebang.com
+49.233.94.217/32
+
+# Baidu — zybang.com
+49.233.94.217/32

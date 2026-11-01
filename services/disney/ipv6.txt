@@ -1,5 +1,543 @@
 # DNS-derived IP snapshot for Disney+ (disney)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Disney+ — 20thcenturystudios.com.au
+2600:1901:0:84f4::80
+
+# Disney+ — 20thcenturystudios.com.br
+# (no public DNS addresses found)
+
+# Disney+ — 20thcenturystudios.jp
+2600:1901:0:84f4::80
+
+# Disney+ — abc-studios.com
+# (no public DNS addresses found)
+
+# Disney+ — abc.com
+# (no public DNS addresses found)
+
+# Disney+ — abcnews.com
+# (no public DNS addresses found)
+
+# Disney+ — abcnews.edgesuite.net
+# (no public DNS addresses found)
+
+# Disney+ — adobedtm.com
+# (no public DNS addresses found)
+
+# Disney+ — adventuresbydisney.com
+# (no public DNS addresses found)
+
+# Disney+ — babble.com
+2600:1406:35:5::1722:3e88
+2600:1406:35:5::1722:3e8b
+
+# Disney+ — babyzone.com
+# (no public DNS addresses found)
+
+# Disney+ — bam.nr-data.net
+# (no public DNS addresses found)
+
+# Disney+ — bamgrid.com
+# (no public DNS addresses found)
+
+# Disney+ — beautyandthebeastmusical.co.uk
+# (no public DNS addresses found)
+
+# Disney+ — braze.com
+# (no public DNS addresses found)
+
+# Disney+ — cdn.optimizely.com
+2606:4700::6812:4139
+2606:4700::6812:4239
+
+# Disney+ — conviva.com
+# (no public DNS addresses found)
+
+# Disney+ — d9.flashtalking.com
+# (no public DNS addresses found)
+
+# Disney+ — dilcdn.com
+# (no public DNS addresses found)
+
+# Disney+ — disney-asia.com
+# (no public DNS addresses found)
+
+# Disney+ — disney-discount.com
+# (no public DNS addresses found)
+
+# Disney+ — disney-plus.net
+# (no public DNS addresses found)
+
+# Disney+ — disney-portal.my.onetrust.com
+2606:4700:4403::6812:2089
+2a06:98c1:3103::ac40:9b77
+
+# Disney+ — disney-studio.com
+# (no public DNS addresses found)
+
+# Disney+ — disney-studio.net
+# (no public DNS addresses found)
+
+# Disney+ — disney.asia
+# (no public DNS addresses found)
+
+# Disney+ — disney.be
+2600:1901:0:84f4::80
+
+# Disney+ — disney.bg
+# (no public DNS addresses found)
+
+# Disney+ — disney.ca
+# (no public DNS addresses found)
+
+# Disney+ — disney.ch
+2600:1901:0:84f4::80
+
+# Disney+ — disney.co.il
+# (no public DNS addresses found)
+
+# Disney+ — disney.co.jp
+# (no public DNS addresses found)
+
+# Disney+ — disney.co.kr
+# (no public DNS addresses found)
+
+# Disney+ — disney.co.th
+2600:1901:0:84f4::80
+
+# Disney+ — disney.co.uk
+# (no public DNS addresses found)
+
+# Disney+ — disney.co.za
+# (no public DNS addresses found)
+
+# Disney+ — disney.com
+# (no public DNS addresses found)
+
+# Disney+ — disney.com.au
+2600:1901:0:84f4::80
+
+# Disney+ — disney.com.br
+2600:1901:0:84f4::80
+
+# Disney+ — disney.com.hk
+2600:1901:0:84f4::80
+
+# Disney+ — disney.com.tw
+# (no public DNS addresses found)
+
+# Disney+ — disney.cz
+# (no public DNS addresses found)
+
+# Disney+ — disney.de
+# (no public DNS addresses found)
+
+# Disney+ — disney.demdex.net
+# (no public DNS addresses found)
+
+# Disney+ — disney.dk
+# (no public DNS addresses found)
+
+# Disney+ — disney.es
+# (no public DNS addresses found)
+
+# Disney+ — disney.fi
+# (no public DNS addresses found)
+
+# Disney+ — disney.fr
+# (no public DNS addresses found)
+
+# Disney+ — disney.gr
+# (no public DNS addresses found)
+
+# Disney+ — disney.hu
+# (no public DNS addresses found)
+
+# Disney+ — disney.id
+2600:1901:0:84f4::80
+
+# Disney+ — disney.in
+2600:1901:0:84f4::80
+
+# Disney+ — disney.io
+# (no public DNS addresses found)
+
+# Disney+ — disney.it
+# (no public DNS addresses found)
+
+# Disney+ — disney.my
+2600:1901:0:84f4::80
+
+# Disney+ — disney.my.sentry.io
+# (no public DNS addresses found)
+
+# Disney+ — disney.nl
+# (no public DNS addresses found)
+
+# Disney+ — disney.no
+# (no public DNS addresses found)
+
+# Disney+ — disney.ph
+# (no public DNS addresses found)
+
+# Disney+ — disney.pl
+# (no public DNS addresses found)
+
+# Disney+ — disney.pt
+# (no public DNS addresses found)
+
+# Disney+ — disney.ro
+# (no public DNS addresses found)
+
+# Disney+ — disney.ru
+2600:1901:0:84f4::80
+
+# Disney+ — disney.se
+# (no public DNS addresses found)
+
+# Disney+ — disney.sg
+2600:1901:0:84f4::80
+
+# Disney+ — disneyadsales.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyarena.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyaulani.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneybaby.com
+2600:1406:35:5::1722:3e88
+2600:1406:35:5::1722:3e8b
+
+# Disney+ — disneycareers.com
+# (no public DNS addresses found)
+
+# Disney+ — disneychannelonstage.com
+# (no public DNS addresses found)
+
+# Disney+ — disneychannelroadtrip.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneycruisebrasil.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneyenconcert.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyiejobs.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneyinflight.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyinternational.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyinternationalhd.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneyjunior.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneyjuniortreataday.com
+# (no public DNS addresses found)
+
+# Disney+ — disneylandparis.com
+# (no public DNS addresses found)
+
+# Disney+ — disneylatino.com
+# (no public DNS addresses found)
+
+# Disney+ — disneymagicmoments.co.il
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmoments.co.uk
+# (no public DNS addresses found)
+
+# Disney+ — disneymagicmoments.co.za
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmoments.de
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmoments.es
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmoments.fr
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmoments.gen.tr
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmoments.gr
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmoments.it
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmoments.pl
+2600:1901:0:84f4::80
+
+# Disney+ — disneymagicmomentsme.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyme.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneymeetingsandevents.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneymovieinsiders.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneymusicpromotion.com
+# (no public DNS addresses found)
+
+# Disney+ — disneynewseries.com
+# (no public DNS addresses found)
+
+# Disney+ — disneynow.com
+# (no public DNS addresses found)
+
+# Disney+ — disneypeoplesurveys.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneyplus.bn5x.net
+# (no public DNS addresses found)
+
 # Disney+ — disneyplus.com
 2600:1901:0:84f4::80
+
+# Disney+ — disneyplus.com.ssl.sc.omtrdc.net
+# (no public DNS addresses found)
+
+# Disney+ — disneyprivacycenter.com
+# (no public DNS addresses found)
+
+# Disney+ — disneyredirects.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneysrivieraresort.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneystore.com
+2600:1405:7400:8::172d:7b34
+2600:1405:7400:8::172d:7b42
+
+# Disney+ — disneystreaming.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneysubscription.com
+# (no public DNS addresses found)
+
+# Disney+ — disneytermsofuse.com
+# (no public DNS addresses found)
+
+# Disney+ — disneytickets.co.uk
+# (no public DNS addresses found)
+
+# Disney+ — disneyturkiye.com.tr
+# (no public DNS addresses found)
+
+# Disney+ — disneytvajobs.com
+2600:1901:0:84f4::80
+
+# Disney+ — disneyworld-go.com
+2600:1901:0:84f4::80
+
+# Disney+ — dlp-media.com
+# (no public DNS addresses found)
+
+# Disney+ — dmed.technology
+# (no public DNS addresses found)
+
+# Disney+ — dssedge.com
+2620:138:301d:4:8000::25
+
+# Disney+ — dssott.com
+2620:138:300d:4:8000::a3
+
+# Disney+ — dtci.co
+# (no public DNS addresses found)
+
+# Disney+ — dtci.technology
+# (no public DNS addresses found)
+
+# Disney+ — edgedatg.com
+# (no public DNS addresses found)
+
+# Disney+ — espn.co.uk
+# (no public DNS addresses found)
+
+# Disney+ — espn.com
+2600:9000:2341:1a00:d:ac18:e2c0:93a1
+2600:9000:2341:3800:d:ac18:e2c0:93a1
+2600:9000:2341:3e00:d:ac18:e2c0:93a1
+2600:9000:2341:8200:d:ac18:e2c0:93a1
+2600:9000:2341:8a00:d:ac18:e2c0:93a1
+2600:9000:2341:a400:d:ac18:e2c0:93a1
+2600:9000:2341:c000:d:ac18:e2c0:93a1
+2600:9000:2341:e400:d:ac18:e2c0:93a1
+
+# Disney+ — espn.hb.omtrdc.net
+# (no public DNS addresses found)
+
+# Disney+ — espn.net
+# (no public DNS addresses found)
+
+# Disney+ — espncdn.com
+# (no public DNS addresses found)
+
+# Disney+ — espndotcom.tt.omtrdc.net
+# (no public DNS addresses found)
+
+# Disney+ — espnqa.com
+2600:9000:2020:1a00:b:fd26:df00:93a1
+2600:9000:2020:200:b:fd26:df00:93a1
+2600:9000:2020:3200:b:fd26:df00:93a1
+2600:9000:2020:6000:b:fd26:df00:93a1
+2600:9000:2020:7400:b:fd26:df00:93a1
+2600:9000:2020:a600:b:fd26:df00:93a1
+2600:9000:2020:c400:b:fd26:df00:93a1
+2600:9000:2020:f200:b:fd26:df00:93a1
+
+# Disney+ — execute-api.us-east-1.amazonaws.com
+# (no public DNS addresses found)
+
+# Disney+ — go-disneyworldgo.com
+2600:1901:0:84f4::80
+
+# Disney+ — go.com
+# (no public DNS addresses found)
+
+# Disney+ — hotstar-cdn.net
+# (no public DNS addresses found)
+
+# Disney+ — hotstar-labs.com
+# (no public DNS addresses found)
+
+# Disney+ — hotstar.com
+# (no public DNS addresses found)
+
+# Disney+ — hotstarext.com
+# (no public DNS addresses found)
+
+# Disney+ — hsprepack.akamaized.net
+2600:1405:8400:5::17dc:49a6
+2600:1405:8400:5::17dc:49b8
+
+# Disney+ — js-agent.newrelic.com
+2602:816:5001::39
+
+# Disney+ — marvel.com
+# (no public DNS addresses found)
+
+# Disney+ — marvel10thanniversary.com
+# (no public DNS addresses found)
+
+# Disney+ — marveldimensionofheroes.com
+2600:1901:0:84f4::80
+
+# Disney+ — marvelparty.net
+2600:1901:0:84f4::80
+
+# Disney+ — marvelpinball.com
+2600:1901:0:84f4::80
+
+# Disney+ — marvelsdoubleagent.com
+2600:1901:0:84f4::80
+
+# Disney+ — marvelspotlightplays.com
+# (no public DNS addresses found)
+
+# Disney+ — marvelsuperheroseptember.com
+2600:1901:0:84f4::80
+
+# Disney+ — marvelsuperwar.com
+# (no public DNS addresses found)
+
+# Disney+ — mickey.tv
+# (no public DNS addresses found)
+
+# Disney+ — moviesanywhere.com
+# (no public DNS addresses found)
+
+# Disney+ — natgeomaps.com
+2606:4700:20::681a:47c
+2606:4700:20::681a:57c
+2606:4700:20::ac43:4980
+
+# Disney+ — nationalgeographic.com
+# (no public DNS addresses found)
+
+# Disney+ — nationalgeographicpartners.com
+2600:1901:0:84f4::80
+
+# Disney+ — ngeo.com
+# (no public DNS addresses found)
+
+# Disney+ — nomadlandmovie.ch
+# (no public DNS addresses found)
+
+# Disney+ — playmation.com
+2600:1901:0:84f4::80
+
+# Disney+ — shopdisney.com
+2600:1405:8400:7::17d1:54b8
+2600:1405:8400:7::17d1:54b9
+
+# Disney+ — shops-disney.com
+# (no public DNS addresses found)
+
+# Disney+ — sorcerersarena.com
+2600:1901:0:84f4::80
+
+# Disney+ — spaindisney.com
+# (no public DNS addresses found)
+
+# Disney+ — star-brasil.com
+# (no public DNS addresses found)
+
+# Disney+ — star-latam.com
+# (no public DNS addresses found)
+
+# Disney+ — starott.com
+# (no public DNS addresses found)
+
+# Disney+ — starplus.com
+2600:1901:0:84f4::80
+
+# Disney+ — starwars.com
+2600:1405:8400:7::17d1:54a9
+2600:1405:8400:7::17d1:54b2
+
+# Disney+ — starwarsgalacticstarcruiser.com
+2600:1901:0:84f4::80
+
+# Disney+ — starwarskids.com
+2600:1405:8400:10::173e:e2c3
+2600:1405:8400:10::173e:e2c4
+
+# Disney+ — streamingdisney.net
+# (no public DNS addresses found)
+
+# Disney+ — themarvelexperiencetour.com
+2600:1901:0:84f4::80
+
+# Disney+ — thestationbymaker.com
+2600:1901:0:84f4::80
+
+# Disney+ — thewaltdisneycompany.com
+# (no public DNS addresses found)
+
+# Disney+ — thisispolaris.com
+2600:1901:0:84f4::80
+
+# Disney+ — watchdisneyfe.com
+# (no public DNS addresses found)
+
+# Disney+ — watchespn.com
+# (no public DNS addresses found)

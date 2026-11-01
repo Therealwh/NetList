@@ -1,4 +1,7 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# XHamster — widgets.stripst.com
+# (no public DNS addresses found)
+
 # XHamster — xhamster.com
 104.16.3.81/32
 104.16.4.81/32

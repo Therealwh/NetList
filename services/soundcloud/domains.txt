@@ -1,3 +1,5 @@
 # NetList seed candidates: SoundCloud
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+p-cdn.us
+sndcdn.com
 soundcloud.com

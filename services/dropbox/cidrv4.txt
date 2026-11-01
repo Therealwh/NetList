@@ -21,19 +21,19 @@
 162.125.8.14/32
 
 # Dropbox — api-content1-eu.dropbox.com
-162.125.8.14/32
+162.125.1.14/32
 
 # Dropbox — app.hellosign.com
 162.125.8.25/32
 
 # Dropbox — bolt.dropbox.com
-162.125.21.3/32
+162.125.40.1/32
 
 # Dropbox — content-au.dropboxapi.com
-162.125.8.14/32
+162.125.1.14/32
 
 # Dropbox — content-eu.dropboxapi.com
-162.125.8.14/32
+162.125.1.14/32
 
 # Dropbox — content-jp.dropboxapi.com
 162.125.8.14/32
@@ -42,7 +42,7 @@
 162.125.8.14/32
 
 # Dropbox — content.dropboxapi.com
-162.125.8.14/32
+162.125.1.14/32
 
 # Dropbox — dash.ai
 3.161.242.111/32
@@ -57,7 +57,7 @@
 162.125.8.15/32
 
 # Dropbox — dl-au.dropboxusercontent.com
-162.125.8.15/32
+162.125.1.15/32
 
 # Dropbox — dl-client.dropbox.com
 # (no public DNS addresses found)
@@ -78,19 +78,19 @@
 162.125.8.15/32
 
 # Dropbox — dl-jp.dropboxusercontent.com
-162.125.8.15/32
+162.125.1.15/32
 
 # Dropbox — dl-uk.dropbox.com
 162.125.8.15/32
 
 # Dropbox — dl-uk.dropboxusercontent.com
-162.125.8.15/32
+162.125.1.15/32
 
 # Dropbox — dl-web-au.dropbox.com
 162.125.8.15/32
 
 # Dropbox — dl-web-eu.dropbox.com
-162.125.8.15/32
+162.125.1.15/32
 
 # Dropbox — dl-web-jp.dropbox.com
 162.125.8.15/32
@@ -102,10 +102,10 @@
 162.125.8.15/32
 
 # Dropbox — dl.dropbox.com
-162.125.8.15/32
+162.125.1.15/32
 
 # Dropbox — dl.dropboxusercontent.com
-162.125.8.15/32
+162.125.1.15/32
 
 # Dropbox — docsend.com
 13.224.187.51/32
@@ -120,10 +120,10 @@
 162.125.248.18/32
 
 # Dropbox — dropbox.tech
-108.156.211.31/32
-108.156.211.6/32
-108.156.211.71/32
-108.156.211.82/32
+18.161.170.13/32
+18.161.170.29/32
+18.161.170.47/32
+18.161.170.73/32
 
 # Dropbox — dropbox.zendesk.com
 216.198.53.11/32
@@ -142,16 +142,16 @@
 # (no public DNS addresses found)
 
 # Dropbox — dropboxforum.com
-108.156.245.116/32
-108.156.245.35/32
-108.156.245.8/32
-108.156.245.92/32
+52.84.199.112/32
+52.84.199.122/32
+52.84.199.37/32
+52.84.199.41/32
 
 # Dropbox — dropboxforums.com
-108.156.245.116/32
-108.156.245.35/32
-108.156.245.8/32
-108.156.245.92/32
+52.84.199.112/32
+52.84.199.122/32
+52.84.199.37/32
+52.84.199.41/32
 
 # Dropbox — dropboxinsiders.com
 3.170.115.102/32
@@ -215,3 +215,12 @@
 
 # Dropbox — links.dropbox.com
 162.125.8.18/32
+
+# Dropbox — paper-attachments.s3.amazonaws.com
+16.15.0.107/32
+16.15.0.15/32
+16.15.0.56/32
+16.15.4.240/32
+52.219.113.129/32
+52.219.193.41/32
+52.219.194.49/32

@@ -1,8 +1,62 @@
 # DNS-derived IP snapshot for Stack Overflow (stack-overflow)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Stack Overflow — askubuntu.com
+# (no public DNS addresses found)
+
+# Stack Overflow — blogoverflow.com
+# (no public DNS addresses found)
+
+# Stack Overflow — codeforaliving.io
+# (no public DNS addresses found)
+
+# Stack Overflow — mathoverflow.net
+# (no public DNS addresses found)
+
+# Stack Overflow — serverfault.com
+# (no public DNS addresses found)
+
+# Stack Overflow — sstatic.net
+# (no public DNS addresses found)
+
+# Stack Overflow — stackapps.com
+# (no public DNS addresses found)
+
+# Stack Overflow — stackauth.com
+# (no public DNS addresses found)
+
 # Stack Overflow — stackexchange.com
 # (no public DNS addresses found)
 
+# Stack Overflow — stackmod.blog
+# (no public DNS addresses found)
+
+# Stack Overflow — stackoverflow.blog
+# (no public DNS addresses found)
+
+# Stack Overflow — stackoverflow.co
+# (no public DNS addresses found)
+
 # Stack Overflow — stackoverflow.com
+# (no public DNS addresses found)
+
+# Stack Overflow — stackoverflow.email
+# (no public DNS addresses found)
+
+# Stack Overflow — stackoverflowbusiness.com
+# (no public DNS addresses found)
+
+# Stack Overflow — stackoverflowcareers.com
+# (no public DNS addresses found)
+
+# Stack Overflow — stacksnippets.net
+# (no public DNS addresses found)
+
+# Stack Overflow — superuser.com
+# (no public DNS addresses found)
+
+# Stack Overflow — tex-talk.net
+# (no public DNS addresses found)
+
+# Stack Overflow — thesffblog.com
 # (no public DNS addresses found)

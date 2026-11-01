@@ -1,5 +1,140 @@
 # DNS-derived IP snapshot for eBay (ebay)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# eBay — about.co.kr
+# (no public DNS addresses found)
+
+# eBay — auction.co.kr
+# (no public DNS addresses found)
+
+# eBay — e-bay.it
+# (no public DNS addresses found)
+
+# eBay — ebay-25-assets.s3-us-west-1.amazonaws.com
+# (no public DNS addresses found)
+
+# eBay — ebay-us.com
+# (no public DNS addresses found)
+
+# eBay — ebay.at
+# (no public DNS addresses found)
+
+# eBay — ebay.be
+# (no public DNS addresses found)
+
+# eBay — ebay.ca
+# (no public DNS addresses found)
+
+# eBay — ebay.ch
+# (no public DNS addresses found)
+
+# eBay — ebay.cn
+# (no public DNS addresses found)
+
+# eBay — ebay.co.krhe
+# (no public DNS addresses found)
+
+# eBay — ebay.co.nz
+# (no public DNS addresses found)
+
+# eBay — ebay.co.uk
+# (no public DNS addresses found)
+
+# eBay — ebay.co.ve
+# (no public DNS addresses found)
+
+# eBay — ebay.co.za
+# (no public DNS addresses found)
+
 # eBay — ebay.com
+# (no public DNS addresses found)
+
+# eBay — ebay.com.ar
+2600:1f18:297:ba0e:7900:f622:48a8:f266
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+2600:1f18:297:ba24:b508:76de:f4a:df34
+
+# eBay — ebay.com.au
+# (no public DNS addresses found)
+
+# eBay — ebay.com.ec
+# (no public DNS addresses found)
+
+# eBay — ebay.com.hk
+# (no public DNS addresses found)
+
+# eBay — ebay.com.mt
+# (no public DNS addresses found)
+
+# eBay — ebay.com.ph
+# (no public DNS addresses found)
+
+# eBay — ebay.com.sg
+# (no public DNS addresses found)
+
+# eBay — ebay.de
+# (no public DNS addresses found)
+
+# eBay — ebay.es
+# (no public DNS addresses found)
+
+# eBay — ebay.fr
+# (no public DNS addresses found)
+
+# eBay — ebay.ie
+# (no public DNS addresses found)
+
+# eBay — ebay.in
+# (no public DNS addresses found)
+
+# eBay — ebay.it
+# (no public DNS addresses found)
+
+# eBay — ebay.lt
+# (no public DNS addresses found)
+
+# eBay — ebay.nl
+# (no public DNS addresses found)
+
+# eBay — ebay.ph
+# (no public DNS addresses found)
+
+# eBay — ebay.pk
+# (no public DNS addresses found)
+
+# eBay — ebay.pl
+# (no public DNS addresses found)
+
+# eBay — ebaycdn.net
+# (no public DNS addresses found)
+
+# eBay — ebayimg.com
+# (no public DNS addresses found)
+
+# eBay — ebayinc.com
+# (no public DNS addresses found)
+
+# eBay — ebaykorea.com
+# (no public DNS addresses found)
+
+# eBay — ebaymainstreet.com
+2620:12a:8000::2
+2620:12a:8001::2
+
+# eBay — ebayprivacycenter.com
+# (no public DNS addresses found)
+
+# eBay — ebayrtm.com
+# (no public DNS addresses found)
+
+# eBay — ebaystatic.com
+# (no public DNS addresses found)
+
+# eBay — esmplus.com
+# (no public DNS addresses found)
+
+# eBay — g9.co.kr
+# (no public DNS addresses found)
+
+# eBay — gmarket.co.kr
 # (no public DNS addresses found)

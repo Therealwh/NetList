@@ -1,0 +1,15 @@
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# ReVanced — api.revanced.app
+104.26.8.2/32
+104.26.9.2/32
+172.67.71.70/32
+
+# ReVanced — revanced.app
+104.26.8.2/32
+104.26.9.2/32
+172.67.71.70/32
+
+# ReVanced — www.revanced.app
+104.26.8.2/32
+104.26.9.2/32
+172.67.71.70/32

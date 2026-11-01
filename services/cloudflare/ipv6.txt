@@ -1,10 +1,156 @@
 # DNS-derived IP snapshot for Cloudflare (cloudflare)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Cloudflare — cf-ipfs.com
+# (no public DNS addresses found)
+
+# Cloudflare — cf-ns.com
+# (no public DNS addresses found)
+
+# Cloudflare — cf-ns.net
+# (no public DNS addresses found)
+
+# Cloudflare — cf-ns.site
+# (no public DNS addresses found)
+
+# Cloudflare — cf-ns.tech
+# (no public DNS addresses found)
+
+# Cloudflare — cftest5.cn
+# (no public DNS addresses found)
+
+# Cloudflare — cftest6.cn
+# (no public DNS addresses found)
+
+# Cloudflare — cftest7.com
+# (no public DNS addresses found)
+
+# Cloudflare — cftest8.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflare-cn.com
+# (no public DNS addresses found)
+
 # Cloudflare — cloudflare-dns.com
 2606:4700::6810:f8f9
 2606:4700::6810:f9f9
 
+# Cloudflare — cloudflare-ipfs.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflare-quic.com
+2606:4700::6812:1a0e
+2606:4700::6812:1b0e
+
 # Cloudflare — cloudflare.com
 2606:4700::6810:84e5
 2606:4700::6810:85e5
+
+# Cloudflare — cloudflare.net
+2606:4700::6810:d05a
+2606:4700::6811:9c55
+
+# Cloudflare — cloudflare.tv
+2606:4700::6812:12ef
+2606:4700::6812:13ef
+
+# Cloudflare — cloudflareaccess.com
+2606:4700:300a::6813:c21d
+2606:4700:300a::6813:c31d
+
+# Cloudflare — cloudflareapps.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflarebolt.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflareclient.com
+2606:4700::6810:1854
+2606:4700::6810:c052
+
+# Cloudflare — cloudflarecn.net
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflareinsights-cn.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflareinsights.com
+2606:4700::6810:4f49
+2606:4700::6810:5049
+
+# Cloudflare — cloudflareok.com
+2606:4700::6812:ee5
+2606:4700::6812:fe5
+
+# Cloudflare — cloudflarepreview.com
+2606:4700::6812:86a
+2606:4700::6812:96a
+
+# Cloudflare — cloudflareprod.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflareresolve.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflaressl.com
+2606:4700:10::6814:18c6
+2606:4700:10::ac42:a478
+
+# Cloudflare — cloudflarestaging.com
+2606:4700::6812:1c79
+2606:4700::6812:1d79
+
+# Cloudflare — cloudflarestatus.com
+2600:1901:0:4a3b::
+
+# Cloudflare — cloudflarestorage.com
+2606:4700::6810:5e73
+2606:4700::6810:5f73
+
+# Cloudflare — cloudflarestoragegw.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflarestream.com
+2606:4700::6810:5d72
+2606:4700::6810:5e72
+2606:4700::6810:5f72
+2606:4700::6810:6072
+2606:4700::6810:6172
+
+# Cloudflare — cloudflaretest.com
+# (no public DNS addresses found)
+
+# Cloudflare — cloudflarewarp.com
+2606:4700::6811:59ef
+2606:4700::6811:5aef
+
+# Cloudflare — every1dns.net
+# (no public DNS addresses found)
+
+# Cloudflare — one.one.one
+# (no public DNS addresses found)
+
+# Cloudflare — pacloudflare.com
+# (no public DNS addresses found)
+
+# Cloudflare — pages.dev
+2606:4700::6812:1487
+2606:4700::6812:1587
+
+# Cloudflare — trycloudflare.com
+2606:4700::6810:e684
+2606:4700::6810:e784
+
+# Cloudflare — videodelivery.net
+2606:4700::6810:c723
+2606:4700::6810:c823
+2606:4700::6810:c923
+2606:4700::6810:ca23
+2606:4700::6810:cb23
+
+# Cloudflare — warp.plus
+# (no public DNS addresses found)
+
+# Cloudflare — workers.dev
+2606:4700::6812:c0f
+2606:4700::6812:d0f

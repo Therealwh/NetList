@@ -3,3 +3,9 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Контур — kontur.ru
 46.17.206.11
+
+# Контур — metrika.kontur.ru
+46.17.203.250
+
+# Контур — sentry.kontur.host
+46.17.203.17

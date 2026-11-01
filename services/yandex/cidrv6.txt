@@ -1,12 +1,160 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Яндекс — adfstat.yandex.ru
+2a02:6b8::346/128
+
+# Яндекс — ads.yandex.com
+2a02:6b8::4d5/128
+
+# Яндекс — ads.yango.com
+# (no public DNS addresses found)
+
+# Яндекс — adsdk.yandex.ru
+2a02:6b8::4:120/128
+
+# Яндекс — amc.yandex.ru
+2a02:6b8::1:254/128
+
+# Яндекс — analytics.mobile.yandex.net
+2a02:6b8::3:207/128
+
+# Яндекс — clck.yandex.com
+2a02:6b8::14/128
+
+# Яндекс — clck.yandex.net
+2a02:6b8::1f4/128
+
+# Яндекс — clck.yango.com
+# (no public DNS addresses found)
+
+# Яндекс — informer.yandex.ru
+2a02:6b8::1:119/128
+
+# Яндекс — log.strm.yandex.ru
+2a02:6b8:24::77/128
+2a02:6b8::28d/128
+
+# Яндекс — mc.yandex.com
+2a02:6b8::1:119/128
+
+# Яндекс — mc.yandex.net
+# (no public DNS addresses found)
+
+# Яндекс — mc.yango.com
+# (no public DNS addresses found)
+
+# Яндекс — pixel.yandex.com
+2a02:6b8::242/128
+
+# Яндекс — report.ap.yandex-net.ru
+2a02:6b8::3:207/128
+
+# Яндекс — xn--d1acpjx3f.xn--p1ai
+2a02:6b8::242/128
+
 # Яндекс — ya.ru
 2a02:6b8::2:242/128
+
+# Яндекс — yadi.sk
+2a02:6b8::2:50/128
+
+# Яндекс — yandex-team.ru
+2a02:6b8::3fe/128
+
+# Яндекс — yandex.aero
+2a02:6b8::242/128
+
+# Яндекс — yandex.az
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.by
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.co.il
+2a02:6b8:a::a/128
 
 # Яндекс — yandex.com
 2a02:6b8:a::a/128
 
+# Яндекс — yandex.com.am
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.com.ge
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.com.ru
+2a02:6b8::242/128
+
+# Яндекс — yandex.com.tr
+2a14:48c6::11/128
+
+# Яндекс — yandex.com.ua
+# (no public DNS addresses found)
+
+# Яндекс — yandex.de
+2a02:6b8::242/128
+
+# Яндекс — yandex.ee
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.eu
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.fi
+2a02:6b8::242/128
+
+# Яндекс — yandex.fr
+2a02:6b8::242/128
+
+# Яндекс — yandex.jobs
+2a02:6b8::242/128
+
+# Яндекс — yandex.kg
+# (no public DNS addresses found)
+
+# Яндекс — yandex.kz
+2a14:48c5::2/128
+
+# Яндекс — yandex.lt
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.lv
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.md
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.net
+2a02:6b8::242/128
+
 # Яндекс — yandex.ru
 2a02:6b8:a::a/128
+
+# Яндекс — yandex.st
+2a02:6b8:23::225/128
+
+# Яндекс — yandex.sx
+# (no public DNS addresses found)
+
+# Яндекс — yandex.tj
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.tm
+2a02:6b8:a::a/128
+
+# Яндекс — yandex.ua
+# (no public DNS addresses found)
+
+# Яндекс — yandex.uz
+2a02:6b8:a::a/128
+
+# Яндекс — yandexcloud.net
+# (no public DNS addresses found)
+
+# Яндекс — yandexmetrica.com
+# (no public DNS addresses found)
+
+# Яндекс — yandexusercontent.com
+# (no public DNS addresses found)
 
 # Яндекс — yastatic.net
 2a02:6b8:23::225/128

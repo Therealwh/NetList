@@ -1,8 +1,35 @@
 # DNS-derived IP snapshot for Reddit (reddit)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Reddit — redd.it
+2a04:4e42:200::396
+2a04:4e42:400::396
+2a04:4e42:600::396
+2a04:4e42::396
+
 # Reddit — reddit.com
 2a04:4e42:200::396
 2a04:4e42:400::396
 2a04:4e42:600::396
 2a04:4e42::396
+
+# Reddit — redditmail.com
+# (no public DNS addresses found)
+
+# Reddit — redditmedia.com
+2a04:4e42:200::396
+2a04:4e42:400::396
+2a04:4e42:600::396
+2a04:4e42::396
+
+# Reddit — redditstatic.com
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com.cdn-cf.behance.net
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com.cdn-cf.dropbox.com
+# (no public DNS addresses found)

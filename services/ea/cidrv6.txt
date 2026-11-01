@@ -1,4 +1,496 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# EA — anthemgame.com
+# (no public DNS addresses found)
+
+# EA — anthemthegame.com
+# (no public DNS addresses found)
+
+# EA — apexlegends.com
+# (no public DNS addresses found)
+
+# EA — awayoutgame.com
+# (no public DNS addresses found)
+
+# EA — battlefield.com
+# (no public DNS addresses found)
+
+# EA — battlefield1943.com
+# (no public DNS addresses found)
+
+# EA — battlefield3.com
+# (no public DNS addresses found)
+
+# EA — battlefield4.com
+# (no public DNS addresses found)
+
+# EA — battlefield5.com
+# (no public DNS addresses found)
+
+# EA — battlefieldbadcompany2.com
+# (no public DNS addresses found)
+
+# EA — battlefieldheroes.com
+# (no public DNS addresses found)
+
+# EA — battlefieldv.com
+# (no public DNS addresses found)
+
+# EA — battlefront2.com
+# (no public DNS addresses found)
+
+# EA — battlefrontii.com
+# (no public DNS addresses found)
+
+# EA — battlelog.com
+# (no public DNS addresses found)
+
+# EA — bejeweledstars.com
+# (no public DNS addresses found)
+
+# EA — bejewled-stars.com
+# (no public DNS addresses found)
+
+# EA — bioware.com
+# (no public DNS addresses found)
+
+# EA — biowarestore.com
+# (no public DNS addresses found)
+
+# EA — blackboxgames.com
+# (no public DNS addresses found)
+
+# EA — camelot-europe.com
+# (no public DNS addresses found)
+
+# EA — camelotherald.com
+# (no public DNS addresses found)
+
+# EA — camelotherald.net
+# (no public DNS addresses found)
+
+# EA — capitalgames.com
+# (no public DNS addresses found)
+
+# EA — chillingo.com
+# (no public DNS addresses found)
+
+# EA — cloudsync-prod.s3.amazonaws.com
+# (no public DNS addresses found)
+
+# EA — cncrivals.com
+# (no public DNS addresses found)
+
+# EA — commandandconquer.com
+# (no public DNS addresses found)
+
+# EA — conquerwithcharacter.com
+# (no public DNS addresses found)
+
+# EA — crysis.jp
+# (no public DNS addresses found)
+
+# EA — daoc.net
+# (no public DNS addresses found)
+
+# EA — darkageofcamelot.com
+# (no public DNS addresses found)
+
+# EA — darkness-risen.com
+# (no public DNS addresses found)
+
+# EA — dawngate.com
+# (no public DNS addresses found)
+
+# EA — dawngatechronicles.com
+# (no public DNS addresses found)
+
+# EA — deadspacegame.com
+# (no public DNS addresses found)
+
+# EA — dice.se
+# (no public DNS addresses found)
+
+# EA — dicela.com
+# (no public DNS addresses found)
+
+# EA — dicela.net
+# (no public DNS addresses found)
+
+# EA — dragonage.com
+# (no public DNS addresses found)
+
+# EA — dragonagekeep.com
+# (no public DNS addresses found)
+
+# EA — dragonagemovie.com
+# (no public DNS addresses found)
+
+# EA — dungeonkeeper.cn
+# (no public DNS addresses found)
+
+# EA — dungeonkeeper.com
+# (no public DNS addresses found)
+
+# EA — dungeonkeeper.com.cn
+# (no public DNS addresses found)
+
+# EA — ea-anz-press.com
+# (no public DNS addresses found)
+
 # EA — ea.com
-2600:1404:200:285::1127/128
-2600:1404:200:290::1127/128
+2600:1405:7400:293::1127/128
+2600:1405:7400:299::1127/128
+
+# EA — ea.tt.omtrdc.net
+# (no public DNS addresses found)
+
+# EA — eaaccess.com
+# (no public DNS addresses found)
+
+# EA — eaasserts-a.akamaihd.net
+# (no public DNS addresses found)
+
+# EA — eaassets-a.akamaihd.net
+# (no public DNS addresses found)
+
+# EA — eablackbox.com
+# (no public DNS addresses found)
+
+# EA — eacashcard.com
+# (no public DNS addresses found)
+
+# EA — eacodigos.com
+# (no public DNS addresses found)
+
+# EA — eafootballworld.com
+# (no public DNS addresses found)
+
+# EA — eakorea.co.kr
+# (no public DNS addresses found)
+
+# EA — eamirrorsedge.com
+# (no public DNS addresses found)
+
+# EA — eamobile.com
+# (no public DNS addresses found)
+
+# EA — eamythic.com
+# (no public DNS addresses found)
+
+# EA — eamythic.net
+# (no public DNS addresses found)
+
+# EA — eanordic.com
+# (no public DNS addresses found)
+
+# EA — eaplay.com
+# (no public DNS addresses found)
+
+# EA — easports.com
+# (no public DNS addresses found)
+
+# EA — easports.jp
+# (no public DNS addresses found)
+
+# EA — easportsactive.com
+# (no public DNS addresses found)
+
+# EA — easportsactiveonline.com
+# (no public DNS addresses found)
+
+# EA — easportsfootball.com
+# (no public DNS addresses found)
+
+# EA — easportsfootballclub.com
+# (no public DNS addresses found)
+
+# EA — easportsmma.com
+# (no public DNS addresses found)
+
+# EA — easportsworld.com
+# (no public DNS addresses found)
+
+# EA — eastore.com
+# (no public DNS addresses found)
+
+# EA — electronicarts.com
+# (no public DNS addresses found)
+
+# EA — electronicarts.fr
+# (no public DNS addresses found)
+
+# EA — fifastreet.com
+# (no public DNS addresses found)
+
+# EA — fifastreet3.com
+# (no public DNS addresses found)
+
+# EA — frostbite.com
+# (no public DNS addresses found)
+
+# EA — futpromos.com
+# (no public DNS addresses found)
+
+# EA — futunited.com
+# (no public DNS addresses found)
+
+# EA — ghostgames.com
+# (no public DNS addresses found)
+
+# EA — heroesofdragonage.com
+# (no public DNS addresses found)
+
+# EA — hutpromos.com
+# (no public DNS addresses found)
+
+# EA — industrialtoys.com
+# (no public DNS addresses found)
+
+# EA — lordofultima.com
+# (no public DNS addresses found)
+
+# EA — maddenchampionship.com
+# (no public DNS addresses found)
+
+# EA — maddenrewards.com
+# (no public DNS addresses found)
+
+# EA — maddenseason.info
+# (no public DNS addresses found)
+
+# EA — maddenseason.net
+# (no public DNS addresses found)
+
+# EA — maddenseason.org
+# (no public DNS addresses found)
+
+# EA — masseffect.com
+# (no public DNS addresses found)
+
+# EA — masseffectarchives.com
+# (no public DNS addresses found)
+
+# EA — maxis.com
+# (no public DNS addresses found)
+
+# EA — mirrorsedge.com
+# (no public DNS addresses found)
+
+# EA — mirrorsedge.jp
+# (no public DNS addresses found)
+
+# EA — mirrorsedge.net
+# (no public DNS addresses found)
+
+# EA — mirrorsedge2.com
+# (no public DNS addresses found)
+
+# EA — mirrorsedge2d.com
+# (no public DNS addresses found)
+
+# EA — mysims.com
+# (no public DNS addresses found)
+
+# EA — mysimsracing.com
+# (no public DNS addresses found)
+
+# EA — mythicentertainment.com
+# (no public DNS addresses found)
+
+# EA — mythicentertainment.net
+# (no public DNS addresses found)
+
+# EA — mythicgames.com
+# (no public DNS addresses found)
+
+# EA — needforspeed.com
+# (no public DNS addresses found)
+
+# EA — needforspeedboost.com
+# (no public DNS addresses found)
+
+# EA — needforspeeddriftkings.com
+# (no public DNS addresses found)
+
+# EA — needforspeedeliminator.com
+# (no public DNS addresses found)
+
+# EA — needforspeedlightning.com
+# (no public DNS addresses found)
+
+# EA — needforspeedoverdrive.com
+# (no public DNS addresses found)
+
+# EA — needforspeedproven.com
+# (no public DNS addresses found)
+
+# EA — needforspeedredline.com
+# (no public DNS addresses found)
+
+# EA — needforspeedshowdown.com
+# (no public DNS addresses found)
+
+# EA — needforspeedstreetkings.com
+# (no public DNS addresses found)
+
+# EA — needforspeedtakedown.com
+# (no public DNS addresses found)
+
+# EA — needforspeedtherun.com
+# (no public DNS addresses found)
+
+# EA — needforspeedtimeattack.com
+# (no public DNS addresses found)
+
+# EA — needforspeedundergroundeast.com
+# (no public DNS addresses found)
+
+# EA — nfsworld.com
+# (no public DNS addresses found)
+
+# EA — origin-a.akamaihd.net
+# (no public DNS addresses found)
+
+# EA — origin.com
+# (no public DNS addresses found)
+
+# EA — origin.tv
+# (no public DNS addresses found)
+
+# EA — originasserts.akamaized.net
+# (no public DNS addresses found)
+
+# EA — plantsvszombies2.com
+# (no public DNS addresses found)
+
+# EA — play4free.com
+# (no public DNS addresses found)
+
+# EA — playapex.com
+# (no public DNS addresses found)
+
+# EA — pogo.com
+# (no public DNS addresses found)
+
+# EA — pogobeta.com
+# (no public DNS addresses found)
+
+# EA — popcap.com
+# (no public DNS addresses found)
+
+# EA — projectapex.com
+# (no public DNS addresses found)
+
+# EA — pvzgw2.com
+# (no public DNS addresses found)
+
+# EA — pvzheroes.com
+# (no public DNS addresses found)
+
+# EA — seaofsolitude.com
+2001:8d8:100f:f000::200/128
+
+# EA — simcity-buildit.com
+# (no public DNS addresses found)
+
+# EA — simcity.com
+# (no public DNS addresses found)
+
+# EA — skate2.com
+# (no public DNS addresses found)
+
+# EA — spearhead.kr
+# (no public DNS addresses found)
+
+# EA — speedhunters.com
+# (no public DNS addresses found)
+
+# EA — spore.com
+# (no public DNS addresses found)
+
+# EA — ssx3.com
+# (no public DNS addresses found)
+
+# EA — starwarsbattlefront.com
+2600:1901:0:84f4::80/128
+
+# EA — starwarsbattlefront2.com
+# (no public DNS addresses found)
+
+# EA — starwarsfallenorder.com
+# (no public DNS addresses found)
+
+# EA — starwarsjedifallenorder.com
+# (no public DNS addresses found)
+
+# EA — starwarstheoldrepublic.com
+# (no public DNS addresses found)
+
+# EA — swjedifallenorder.com
+# (no public DNS addresses found)
+
+# EA — swjfo.com
+# (no public DNS addresses found)
+
+# EA — swtor.com
+# (no public DNS addresses found)
+
+# EA — swtor.net
+# (no public DNS addresses found)
+
+# EA — teamneedforspeed.com
+# (no public DNS addresses found)
+
+# EA — thedreadwolfrises.com
+# (no public DNS addresses found)
+
+# EA — thesims.com
+# (no public DNS addresses found)
+
+# EA — thesims3.com
+# (no public DNS addresses found)
+
+# EA — thesims4.com
+# (no public DNS addresses found)
+
+# EA — thesimssocial.com
+# (no public DNS addresses found)
+
+# EA — tiberiumalliances.com
+# (no public DNS addresses found)
+
+# EA — tiburon.com
+# (no public DNS addresses found)
+
+# EA — titanfall.com
+# (no public DNS addresses found)
+
+# EA — tnt-ea.com
+# (no public DNS addresses found)
+
+# EA — ultimaforever.com
+# (no public DNS addresses found)
+
+# EA — ultimaonline.com
+# (no public DNS addresses found)
+
+# EA — unravel2.com
+# (no public DNS addresses found)
+
+# EA — unraveltwo.com
+# (no public DNS addresses found)
+
+# EA — uo.com
+# (no public DNS addresses found)
+
+# EA — uoherald.com
+# (no public DNS addresses found)
+
+# EA — visceralgames.com
+# (no public DNS addresses found)
+
+# EA — xdsummit.com
+# (no public DNS addresses found)
+
+# EA — yogify.com
+# (no public DNS addresses found)

@@ -1,8 +1,79 @@
 # DNS-derived IP snapshot for Prime Video (prime-video)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Prime Video — aiv-cdn.net
+# (no public DNS addresses found)
+
+# Prime Video — aiv-delivery.net
+# (no public DNS addresses found)
+
+# Prime Video — amazonvideo.com
+108.156.245.38
+108.156.245.57
+108.156.245.63
+108.156.245.80
+
+# Prime Video — atv-ps.amazon.com
+52.84.217.127
+52.84.217.26
+52.84.217.28
+52.84.217.84
+
+# Prime Video — avodmp4s3ww-a.akamaihd.net
+23.205.110.4
+23.205.110.53
+
+# Prime Video — d1v5ir2lpwr8os.cloudfront.net
+3.167.237.117
+3.167.237.138
+3.167.237.150
+3.167.237.93
+
+# Prime Video — d22qjgkvxw22r6.cloudfront.net
+13.225.61.10
+13.225.61.109
+13.225.61.17
+13.225.61.6
+
+# Prime Video — d25xi40x97liuc.cloudfront.net
+52.84.217.40
+52.84.217.48
+52.84.217.72
+52.84.217.77
+
+# Prime Video — d27xxe7juh1us6.cloudfront.net
+108.138.159.125
+108.138.159.51
+108.138.159.77
+108.138.159.81
+
+# Prime Video — dmqdd6hw24ucf.cloudfront.net
+13.32.115.21
+13.32.115.42
+13.32.115.66
+13.32.115.68
+
+# Prime Video — fls-na.amazon.com
+18.209.85.145
+3.230.138.34
+3.232.168.109
+3.91.115.136
+35.169.5.99
+54.166.188.141
+54.175.15.229
+54.208.151.43
+
+# Prime Video — media-amazon.com
+# (no public DNS addresses found)
+
 # Prime Video — primevideo.com
 108.156.245.38
 108.156.245.57
 108.156.245.63
 108.156.245.80
+
+# Prime Video — pv-cdn.net
+# (no public DNS addresses found)
+
+# Prime Video — www.amazon.com
+3.168.137.124

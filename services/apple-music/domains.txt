@@ -1,3 +1,17 @@
 # NetList seed candidates: Apple Music
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+amp-api-edge.music.apple.com
+amp-api.music.apple.com
+aod-ssl.itunes.apple.com
+aod.itunes.apple.com
+applemusic.com
+audio-ssl.itunes.apple.com
+audio.itunes.apple.com
+blobstore.apple.com
+js-cdn.music.apple.com
 music.apple.com
+musicstatus.music.apple.com
+mvod.itunes.apple.com
+play.music.apple.com
+speedysub.music.apple.com
+streamingaudio.itunes.apple.com

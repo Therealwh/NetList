@@ -1,3 +1,12 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Tidal — tidal-cms.s3.amazonaws.com
+# (no public DNS addresses found)
+
 # Tidal — tidal.com
+# (no public DNS addresses found)
+
+# Tidal — tidalhifi.com
+# (no public DNS addresses found)
+
+# Tidal — wimpmusic.com
 # (no public DNS addresses found)

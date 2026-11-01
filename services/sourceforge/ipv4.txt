@@ -1,6 +1,16 @@
 # DNS-derived IP snapshot for SourceForge (sourceforge)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# SourceForge — fsdn.com
+216.105.38.14
+
+# SourceForge — sf.net
+104.18.20.237
+104.18.21.237
+
+# SourceForge — sourceforge.com
+204.68.111.105
+
 # SourceForge — sourceforge.net
 104.18.12.149
 104.18.13.149

@@ -1,5 +1,17 @@
 # DNS-derived IP snapshot for Dailymotion (dailymotion)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Dailymotion — dai.ly
+195.8.215.181
+
 # Dailymotion — dailymotion.com
 195.8.215.136
+
+# Dailymotion — dm-event.net
+188.65.124.58
+
+# Dailymotion — dmcdn.net
+195.8.215.136
+
+# Dailymotion — dmxleo.com
+# (no public DNS addresses found)

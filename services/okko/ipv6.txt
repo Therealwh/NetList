@@ -1,5 +1,8 @@
 # DNS-derived IP snapshot for Окко (okko)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Окко — okko.sport
+# (no public DNS addresses found)
+
 # Окко — okko.tv
 # (no public DNS addresses found)

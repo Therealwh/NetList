@@ -3,3 +3,40 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Zoho — zoho.com
 136.143.190.155
+
+# Zoho — zoho.com.au
+103.138.128.98
+
+# Zoho — zoho.eu
+185.230.212.52
+
+# Zoho — zoho.in
+169.148.148.97
+
+# Zoho — zohocdn.com
+# (no public DNS addresses found)
+
+# Zoho — zohomeetups.com
+136.143.190.241
+
+# Zoho — zohomerchandise.com
+# (no public DNS addresses found)
+
+# Zoho — zohopublic.com
+136.143.191.215
+
+# Zoho — zohoschools.com
+169.148.148.139
+
+# Zoho — zohostatic.com
+136.143.190.123
+
+# Zoho — zohostatic.in
+103.89.74.86
+169.148.148.98
+
+# Zoho — zohouniversity.com
+136.143.189.12
+
+# Zoho — zohowebstatic.com
+204.141.42.86

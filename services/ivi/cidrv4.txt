@@ -1,5 +1,13 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Иви — ivi-cdn.net
+# (no public DNS addresses found)
+
 # Иви — ivi.ru
+80.67.43.1/32
+80.67.43.33/32
+80.67.43.65/32
+
+# Иви — ivi.tv
 80.67.43.1/32
 80.67.43.33/32
 80.67.43.65/32

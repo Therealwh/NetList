@@ -1,6 +1,24 @@
 # NetList seed candidates: VK
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+adblogger.vk.com
+adblogger.vk.ru
+ads.vk.com
+ads.vk.ru
+adv.vk.ru
+advk.vk.ru
+analytics.vk.ru
+mvk.com
+stats.vk-portal.net
+target.vk.com
 userapi.com
+vk-apps.com
+vk-cdn.me
+vk-cdn.net
+vk-portal.net
+vk.cc
 vk.com
 vk.ru
+vkuseraudio.net
 vkuserlive.net
+vkuserphoto.ru
+vkuservideo.net

@@ -1,4 +1,10 @@
 # NetList seed candidates: Docker Hub
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+compose-spec.io
+d1q6f0aelx0por.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
+d36jcksde1wxzq.cloudfront.net
 docker.com
+docker.io
+dockerhub.com
 hub.docker.com

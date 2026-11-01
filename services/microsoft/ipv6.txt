@@ -1,6 +1,44 @@
 # DNS-derived IP snapshot for Microsoft (microsoft)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Microsoft — 1drv.com
+# (no public DNS addresses found)
+
+# Microsoft — 1drv.ms
+# (no public DNS addresses found)
+
+# Microsoft — 21vbc.com
+# (no public DNS addresses found)
+
+# Microsoft — 21vbluecloud.com
+# (no public DNS addresses found)
+
+# Microsoft — 21vbluecloud.net
+# (no public DNS addresses found)
+
+# Microsoft — a-msedge.net
+# (no public DNS addresses found)
+
+# Microsoft — a1158.g.akamai.net
+# (no public DNS addresses found)
+
+# Microsoft — a122.dscg3.akamai.net
+2600:1404:ec00:2406::17db:570b
+2600:1404:ec00:2406::17db:570f
+2600:1404:ec00:240a::1735:7fc9
+
+# Microsoft — a767.dscg3.akamai.net
+2600:1404:ec00:2408::1735:7fe7
+2600:1404:ec00:240a::1735:7fc5
+2600:1404:ec00:240c::1735:7faa
+2600:1404:ec00:240c::1735:7faf
+
+# Microsoft — aadrm.cn
+# (no public DNS addresses found)
+
+# Microsoft — aadrm.com
+# (no public DNS addresses found)
+
 # Microsoft — account.activedirectory.windowsazure.com
 2603:1037:1:148::
 2603:1037:1:148::1
@@ -13,9 +51,36 @@
 # Microsoft — account.live.com
 # (no public DNS addresses found)
 
+# Microsoft — acompli.com
+# (no public DNS addresses found)
+
+# Microsoft — acompli.net
+# (no public DNS addresses found)
+
+# Microsoft — adaptivecards.io
+# (no public DNS addresses found)
+
 # Microsoft — adminwebservice.microsoftonline.com
-2603:1037:1:148::7
-2603:1037:1:148::8
+2603:1036:3000:c8::8
+2603:1036:3000:d0::8
+
+# Microsoft — aggresmart.com
+# (no public DNS addresses found)
+
+# Microsoft — aicscience.com
+# (no public DNS addresses found)
+
+# Microsoft — aka.ms
+# (no public DNS addresses found)
+
+# Microsoft — akadns.net
+# (no public DNS addresses found)
+
+# Microsoft — ankarazirvesi2018.com
+2600:1900:4001:96e:8000:1:e860:8c47
+
+# Microsoft — api-extractor.com
+# (no public DNS addresses found)
 
 # Microsoft — api.passwordreset.microsoftonline.com
 2603:1037:1:148::
@@ -26,34 +91,468 @@
 2603:1037:1:148::5
 2603:1037:1:148::6
 
+# Microsoft — apihub-internal.cn
+# (no public DNS addresses found)
+
+# Microsoft — apisof.net
+# (no public DNS addresses found)
+
+# Microsoft — appcenter.ms
+# (no public DNS addresses found)
+
+# Microsoft — applicationinsights.io
+# (no public DNS addresses found)
+
+# Microsoft — applicationinsights.net
+# (no public DNS addresses found)
+
+# Microsoft — appserviceenvironment.cn
+# (no public DNS addresses found)
+
+# Microsoft — aria.ms
+# (no public DNS addresses found)
+
+# Microsoft — asp.net
+# (no public DNS addresses found)
+
+# Microsoft — aspnetcdn.com
+# (no public DNS addresses found)
+
+# Microsoft — assets-yammer.com
+# (no public DNS addresses found)
+
 # Microsoft — auth.microsoft.com
 # (no public DNS addresses found)
 
 # Microsoft — autologon.microsoftazuread-sso.com
-2603:1036:3000:148::2
-2603:1036:3000:148::6
-2603:1036:3000:148::8
-2603:1036:3000:148::c
-2603:1037:1:148::14
-2603:1037:1:148::c
-2603:1037:1:148::d
-2603:1037:1:148::f
+2603:1036:3000:e8::2
+2603:1036:3000:e8::3
+2603:1036:3000:e8::4
+2603:1036:3000:f0::1
+2603:1036:3000:f0::4
+2603:1036:3000:f8::1
+2603:1036:3000:f8::2
+2603:1036:3000:f8::3
+
+# Microsoft — azcrmc-test.cn
+# (no public DNS addresses found)
+
+# Microsoft — azcrmc.cn
+# (no public DNS addresses found)
+
+# Microsoft — azk8s.cn
+# (no public DNS addresses found)
+
+# Microsoft — aznbcontent.cn
+# (no public DNS addresses found)
+
+# Microsoft — aztask.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-api.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-apihub.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-apim.net
+# (no public DNS addresses found)
+
+# Microsoft — azure-automation.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-connectedvehicles-stage.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-connectedvehicles.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-devices-int.net
+# (no public DNS addresses found)
+
+# Microsoft — azure-devices-provisioning.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-devices.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-devices.net
+# (no public DNS addresses found)
+
+# Microsoft — azure-dns.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure-dns.com
+# (no public DNS addresses found)
+
+# Microsoft — azure-dns.info
+# (no public DNS addresses found)
+
+# Microsoft — azure-dns.net
+# (no public DNS addresses found)
+
+# Microsoft — azure-dns.org
+# (no public DNS addresses found)
+
+# Microsoft — azure-mobile.net
+# (no public DNS addresses found)
+
+# Microsoft — azure-sphere.com
+# (no public DNS addresses found)
+
+# Microsoft — azure-test.net
+# (no public DNS addresses found)
+
+# Microsoft — azure.cn
+# (no public DNS addresses found)
+
+# Microsoft — azure.com
+# (no public DNS addresses found)
+
+# Microsoft — azure.net
+2603:1010:3:3::5b
+2603:1020:201:10::10f
+2603:1030:20e:3::23c
+2603:1030:b:3::152
+2603:1030:c02:8::14
+
+# Microsoft — azurecomcdn.net
+# (no public DNS addresses found)
+
+# Microsoft — azurecomm.net
+# (no public DNS addresses found)
+
+# Microsoft — azurecontainer.io
+# (no public DNS addresses found)
+
+# Microsoft — azurecosmos.net
+# (no public DNS addresses found)
+
+# Microsoft — azurecosmosdb.com
+# (no public DNS addresses found)
+
+# Microsoft — azurecosmosdb.info
+# (no public DNS addresses found)
+
+# Microsoft — azurecosmosdb.net
+# (no public DNS addresses found)
+
+# Microsoft — azurecr-test.cn
+# (no public DNS addresses found)
+
+# Microsoft — azurecr.cn
+# (no public DNS addresses found)
+
+# Microsoft — azuredatabricks.net
+# (no public DNS addresses found)
+
+# Microsoft — azuredevopslaunch.com
+# (no public DNS addresses found)
+
+# Microsoft — azuredigitaltwin.com
+# (no public DNS addresses found)
+
+# Microsoft — azuredigitaltwins.com
+# (no public DNS addresses found)
+
+# Microsoft — azuredigitaltwins.net
+# (no public DNS addresses found)
+
+# Microsoft — azuredns-prd.info
+# (no public DNS addresses found)
+
+# Microsoft — azuredns-prd.org
+# (no public DNS addresses found)
+
+# Microsoft — azureedge-test.net
+# (no public DNS addresses found)
 
 # Microsoft — azureedge.net
 # (no public DNS addresses found)
 
+# Microsoft — azurefd.net
+# (no public DNS addresses found)
+
+# Microsoft — azurefd.us
+# (no public DNS addresses found)
+
+# Microsoft — azurehdinsight.cn
+# (no public DNS addresses found)
+
+# Microsoft — azureiotcentral.com
+# (no public DNS addresses found)
+
+# Microsoft — azureiotsolutions.com
+# (no public DNS addresses found)
+
+# Microsoft — azureiotsuite.cn
+# (no public DNS addresses found)
+
+# Microsoft — azureiotsuite.com
+# (no public DNS addresses found)
+
+# Microsoft — azuremigrate.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — azuremigratetest.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+2600:1404:ec00:2408::1735:7fe7
+
+# Microsoft — azuremresolver.cn
+# (no public DNS addresses found)
+
+# Microsoft — azureplanetscale.info
+# (no public DNS addresses found)
+
+# Microsoft — azureplanetscale.net
+# (no public DNS addresses found)
+
+# Microsoft — azureprivatedns.cn
+# (no public DNS addresses found)
+
+# Microsoft — azurerms.cn
+# (no public DNS addresses found)
+
+# Microsoft — azurerms.com
+# (no public DNS addresses found)
+
+# Microsoft — azuresandbox.cn
+# (no public DNS addresses found)
+
+# Microsoft — azureserviceprofiler.com
+# (no public DNS addresses found)
+
+# Microsoft — azuresmartspaces.net
+# (no public DNS addresses found)
+
+# Microsoft — azurestackhub.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+2600:1404:ec00:2408::1735:7fe7
+
+# Microsoft — azurestackhubuat.download.prss.microsoft.com
+2a04:4e42:8a::684
+
+# Microsoft — azurestackvalidation.com
+# (no public DNS addresses found)
+
+# Microsoft — azurewebsites.net
+# (no public DNS addresses found)
+
+# Microsoft — b.akamaiedge.net
+# (no public DNS addresses found)
+
+# Microsoft — b.c2r.ts.cdn.office.net
+2a04:4e42:26::684
+
+# Microsoft — b2clogin.cn
+# (no public DNS addresses found)
+
+# Microsoft — b3itech.cn
+# (no public DNS addresses found)
+
+# Microsoft — bbing.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
 # Microsoft — becws.microsoftonline.com
 # (no public DNS addresses found)
 
+# Microsoft — beth.games
+# (no public DNS addresses found)
+
+# Microsoft — bethesda.net
+2600:9000:2466:2e00:1d:9d0:cd40:93a1
+2600:9000:2466:4800:1d:9d0:cd40:93a1
+2600:9000:2466:7c00:1d:9d0:cd40:93a1
+2600:9000:2466:ba00:1d:9d0:cd40:93a1
+2600:9000:2466:c000:1d:9d0:cd40:93a1
+2600:9000:2466:c800:1d:9d0:cd40:93a1
+2600:9000:2466:d800:1d:9d0:cd40:93a1
+2600:9000:2466:e000:1d:9d0:cd40:93a1
+
+# Microsoft — bethesdagamestudios.com
+2600:9000:2337:1400:1d:336e:4880:93a1
+2600:9000:2337:5200:1d:336e:4880:93a1
+2600:9000:2337:7200:1d:336e:4880:93a1
+2600:9000:2337:7c00:1d:336e:4880:93a1
+2600:9000:2337:b200:1d:336e:4880:93a1
+2600:9000:2337:cc00:1d:336e:4880:93a1
+2600:9000:2337:d200:1d:336e:4880:93a1
+2600:9000:2337:d600:1d:336e:4880:93a1
+
+# Microsoft — bethsoft.com
+# (no public DNS addresses found)
+
+# Microsoft — bibg.com
+# (no public DNS addresses found)
+
+# Microsoft — biing.com
+# (no public DNS addresses found)
+
+# Microsoft — binads.com
+# (no public DNS addresses found)
+
+# Microsoft — binb.com
+# (no public DNS addresses found)
+
+# Microsoft — binf.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
+# Microsoft — bing.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
+# Microsoft — bing.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — bing.net
+# (no public DNS addresses found)
+
+# Microsoft — bing123.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
+# Microsoft — bing135.com
+# (no public DNS addresses found)
+
+# Microsoft — bing4.com
+# (no public DNS addresses found)
+
+# Microsoft — bingads.com
+# (no public DNS addresses found)
+
+# Microsoft — bingagencyawards.com
+# (no public DNS addresses found)
+
+# Microsoft — bingapis.com
+# (no public DNS addresses found)
+
+# Microsoft — bingapistatistics.com
+# (no public DNS addresses found)
+
+# Microsoft — binginternal.com
+# (no public DNS addresses found)
+
+# Microsoft — bingit.net
+2620:1ec:33:1::10
+2620:1ec:33::10
+
+# Microsoft — bingiton.com
+# (no public DNS addresses found)
+
+# Microsoft — bingj.com
+# (no public DNS addresses found)
+
+# Microsoft — bingpix.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
+# Microsoft — bingpk.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
+# Microsoft — bings.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
+# Microsoft — bingsandbox.com
+# (no public DNS addresses found)
+
+# Microsoft — bingtoolbar.com
+# (no public DNS addresses found)
+
+# Microsoft — bingtranslator.com
+# (no public DNS addresses found)
+
+# Microsoft — bingvisualsearch.com
+# (no public DNS addresses found)
+
+# Microsoft — bingworld.com
+# (no public DNS addresses found)
+
+# Microsoft — biying.cn
+# (no public DNS addresses found)
+
+# Microsoft — biying.com
+# (no public DNS addresses found)
+
+# Microsoft — biying.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — blazor.net
+# (no public DNS addresses found)
+
+# Microsoft — blueaggrestore.com
+# (no public DNS addresses found)
+
+# Microsoft — bluecloudprod.com
+# (no public DNS addresses found)
+
+# Microsoft — bluehatil.com
+# (no public DNS addresses found)
+
+# Microsoft — bluehatnights.com
+# (no public DNS addresses found)
+
+# Microsoft — boswp.com
+# (no public DNS addresses found)
+
+# Microsoft — botframework.com
+# (no public DNS addresses found)
+
+# Microsoft — brazilpartneruniversity.com
+# (no public DNS addresses found)
+
+# Microsoft — breakdown.me
+# (no public DNS addresses found)
+
+# Microsoft — c-msedge.net
+# (no public DNS addresses found)
+
+# Microsoft — callersbane.com
+# (no public DNS addresses found)
+
+# Microsoft — cbdstest.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+
 # Microsoft — ccs.login.microsoftonline.com
-2603:1036:305:3427::2
-2603:1036:305:385b::2
-2603:1036:305:401a::2
-2603:1036:305:401e::2
-2603:1036:305:486c::2
-2603:1036:305:48c8::2
-2603:1036:305:48cc::2
-2603:1036:305:4946::2
+2603:1036:306:1806::2
+2603:1036:306:184b::2
+2603:1036:306:1850::2
+2603:1036:306:1852::2
+2603:1036:306:2002::2
+2603:1036:306:2005::2
+2603:1036:306:202d::2
+2603:1036:306:2052::2
+
+# Microsoft — cegid-cloud.cn
+# (no public DNS addresses found)
+
+# Microsoft — centralvalidation.com
+2600:1900:4001:96e:8000:1:3d6a:1a79
+
+# Microsoft — ch9.ms
+# (no public DNS addresses found)
+
+# Microsoft — charticulator.com
+2606:4700:3031::6815:1823
+2606:4700:3035::ac43:d8bd
+
+# Microsoft — chinacloud-mobile.cn
+# (no public DNS addresses found)
+
+# Microsoft — chinacloudapi.cn
+# (no public DNS addresses found)
+
+# Microsoft — chinacloudapp.cn
+# (no public DNS addresses found)
+
+# Microsoft — chinacloudsites.cn
+# (no public DNS addresses found)
 
 # Microsoft — cloud.microsoft
 2603:1010:3:3::5b
@@ -61,6 +560,24 @@
 2603:1030:20e:3::23c
 2603:1030:b:3::152
 2603:1030:c02:8::14
+
+# Microsoft — cloudapp.net
+# (no public DNS addresses found)
+
+# Microsoft — cloudappsecurity.com
+# (no public DNS addresses found)
+
+# Microsoft — cn.windowssearch.com
+# (no public DNS addresses found)
+
+# Microsoft — codethemicrobit.com
+# (no public DNS addresses found)
+
+# Microsoft — collaborate.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — collaborateppe.download.prss.microsoft.com
+2a04:4e42:26::684
 
 # Microsoft — companymanager.microsoftonline.com
 2603:1037:1:148::
@@ -71,15 +588,108 @@
 2603:1037:1:148::5
 2603:1037:1:148::6
 
+# Microsoft — cortana.ai
+# (no public DNS addresses found)
+
+# Microsoft — cortanaanalytics.com
+# (no public DNS addresses found)
+
+# Microsoft — cortanaskills.com
+# (no public DNS addresses found)
+
+# Microsoft — cosmosdb.info
+# (no public DNS addresses found)
+
+# Microsoft — cosmosdb.net
+# (no public DNS addresses found)
+
+# Microsoft — crmdynint-gcc.com
+# (no public DNS addresses found)
+
+# Microsoft — crmdynint.com
+# (no public DNS addresses found)
+
+# Microsoft — crossborderexpansion.com
+# (no public DNS addresses found)
+
+# Microsoft — cs11.wpc.v0cdn.net
+# (no public DNS addresses found)
+
+# Microsoft — cs9.wac.phicdn.net
+# (no public DNS addresses found)
+
+# Microsoft — ctldl.windowsupdate.com
+2a04:4e42:26::684
+
+# Microsoft — developer.microsoft.com
+2600:1405:7400:581::b69
+2600:1405:7400:588::b69
+
 # Microsoft — device.login.microsoftonline.com
-2603:1036:3000:148::7
-2603:1036:3000:148::b
-2603:1036:3000:148::c
-2603:1037:1:148::10
-2603:1037:1:148::13
-2603:1037:1:148::14
-2603:1037:1:148::9
-2603:1037:1:148::e
+2603:1036:3000:138::4
+2603:1036:3000:138::5
+2603:1037:1:128::6
+2603:1037:1:128::7
+2603:1037:1:128::8
+2603:1037:1:128::9
+2603:1037:1:130::4
+2603:1037:1:130::6
+
+# Microsoft — devopsassessment.net
+# (no public DNS addresses found)
+
+# Microsoft — devopsms.com
+# (no public DNS addresses found)
+
+# Microsoft — dictate.ms
+2606:4700:3031::6815:5286
+2606:4700:3036::ac43:9e3b
+
+# Microsoft — discoverbing.com
+# (no public DNS addresses found)
+
+# Microsoft — docs.com
+# (no public DNS addresses found)
+
+# Microsoft — doom.com
+2606:4700::6810:e887
+2606:4700::6810:e987
+
+# Microsoft — dot.net
+# (no public DNS addresses found)
+
+# Microsoft — download.microsoft.com
+# (no public DNS addresses found)
+
+# Microsoft — dreamspark.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — dreamsparkuat.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — dwh5.com
+# (no public DNS addresses found)
+
+# Microsoft — dynamics.cn
+# (no public DNS addresses found)
+
+# Microsoft — dynamics.com
+# (no public DNS addresses found)
+
+# Microsoft — e-msedge.net
+# (no public DNS addresses found)
+
+# Microsoft — edgesuite.net
+# (no public DNS addresses found)
+
+# Microsoft — efproject.net
+# (no public DNS addresses found)
+
+# Microsoft — elderscrolls.com
+# (no public DNS addresses found)
+
+# Microsoft — engkoo.com
+# (no public DNS addresses found)
 
 # Microsoft — enterpriseregistration.windows.net
 2603:1037:1:148::
@@ -90,82 +700,657 @@
 2603:1037:1:148::5
 2603:1037:1:148::6
 
+# Microsoft — evoke-windowsservices-tas.msedge
+# (no public DNS addresses found)
+
+# Microsoft — exp-tas.com
+# (no public DNS addresses found)
+
+# Microsoft — explorebing.com
+# (no public DNS addresses found)
+
+# Microsoft — f.c2r.ts.cdn.office.net
+2a04:4e42:8a::684
+
+# Microsoft — fabric.io
+2001:4860:4802:32::1d
+
+# Microsoft — fasttrackreadysupport.com
+# (no public DNS addresses found)
+
+# Microsoft — femalefounderscomp.com
+# (no public DNS addresses found)
+
+# Microsoft — flipwithsurface.com
+# (no public DNS addresses found)
+
+# Microsoft — fluidpreview.com
+# (no public DNS addresses found)
+
+# Microsoft — footprintdns.com
+# (no public DNS addresses found)
+
+# Microsoft — forzamotorsport.net
+# (no public DNS addresses found)
+
+# Microsoft — forzaracingchampionship.com
+# (no public DNS addresses found)
+
+# Microsoft — forzarc.com
+# (no public DNS addresses found)
+
+# Microsoft — g.akamaiedge.net
+# (no public DNS addresses found)
+
+# Microsoft — gamepass.com
+# (no public DNS addresses found)
+
+# Microsoft — gamesstack.com
+# (no public DNS addresses found)
+
+# Microsoft — gameuxmasterguide.com
+2606:4700:3036::ac43:ca77
+2606:4700:3037::6815:5532
+
+# Microsoft — gears5.com
+# (no public DNS addresses found)
+
+# Microsoft — gearspop.com
+# (no public DNS addresses found)
+
+# Microsoft — gearstactics.com
+# (no public DNS addresses found)
+
+# Microsoft — getmicrosoftkey.com
+# (no public DNS addresses found)
+
+# Microsoft — gfx.ms
+# (no public DNS addresses found)
+
+# Microsoft — gigjam.com
+# (no public DNS addresses found)
+
+# Microsoft — gotcosmos.com
+# (no public DNS addresses found)
+
 # Microsoft — graph.microsoft.com
-2603:1036:3000:150::80
-2603:1036:3000:150::81
-2603:1036:3000:158::80
-2603:1037:1:150::80
-2603:1037:1:158::80
-2603:1037:1:158::82
+2603:1036:3000:180::80
+2603:1036:3000:180::82
+
+# Microsoft — graphengine.io
+# (no public DNS addresses found)
+
+# Microsoft — groupme.com
+# (no public DNS addresses found)
+
+# Microsoft — hdinsightservices.cn
+# (no public DNS addresses found)
+
+# Microsoft — helpshift.com
+# (no public DNS addresses found)
+
+# Microsoft — here.com
+# (no public DNS addresses found)
+
+# Microsoft — here.net
+# (no public DNS addresses found)
+
+# Microsoft — heremaps.cn
+# (no public DNS addresses found)
+
+# Microsoft — hockeyapp.net
+# (no public DNS addresses found)
+
+# Microsoft — hololens.com
+# (no public DNS addresses found)
+
+# Microsoft — hotmail.co
+# (no public DNS addresses found)
+
+# Microsoft — hotmail.com
+# (no public DNS addresses found)
+
+# Microsoft — hotmail.eu
+# (no public DNS addresses found)
+
+# Microsoft — hotmail.net
+# (no public DNS addresses found)
+
+# Microsoft — hotmail.org
+# (no public DNS addresses found)
+
+# Microsoft — hummingbird.ms
+# (no public DNS addresses found)
+
+# Microsoft — ie10.com
+# (no public DNS addresses found)
+
+# Microsoft — ie11.com
+# (no public DNS addresses found)
+
+# Microsoft — ie8.co
+# (no public DNS addresses found)
+
+# Microsoft — ie9.com
+# (no public DNS addresses found)
+
+# Microsoft — imaginecup.pl
+# (no public DNS addresses found)
+
+# Microsoft — img-prod-cms-rt-microsoft-com.akamaized.net
+2600:1405:8400:3::17d1:540e
+2600:1405:8400:3::17d1:5422
+
+# Microsoft — img-s-msn-com.akamaized.net
+2600:1405:8400:3::17d1:541c
+2600:1405:8400:3::17d1:541d
+2600:1405:8400:3::17d1:5443
+2600:1405:8400:3::17d1:5444
+
+# Microsoft — ingads.com
+# (no public DNS addresses found)
+
+# Microsoft — insiderdevtour.com
+# (no public DNS addresses found)
+
+# Microsoft — internetexplorer.co
+# (no public DNS addresses found)
+
+# Microsoft — internetexplorer.com
+# (no public DNS addresses found)
+
+# Microsoft — intunewiki.com
+# (no public DNS addresses found)
+
+# Microsoft — iotinactionevents.com
+# (no public DNS addresses found)
+
+# Microsoft — itacademy.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — itacademyuat.download.prss.microsoft.com
+2a04:4e42:8a::684
+
+# Microsoft — joinms.com
+2600:1f18:4ae:c605:dd5d:b838:5816:d7fb
+2600:1f18:4ae:c606:78d4:4260:db4e:aeee
+
+# Microsoft — joinms.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — joinmva.com
+# (no public DNS addresses found)
+
+# Microsoft — jwt.ms
+# (no public DNS addresses found)
+
+# Microsoft — kidgrid.tv
+# (no public DNS addresses found)
+
+# Microsoft — kumo.com
+# (no public DNS addresses found)
+
+# Microsoft — latampartneruniversity.com
+# (no public DNS addresses found)
+
+# Microsoft — lex.download.prss.microsoft.com
+2a04:4e42:8a::684
+
+# Microsoft — lexuat.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+
+# Microsoft — live.cn
+# (no public DNS addresses found)
 
 # Microsoft — live.com
 # (no public DNS addresses found)
 
+# Microsoft — live.com.au
+# (no public DNS addresses found)
+
+# Microsoft — live.eu
+# (no public DNS addresses found)
+
+# Microsoft — live.net
+# (no public DNS addresses found)
+
+# Microsoft — livefilestore.com
+# (no public DNS addresses found)
+
+# Microsoft — livetileedge.dsx.mp.microsoft.com.edgekey.net
+2600:1405:8400:481::4106
+2600:1405:8400:487::4106
+
+# Microsoft — livingyourambition.com
+# (no public DNS addresses found)
+
+# Microsoft — localytics.com
+# (no public DNS addresses found)
+
 # Microsoft — login-us.microsoftonline.com
-2603:1036:3000:148::2
-2603:1036:3000:148::6
-2603:1036:3000:148::a
-2603:1036:3000:148::c
-2603:1037:1:148::11
-2603:1037:1:148::13
-2603:1037:1:148::c
-2603:1037:1:148::d
+2603:1036:3000:e8::1
+2603:1036:3000:e8::2
+2603:1036:3000:e8::3
+2603:1036:3000:e8::4
+2603:1036:3000:f0::1
+2603:1036:3000:f0::2
+2603:1036:3000:f0::3
+2603:1036:3000:f8::3
 
 # Microsoft — login.microsoft.com
-2603:1036:3000:60::10
-2603:1036:3000:60::12
-2603:1036:3000:60::16
-2603:1036:3000:60::1f
-2603:1036:3000:60::2
-2603:1036:3000:60::3
-2603:1036:3000:60::d
-2603:1037:1:60::10
+2603:1036:3000:e8::1
+2603:1036:3000:e8::2
+2603:1036:3000:e8::3
+2603:1036:3000:e8::4
+2603:1036:3000:f0::1
+2603:1036:3000:f0::4
+2603:1036:3000:f8::1
+2603:1036:3000:f8::3
 
 # Microsoft — login.microsoftonline.com
-2603:1036:3000:60::1
-2603:1036:3000:60::14
-2603:1036:3000:60::16
-2603:1036:3000:60::17
-2603:1036:3000:60::2
-2603:1036:3000:60::20
-2603:1036:3000:60::21
-2603:1036:3000:60::5
+2603:1036:3000:e8::1
+2603:1036:3000:e8::3
+2603:1036:3000:e8::4
+2603:1036:3000:f0::2
+2603:1036:3000:f0::3
+2603:1036:3000:f8::2
+2603:1036:3000:f8::3
+2603:1036:3000:f8::4
 
 # Microsoft — login.windows.net
-2603:1036:3000:148::1
-2603:1036:3000:148::3
-2603:1036:3000:148::6
-2603:1036:3000:148::7
-2603:1036:3000:148::c
-2603:1037:1:148::b
-2603:1037:1:148::e
-2603:1037:1:148::f
+2603:1036:3000:e8::1
+2603:1036:3000:e8::3
+2603:1036:3000:f0::2
+2603:1036:3000:f0::3
+2603:1036:3000:f0::4
+2603:1036:3000:f8::1
+2603:1036:3000:f8::3
+2603:1036:3000:f8::4
 
 # Microsoft — logincert.microsoftonline.com
-2603:1036:3000:148::1
-2603:1036:3000:148::8
-2603:1036:3000:148::a
-2603:1037:1:148::10
-2603:1037:1:148::14
-2603:1037:1:148::9
-2603:1037:1:148::a
-2603:1037:1:148::d
+2603:1036:3000:e8::1
+2603:1036:3000:e8::3
+2603:1036:3000:f0::2
+2603:1036:3000:f0::3
+2603:1036:3000:f0::4
+2603:1036:3000:f8::1
+2603:1036:3000:f8::3
+2603:1036:3000:f8::4
 
 # Microsoft — loginex.microsoftonline.com
-2603:1036:3000:60::10
-2603:1036:3000:60::11
-2603:1036:3000:60::15
-2603:1036:3000:60::17
-2603:1036:3000:60::2
-2603:1036:3000:60::20
-2603:1036:3000:60::3
-2603:1036:3000:60::e
+2603:1036:3000:e8::1
+2603:1036:3000:e8::2
+2603:1036:3000:e8::3
+2603:1036:3000:e8::4
+2603:1036:3000:f0::1
+2603:1036:3000:f0::3
+2603:1036:3000:f0::4
+2603:1036:3000:f8::2
+
+# Microsoft — lync.cn
+# (no public DNS addresses found)
+
+# Microsoft — lync.com
+# (no public DNS addresses found)
+
+# Microsoft — m12.vc
+# (no public DNS addresses found)
+
+# Microsoft — makecode.org
+# (no public DNS addresses found)
+
+# Microsoft — managedmeetingrooms.com
+# (no public DNS addresses found)
+
+# Microsoft — management-azure-devices-int.net
+# (no public DNS addresses found)
+
+# Microsoft — management-azure-devices-provisioning.cn
+# (no public DNS addresses found)
+
+# Microsoft — management-azure-devices.cn
+# (no public DNS addresses found)
+
+# Microsoft — management-azure-devices.net
+# (no public DNS addresses found)
+
+# Microsoft — mapblast.com
+# (no public DNS addresses found)
+
+# Microsoft — mappoint.com
+# (no public DNS addresses found)
+
+# Microsoft — masalladeloslimites.com
+# (no public DNS addresses found)
+
+# Microsoft — mbs.download.prss.microsoft.com
+2a04:4e42:8a::684
+
+# Microsoft — mcchcdn.com
+# (no public DNS addresses found)
+
+# Microsoft — meetfasttrack.com
+# (no public DNS addresses found)
+
+# Microsoft — meetyourdevices.com
+# (no public DNS addresses found)
+
+# Microsoft — mepn.com
+2606:4700:3030::6815:4338
+2606:4700:3036::ac43:d692
+
+# Microsoft — mesh.com
+# (no public DNS addresses found)
+
+# Microsoft — mgmt-azure-api.cn
+# (no public DNS addresses found)
+
+# Microsoft — microbit.org
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-falcon.io
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-give.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-int.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-online.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-online.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-ppe.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-sap-events.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-sbs-domains.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-smb.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoft-tst.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.az
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.be
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.by
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.ca
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.cat
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.ch
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.cl
+# (no public DNS addresses found)
 
 # Microsoft — microsoft.com
-2603:1061:14:1b0::1
+2603:1061:14:e0::1
+
+# Microsoft — microsoft.com.nsatc.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.cz
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.de
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.dk
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.ee
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.es
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.eu
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.fi
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.ge
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.hu
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.io
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.is
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.it
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.jp
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.lt
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.lu
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.lv
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.md
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.pl
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.pt
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.red
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.ro
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.rs
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.ru
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.se
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.si
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.tv
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.ua
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.uz
+# (no public DNS addresses found)
+
+# Microsoft — microsoft.vn
+# (no public DNS addresses found)
 
 # Microsoft — microsoft365.com
 2620:1ec:a92::156
+
+# Microsoft — microsoftaccountguard.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftadc.com
+2606:4700:3035::6815:1d2c
+2606:4700:3035::ac43:945f
+
+# Microsoft — microsoftads.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftadvertising.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftadvertisingregionalawards.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftaffiliates.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftapp.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftazuread-sso.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftazuresponsorships.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftazurestatus.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftcloud.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftcloudsummit.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftcloudworkshop.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftcommunitytraining.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftdiplomados.com
+2606:4700:3032::6815:d5a
+2606:4700:3036::ac43:9b73
+
+# Microsoft — microsofteca.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftedge.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftedgeinsider.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftemail.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftestore.com.hk
+# (no public DNS addresses found)
+
+# Microsoft — microsoftgamestack.com
+# (no public DNS addresses found)
+
+# Microsoft — microsofthouse.com
+# (no public DNS addresses found)
+
+# Microsoft — microsofthouse.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftinternetsafety.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftiotcentral.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftiotinsiderlabs.com
+2606:4700:3030::ac43:80f3
+2606:4700:3036::6815:159
+
+# Microsoft — microsoftlatamaitour.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftlatamholiday.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftlinc.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftmetrics.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftmxfilantropia.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnews.cc
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnews.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnews.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnews.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnews.org
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnewsforkids.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnewsforkids.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnewsforkids.org
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnewskids.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnewskids.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftnewskids.org
+# (no public DNS addresses found)
+
+# Microsoft — microsoftol.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftol.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-i.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-m-i.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-m.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-p-i.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-p-i.net.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline-p.cn
+# (no public DNS addresses found)
 
 # Microsoft — microsoftonline-p.com
 # (no public DNS addresses found)
@@ -173,29 +1358,376 @@
 # Microsoft — microsoftonline-p.net
 # (no public DNS addresses found)
 
+# Microsoft — microsoftonline-p.net.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftonline.cn
+# (no public DNS addresses found)
+
 # Microsoft — microsoftonline.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftpartnercommunity.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftpartnersolutions.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftpersonalcontent.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftreactor.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftreactor.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftreactor.info
+# (no public DNS addresses found)
+
+# Microsoft — microsoftreactor.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftreactor.org
+# (no public DNS addresses found)
+
+# Microsoft — microsoftready.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftsilverlight.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftsilverlight.net
+# (no public DNS addresses found)
+
+# Microsoft — microsoftsilverlight.org
+# (no public DNS addresses found)
+
+# Microsoft — microsoftsiteselection.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftsqlserver.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftstart.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftstore.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftstore.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsoftstore.com.hk
+# (no public DNS addresses found)
+
+# Microsoft — microsoftstream.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftteams.com
+# (no public DNS addresses found)
+
+# Microsoft — microsofttradein.com
+# (no public DNS addresses found)
+
+# Microsoft — microsofttranslator-int.cn
+# (no public DNS addresses found)
+
+# Microsoft — microsofttranslator.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftusercontent.com
+# (no public DNS addresses found)
+
+# Microsoft — microsoftuwp.com
+# (no public DNS addresses found)
+
+# Microsoft — minecraft.net
+# (no public DNS addresses found)
+
+# Microsoft — minecraftshop.com
+# (no public DNS addresses found)
+
+# Microsoft — mmais.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — mmdnn.com
+# (no public DNS addresses found)
+
+# Microsoft — mncmsidlab1.cn
+# (no public DNS addresses found)
+
+# Microsoft — mojang.com
+# (no public DNS addresses found)
+
+# Microsoft — momentumms.com
+# (no public DNS addresses found)
+
+# Microsoft — mono-project.com
+# (no public DNS addresses found)
+
+# Microsoft — morphcharts.com
+# (no public DNS addresses found)
+
+# Microsoft — mpnbenefits.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — mpnbenefitsrtl.download.prss.microsoft.com
+2a04:4e42:8a::684
+
+# Microsoft — mpnbenefitsrtluat.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+
+# Microsoft — mpnevolution.com
+# (no public DNS addresses found)
+
+# Microsoft — ms-studiosmedia.com
+# (no public DNS addresses found)
+
+# Microsoft — ms365surfaceoffer.com
+# (no public DNS addresses found)
+
+# Microsoft — msa.akadns6.net
+# (no public DNS addresses found)
+
+# Microsoft — msads.net
+# (no public DNS addresses found)
+
+# Microsoft — msappproxy.cn
 # (no public DNS addresses found)
 
 # Microsoft — msappproxy.net
 # (no public DNS addresses found)
 
+# Microsoft — msauth.cn
+# (no public DNS addresses found)
+
 # Microsoft — msauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msauthimages.cn
 # (no public DNS addresses found)
 
 # Microsoft — msauthimages.net
 # (no public DNS addresses found)
 
+# Microsoft — mschallenge2018.com
+# (no public DNS addresses found)
+
+# Microsoft — mschcdn.com
+# (no public DNS addresses found)
+
+# Microsoft — msdn.com
+# (no public DNS addresses found)
+
+# Microsoft — msdn.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — msdprod-ad.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — msecnd.net
+# (no public DNS addresses found)
+
+# Microsoft — msedge.net
+# (no public DNS addresses found)
+
+# Microsoft — msft.info
+# (no public DNS addresses found)
+
+# Microsoft — msft.net
+# (no public DNS addresses found)
+
+# Microsoft — msftauth.cn
+# (no public DNS addresses found)
+
 # Microsoft — msftauth.net
+# (no public DNS addresses found)
+
+# Microsoft — msftauthimages.cn
 # (no public DNS addresses found)
 
 # Microsoft — msftauthimages.net
 # (no public DNS addresses found)
 
+# Microsoft — msftcenterone.cn
+# (no public DNS addresses found)
+
+# Microsoft — msftcloudes.cn
+# (no public DNS addresses found)
+
+# Microsoft — msftconnecttest.com
+# (no public DNS addresses found)
+
+# Microsoft — msfteducation.ca
+# (no public DNS addresses found)
+
 # Microsoft — msftidentity.com
+# (no public DNS addresses found)
+
+# Microsoft — msftnet.org
+# (no public DNS addresses found)
+
+# Microsoft — msgamesresearch.com
+# (no public DNS addresses found)
+
+# Microsoft — msgamestudios.com
+# (no public DNS addresses found)
+
+# Microsoft — msidentity.cn
 # (no public DNS addresses found)
 
 # Microsoft — msidentity.com
 # (no public DNS addresses found)
+
+# Microsoft — msidlabpbmc.cn
+# (no public DNS addresses found)
+
+# Microsoft — msignitechina.com
+# (no public DNS addresses found)
+
+# Microsoft — msinnovationchallenge.com
+# (no public DNS addresses found)
+
+# Microsoft — msminico.cn
+# (no public DNS addresses found)
+
+# Microsoft — msminico.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — msn.cn
+# (no public DNS addresses found)
+
+# Microsoft — msn.com
+# (no public DNS addresses found)
+
+# Microsoft — msn.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — msn.com.nsatc.net
+# (no public DNS addresses found)
+
+# Microsoft — msn.com.tw
+# (no public DNS addresses found)
+
+# Microsoft — msn.net
+# (no public DNS addresses found)
+
+# Microsoft — msnewskids.com
+# (no public DNS addresses found)
+
+# Microsoft — msnewskids.net
+# (no public DNS addresses found)
+
+# Microsoft — msnewskids.org
+# (no public DNS addresses found)
+
+# Microsoft — msnkids.com
+# (no public DNS addresses found)
+
+# Microsoft — msnmaps.com
+# (no public DNS addresses found)
+
+# Microsoft — msocdn.com
+# (no public DNS addresses found)
+
+# Microsoft — msocsp.com
+# (no public DNS addresses found)
+
+# Microsoft — msopentech.cn
+# (no public DNS addresses found)
+
+# Microsoft — mspairlift.com
+# (no public DNS addresses found)
+
+# Microsoft — mspil.cn
+# (no public DNS addresses found)
+
+# Microsoft — msproduct.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+
+# Microsoft — msra.cn
+# (no public DNS addresses found)
+
+# Microsoft — msropendata.com
+# (no public DNS addresses found)
+
+# Microsoft — mstea.ms
+# (no public DNS addresses found)
+
+# Microsoft — msturing.org
+# (no public DNS addresses found)
+
+# Microsoft — msudalosti.com
+# (no public DNS addresses found)
+
+# Microsoft — msunlimitedcloudsummit.com
+# (no public DNS addresses found)
+
+# Microsoft — msvevent.com
+# (no public DNS addresses found)
+
+# Microsoft — msxiaobing.com
+# (no public DNS addresses found)
+
+# Microsoft — msxiaoice.com
+# (no public DNS addresses found)
+
+# Microsoft — msxiaona.cn
+# (no public DNS addresses found)
+
+# Microsoft — mwf-service.akamaized.net
+# (no public DNS addresses found)
+
+# Microsoft — myhomemsn.com
+# (no public DNS addresses found)
+
+# Microsoft — mymicrosoft.com
+# (no public DNS addresses found)
+
+# Microsoft — myvs.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+
+# Microsoft — nextechafrica.net
+# (no public DNS addresses found)
+
+# Microsoft — nuget.org
+# (no public DNS addresses found)
+
+# Microsoft — nugettest.org
+# (no public DNS addresses found)
+
+# Microsoft — nxta.org
+# (no public DNS addresses found)
+
+# Microsoft — o365cn.com
+# (no public DNS addresses found)
+
+# Microsoft — o365files.cn
+# (no public DNS addresses found)
+
+# Microsoft — o365weve-dev.com
+# (no public DNS addresses found)
+
+# Microsoft — o365weve-ppe.com
+# (no public DNS addresses found)
+
+# Microsoft — o365weve.com
+# (no public DNS addresses found)
+
+# Microsoft — oaspapps.com
+# (no public DNS addresses found)
+
+# Microsoft — oemsoc.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+
+# Microsoft — oemsocuat.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
 
 # Microsoft — office.com
 2620:1ec:a92::156
@@ -207,35 +1739,143 @@
 # Microsoft — office.net
 # (no public DNS addresses found)
 
+# Microsoft — office365-net.cn
+# (no public DNS addresses found)
+
+# Microsoft — office365.cn
+# (no public DNS addresses found)
+
 # Microsoft — office365.com
+# (no public DNS addresses found)
+
+# Microsoft — office365love.com
+# (no public DNS addresses found)
+
+# Microsoft — office365tw.com
 # (no public DNS addresses found)
 
 # Microsoft — officeapps.live.com
 2603:1063:2000:1::12
 2603:1063:2000::12
 
+# Microsoft — officecdn-microsoft-com.akamaized.net
+2600:1404:ec00:2402::17db:5745
+2600:1404:ec00:240e::1735:7f87
+
 # Microsoft — officecdn.microsoft.com
 2a04:4e42:8a::684
 
+# Microsoft — officedev.cn
+# (no public DNS addresses found)
+
+# Microsoft — officemkt.download.prss.microsoft.com
+2a04:4e42:8a::684
+
+# Microsoft — officemktuat.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+
+# Microsoft — officeplus.cn
+# (no public DNS addresses found)
+
+# Microsoft — officeppe.net
+# (no public DNS addresses found)
+
+# Microsoft — officewebapps.cn
+# (no public DNS addresses found)
+
+# Microsoft — omniroot.com
+# (no public DNS addresses found)
+
+# Microsoft — onecollector.cloudapp.aria
+# (no public DNS addresses found)
+
+# Microsoft — onedrive.co
+# (no public DNS addresses found)
+
+# Microsoft — onedrive.co.uk
+# (no public DNS addresses found)
+
 # Microsoft — onedrive.com
+# (no public DNS addresses found)
+
+# Microsoft — onedrive.eu
+# (no public DNS addresses found)
+
+# Microsoft — onedrive.net
+# (no public DNS addresses found)
+
+# Microsoft — onedrive.org
 # (no public DNS addresses found)
 
 # Microsoft — onenote.com
 2600:1406:35:180::611
 2600:1406:35:186::611
 
+# Microsoft — onenote.net
+# (no public DNS addresses found)
+
+# Microsoft — onestore.ms
+# (no public DNS addresses found)
+
 # Microsoft — online.office.com
 # (no public DNS addresses found)
 
+# Microsoft — onmicrosoft.com
+# (no public DNS addresses found)
+
+# Microsoft — onmschina.cn
+# (no public DNS addresses found)
+
+# Microsoft — opentranslatorstothings.org
+# (no public DNS addresses found)
+
+# Microsoft — opticsforthecloud.net
+# (no public DNS addresses found)
+
+# Microsoft — optimizely.com
+# (no public DNS addresses found)
+
+# Microsoft — orithegame.com
+# (no public DNS addresses found)
+
+# Microsoft — osdinfra.net
+# (no public DNS addresses found)
+
+# Microsoft — osrelease.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+
+# Microsoft — outingsapp.com
+# (no public DNS addresses found)
+
+# Microsoft — outlook.cn
+# (no public DNS addresses found)
+
+# Microsoft — outlook.com
+# (no public DNS addresses found)
+
 # Microsoft — outlook.office365.com
-2603:1036:305:3427::2
-2603:1036:305:385b::2
-2603:1036:305:401a::2
-2603:1036:305:401e::2
-2603:1036:305:486c::2
-2603:1036:305:48c8::2
-2603:1036:305:48cc::2
-2603:1036:305:4946::2
+2603:1036:306:1810::2
+2603:1036:306:1816::2
+2603:1036:306:181c::2
+2603:1036:306:1846::2
+2603:1036:306:1849::2
+2603:1036:306:2004::2
+2603:1036:306:202e::2
+2603:1036:306:2052::2
+
+# Microsoft — outlookgroups.ms
+# (no public DNS addresses found)
+
+# Microsoft — outlookmobile.com
+# (no public DNS addresses found)
+
+# Microsoft — ovi.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — passport.net
+# (no public DNS addresses found)
 
 # Microsoft — passwordreset.microsoftonline.com
 2603:1037:1:148::
@@ -246,7 +1886,125 @@
 2603:1037:1:148::5
 2603:1037:1:148::6
 
+# Microsoft — pbiwebcontent.cn
+# (no public DNS addresses found)
+
+# Microsoft — phonefactor.net
+# (no public DNS addresses found)
+
+# Microsoft — pixapp.net
+# (no public DNS addresses found)
+
+# Microsoft — playfabapi.cn
+# (no public DNS addresses found)
+
+# Microsoft — playfabcn.com
+# (no public DNS addresses found)
+
+# Microsoft — poshtestgallery.com
+# (no public DNS addresses found)
+
+# Microsoft — powerapps.cn
+# (no public DNS addresses found)
+
+# Microsoft — powerappscdn.net
+# (no public DNS addresses found)
+
+# Microsoft — powerappsportals.cn
+# (no public DNS addresses found)
+
+# Microsoft — powerautomate.cn
+# (no public DNS addresses found)
+
+# Microsoft — powerautomate.com
+# (no public DNS addresses found)
+
+# Microsoft — powerbi.cn
+# (no public DNS addresses found)
+
+# Microsoft — powerbi.com
+# (no public DNS addresses found)
+
+# Microsoft — powershellgallery.com
+# (no public DNS addresses found)
+
+# Microsoft — prod-video-cms-rt-microsoft-com.akamaized.net
+# (no public DNS addresses found)
+
+# Microsoft — projectmurphy.net
+# (no public DNS addresses found)
+
+# Microsoft — projectsangam.com
+# (no public DNS addresses found)
+
 # Microsoft — provisioningapi.microsoftonline.com
+# (no public DNS addresses found)
+
+# Microsoft — public-trust.com
+# (no public DNS addresses found)
+
+# Microsoft — pwabuilder.com
+# (no public DNS addresses found)
+
+# Microsoft — pxt.io
+# (no public DNS addresses found)
+
+# Microsoft — reactorms.com.cn
+# (no public DNS addresses found)
+
+# Microsoft — renlifang.com
+# (no public DNS addresses found)
+
+# Microsoft — renovacionoffice.com
+# (no public DNS addresses found)
+
+# Microsoft — renovacionxboxlive.com
+# (no public DNS addresses found)
+
+# Microsoft — rsm.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2406::17db:5707
+2600:1404:ec00:2406::17db:570a
+2600:1404:ec00:240a::1735:7fcd
+
+# Microsoft — s-microsoft.com
+# (no public DNS addresses found)
+
+# Microsoft — s-msedge.net
+# (no public DNS addresses found)
+
+# Microsoft — s-msft.com
+# (no public DNS addresses found)
+
+# Microsoft — s-msn.com
+# (no public DNS addresses found)
+
+# Microsoft — sankie.net
+# (no public DNS addresses found)
+
+# Microsoft — sclive.net
+2606:4700:440f::8f9b:5476
+2606:4700:90d4::97f9:d657
+2606:4700:91b5::31ea:aa64
+2606:4700:9a99::6bc:13b4
+2606:4700:9ad7::9776:c798
+
+# Microsoft — sdx.microsoft.com
+# (no public DNS addresses found)
+
+# Microsoft — serverlesslibrary.net
+# (no public DNS addresses found)
+
+# Microsoft — sfbassets.com
+# (no public DNS addresses found)
+
+# Microsoft — sfbassets.net
+# (no public DNS addresses found)
+
+# Microsoft — sfx.ms
+# (no public DNS addresses found)
+
+# Microsoft — sharepoint.cn
 # (no public DNS addresses found)
 
 # Microsoft — sharepoint.com
@@ -255,18 +2013,417 @@
 # Microsoft — sharepointonline.com
 # (no public DNS addresses found)
 
+# Microsoft — shell.cdn.office.net
+2600:1405:8400:38a::4b36
+2600:1405:8400:38b::4b36
+2600:1405:8400:38c::4b36
+2600:1405:8400:38f::4b36
+2600:1405:8400:391::4b36
+
+# Microsoft — signalr.net
+# (no public DNS addresses found)
+
+# Microsoft — skype.com
+2603:1010:3:3::5b
+2603:1020:201:10::10f
+2603:1030:20e:3::23c
+2603:1030:b:3::152
+2603:1030:c02:8::14
+
+# Microsoft — skype.net
+2603:1010:3:3::5b
+2603:1020:201:10::10f
+2603:1030:20e:3::23c
+2603:1030:b:3::152
+2603:1030:c02:8::14
+
+# Microsoft — skypeassets.com
+# (no public DNS addresses found)
+
+# Microsoft — skypeassets.net
+# (no public DNS addresses found)
+
+# Microsoft — skypeforbusiness.com
+# (no public DNS addresses found)
+
+# Microsoft — software.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+2600:1404:ec00:2406::17db:570a
+2600:1404:ec00:2408::1735:7fe7
+2600:1404:ec00:240a::1735:7fc7
+
+# Microsoft — spoprod-a.akamaihd.net
+# (no public DNS addresses found)
+
+# Microsoft — sprinklesapp.com
+# (no public DNS addresses found)
+
+# Microsoft — sqlserveronlinux.com
+# (no public DNS addresses found)
+
+# Microsoft — staffhub.ms
+# (no public DNS addresses found)
+
+# Microsoft — start.com
+# (no public DNS addresses found)
+
 # Microsoft — static.microsoft
+# (no public DNS addresses found)
+
+# Microsoft — statics-marketingsites-eas-ms-com.akamaized.net
+# (no public DNS addresses found)
+
+# Microsoft — statics-marketingsites-eus-ms-com.akamaized.net
+# (no public DNS addresses found)
+
+# Microsoft — statics-marketingsites-neu-ms-com.akamaized.net
+# (no public DNS addresses found)
+
+# Microsoft — statics-marketingsites-wcus-ms-com.akamaized.net
+# (no public DNS addresses found)
+
+# Microsoft — statics.teams.cdn.office.net
+2600:1404:ec00:2402::17db:5751
+2600:1404:ec00:2404::17db:5725
+
+# Microsoft — storecorefulfillment.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — storeedge.microsoft.com
+2600:1405:8400:28e::ae0
+2600:1405:8400:290::ae0
+
+# Microsoft — storeedgefd.dsx.mp.microsoft.com
+2600:1405:8400:388::4106
+2600:1405:8400:38f::4106
+
+# Microsoft — successwithteams.com
+# (no public DNS addresses found)
+
+# Microsoft — surface.com
+# (no public DNS addresses found)
+
+# Microsoft — surface.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5729
+2600:1404:ec00:2406::17db:570a
+2600:1404:ec00:240a::1735:7fc7
+2600:1404:ec00:240c::1735:7fab
+
+# Microsoft — surface.downloads.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+2600:1404:ec00:2404::17db:5729
+2600:1404:ec00:2408::1735:7fe7
+2600:1404:ec00:240a::1735:7fc7
+
+# Microsoft — svc.ms
+# (no public DNS addresses found)
+
+# Microsoft — sway-cdn.com
+2600:1406:35:18c::26ad
+2600:1406:35:18d::26ad
+
+# Microsoft — sway-extensions.com
+2600:1406:35:18c::26ad
+2600:1406:35:18d::26ad
+
+# Microsoft — sway.com
+2603:1036:2404:1::25
+
+# Microsoft — syncshop.cn
+# (no public DNS addresses found)
+
+# Microsoft — sysinternals.com
+# (no public DNS addresses found)
+
+# Microsoft — tailwindtraders.com
 # (no public DNS addresses found)
 
 # Microsoft — teams.microsoft.com
 2603:1063:27:1::14
 2603:1063:27:2::14
 
+# Microsoft — techhub.ms
+# (no public DNS addresses found)
+
+# Microsoft — tellmewhygame.com
+# (no public DNS addresses found)
+
+# Microsoft — tenor.com
+# (no public DNS addresses found)
+
+# Microsoft — tfsallin.net
+# (no public DNS addresses found)
+
+# Microsoft — timelinestoryteller.com
+2606:4700:3033::6815:94a
+2606:4700:3037::ac43:9f4b
+
+# Microsoft — trafficmanager.cn
+# (no public DNS addresses found)
+
+# Microsoft — trafficmanager.net
+# (no public DNS addresses found)
+
+# Microsoft — translatetheweb.com
+# (no public DNS addresses found)
+
+# Microsoft — trustcenter.cn
+# (no public DNS addresses found)
+
+# Microsoft — tryfunctions.com
+# (no public DNS addresses found)
+
+# Microsoft — unity3dcloud.cn
+# (no public DNS addresses found)
+
+# Microsoft — unlocklimitlesslearning.com
+# (no public DNS addresses found)
+
 # Microsoft — usercontent.microsoft
 # (no public DNS addresses found)
+
+# Microsoft — userpxt.io
+# (no public DNS addresses found)
+
+# Microsoft — uservoice.com
+# (no public DNS addresses found)
+
+# Microsoft — uwpcommunitytoolkit.com
+# (no public DNS addresses found)
+
+# Microsoft — vfsforgit.com
+# (no public DNS addresses found)
+
+# Microsoft — vfsforgit.org
+# (no public DNS addresses found)
+
+# Microsoft — videobreakdown.com
+# (no public DNS addresses found)
+
+# Microsoft — videoindexer.ai
+# (no public DNS addresses found)
+
+# Microsoft — vip5.afdorigin-prod-am02.afdogw.com
+# (no public DNS addresses found)
+
+# Microsoft — virtualearth.net
+# (no public DNS addresses found)
+
+# Microsoft — visualstudio-staging.com
+# (no public DNS addresses found)
+
+# Microsoft — visualstudio.co
+# (no public DNS addresses found)
+
+# Microsoft — visualstudio.co.uk
+# (no public DNS addresses found)
+
+# Microsoft — visualstudio.com
+2603:1061:10:1::16
+2603:1061:10::16
+
+# Microsoft — visualstudio.eu
+# (no public DNS addresses found)
+
+# Microsoft — visualstudio.net
+# (no public DNS addresses found)
+
+# Microsoft — vlportal.download.prss.microsoft.com
+2600:1404:ec00:2404::17db:5728
+2600:1404:ec00:2406::17db:5707
+2600:1404:ec00:2406::17db:570a
+2600:1404:ec00:2408::1735:7fe7
+2600:1404:ec00:240a::1735:7fcd
+
+# Microsoft — volic.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2406::17db:5707
+2600:1404:ec00:2406::17db:570a
+2600:1404:ec00:240a::1735:7fcd
+
+# Microsoft — vsallin.net
+# (no public DNS addresses found)
+
+# Microsoft — vsassets.io
+# (no public DNS addresses found)
+
+# Microsoft — vscode-cdn.net
+# (no public DNS addresses found)
+
+# Microsoft — vscode-unpkg.net
+# (no public DNS addresses found)
+
+# Microsoft — vscode-webview.net
+# (no public DNS addresses found)
+
+# Microsoft — vscode.dev
+# (no public DNS addresses found)
+
+# Microsoft — vscode.download.prss.microsoft.com
+2600:1404:ec00:2402::17db:574f
+2600:1404:ec00:2404::17db:5728
+2600:1404:ec00:2406::17db:570a
+2600:1404:ec00:2408::1735:7fe7
+2600:1404:ec00:240a::1735:7fc7
+
+# Microsoft — vsmarketplacebadge.apphb.com
+# (no public DNS addresses found)
+
+# Microsoft — vz.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — wbd.ms
+# (no public DNS addresses found)
+
+# Microsoft — what-fan.net
+# (no public DNS addresses found)
+
+# Microsoft — windbg.download.prss.microsoft.com
+2a04:4e42:26::684
+
+# Microsoft — windows-int.net
+# (no public DNS addresses found)
+
+# Microsoft — windows-ppe.net
+# (no public DNS addresses found)
+
+# Microsoft — windows.com
+2603:1010:3:3::5b
+2603:1020:201:10::10f
+2603:1030:20e:3::23c
+2603:1030:b:3::152
+2603:1030:c02:8::14
 
 # Microsoft — windows.net
 # (no public DNS addresses found)
 
+# Microsoft — windows.nl
+# (no public DNS addresses found)
+
+# Microsoft — windows8.hk
+# (no public DNS addresses found)
+
+# Microsoft — windowsazure.cn
+# (no public DNS addresses found)
+
+# Microsoft — windowsazure.com
+# (no public DNS addresses found)
+
+# Microsoft — windowsazurestatus.cn
+# (no public DNS addresses found)
+
+# Microsoft — windowscommunity.net
+# (no public DNS addresses found)
+
+# Microsoft — windowslive.cn
+# (no public DNS addresses found)
+
+# Microsoft — windowsmarketplace.com
+# (no public DNS addresses found)
+
+# Microsoft — windowsphone-int.com
+# (no public DNS addresses found)
+
+# Microsoft — windowsphone.com
+# (no public DNS addresses found)
+
+# Microsoft — windowssearch.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
 # Microsoft — windowsupdate.com
+# (no public DNS addresses found)
+
+# Microsoft — winhec.com
+# (no public DNS addresses found)
+
+# Microsoft — winhec.net
+# (no public DNS addresses found)
+
+# Microsoft — winmp.cn
+# (no public DNS addresses found)
+
+# Microsoft — wlxrs.com
+# (no public DNS addresses found)
+
+# Microsoft — working-bing-int.com
+# (no public DNS addresses found)
+
+# Microsoft — wunderlist.com
+# (no public DNS addresses found)
+
+# Microsoft — xamarin.com
+# (no public DNS addresses found)
+
+# Microsoft — xbox.co
+# (no public DNS addresses found)
+
+# Microsoft — xbox.com
+2603:1010:3:3::5b
+2603:1020:201:10::10f
+2603:1030:20e:3::23c
+2603:1030:b:3::152
+2603:1030:c02:8::14
+
+# Microsoft — xbox.eu
+# (no public DNS addresses found)
+
+# Microsoft — xbox.org
+# (no public DNS addresses found)
+
+# Microsoft — xbox360.co
+# (no public DNS addresses found)
+
+# Microsoft — xbox360.com
+# (no public DNS addresses found)
+
+# Microsoft — xbox360.eu
+# (no public DNS addresses found)
+
+# Microsoft — xbox360.org
+# (no public DNS addresses found)
+
+# Microsoft — xboxab.com
+# (no public DNS addresses found)
+
+# Microsoft — xboxgamepass.com
+# (no public DNS addresses found)
+
+# Microsoft — xboxgamestudios.com
+# (no public DNS addresses found)
+
+# Microsoft — xboxlive.cn
+# (no public DNS addresses found)
+
+# Microsoft — xboxlive.com
+# (no public DNS addresses found)
+
+# Microsoft — xboxone.co
+# (no public DNS addresses found)
+
+# Microsoft — xboxone.com
+# (no public DNS addresses found)
+
+# Microsoft — xboxone.eu
+# (no public DNS addresses found)
+
+# Microsoft — xboxplayanywhere.com
+# (no public DNS addresses found)
+
+# Microsoft — xboxservices.com
+# (no public DNS addresses found)
+
+# Microsoft — xboxstudios.com
+# (no public DNS addresses found)
+
+# Microsoft — xbx.lv
+# (no public DNS addresses found)
+
+# Microsoft — yammer.com
+# (no public DNS addresses found)
+
+# Microsoft — yammerusercontent.com
 # (no public DNS addresses found)

@@ -1,8 +1,55 @@
 # DNS-derived IP snapshot for JetBrains (jetbrains)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# JetBrains — datalore.io
+34.249.234.158
+
+# JetBrains — grazie.ai
+34.78.67.165
+
+# JetBrains — intellij.com
+34.78.67.165
+
+# JetBrains — intellij.net
+34.78.67.165
+
+# JetBrains — intellij.org
+34.78.67.165
+
+# JetBrains — jetbrains.ai
+34.78.67.165
+
 # JetBrains — jetbrains.com
-3.161.225.116
-3.161.225.119
-3.161.225.128
-3.161.225.63
+18.161.156.30
+18.161.156.37
+18.161.156.42
+18.161.156.89
+
+# JetBrains — jetbrains.io
+34.78.67.165
+
+# JetBrains — jetbrains.net
+34.78.67.165
+
+# JetBrains — jetbrains.org
+13.224.187.109
+13.224.187.29
+13.224.187.9
+13.224.187.94
+
+# JetBrains — jetbrains.space
+34.255.246.234
+46.137.190.82
+
+# JetBrains — jetbrains.team
+54.217.240.89
+54.247.121.209
+
+# JetBrains — kotlinconf.com
+216.150.1.1
+
+# JetBrains — kotlinlang.org
+108.138.167.10
+108.138.167.121
+108.138.167.2
+108.138.167.47

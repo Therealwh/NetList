@@ -1,8 +1,36 @@
 # DNS-derived IP snapshot for Reddit (reddit)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Reddit — redd.it
+151.101.1.140
+151.101.129.140
+151.101.193.140
+151.101.65.140
+
 # Reddit — reddit.com
 151.101.1.140
 151.101.129.140
 151.101.193.140
 151.101.65.140
+
+# Reddit — redditmail.com
+54.172.97.226
+54.172.97.234
+
+# Reddit — redditmedia.com
+151.101.1.140
+151.101.129.140
+151.101.193.140
+151.101.65.140
+
+# Reddit — redditstatic.com
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com.cdn-cf.behance.net
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com.cdn-cf.dropbox.com
+# (no public DNS addresses found)

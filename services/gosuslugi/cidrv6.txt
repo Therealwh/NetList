@@ -1,3 +1,9 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Госуслуги — esia.gosuslugi.ru
+# (no public DNS addresses found)
+
 # Госуслуги — gosuslugi.ru
+# (no public DNS addresses found)
+
+# Госуслуги — lk.gosuslugi.ru
 # (no public DNS addresses found)

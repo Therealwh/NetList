@@ -1,4 +1,7 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# XHamster — widgets.stripst.com
+# (no public DNS addresses found)
+
 # XHamster — xhamster.com
 2606:4700::6810:351/128
 2606:4700::6810:451/128

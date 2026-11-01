@@ -6,3 +6,6 @@
 108.156.224.23
 108.156.224.3
 108.156.224.48
+
+# Deezer — dzcdn.net
+# (no public DNS addresses found)

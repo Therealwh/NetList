@@ -1,8 +1,156 @@
 # DNS-derived IP snapshot for Twitch (twitch)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Twitch — d1g1f25tn8m2e6.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d1m7jfoe9zdc1j.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d1mhjrowxxagfy.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d1ndex63qxojbr.cloudfront.net
+2600:9000:2064:4c00:f:5be4:35c0:21
+2600:9000:2064:5e00:f:5be4:35c0:21
+2600:9000:2064:6200:f:5be4:35c0:21
+2600:9000:2064:9000:f:5be4:35c0:21
+2600:9000:2064:ba00:f:5be4:35c0:21
+2600:9000:2064:d000:f:5be4:35c0:21
+2600:9000:2064:d200:f:5be4:35c0:21
+2600:9000:2064:e800:f:5be4:35c0:21
+
+# Twitch — d1oca24q5dwo6d.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d1w2poirtb3as9.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d1xhnb4ptk05mw.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d1ymi26ma8va5x.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d2aba1wr3818hz.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d2dylwb3shzel1.cloudfront.net
+2600:9000:21da:1a00:16:bd31:6540:21
+2600:9000:21da:1e00:16:bd31:6540:21
+2600:9000:21da:2400:16:bd31:6540:21
+2600:9000:21da:4e00:16:bd31:6540:21
+2600:9000:21da:6600:16:bd31:6540:21
+2600:9000:21da:a200:16:bd31:6540:21
+2600:9000:21da:d600:16:bd31:6540:21
+2600:9000:21da:dc00:16:bd31:6540:21
+
+# Twitch — d2e2de1etea730.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d2nvs31859zcd8.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d2um2qdswy1tb0.cloudfront.net
+2600:9000:2356:1600:9:2b8b:2700:93a1
+2600:9000:2356:2600:9:2b8b:2700:93a1
+2600:9000:2356:2a00:9:2b8b:2700:93a1
+2600:9000:2356:5600:9:2b8b:2700:93a1
+2600:9000:2356:6a00:9:2b8b:2700:93a1
+2600:9000:2356:ba00:9:2b8b:2700:93a1
+2600:9000:2356:e800:9:2b8b:2700:93a1
+2600:9000:2356:f600:9:2b8b:2700:93a1
+
+# Twitch — d2vjef5jvl6bfs.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d2xmjdvx03ij56.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d36nr0u3xmc4mm.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d3aqoihi2n8ty8.cloudfront.net
+2600:9000:20d1:1c00:8:331a:2800:21
+2600:9000:20d1:4800:8:331a:2800:21
+2600:9000:20d1:5a00:8:331a:2800:21
+2600:9000:20d1:600:8:331a:2800:21
+2600:9000:20d1:9a00:8:331a:2800:21
+2600:9000:20d1:c00:8:331a:2800:21
+2600:9000:20d1:c600:8:331a:2800:21
+2600:9000:20d1:ca00:8:331a:2800:21
+
+# Twitch — d3c27h4odz752x.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d3stzm2eumvgb4.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d3vd9lfkzbru3h.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — d6d4ismr40iw.cloudfront.net
+2600:9000:26ca:1200:9:2fcb:aa00:93a1
+2600:9000:26ca:200:9:2fcb:aa00:93a1
+2600:9000:26ca:2200:9:2fcb:aa00:93a1
+2600:9000:26ca:2800:9:2fcb:aa00:93a1
+2600:9000:26ca:2c00:9:2fcb:aa00:93a1
+2600:9000:26ca:5000:9:2fcb:aa00:93a1
+2600:9000:26ca:b000:9:2fcb:aa00:93a1
+2600:9000:26ca:e600:9:2fcb:aa00:93a1
+
+# Twitch — d6tizftlrpuof.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — ddacn6pr5v0tl.cloudfront.net
+2600:9000:287f:1e00:9:caa5:ba40:21
+2600:9000:287f:2200:9:caa5:ba40:21
+2600:9000:287f:6400:9:caa5:ba40:21
+2600:9000:287f:a800:9:caa5:ba40:21
+2600:9000:287f:be00:9:caa5:ba40:21
+2600:9000:287f:c400:9:caa5:ba40:21
+2600:9000:287f:cc00:9:caa5:ba40:21
+2600:9000:287f:f600:9:caa5:ba40:21
+
+# Twitch — dgeft87wbj63p.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — dqrpb9wgowsf5.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — ds0h3roq6wcgc.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — dykkng5hnh52u.cloudfront.net
+# (no public DNS addresses found)
+
+# Twitch — ext-twitch.tv
+# (no public DNS addresses found)
+
 # Twitch — jtvnw.net
 # (no public DNS addresses found)
 
+# Twitch — live-video.net
+2600:9000:2027:4600:c:deda:b380:93a1
+2600:9000:2027:5200:c:deda:b380:93a1
+2600:9000:2027:800:c:deda:b380:93a1
+2600:9000:2027:8e00:c:deda:b380:93a1
+2600:9000:2027:d400:c:deda:b380:93a1
+2600:9000:2027:dc00:c:deda:b380:93a1
+2600:9000:2027:ea00:c:deda:b380:93a1
+2600:9000:2027:fc00:c:deda:b380:93a1
+
+# Twitch — ttvnw.net
+# (no public DNS addresses found)
+
+# Twitch — twitch-ext.rootonline.de
+2a01:4f8:13a:2a6::2
+
 # Twitch — twitch.tv
+# (no public DNS addresses found)
+
+# Twitch — twitchcdn.net
+# (no public DNS addresses found)
+
+# Twitch — twitchsvc.net
 # (no public DNS addresses found)

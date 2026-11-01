@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Pixeldrain — pixeldrain.com
-2401:3bc0:1001:2::1
-2401:3bc0:1001:3::1
+2607:9280:a::214
+2607:9280:a::215

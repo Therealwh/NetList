@@ -1,4 +1,5 @@
 # NetList seed candidates: Claude
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 anthropic.com
+cdn.usefathom.com
 claude.ai

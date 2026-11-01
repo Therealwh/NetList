@@ -1,4 +1,8 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Yahoo — cdn.js7k.com
+2001:4998:68:807::/128
+2001:4998:68:807::1/128
+
 # Yahoo — yahoo.com
 2001:4998:124:1507::f000/128
 2001:4998:124:1507::f001/128

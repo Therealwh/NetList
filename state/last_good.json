@@ -1,12 +1,12 @@
 {
   "counts": {
-    "services": 274,
+    "services": 275,
     "categories": 27,
-    "domains": 564
+    "domains": 21931
   },
   "services": {
     "1337x": {
-      "domain_count": 1
+      "domain_count": 10
     },
     "1c": {
       "domain_count": 1
@@ -24,7 +24,7 @@
       "domain_count": 1
     },
     "akamai": {
-      "domain_count": 1
+      "domain_count": 6
     },
     "alfa-bank": {
       "domain_count": 1
@@ -33,34 +33,34 @@
       "domain_count": 1
     },
     "amazon": {
-      "domain_count": 1
+      "domain_count": 180
     },
     "amazon-music": {
       "domain_count": 1
     },
     "android": {
-      "domain_count": 2
+      "domain_count": 4
     },
     "ap-news": {
       "domain_count": 1
     },
     "apple": {
-      "domain_count": 28
+      "domain_count": 1746
     },
     "apple-music": {
-      "domain_count": 1
+      "domain_count": 15
     },
     "arch-linux": {
       "domain_count": 1
     },
     "avito": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "aws": {
       "domain_count": 2
     },
     "baidu": {
-      "domain_count": 1
+      "domain_count": 251
     },
     "bandcamp": {
       "domain_count": 1
@@ -69,10 +69,10 @@
       "domain_count": 1
     },
     "battle-net": {
-      "domain_count": 2
+      "domain_count": 8
     },
     "bbc": {
-      "domain_count": 2
+      "domain_count": 31
     },
     "bc-game": {
       "domain_count": 1
@@ -87,10 +87,10 @@
       "domain_count": 1
     },
     "binance": {
-      "domain_count": 1
+      "domain_count": 14
     },
     "bing": {
-      "domain_count": 1
+      "domain_count": 11
     },
     "bitbucket": {
       "domain_count": 1
@@ -102,16 +102,16 @@
       "domain_count": 1
     },
     "chatgpt": {
-      "domain_count": 22
+      "domain_count": 50
     },
     "chestnyy-znak": {
       "domain_count": 1
     },
     "claude": {
-      "domain_count": 2
+      "domain_count": 3
     },
     "cloudflare": {
-      "domain_count": 2
+      "domain_count": 43
     },
     "codeberg": {
       "domain_count": 1
@@ -126,7 +126,7 @@
       "domain_count": 1
     },
     "dailymotion": {
-      "domain_count": 1
+      "domain_count": 5
     },
     "debian": {
       "domain_count": 2
@@ -138,7 +138,7 @@
       "domain_count": 1
     },
     "deezer": {
-      "domain_count": 1
+      "domain_count": 2
     },
     "delimobil": {
       "domain_count": 1
@@ -147,43 +147,43 @@
       "domain_count": 1
     },
     "digitalocean": {
-      "domain_count": 1
+      "domain_count": 4
     },
     "discord": {
-      "domain_count": 1
+      "domain_count": 29
     },
     "disney": {
-      "domain_count": 1
+      "domain_count": 172
     },
     "docker-hub": {
-      "domain_count": 2
+      "domain_count": 8
     },
     "domklik": {
       "domain_count": 1
     },
     "dropbox": {
-      "domain_count": 61
+      "domain_count": 62
     },
     "duckduckgo": {
-      "domain_count": 1
+      "domain_count": 43
     },
     "dzen": {
       "domain_count": 1
     },
     "ea": {
-      "domain_count": 1
+      "domain_count": 165
     },
     "ebay": {
-      "domain_count": 1
+      "domain_count": 45
     },
     "edx": {
       "domain_count": 1
     },
     "epic-games": {
-      "domain_count": 1
+      "domain_count": 15
     },
     "eset": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "etsy": {
       "domain_count": 1
@@ -192,7 +192,7 @@
       "domain_count": 1
     },
     "facebook": {
-      "domain_count": 1
+      "domain_count": 544
     },
     "faceit": {
       "domain_count": 1
@@ -222,7 +222,7 @@
       "domain_count": 1
     },
     "gemini": {
-      "domain_count": 2
+      "domain_count": 10
     },
     "gis-zhkkh": {
       "domain_count": 1
@@ -231,13 +231,13 @@
       "domain_count": 1
     },
     "github": {
-      "domain_count": 7
+      "domain_count": 56
     },
     "github-pages": {
-      "domain_count": 1
+      "domain_count": 30
     },
     "gitlab": {
-      "domain_count": 1
+      "domain_count": 6
     },
     "glonass": {
       "domain_count": 1
@@ -246,19 +246,19 @@
       "domain_count": 1
     },
     "google": {
-      "domain_count": 37
+      "domain_count": 764
     },
     "google-cloud": {
       "domain_count": 2
     },
     "google-drive": {
-      "domain_count": 1
+      "domain_count": 5
     },
     "gosduma": {
       "domain_count": 1
     },
     "gosuslugi": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "grok": {
       "domain_count": 2
@@ -267,34 +267,34 @@
       "domain_count": 2
     },
     "headhunter": {
-      "domain_count": 1
+      "domain_count": 2
     },
     "hetzner": {
-      "domain_count": 2
+      "domain_count": 3
     },
     "hugging-face": {
       "domain_count": 1
     },
     "hulu": {
-      "domain_count": 1
+      "domain_count": 58
     },
     "instagram": {
-      "domain_count": 1
+      "domain_count": 5
     },
     "internet-archive": {
       "domain_count": 1
     },
     "ivi": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "jetbrains": {
-      "domain_count": 1
+      "domain_count": 14
     },
     "kaspersky": {
-      "domain_count": 1
+      "domain_count": 97
     },
     "khabr": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "khan-academy": {
       "domain_count": 1
@@ -309,7 +309,7 @@
       "domain_count": 1
     },
     "kinopoisk": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "kion": {
       "domain_count": 1
@@ -318,13 +318,13 @@
       "domain_count": 1
     },
     "kontur": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "kuper": {
       "domain_count": 1
     },
     "last-fm": {
-      "domain_count": 1
+      "domain_count": 31
     },
     "lenta": {
       "domain_count": 2
@@ -333,13 +333,13 @@
       "domain_count": 1
     },
     "line": {
-      "domain_count": 1
+      "domain_count": 8
     },
     "linear": {
       "domain_count": 1
     },
     "linkedin": {
-      "domain_count": 1
+      "domain_count": 12
     },
     "linode": {
       "domain_count": 1
@@ -348,7 +348,7 @@
       "domain_count": 1
     },
     "mail-ru": {
-      "domain_count": 4
+      "domain_count": 6
     },
     "malwarebytes": {
       "domain_count": 1
@@ -372,7 +372,7 @@
       "domain_count": 1
     },
     "mega": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "megafon": {
       "domain_count": 1
@@ -381,7 +381,7 @@
       "domain_count": 1
     },
     "microsoft": {
-      "domain_count": 52
+      "domain_count": 733
     },
     "microsoft-azure": {
       "domain_count": 2
@@ -405,7 +405,7 @@
       "domain_count": 1
     },
     "mozilla": {
-      "domain_count": 2
+      "domain_count": 25
     },
     "mts": {
       "domain_count": 1
@@ -417,10 +417,10 @@
       "domain_count": 1
     },
     "netflix": {
-      "domain_count": 1
+      "domain_count": 32
     },
     "netlify": {
-      "domain_count": 1
+      "domain_count": 4
     },
     "netologiya": {
       "domain_count": 1
@@ -429,10 +429,10 @@
       "domain_count": 1
     },
     "nintendo": {
-      "domain_count": 1
+      "domain_count": 125
     },
     "notion": {
-      "domain_count": 2
+      "domain_count": 6
     },
     "npm": {
       "domain_count": 1
@@ -450,10 +450,10 @@
       "domain_count": 1
     },
     "okko": {
-      "domain_count": 1
+      "domain_count": 2
     },
     "onedrive": {
-      "domain_count": 2
+      "domain_count": 13
     },
     "onlyfans": {
       "domain_count": 1
@@ -468,25 +468,25 @@
       "domain_count": 2
     },
     "ozon": {
-      "domain_count": 3
+      "domain_count": 22
     },
     "paypal": {
-      "domain_count": 1
+      "domain_count": 246
     },
     "perplexity": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "pinnacle": {
       "domain_count": 1
     },
     "pinterest": {
-      "domain_count": 1
+      "domain_count": 23
     },
     "pixeldrain": {
       "domain_count": 1
     },
     "playstation": {
-      "domain_count": 2
+      "domain_count": 5
     },
     "pochta-rossii": {
       "domain_count": 1
@@ -507,10 +507,10 @@
       "domain_count": 1
     },
     "prime-video": {
-      "domain_count": 1
+      "domain_count": 15
     },
     "proton-mail": {
-      "domain_count": 2
+      "domain_count": 5
     },
     "psb": {
       "domain_count": 1
@@ -531,7 +531,7 @@
       "domain_count": 1
     },
     "reddit": {
-      "domain_count": 1
+      "domain_count": 8
     },
     "redtube": {
       "domain_count": 1
@@ -545,6 +545,9 @@
     "reuters": {
       "domain_count": 1
     },
+    "revanced": {
+      "domain_count": 3
+    },
     "revolut": {
       "domain_count": 1
     },
@@ -552,10 +555,10 @@
       "domain_count": 1
     },
     "riot-games": {
-      "domain_count": 2
+      "domain_count": 55
     },
     "roblox": {
-      "domain_count": 1
+      "domain_count": 8
     },
     "rosreestr": {
       "domain_count": 1
@@ -567,7 +570,7 @@
       "domain_count": 1
     },
     "rustore": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "rutor": {
       "domain_count": 1
@@ -576,7 +579,7 @@
       "domain_count": 1
     },
     "rutube": {
-      "domain_count": 1
+      "domain_count": 5
     },
     "rzhd": {
       "domain_count": 1
@@ -585,7 +588,7 @@
       "domain_count": 1
     },
     "sber": {
-      "domain_count": 2
+      "domain_count": 9
     },
     "sbermobayl": {
       "domain_count": 1
@@ -621,16 +624,16 @@
       "domain_count": 1
     },
     "slack": {
-      "domain_count": 4
+      "domain_count": 14
     },
     "snapchat": {
       "domain_count": 1
     },
     "soundcloud": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "sourceforge": {
-      "domain_count": 1
+      "domain_count": 4
     },
     "sovet-federatsii": {
       "domain_count": 1
@@ -639,19 +642,19 @@
       "domain_count": 1
     },
     "spotify": {
-      "domain_count": 2
+      "domain_count": 29
     },
     "stack-overflow": {
-      "domain_count": 2
+      "domain_count": 20
     },
     "stake": {
       "domain_count": 1
     },
     "steam": {
-      "domain_count": 3
+      "domain_count": 63
     },
     "stepik": {
-      "domain_count": 1
+      "domain_count": 2
     },
     "stripe": {
       "domain_count": 1
@@ -669,7 +672,7 @@
       "domain_count": 1
     },
     "telegram": {
-      "domain_count": 24
+      "domain_count": 38
     },
     "tenzor-sbis": {
       "domain_count": 2
@@ -684,16 +687,16 @@
       "domain_count": 1
     },
     "tidal": {
-      "domain_count": 1
+      "domain_count": 4
     },
     "tiktok": {
-      "domain_count": 1
+      "domain_count": 38
     },
     "torrentgalaxy": {
       "domain_count": 1
     },
     "tumblr": {
-      "domain_count": 1
+      "domain_count": 3
     },
     "tuta": {
       "domain_count": 1
@@ -702,25 +705,25 @@
       "domain_count": 1
     },
     "twitch": {
-      "domain_count": 2
+      "domain_count": 35
     },
     "ubisoft": {
-      "domain_count": 1
+      "domain_count": 29
     },
     "ubuntu": {
-      "domain_count": 2
+      "domain_count": 55
     },
     "vercel": {
-      "domain_count": 1
+      "domain_count": 27
     },
     "viber": {
       "domain_count": 1
     },
     "vimeo": {
-      "domain_count": 1
+      "domain_count": 16
     },
     "vk": {
-      "domain_count": 4
+      "domain_count": 22
     },
     "vk-cloud": {
       "domain_count": 1
@@ -741,22 +744,22 @@
       "domain_count": 1
     },
     "wechat": {
-      "domain_count": 2
+      "domain_count": 30
     },
     "wetransfer": {
       "domain_count": 1
     },
     "whatsapp": {
-      "domain_count": 2
+      "domain_count": 6
     },
     "wikipedia": {
-      "domain_count": 1
+      "domain_count": 12
     },
     "wildberries": {
-      "domain_count": 2
+      "domain_count": 19
     },
     "wink": {
-      "domain_count": 1
+      "domain_count": 2
     },
     "wise": {
       "domain_count": 1
@@ -765,10 +768,10 @@
       "domain_count": 2
     },
     "xbox": {
-      "domain_count": 2
+      "domain_count": 42
     },
     "xhamster": {
-      "domain_count": 1
+      "domain_count": 2
     },
     "xnxx": {
       "domain_count": 1
@@ -777,10 +780,10 @@
       "domain_count": 1
     },
     "yahoo": {
-      "domain_count": 1
+      "domain_count": 2
     },
     "yandex": {
-      "domain_count": 4
+      "domain_count": 53
     },
     "yandex-cloud": {
       "domain_count": 1
@@ -804,7 +807,7 @@
       "domain_count": 1
     },
     "youtube": {
-      "domain_count": 3
+      "domain_count": 15323
     },
     "youtube-music": {
       "domain_count": 1
@@ -816,7 +819,7 @@
       "domain_count": 1
     },
     "zoho": {
-      "domain_count": 1
+      "domain_count": 13
     },
     "zona": {
       "domain_count": 1

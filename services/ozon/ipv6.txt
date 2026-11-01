@@ -1,6 +1,30 @@
 # DNS-derived IP snapshot for Ozon (ozon)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Ozon — ad.ozone.ru
+# (no public DNS addresses found)
+
+# Ozon — adv.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — agency-adv.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — analytics-adv.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — beginners-adv.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — google-analytics-suite.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — loyalnost-adv.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — new-adv.ozon.ru
+# (no public DNS addresses found)
+
 # Ozon — ozon.ru
 # (no public DNS addresses found)
 
@@ -8,4 +32,37 @@
 # (no public DNS addresses found)
 
 # Ozon — ozonusercontent.com
+# (no public DNS addresses found)
+
+# Ozon — ozonusercontent.net
+# (no public DNS addresses found)
+
+# Ozon — prodvizhenie-adv.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — questions-adv.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — sentry.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozon.by
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozon.com
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozon.com.by
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozon.com.kz
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozon.kz
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozon.ru
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozonru.me
 # (no public DNS addresses found)

@@ -1,3 +1,104 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Discord — airhorn.solutions
+2606:4700:3032::6815:2897/128
+2606:4700:3037::ac43:98ec/128
+
+# Discord — airhornbot.com
+2606:4700:3031::6815:2cc/128
+2606:4700:3036::ac43:98e5/128
+
+# Discord — bigbeans.solutions
+2606:4700:3031::6815:3b80/128
+2606:4700:3037::ac43:b183/128
+
+# Discord — dis.gd
+2a06:98c1:3104::ac40:96b4/128
+2a06:98c1:310b::6812:254c/128
+
+# Discord — discord-activities.com
+# (no public DNS addresses found)
+
+# Discord — discord-attachments-uploads-prd.storage.googleapis.com
+2607:f8b0:4023:807::cf/128
+2607:f8b0:4023:80b::cf/128
+2607:f8b0:4023:80d::cf/128
+
+# Discord — discord.co
+# (no public DNS addresses found)
+
 # Discord — discord.com
 # (no public DNS addresses found)
+
+# Discord — discord.design
+2606:4700:3031::6815:50ad/128
+2606:4700:3037::ac43:9871/128
+
+# Discord — discord.dev
+# (no public DNS addresses found)
+
+# Discord — discord.gg
+# (no public DNS addresses found)
+
+# Discord — discord.gift
+2606:4700:3033::ac43:deb6/128
+2606:4700:3036::6815:1933/128
+
+# Discord — discord.gifts
+2606:4700:3032::6815:52a0/128
+2606:4700:3032::ac43:9f59/128
+
+# Discord — discord.media
+2606:4700:7::a29f:80eb/128
+2606:4700:7::a29f:81eb/128
+2606:4700:7::a29f:82eb/128
+2606:4700:7::a29f:89ea/128
+2606:4700:7::a29f:8aea/128
+
+# Discord — discord.new
+2606:4700:3032::ac43:bf05/128
+2606:4700:3035::6815:59bb/128
+
+# Discord — discord.store
+2620:127:f00f:e::/128
+
+# Discord — discord.tools
+# (no public DNS addresses found)
+
+# Discord — discordactivities.com
+2606:4700:4403::6812:20ae/128
+2a06:98c1:3109::ac40:9b52/128
+
+# Discord — discordapp.com
+# (no public DNS addresses found)
+
+# Discord — discordapp.io
+# (no public DNS addresses found)
+
+# Discord — discordapp.net
+# (no public DNS addresses found)
+
+# Discord — discordapp.page.link
+2607:f8b0:4023:80d::84/128
+
+# Discord — discordcdn.com
+# (no public DNS addresses found)
+
+# Discord — discordmerch.com
+2620:127:f00f:e::/128
+
+# Discord — discordpartygames.com
+# (no public DNS addresses found)
+
+# Discord — discordsays.com
+2606:4700:4406::6812:22f9/128
+2a06:98c1:3101::ac40:9907/128
+
+# Discord — discordstatus.com
+# (no public DNS addresses found)
+
+# Discord — hammerandchisel.ssl.zendesk.com
+# (no public DNS addresses found)
+
+# Discord — watchanimeattheoffice.com
+2606:4700:3108::ac42:2922/128
+2606:4700:3108::ac42:2ade/128

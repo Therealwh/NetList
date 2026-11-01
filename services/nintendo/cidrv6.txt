@@ -1,3 +1,380 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Nintendo — 100classicbooks.com
+# (no public DNS addresses found)
+
+# Nintendo — ac-pocketcamp.com
+# (no public DNS addresses found)
+
+# Nintendo — amiibo.com
+# (no public DNS addresses found)
+
+# Nintendo — ayudanintendo.com
+# (no public DNS addresses found)
+
+# Nintendo — bowsersinsidestory.com
+# (no public DNS addresses found)
+
+# Nintendo — dialga.com
+# (no public DNS addresses found)
+
+# Nintendo — diddykongracing.com
+# (no public DNS addresses found)
+
+# Nintendo — dkr.com
+# (no public DNS addresses found)
+
+# Nintendo — donkeykongcountryreturns.com
+# (no public DNS addresses found)
+
+# Nintendo — drmario-world.com
+# (no public DNS addresses found)
+
+# Nintendo — excitebots.com
+# (no public DNS addresses found)
+
+# Nintendo — fire-emblem-heroes.com
+# (no public DNS addresses found)
+
+# Nintendo — fireemblemawakening.com
+# (no public DNS addresses found)
+
+# Nintendo — flipnotestudio.com
+# (no public DNS addresses found)
+
+# Nintendo — giratina.com
+# (no public DNS addresses found)
+
+# Nintendo — gloryofheracles.com
+2606:4700:3030::6815:4a2e/128
+2606:4700:3034::ac43:c666/128
+
+# Nintendo — hackyourconsole.com
+# (no public DNS addresses found)
+
+# Nintendo — kirbysepicyarn.com
+# (no public DNS addresses found)
+
+# Nintendo — kirbysuperstarultra.com
+# (no public DNS addresses found)
+
+# Nintendo — kyurem.com
+# (no public DNS addresses found)
+
+# Nintendo — legendofzelda.cn
+# (no public DNS addresses found)
+
+# Nintendo — legendofzelda.com.cn
+# (no public DNS addresses found)
+
+# Nintendo — marioandluigidreamteam.com
+# (no public DNS addresses found)
+
+# Nintendo — mariobroswii.com
+2606:4700:3034::ac43:8892/128
+2606:4700:3035::6815:5920/128
+
+# Nintendo — mariokart.cn
+# (no public DNS addresses found)
+
+# Nintendo — mariokart.com.cn
+# (no public DNS addresses found)
+
+# Nintendo — mariokart7.com
+# (no public DNS addresses found)
+
+# Nintendo — mariokart8.com
+# (no public DNS addresses found)
+
+# Nintendo — mariosupersluggers.com
+# (no public DNS addresses found)
+
+# Nintendo — miitomo.com
+# (no public DNS addresses found)
+
+# Nintendo — miitomo.com.cn
+# (no public DNS addresses found)
+
+# Nintendo — miiverse.com
+# (no public DNS addresses found)
+
+# Nintendo — newsupermariobrosu.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendo-europe-sales.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendo-europe.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.at
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.be
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.ch
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.co.jp
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.co.kr
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.co.uk
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.co.za
+# (no public DNS addresses found)
+
 # Nintendo — nintendo.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.com.au
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.com.hk
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.com.pt
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.de
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.dk
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.es
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.eu
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.fi
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.fr
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.it
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.jp
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.net
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.nl
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.no
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.pt
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.ru
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.se
+# (no public DNS addresses found)
+
+# Nintendo — nintendo.tw
+# (no public DNS addresses found)
+
+# Nintendo — nintendo3ds.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendodsi.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendoeurope.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendolabo.cn
+# (no public DNS addresses found)
+
+# Nintendo — nintendonetwork.net
+# (no public DNS addresses found)
+
+# Nintendo — nintendonyc.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendostore.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendoswitch.cn
+# (no public DNS addresses found)
+
+# Nintendo — nintendoswitch.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendoswitch.com.cn
+# (no public DNS addresses found)
+
+# Nintendo — nintendoswitch.net
+# (no public DNS addresses found)
+
+# Nintendo — nintendoswitchtogether.com
+# (no public DNS addresses found)
+
+# Nintendo — nintendowifi.net
+# (no public DNS addresses found)
+
+# Nintendo — nintendowii.com
+# (no public DNS addresses found)
+
+# Nintendo — personaltrainermath.com
+2606:4700:3031::6815:e61/128
+2606:4700:3033::ac43:9e9b/128
+
+# Nintendo — playnintendo.com
+# (no public DNS addresses found)
+
+# Nintendo — pokedex3d.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemon-moon.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemon-sun.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemon-sunmoon.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemon.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonbank.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonblackwhite.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonbw.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonchampionships.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemongoldsilver.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonhome.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonletsgoeevee.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonletsgopikachu.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonmysterydungeon.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonpicross.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonplatinum.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonrubysapphire.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonsunmoon.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonswordshield.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonultrasunmoon.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonvgc.com
+# (no public DNS addresses found)
+
+# Nintendo — pokemonwifi.net
+# (no public DNS addresses found)
+
+# Nintendo — splatoon2tournament.com
+# (no public DNS addresses found)
+
+# Nintendo — starfox.com
+# (no public DNS addresses found)
+
+# Nintendo — supermario.com
+# (no public DNS addresses found)
+
+# Nintendo — supermario3dworld.com
+# (no public DNS addresses found)
+
+# Nintendo — supermariobros.com.cn
+# (no public DNS addresses found)
+
+# Nintendo — supermariogalaxy.com
+# (no public DNS addresses found)
+
+# Nintendo — supermariorun.com
+# (no public DNS addresses found)
+
+# Nintendo — superpapermario.com
+# (no public DNS addresses found)
+
+# Nintendo — supersmashbros.cn
+# (no public DNS addresses found)
+
+# Nintendo — supersmashbros.com.cn
+# (no public DNS addresses found)
+
+# Nintendo — thelegendarystarfy.com
+# (no public DNS addresses found)
+
+# Nintendo — thewonderful101.com
+# (no public DNS addresses found)
+
+# Nintendo — wariolandshakeit.com
+# (no public DNS addresses found)
+
+# Nintendo — wariowarediy.com
+2606:4700:3033::ac43:d57e/128
+2606:4700:3034::6815:3dc7/128
+
+# Nintendo — wii-u.com
+# (no public DNS addresses found)
+
+# Nintendo — wiifit.com
+# (no public DNS addresses found)
+
+# Nintendo — wiifitu.com
+# (no public DNS addresses found)
+
+# Nintendo — wiipartyu.com
+# (no public DNS addresses found)
+
+# Nintendo — wiisports.com
+# (no public DNS addresses found)
+
+# Nintendo — wiisportsresort.com
+2606:4700:3032::6815:5ec1/128
+2606:4700:3033::ac43:a8a0/128
+
+# Nintendo — wiiugamepad.com
+# (no public DNS addresses found)
+
+# Nintendo — wiivc.net
+# (no public DNS addresses found)
+
+# Nintendo — xenoblade.com
+# (no public DNS addresses found)
+
+# Nintendo — xn--mts47c3w9b1qr.cn
+# (no public DNS addresses found)
+
+# Nintendo — xn--mts47c3w9b1qr.net
+# (no public DNS addresses found)
+
+# Nintendo — yoshisnewisland.com
 # (no public DNS addresses found)

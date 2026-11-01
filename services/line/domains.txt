@@ -1,3 +1,10 @@
 # NetList seed candidates: LINE
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+lin.ee
+line-apps.com
+line-cdn.net
+line-scdn.net
 line.me
+linecorp.com
+naver.jp
+nhncorp.jp

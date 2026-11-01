@@ -1,5 +1,27 @@
 # DNS-derived IP snapshot for LINE (line)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# LINE — lin.ee
+147.92.240.249
+147.92.242.107
+
+# LINE — line-apps.com
+# (no public DNS addresses found)
+
+# LINE — line-cdn.net
+# (no public DNS addresses found)
+
+# LINE — line-scdn.net
+# (no public DNS addresses found)
+
 # LINE — line.me
 147.92.243.206
+
+# LINE — linecorp.com
+147.92.242.144
+
+# LINE — naver.jp
+# (no public DNS addresses found)
+
+# LINE — nhncorp.jp
+# (no public DNS addresses found)

@@ -1,3 +1,7 @@
 # NetList seed candidates: Dailymotion
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+dai.ly
 dailymotion.com
+dm-event.net
+dmcdn.net
+dmxleo.com

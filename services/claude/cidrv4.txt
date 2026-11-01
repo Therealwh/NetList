@@ -2,5 +2,8 @@
 # Claude — anthropic.com
 160.79.104.10/32
 
+# Claude — cdn.usefathom.com
+84.17.63.178/32
+
 # Claude — claude.ai
 160.79.104.10/32

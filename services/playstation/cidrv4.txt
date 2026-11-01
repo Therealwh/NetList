@@ -3,6 +3,16 @@
 54.183.13.56/32
 54.215.24.50/32
 
+# PlayStation — playstation.net
+# (no public DNS addresses found)
+
+# PlayStation — playstationnetwork.com
+184.24.58.3/32
+
 # PlayStation — sony.com
 44.218.59.236/32
 52.6.127.76/32
+
+# PlayStation — sonyentertainmentnetwork.com
+216.146.46.10/32
+216.146.46.11/32

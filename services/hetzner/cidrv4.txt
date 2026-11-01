@@ -4,3 +4,6 @@
 
 # Hetzner — hetzner.de
 213.133.116.44/32
+
+# Hetzner — sentry.hetzner.company
+213.133.102.139/32

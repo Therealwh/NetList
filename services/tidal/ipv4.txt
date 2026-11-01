@@ -1,8 +1,27 @@
 # DNS-derived IP snapshot for Tidal (tidal)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Tidal — tidal-cms.s3.amazonaws.com
+16.15.163.210
+16.15.199.227
+16.15.228.48
+16.15.237.195
+16.15.244.89
+16.15.245.74
+16.15.252.194
+52.217.226.250
+
 # Tidal — tidal.com
 65.9.148.125
 65.9.148.60
 65.9.148.75
 65.9.148.86
+
+# Tidal — tidalhifi.com
+18.245.113.126
+18.245.113.22
+18.245.113.34
+18.245.113.49
+
+# Tidal — wimpmusic.com
+# (no public DNS addresses found)

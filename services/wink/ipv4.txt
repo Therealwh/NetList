@@ -1,8 +1,13 @@
 # DNS-derived IP snapshot for Wink (wink)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Wink — wink.rt.ru
+212.193.153.131
+212.193.153.139
+46.235.186.249
+
 # Wink — wink.ru
-212.193.153.141
+212.193.153.133
 212.193.153.154
 212.193.157.252
 37.220.163.129

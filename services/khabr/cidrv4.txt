@@ -1,3 +1,10 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Хабр — habr.com
 178.248.237.68/32
+
+# Хабр — habr.io
+178.248.233.33/32
+
+# Хабр — habrastorage.org
+95.47.173.34/32
+95.47.173.35/32

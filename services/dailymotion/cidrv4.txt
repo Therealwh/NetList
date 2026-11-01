@@ -1,3 +1,15 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Dailymotion — dai.ly
+195.8.215.181/32
+
 # Dailymotion — dailymotion.com
 195.8.215.136/32
+
+# Dailymotion — dm-event.net
+188.65.124.58/32
+
+# Dailymotion — dmcdn.net
+195.8.215.136/32
+
+# Dailymotion — dmxleo.com
+# (no public DNS addresses found)

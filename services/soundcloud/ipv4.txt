@@ -1,6 +1,15 @@
 # DNS-derived IP snapshot for SoundCloud (soundcloud)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# SoundCloud — p-cdn.us
+# (no public DNS addresses found)
+
+# SoundCloud — sndcdn.com
+18.161.156.101
+18.161.156.26
+18.161.156.65
+18.161.156.78
+
 # SoundCloud — soundcloud.com
 52.84.150.35
 52.84.150.39

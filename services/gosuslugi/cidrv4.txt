@@ -1,4 +1,12 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Госуслуги — esia.gosuslugi.ru
+213.59.253.8/32
+213.59.254.8/32
+
 # Госуслуги — gosuslugi.ru
 213.59.253.7/32
 213.59.254.7/32
+
+# Госуслуги — lk.gosuslugi.ru
+213.59.253.6/32
+213.59.254.6/32

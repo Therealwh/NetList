@@ -1,3 +1,5 @@
 # NetList seed candidates: Perplexity
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
 perplexity.ai
+ppl-ai-file-upload.s3.amazonaws.com
+pplx-res.cloudinary.com

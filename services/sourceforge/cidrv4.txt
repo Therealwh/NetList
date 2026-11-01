@@ -1,4 +1,14 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# SourceForge — fsdn.com
+216.105.38.14/32
+
+# SourceForge — sf.net
+104.18.20.237/32
+104.18.21.237/32
+
+# SourceForge — sourceforge.com
+204.68.111.105/32
+
 # SourceForge — sourceforge.net
 104.18.12.149/32
 104.18.13.149/32

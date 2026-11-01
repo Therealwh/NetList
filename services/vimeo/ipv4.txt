@@ -1,6 +1,74 @@
 # DNS-derived IP snapshot for Vimeo (vimeo)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Vimeo — livestream.com
+162.159.136.60
+162.159.137.60
+
+# Vimeo — vhx.tv
+104.18.36.21
+172.64.151.235
+
+# Vimeo — vhxqa1.com
+# (no public DNS addresses found)
+
+# Vimeo — vhxqa2.com
+# (no public DNS addresses found)
+
+# Vimeo — vhxqa3.com
+# (no public DNS addresses found)
+
+# Vimeo — vhxqa4.com
+# (no public DNS addresses found)
+
+# Vimeo — vhxqa6.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeo-staging.com
+151.101.0.217
+151.101.128.217
+151.101.192.217
+151.101.64.217
+
+# Vimeo — vimeo-staging2.com
+151.101.0.217
+151.101.130.217
+151.101.192.217
+151.101.64.217
+
 # Vimeo — vimeo.com
 162.159.128.61
 162.159.138.60
+
+# Vimeo — vimeo.fr
+151.101.0.217
+151.101.130.217
+151.101.192.217
+151.101.64.217
+
+# Vimeo — vimeobusiness.com
+151.101.0.217
+151.101.128.217
+151.101.192.217
+151.101.64.217
+
+# Vimeo — vimeocdn.com
+151.101.130.109
+151.101.194.109
+151.101.2.109
+151.101.66.109
+
+# Vimeo — vimeogoods.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeoondemand.com
+151.101.0.217
+151.101.128.217
+151.101.192.217
+151.101.64.217
+
+# Vimeo — vimeostatus.com
+151.101.0.217
+151.101.128.217
+151.101.192.217
+151.101.64.217

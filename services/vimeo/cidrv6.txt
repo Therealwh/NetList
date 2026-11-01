@@ -1,3 +1,49 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# Vimeo — livestream.com
+# (no public DNS addresses found)
+
+# Vimeo — vhx.tv
+2606:4700:4405::ac40:97eb/128
+2a06:98c1:310b::6812:2415/128
+
+# Vimeo — vhxqa1.com
+# (no public DNS addresses found)
+
+# Vimeo — vhxqa2.com
+# (no public DNS addresses found)
+
+# Vimeo — vhxqa3.com
+# (no public DNS addresses found)
+
+# Vimeo — vhxqa4.com
+# (no public DNS addresses found)
+
+# Vimeo — vhxqa6.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeo-staging.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeo-staging2.com
+# (no public DNS addresses found)
+
 # Vimeo — vimeo.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeo.fr
+# (no public DNS addresses found)
+
+# Vimeo — vimeobusiness.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeocdn.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeogoods.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeoondemand.com
+# (no public DNS addresses found)
+
+# Vimeo — vimeostatus.com
 # (no public DNS addresses found)

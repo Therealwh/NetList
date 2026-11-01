@@ -1,3 +1,39 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Zoho — zoho.com
 # (no public DNS addresses found)
+
+# Zoho — zoho.com.au
+# (no public DNS addresses found)
+
+# Zoho — zoho.eu
+# (no public DNS addresses found)
+
+# Zoho — zoho.in
+# (no public DNS addresses found)
+
+# Zoho — zohocdn.com
+# (no public DNS addresses found)
+
+# Zoho — zohomeetups.com
+# (no public DNS addresses found)
+
+# Zoho — zohomerchandise.com
+# (no public DNS addresses found)
+
+# Zoho — zohopublic.com
+# (no public DNS addresses found)
+
+# Zoho — zohoschools.com
+# (no public DNS addresses found)
+
+# Zoho — zohostatic.com
+# (no public DNS addresses found)
+
+# Zoho — zohostatic.in
+# (no public DNS addresses found)
+
+# Zoho — zohouniversity.com
+# (no public DNS addresses found)
+
+# Zoho — zohowebstatic.com
+# (no public DNS addresses found)

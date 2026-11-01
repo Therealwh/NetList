@@ -4,6 +4,9 @@
 # Mail.ru — bk.ru
 # (no public DNS addresses found)
 
+# Mail.ru — imgsmail.ru
+# (no public DNS addresses found)
+
 # Mail.ru — inbox.ru
 # (no public DNS addresses found)
 
@@ -14,3 +17,6 @@
 2a00:1148:9100:b000::1
 2a00:b4c0:9100:b000::1
 2a14:25c0:9100:b000::1
+
+# Mail.ru — mycdn.me
+# (no public DNS addresses found)

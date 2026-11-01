@@ -1,3 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # HeadHunter — hh.ru
 94.124.200.0/32
+
+# HeadHunter — hhcdn.ru
+94.124.200.0/32

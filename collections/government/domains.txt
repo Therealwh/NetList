@@ -3,9 +3,11 @@
 council.gov.ru
 dom.gosuslugi.ru
 duma.gov.ru
+esia.gosuslugi.ru
 gosuslugi.ru
 government.ru
 kremlin.ru
+lk.gosuslugi.ru
 mchs.gov.ru
 nalog.gov.ru
 rosreestr.gov.ru

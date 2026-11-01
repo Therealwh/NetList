@@ -1,7 +1,57 @@
 # DNS-derived IP snapshot for Binance (binance)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Binance — appsflayer.com
+78.40.143.47
+
+# Binance — binance.cloud
+# (no public DNS addresses found)
+
 # Binance — binance.com
 13.230.56.252
 35.77.180.16
 52.193.67.40
+
+# Binance — binance.me
+13.230.56.252
+35.77.180.16
+52.193.67.40
+
+# Binance — binancecnt.com
+# (no public DNS addresses found)
+
+# Binance — binancefuture.com
+# (no public DNS addresses found)
+
+# Binance — bnappzh.co
+# (no public DNS addresses found)
+
+# Binance — bnbstatic.com
+# (no public DNS addresses found)
+
+# Binance — bnbzh.ac
+47.243.74.33
+
+# Binance — bntrace.com
+# (no public DNS addresses found)
+
+# Binance — saasexch.cc
+# (no public DNS addresses found)
+
+# Binance — saasexch.com
+108.138.159.24
+108.138.159.29
+108.138.159.55
+108.138.159.61
+
+# Binance — zftksc.cdn-settings.appsflyersdk.com
+108.138.167.18
+108.138.167.58
+108.138.167.76
+108.138.167.99
+
+# Binance — zftksc.launches.appsflyersdk.com
+13.225.61.117
+13.225.61.4
+13.225.61.58
+13.225.61.6

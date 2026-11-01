@@ -3,3 +3,17 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Кинопоиск — kinopoisk.ru
 213.180.199.9
+
+# Кинопоиск — kp-config-smart-tv.akamaized.net
+23.219.87.39
+23.53.127.133
+
+# Кинопоиск — kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+3.5.120.250
+3.5.134.227
+3.5.134.252
+3.5.134.89
+3.5.135.152
+3.5.135.219
+3.5.136.219
+3.5.139.29

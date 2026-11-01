@@ -1,4 +1,22 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Notion — http-inputs-notion.splunkcloud.com
+18.214.252.60/32
+34.228.45.57/32
+44.215.234.239/32
+
+# Notion — notion-static.com
+# (no public DNS addresses found)
+
+# Notion — notion.com
+208.103.161.1/32
+208.103.161.16/32
+208.103.161.17/32
+208.103.161.2/32
+
+# Notion — notion.new
+208.103.161.1/32
+208.103.161.2/32
+
 # Notion — notion.site
 208.103.161.32/32
 208.103.161.33/32

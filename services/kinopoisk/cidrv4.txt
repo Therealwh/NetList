@@ -1,3 +1,17 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Кинопоиск — kinopoisk.ru
 213.180.199.9/32
+
+# Кинопоиск — kp-config-smart-tv.akamaized.net
+23.219.87.39/32
+23.53.127.133/32
+
+# Кинопоиск — kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+3.5.120.250/32
+3.5.134.227/32
+3.5.134.252/32
+3.5.134.89/32
+3.5.135.152/32
+3.5.135.219/32
+3.5.136.219/32
+3.5.139.29/32

@@ -3,3 +3,6 @@
 # DNS answers change and do not prove exclusive service ownership.
 # HeadHunter — hh.ru
 # (no public DNS addresses found)
+
+# HeadHunter — hhcdn.ru
+# (no public DNS addresses found)

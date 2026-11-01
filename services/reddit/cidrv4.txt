@@ -1,6 +1,34 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Reddit — redd.it
+151.101.1.140/32
+151.101.129.140/32
+151.101.193.140/32
+151.101.65.140/32
+
 # Reddit — reddit.com
 151.101.1.140/32
 151.101.129.140/32
 151.101.193.140/32
 151.101.65.140/32
+
+# Reddit — redditmail.com
+54.172.97.226/32
+54.172.97.234/32
+
+# Reddit — redditmedia.com
+151.101.1.140/32
+151.101.129.140/32
+151.101.193.140/32
+151.101.65.140/32
+
+# Reddit — redditstatic.com
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com.cdn-cf.behance.net
+# (no public DNS addresses found)
+
+# Reddit — reddituploads.com.cdn-cf.dropbox.com
+# (no public DNS addresses found)

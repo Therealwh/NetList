@@ -1,4 +1,13 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# MEGA — mega.co.nz
+2a0b:e46:1:50::30/128
+2a0b:e46:1:50::31/128
+
+# MEGA — mega.io
+2001:678:25c:2215::552/128
+2a0b:e40:3::23/128
+2a0b:e46:1:50::37/128
+
 # MEGA — mega.nz
 2a0b:e46:1:144::5/128
 2a0b:e46:1:145::5/128

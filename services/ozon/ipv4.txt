@@ -1,6 +1,37 @@
 # DNS-derived IP snapshot for Ozon (ozon)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Ozon — ad.ozone.ru
+# (no public DNS addresses found)
+
+# Ozon — adv.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — agency-adv.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — analytics-adv.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — beginners-adv.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — google-analytics-suite.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — loyalnost-adv.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — new-adv.ozon.ru
+185.73.194.77
+185.73.195.108
+
 # Ozon — ozon.ru
 185.73.193.68
 185.73.194.82
@@ -11,3 +42,44 @@
 
 # Ozon — ozonusercontent.com
 # (no public DNS addresses found)
+
+# Ozon — ozonusercontent.net
+# (no public DNS addresses found)
+
+# Ozon — prodvizhenie-adv.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — questions-adv.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — sentry.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — xapi.ozon.by
+185.73.194.77
+185.73.195.108
+
+# Ozon — xapi.ozon.com
+185.73.194.77
+185.73.195.108
+
+# Ozon — xapi.ozon.com.by
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozon.com.kz
+# (no public DNS addresses found)
+
+# Ozon — xapi.ozon.kz
+185.73.194.77
+185.73.195.108
+
+# Ozon — xapi.ozon.ru
+185.73.194.77
+185.73.195.108
+
+# Ozon — xapi.ozonru.me
+185.73.195.97
+185.73.195.98

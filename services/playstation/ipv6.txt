@@ -4,5 +4,14 @@
 # PlayStation — playstation.com
 # (no public DNS addresses found)
 
+# PlayStation — playstation.net
+# (no public DNS addresses found)
+
+# PlayStation — playstationnetwork.com
+# (no public DNS addresses found)
+
 # PlayStation — sony.com
+# (no public DNS addresses found)
+
+# PlayStation — sonyentertainmentnetwork.com
 # (no public DNS addresses found)

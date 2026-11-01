@@ -4,3 +4,34 @@
 # Bing — bing.com
 2620:1ec:33:1::10
 2620:1ec:33::10
+
+# Bing — bing.com.cn
+# (no public DNS addresses found)
+
+# Bing — bing.net
+# (no public DNS addresses found)
+
+# Bing — bingads.com
+# (no public DNS addresses found)
+
+# Bing — bingagencyawards.com
+# (no public DNS addresses found)
+
+# Bing — bingapistatistics.com
+# (no public DNS addresses found)
+
+# Bing — bingsandbox.com
+# (no public DNS addresses found)
+
+# Bing — bingvisualsearch.com
+# (no public DNS addresses found)
+
+# Bing — bingworld.com
+# (no public DNS addresses found)
+
+# Bing — bj1.api.bing.com
+2620:1ec:33:1::10
+2620:1ec:33::10
+
+# Bing — location.microsoft.com
+# (no public DNS addresses found)

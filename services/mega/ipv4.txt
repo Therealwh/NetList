@@ -1,6 +1,15 @@
 # DNS-derived IP snapshot for MEGA (mega)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# MEGA — mega.co.nz
+66.203.124.30
+66.203.124.31
+
+# MEGA — mega.io
+66.203.124.37
+66.203.127.23
+89.44.169.134
+
 # MEGA — mega.nz
 31.216.144.5
 31.216.145.5

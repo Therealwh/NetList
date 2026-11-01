@@ -1,8 +1,18 @@
 # DNS-derived IP snapshot for Proton Mail (proton-mail)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Proton Mail — pm.me
+185.70.42.16
+
 # Proton Mail — proton.me
 185.70.42.45
 
+# Proton Mail — protonmail.ch
+185.70.42.21
+
 # Proton Mail — protonmail.com
 185.70.42.12
+
+# Proton Mail — protonstatus.com
+104.21.20.191
+172.67.194.22

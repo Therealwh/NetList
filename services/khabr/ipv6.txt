@@ -3,3 +3,10 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Хабр — habr.com
 # (no public DNS addresses found)
+
+# Хабр — habr.io
+# (no public DNS addresses found)
+
+# Хабр — habrastorage.org
+2a14:b680:0:56::34
+2a14:b680:0:56::35

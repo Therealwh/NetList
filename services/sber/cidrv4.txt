@@ -1,6 +1,27 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
+# Сбер — error-tracking.megamarket.tech
+91.206.127.218/32
+
+# Сбер — metrics.21-school.ru
+91.221.165.183/32
+
 # Сбер — sber.ru
 84.252.149.198/32
 
 # Сбер — sberbank.ru
 84.252.149.206/32
+
+# Сбер — sberdevices.ru
+95.181.181.254/32
+
+# Сбер — sbermarket.ru
+195.208.66.164/32
+
+# Сбер — sberpro.vedomosti.ru
+185.216.195.147/32
+
+# Сбер — sentry.sberauto.com
+185.169.155.9/32
+
+# Сбер — tracing-http.megamarket.tech
+91.206.127.218/32

@@ -1,5 +1,50 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
+# VK — adblogger.vk.com
+# (no public DNS addresses found)
+
+# VK — adblogger.vk.ru
+# (no public DNS addresses found)
+
+# VK — ads.vk.com
+# (no public DNS addresses found)
+
+# VK — ads.vk.ru
+# (no public DNS addresses found)
+
+# VK — adv.vk.ru
+# (no public DNS addresses found)
+
+# VK — advk.vk.ru
+# (no public DNS addresses found)
+
+# VK — analytics.vk.ru
+# (no public DNS addresses found)
+
+# VK — mvk.com
+# (no public DNS addresses found)
+
+# VK — stats.vk-portal.net
+# (no public DNS addresses found)
+
+# VK — target.vk.com
+# (no public DNS addresses found)
+
 # VK — userapi.com
+# (no public DNS addresses found)
+
+# VK — vk-apps.com
+# (no public DNS addresses found)
+
+# VK — vk-cdn.me
+# (no public DNS addresses found)
+
+# VK — vk-cdn.net
+# (no public DNS addresses found)
+
+# VK — vk-portal.net
+# (no public DNS addresses found)
+
+# VK — vk.cc
 # (no public DNS addresses found)
 
 # VK — vk.com
@@ -8,5 +53,14 @@
 # VK — vk.ru
 # (no public DNS addresses found)
 
+# VK — vkuseraudio.net
+# (no public DNS addresses found)
+
 # VK — vkuserlive.net
+# (no public DNS addresses found)
+
+# VK — vkuserphoto.ru
+# (no public DNS addresses found)
+
+# VK — vkuservideo.net
 # (no public DNS addresses found)

@@ -1,6 +1,9 @@
 # DNS-derived IP snapshot for Ubuntu (ubuntu)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Ubuntu — aerialline.com
+162.43.116.147
+
 # Ubuntu — archive.ubuntu.com
 185.125.190.81
 185.125.190.82
@@ -12,7 +15,186 @@
 91.189.92.23
 91.189.92.24
 
+# Ubuntu — askubuntu.com
+198.252.206.1
+
+# Ubuntu — canonical.com
+185.125.190.20
+185.125.190.21
+185.125.190.29
+
+# Ubuntu — debianadmin.com
+104.21.6.71
+172.67.134.150
+
+# Ubuntu — debuntu.org
+104.21.3.89
+172.67.130.133
+
+# Ubuntu — fullcirclemagazine.org
+67.205.25.199
+
+# Ubuntu — iloveubuntu.net
+185.206.180.114
+185.206.180.183
+
+# Ubuntu — omgubuntu.co.uk
+199.16.172.121
+199.16.173.168
+
+# Ubuntu — snapcraft.io
+185.125.190.20
+185.125.190.21
+185.125.190.29
+
+# Ubuntu — ualinux.com
+104.21.3.103
+172.67.153.131
+
+# Ubuntu — ubucentrum.net
+104.247.81.99
+
+# Ubuntu — ubuntu-br.org
+185.125.188.125
+185.125.188.232
+185.125.188.84
+
+# Ubuntu — ubuntu-cl.org
+208.113.169.158
+
+# Ubuntu — ubuntu-fi.org
+51.15.35.116
+
+# Ubuntu — ubuntu-fr.org
+217.70.184.55
+
+# Ubuntu — ubuntu-gr.org
+147.52.205.205
+
+# Ubuntu — ubuntu-hr.org
+161.53.50.215
+
+# Ubuntu — ubuntu-ie.org
+185.125.188.125
+185.125.188.232
+185.125.188.84
+
+# Ubuntu — ubuntu-it.org
+195.15.255.252
+
+# Ubuntu — ubuntu-manual.org
+173.236.198.236
+
+# Ubuntu — ubuntu-news.ru
+5.253.60.6
+
+# Ubuntu — ubuntu-nl.org
+212.72.227.45
+
+# Ubuntu — ubuntu-pe.org
+185.125.188.125
+185.125.188.232
+185.125.188.84
+
+# Ubuntu — ubuntu-pt.org
+35.185.44.232
+
+# Ubuntu — ubuntu-rs.org
+87.237.205.66
+
+# Ubuntu — ubuntu-se.org
+185.99.36.61
+
+# Ubuntu — ubuntu-touch.io
+75.2.60.5
+
+# Ubuntu — ubuntu-tr.net
+94.102.6.26
+
+# Ubuntu — ubuntu-tw.org
+140.138.145.240
+
+# Ubuntu — ubuntu-vn.org
+43.239.220.253
+
+# Ubuntu — ubuntu-za.org
+41.206.209.173
+
 # Ubuntu — ubuntu.com
 185.125.190.20
 185.125.190.21
 185.125.190.29
+
+# Ubuntu — ubuntu.cz
+35.185.44.232
+
+# Ubuntu — ubuntu.hu
+92.119.121.114
+
+# Ubuntu — ubuntu.ir
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.lt
+89.233.108.224
+
+# Ubuntu — ubuntu.lv
+5.179.20.166
+
+# Ubuntu — ubuntu.net
+185.125.190.20
+185.125.190.21
+185.125.190.29
+
+# Ubuntu — ubuntu.or.kr
+121.78.251.11
+
+# Ubuntu — ubuntu.org.cn
+104.21.59.99
+172.67.174.194
+
+# Ubuntu — ubuntu.pl
+185.238.74.116
+
+# Ubuntu — ubuntu.ro
+89.42.42.116
+
+# Ubuntu — ubuntu.ru
+162.55.187.222
+
+# Ubuntu — ubuntu.se
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntu.si
+193.95.228.69
+
+# Ubuntu — ubuntu.sk
+31.31.75.245
+
+# Ubuntu — ubuntuclub.com
+154.206.190.164
+
+# Ubuntu — ubuntuforums.org
+# (no public DNS addresses found)
+
+# Ubuntu — ubuntugeek.com
+104.21.52.204
+172.67.203.165
+
+# Ubuntu — ubuntuguide.org
+187.77.73.186
+
+# Ubuntu — ubuntulinux.jp
+104.21.80.9
+172.67.172.144
+
+# Ubuntu — ubuntulinux.org
+185.125.190.20
+185.125.190.21
+185.125.190.29
+
+# Ubuntu — ubuntustats.com
+104.21.60.178
+172.67.198.240
+
+# Ubuntu — ubuntuusers.de
+188.64.56.49

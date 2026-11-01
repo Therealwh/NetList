@@ -5,6 +5,30 @@
 166.117.114.163
 166.117.214.166
 
+# Battle.net — battlenet.com.cn
+101.37.204.21
+115.29.213.89
+118.178.229.2
+
 # Battle.net — blizzard.com
 166.117.114.163
 166.117.214.166
+
+# Battle.net — blizzard.nefficient.co.kr
+# (no public DNS addresses found)
+
+# Battle.net — blzddist1-a.akamaihd.net
+23.53.127.175
+23.53.127.235
+
+# Battle.net — blzddistkr1-a.akamaihd.net
+23.53.127.175
+23.53.127.235
+
+# Battle.net — bnetproduct-a.akamaihd.net
+23.205.110.17
+23.205.110.52
+
+# Battle.net — cdn.blz-contentstack.com
+104.18.35.174
+172.64.152.82

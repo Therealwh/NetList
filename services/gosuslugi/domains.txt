@@ -1,3 +1,5 @@
 # NetList seed candidates: Госуслуги
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+esia.gosuslugi.ru
 gosuslugi.ru
+lk.gosuslugi.ru

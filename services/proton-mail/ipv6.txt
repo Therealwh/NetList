@@ -1,8 +1,18 @@
 # DNS-derived IP snapshot for Proton Mail (proton-mail)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Proton Mail — pm.me
+# (no public DNS addresses found)
+
 # Proton Mail — proton.me
+# (no public DNS addresses found)
+
+# Proton Mail — protonmail.ch
 # (no public DNS addresses found)
 
 # Proton Mail — protonmail.com
 # (no public DNS addresses found)
+
+# Proton Mail — protonstatus.com
+2606:4700:3035::6815:14bf
+2606:4700:3037::ac43:c216

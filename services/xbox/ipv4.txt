@@ -1,6 +1,106 @@
 # DNS-derived IP snapshot for Xbox (xbox)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Xbox — beth.games
+67.199.248.12
+67.199.248.13
+
+# Xbox — bethesda.net
+18.238.132.115
+18.238.132.5
+18.238.132.56
+18.238.132.69
+
+# Xbox — bethesdagamestudios.com
+108.156.211.26
+108.156.211.49
+108.156.211.82
+108.156.211.91
+
+# Xbox — bethsoft.com
+52.2.16.236
+
+# Xbox — callersbane.com
+150.171.109.226
+
+# Xbox — forzamotorsport.net
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+40.84.59.174
+
+# Xbox — forzaracingchampionship.com
+40.65.123.116
+
+# Xbox — forzarc.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — gamepass.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — img-prod-cms-rt-microsoft-com.akamaized.net
+23.205.110.43
+23.205.110.47
+
+# Xbox — login.live.com
+20.190.190.129
+20.190.190.130
+20.190.190.132
+20.190.190.193
+20.190.190.194
+20.190.190.196
+40.126.62.129
+40.126.62.130
+
+# Xbox — logincdn.msauth.net
+13.107.246.66
+
+# Xbox — minecraft.net
+150.171.109.229
+
+# Xbox — minecraftshop.com
+23.227.38.65
+
+# Xbox — mojang.com
+150.171.109.225
+
+# Xbox — msgamestudios.com
+65.52.88.201
+65.52.88.216
+
+# Xbox — orithegame.com
+20.106.126.61
+
+# Xbox — renovacionxboxlive.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — store-images.s-microsoft.com
+184.29.36.45
+
+# Xbox — tellmewhygame.com
+20.106.126.61
+
+# Xbox — xbox.co
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
 # Xbox — xbox.com
 20.112.250.133
 20.231.239.246
@@ -8,9 +108,115 @@
 20.70.246.20
 20.76.201.171
 
+# Xbox — xbox.eu
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xbox.org
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xbox360.co
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xbox360.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xbox360.eu
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xbox360.org
+# (no public DNS addresses found)
+
+# Xbox — xboxab.com
+# (no public DNS addresses found)
+
+# Xbox — xboxab.net
+# (no public DNS addresses found)
+
+# Xbox — xboxgamepass.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xboxgamestudios.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xboxlive.cn
+# (no public DNS addresses found)
+
 # Xbox — xboxlive.com
 20.112.250.133
 20.231.239.246
 20.236.44.162
 20.70.246.20
 20.76.201.171
+
+# Xbox — xboxone.co
+# (no public DNS addresses found)
+
+# Xbox — xboxone.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xboxone.eu
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xboxplayanywhere.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xboxservice.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xboxservices.com
+# (no public DNS addresses found)
+
+# Xbox — xboxstudios.com
+20.112.250.133
+20.231.239.246
+20.236.44.162
+20.70.246.20
+20.76.201.171
+
+# Xbox — xbx.lv
+67.199.248.12
+67.199.248.13

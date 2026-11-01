@@ -1,5 +1,8 @@
 # DNS-derived IP snapshot for Окко (okko)
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
+# Окко — okko.sport
+109.238.90.217
+
 # Окко — okko.tv
 185.169.155.118

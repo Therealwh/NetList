@@ -1,4 +1,7 @@
 # NetList seed candidates: Proton Mail
 # Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.
+pm.me
 proton.me
+protonmail.ch
 protonmail.com
+protonstatus.com
