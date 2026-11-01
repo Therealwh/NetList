@@ -139,8 +139,9 @@ def monitor_catalog(
         if not any(isinstance(item, dict) and item.get("id") == event["id"] for item in change_events):
             change_events.append(event)
 
-    for domain in sorted(new_names - old_names):
-        add_event("domain_added", domain, owners[domain])
+    if old_names:
+        for domain in sorted(new_names - old_names):
+            add_event("domain_added", domain, owners[domain])
     for domain in sorted(old_names - new_names):
         old_item = previous_domains.get(domain, {}) if isinstance(previous_domains, dict) else {}
         refs = old_item.get("services", []) if isinstance(old_item, dict) else []
@@ -166,7 +167,7 @@ def monitor_catalog(
     change_events = change_events[-10000:]
     history_payload = {"schema_version": 1, "updated_at": timestamp, "events": change_events}
     history_tmp = history_path.with_name(history_path.name + ".tmp")
-    history_tmp.write_text(json.dumps(history_payload, ensure_ascii=False, separators=(",", ":")) + "\\n", encoding="utf-8")
+    history_tmp.write_text(json.dumps(history_payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     history_tmp.replace(history_path)
 
     ok = sum(1 for item in results.values() if item["ipv4"]["status"] == "ok" or item["ipv6"]["status"] == "ok")
