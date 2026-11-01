@@ -73,8 +73,31 @@ def build_registry(records: list[dict]) -> dict[str, Service]:
     return registry
 
 
+# Curated canonical service roots override noisy seed-frequency winners such as
+# CDN delivery hosts, tracking endpoints, and unrelated cross-site references.
+# These roots are added to the service domain set so the displayed primary domain
+# is also included in its exported domain list.
+PRIMARY_DOMAIN_OVERRIDES = {
+    "bbc": "bbc.com",
+    "disney": "disney.com",
+    "eset": "eset.com",
+    "hulu": "hulu.com",
+    "kinogo": "kinogo.online",
+    "linkedin": "linkedin.com",
+    "microsoft": "microsoft.com",
+    "nintendo": "nintendo.com",
+    "prime-video": "primevideo.com",
+    "sber": "sber.ru",
+}
+
+
 def primary_domain(service: Service) -> str:
-    """Самый частый домен, при равенстве — лексикографически меньший."""
+    """Return a curated canonical root when known; otherwise use seed frequency."""
+    preferred = PRIMARY_DOMAIN_OVERRIDES.get(service.slug)
+    if preferred:
+        service.domains.add(preferred)
+        service.counts[preferred] = max(service.counts.values(), default=0) + 1
+        return preferred
     return min(service.counts.items(), key=lambda kv: (-kv[1], kv[0]))[0]
 
 
