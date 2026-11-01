@@ -21,6 +21,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Загрузить полный upstream geosite-каталог доменов
+        uses: actions/checkout@v4
+        with:
+          repository: v2fly/domain-list-community
+          ref: master
+          path: sources/upstream/domain-list-community
+          persist-credentials: false
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
