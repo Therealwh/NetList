@@ -75,11 +75,15 @@ def monitor_catalog(
             addresses = sorted(set(observed.get("addresses", [])))
             if status not in {"ok", "no_records", "error"}:
                 status = "error"
-            last_good = addresses if status in {"ok", "no_records"} and addresses else list((old.get(key, {}) or {}).get("last_good_addresses", []))
-            if status == "no_records":
-                # Empty answers are recorded as observations, but the previous good
-                # snapshot remains visible for diagnosis instead of being discarded.
-                last_good = list(old.get("last_good_" + key, []))
+            old_family = old.get(key, {}) if isinstance(old, dict) else {}
+            old_last_good = old_family.get("last_good_addresses", []) if isinstance(old_family, dict) else []
+            if not old_last_good and isinstance(old_family, dict) and old_family.get("status") == "ok":
+                # Backward compatibility with snapshots created before last_good_addresses.
+                old_last_good = old_family.get("addresses", [])
+            # Only a non-empty successful answer may replace the last known-good set.
+            # A timeout or an authoritative empty answer is recorded as current status,
+            # but never destroys the last usable snapshot.
+            last_good = addresses if status == "ok" and addresses else list(old_last_good)
             current[key] = {
                 "status": status,
                 "addresses": addresses,
@@ -91,8 +95,10 @@ def monitor_catalog(
         for key in ("ipv4", "ipv6"):
             old_state = old.get(key, {}) if isinstance(old, dict) else {}
             new_state = current[key]
-            if new_state["status"] in {"ok", "no_records"} and isinstance(old_state, dict) and "status" in old_state:
-                old_observed = old_state.get("last_good_addresses", []) if old_state.get("status") == "error" else old_state.get("addresses", [])
+            if new_state["status"] == "ok" and new_state["addresses"] and isinstance(old_state, dict) and "status" in old_state:
+                old_observed = old_state.get("last_good_addresses", [])
+                if not old_observed and old_state.get("status") == "ok":
+                    old_observed = old_state.get("addresses", [])
                 if sorted(old_observed or []) != new_state["addresses"]:
                     changed.append(key)
         history = list(old.get("history", [])) if isinstance(old, dict) else []
