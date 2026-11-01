@@ -91,7 +91,7 @@ def monitor_catalog(
         for key in ("ipv4", "ipv6"):
             old_state = old.get(key, {}) if isinstance(old, dict) else {}
             new_state = current[key]
-            if new_state["status"] in {"ok", "no_records"}:
+            if new_state["status"] in {"ok", "no_records"} and isinstance(old_state, dict) and "status" in old_state:
                 old_observed = old_state.get("addresses", old_state.get("last_good_addresses", []))
                 if sorted(old_observed or []) != new_state["addresses"]:
                     changed.append(key)
