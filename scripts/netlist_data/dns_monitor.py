@@ -139,7 +139,7 @@ def monitor_catalog(
     }
     previous_path.parent.mkdir(parents=True, exist_ok=True)
     temporary = previous_path.with_name(previous_path.name + ".tmp")
-    temporary.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temporary.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     temporary.replace(previous_path)
     return payload
 
