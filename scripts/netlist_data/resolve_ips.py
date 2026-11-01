@@ -7,6 +7,7 @@ may appear under multiple domains; consumers can deduplicate when needed.
 from __future__ import annotations
 
 import ipaddress
+from concurrent.futures import ThreadPoolExecutor
 import socket
 import sys
 from pathlib import Path
@@ -15,6 +16,7 @@ from .io_lists import read_list
 from .seed_import import apply_domain_overrides, load_registry
 
 NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.0.0.0/8"),)
+DNS_WORKERS = 32
 
 
 def resolve_domain(domain: str) -> tuple[set[str], set[str]]:
@@ -56,6 +58,13 @@ def generate(repo_root: Path) -> dict[str, int]:
     root = Path(repo_root)
     registry = load_registry(root / "state" / "registry.json")
     apply_domain_overrides(root, registry)
+
+    # Resolve each unique domain once, with bounded concurrency. The same CDN
+    # hostname may belong to multiple services; caching avoids repeated DNS work.
+    unique_domains = sorted({domain for service in registry.values() for domain in service.domains})
+    with ThreadPoolExecutor(max_workers=DNS_WORKERS) as executor:
+        resolved_by_domain = dict(zip(unique_domains, executor.map(resolve_domain, unique_domains)))
+
     all_v4: set[str] = set()
     all_v6: set[str] = set()
     common_groups: dict[str, list[tuple[str, set[str]]]] = {
@@ -70,7 +79,7 @@ def generate(repo_root: Path) -> dict[str, int]:
             name: [] for name in ("ipv4", "ipv6", "cidrv4", "cidrv6")
         }
         for domain in sorted(service.domains):
-            v4, v6 = resolve_domain(domain)
+            v4, v6 = resolved_by_domain.get(domain, (set(), set()))
             service_v4.update(v4)
             service_v6.update(v6)
             label = f"{service.name} — {domain}"
