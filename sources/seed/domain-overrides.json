@@ -1119,6 +1119,307 @@
         "connectcommerce.tv"
       ],
       "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "edx",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/edx",
+      "domains": [
+        "edx.org",
+        "edx-cdn.org"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "eset",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/eset",
+      "domains": [
+        "e5.sk",
+        "eset.com",
+        "eset.eu",
+        "eset.sk",
+        "eset.systems",
+        "esetsoftware.com",
+        "eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com",
+        "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "facebook",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/facebook",
+      "domains": [
+        "aboutfacebook.com",
+        "accessfacebookfromschool.com",
+        "acebooik.com",
+        "acebook.com",
+        "advancediddetection.com",
+        "askfacebook.net",
+        "askfacebook.org",
+        "atdmt2.com",
+        "atlasdmt.com",
+        "atlasonepoint.com",
+        "buyingfacebooklikes.com",
+        "careersatfb.com",
+        "celebgramme.com",
+        "china-facebook.com",
+        "click-url.com",
+        "como-hackearfacebook.com",
+        "crowdtangle.com",
+        "dacebook.com",
+        "dlfacebook.com",
+        "dotfacebook.com",
+        "dotfacebook.net",
+        "expresswifi.com",
+        "faacebok.com",
+        "faacebook.com",
+        "faasbook.com",
+        "facbebook.com",
+        "facbeok.com",
+        "facboo.com",
+        "facbook.com",
+        "facbool.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "faceit",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/faceit",
+      "domains": [
+        "faceit.com",
+        "faceit-cdn.net"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "fastly",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/fastly",
+      "domains": [
+        "fastly-edge.com",
+        "fastly-terrarium.com",
+        "fastly.com",
+        "fastly.io",
+        "fastly.net",
+        "fastlylabs.com",
+        "fastlylb.net"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "fedora",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/fedora",
+      "domains": [
+        "fedoraforum.org",
+        "fedorainfracloud.org",
+        "fedoramagazine.org",
+        "fedorapeople.org",
+        "fedoraproject.org",
+        "getfedora.org"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "figma",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/figma",
+      "domains": [
+        "figma.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "gismeteo",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/gismeteo",
+      "domains": [
+        "gismeteo.by",
+        "gismeteo.com",
+        "gismeteo.net",
+        "gismeteo.ru",
+        "gismeteo.st",
+        "meteofor.com",
+        "meteofor.st"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "github",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/github",
+      "domains": [
+        "atom.io",
+        "dependabot.com",
+        "gh.io",
+        "ghcr.io",
+        "ghe.com",
+        "git.io",
+        "github.ai",
+        "github.blog",
+        "github.career",
+        "github.com",
+        "github.community",
+        "github.dev",
+        "github.io",
+        "githubapp.com",
+        "githubassets.com",
+        "githubhackathon.com",
+        "githubnext.com",
+        "githubpreview.dev",
+        "githubstatus.com",
+        "githubsupport.com",
+        "githubuniverse.com",
+        "githubusercontent.com",
+        "myoctocat.com",
+        "octocaptcha.com",
+        "opensource.guide",
+        "repo.new",
+        "thegithubshop.com",
+        "github-api.arkoselabs.com",
+        "github-cloud.s3.amazonaws.com",
+        "github-production-release-asset-2e65be.s3.amazonaws.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "gitlab",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/gitlab",
+      "domains": [
+        "gitlab.com",
+        "gitlab.io",
+        "gitlab.net",
+        "gitlab-static.net",
+        "gitlab-assets.oss-cn-hongkong.aliyuncs.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "google",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/google",
+      "domains": [
+        "google.ad",
+        "google.ae",
+        "google.al",
+        "google.am",
+        "google.as",
+        "google.at",
+        "google.az",
+        "google.ba",
+        "google.be",
+        "google.bf",
+        "google.bg",
+        "google.bi",
+        "google.bj",
+        "google.bs",
+        "google.bt",
+        "google.by",
+        "google.ca",
+        "google.cat",
+        "google.cd",
+        "google.cf",
+        "google.cg",
+        "google.ch",
+        "google.ci",
+        "google.cl",
+        "google.cm",
+        "google.co",
+        "google.co.ao",
+        "google.co.bw",
+        "google.co.ck",
+        "google.co.cr"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "hdrezka",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/hdrezka",
+      "domains": [
+        "hdrezka-home.tv",
+        "hdrezka.ac",
+        "hdrezka.ag",
+        "hdrezka.cm",
+        "hdrezka.co",
+        "hdrezka.me",
+        "hdrezka.org",
+        "hdrezka.site",
+        "rezka.ag",
+        "rezka.fi",
+        "statichdrezka.ac",
+        "hdrzk.org",
+        "static.voidboost.com",
+        "stream.voidboost.cc",
+        "stream.voidboost.one",
+        "voidslam.org"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "headhunter",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/headhunter",
+      "domains": [
+        "hh.by",
+        "hh.kz",
+        "hh.ru",
+        "hhcdn.ru",
+        "rabota.by",
+        "setka.ru",
+        "talantix.ru",
+        "zarplata.ru"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "hetzner",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/hetzner",
+      "domains": [
+        "first-ns.de",
+        "hetzner-cloud.de",
+        "hetzner.cloud",
+        "hetzner.com",
+        "hetzner.company",
+        "hetzner.de",
+        "hetzner.social",
+        "htznr.li",
+        "second-ns.com",
+        "second-ns.de",
+        "your-objectstorage.com",
+        "your-server.de",
+        "your-storagebox.de",
+        "your-storageshare.de"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
+    },
+    {
+      "service_slug": "hulu",
+      "source": "https://github.com/v2fly/domain-list-community/tree/master/data/hulu",
+      "domains": [
+        "112263.com",
+        "callhulu.com",
+        "findyourlimits.com",
+        "freehulu.com",
+        "hooloo.tv",
+        "hoolu.com",
+        "hoolu.tv",
+        "hu1u.com",
+        "huloo.cc",
+        "huloo.tv",
+        "hulu.com",
+        "hulu.jp",
+        "hulu.tv",
+        "hulu.us",
+        "huluaction.com",
+        "huluad.com",
+        "huluapp.com",
+        "huluasks.com",
+        "hulucall.com",
+        "hulufree.com",
+        "hulugans.com",
+        "hulugermany.com",
+        "hulugo.com",
+        "huluim.com",
+        "huluinstantmessenger.com",
+        "huluitaly.com",
+        "hulunet.com",
+        "hulunetwork.com",
+        "huluplus.com",
+        "hulupremium.com"
+      ],
+      "scope": "Community-maintained geosite candidates; unverified individually and may include shared infrastructure."
     }
   ]
 }
