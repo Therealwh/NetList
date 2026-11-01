@@ -92,7 +92,7 @@ def monitor_catalog(
             old_state = old.get(key, {}) if isinstance(old, dict) else {}
             new_state = current[key]
             if new_state["status"] in {"ok", "no_records"} and isinstance(old_state, dict) and "status" in old_state:
-                old_observed = old_state.get("addresses", old_state.get("last_good_addresses", []))
+                old_observed = old_state.get("last_good_addresses", []) if old_state.get("status") == "error" else old_state.get("addresses", [])
                 if sorted(old_observed or []) != new_state["addresses"]:
                     changed.append(key)
         history = list(old.get("history", [])) if isinstance(old, dict) else []
