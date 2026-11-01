@@ -22,24 +22,26 @@ DNS_WORKERS = 32
 
 
 def resolve_domain(domain: str) -> tuple[set[str], set[str]]:
-    v4: set[str] = set()
-    v6: set[str] = set()
-    try:
-        records = socket.getaddrinfo(domain, None, family=socket.AF_UNSPEC, type=socket.SOCK_STREAM)
-    except (OSError, UnicodeError):
-        return v4, v6
-    for record in records:
+    """Resolve A and AAAA independently so one failing DNS family cannot hide the other."""
+    resolved: dict[int, set[str]] = {4: set(), 6: set()}
+    for family, version in ((socket.AF_INET, 4), (socket.AF_INET6, 6)):
         try:
-            address = ipaddress.ip_address(record[4][0].split("%", 1)[0])
-        except ValueError:
+            records = socket.getaddrinfo(domain, None, family=family, type=socket.SOCK_STREAM)
+        except (OSError, UnicodeError):
+            # DNS errors are isolated per family; retain successful answers from the other.
             continue
-        if not address.is_global or any(
-            address.version == network.version and address in network
-            for network in NON_PUBLIC_NETWORKS
-        ):
-            continue
-        (v4 if address.version == 4 else v6).add(str(address))
-    return v4, v6
+        for record in records:
+            try:
+                address = ipaddress.ip_address(record[4][0].split("%", 1)[0])
+            except (IndexError, TypeError, ValueError):
+                continue
+            if address.version != version or not address.is_global or any(
+                address.version == network.version and address in network
+                for network in NON_PUBLIC_NETWORKS
+            ):
+                continue
+            resolved[version].add(str(address))
+    return resolved[4], resolved[6]
 
 
 def write_grouped_list(path: Path, groups: list[tuple[str, set[str]]], comments: list[str] | None = None) -> None:
@@ -140,22 +142,31 @@ def generate(repo_root: Path) -> dict[str, int]:
         service_dir = root / "services" / slug
         old_v4 = set(read_list(service_dir / "ipv4.txt"))
         old_v6 = set(read_list(service_dir / "ipv6.txt"))
-        if service_v4 or service_v6:
+        # Keep the two address families independently. A successful A lookup
+        # must not erase the last known AAAA snapshot (or vice versa).
+        has_live_v4 = bool(service_v4)
+        has_live_v6 = bool(service_v6)
+        used_stale_snapshot = False
+        if not service_v4 and old_v4:
+            service_v4 = old_v4
+            label = f"{service.name} — last known IPv4 snapshot (DNS unavailable)"
+            service_groups["ipv4"].append((label, old_v4))
+            service_groups["cidrv4"].append((label, {f"{address}/32" for address in old_v4}))
+            common_groups["ipv4"].append((label, old_v4))
+            common_groups["cidrv4"].append((label, {f"{address}/32" for address in old_v4}))
+            used_stale_snapshot = True
+        if not service_v6 and old_v6:
+            service_v6 = old_v6
+            label = f"{service.name} — last known IPv6 snapshot (DNS unavailable)"
+            service_groups["ipv6"].append((label, old_v6))
+            service_groups["cidrv6"].append((label, {f"{address}/128" for address in old_v6}))
+            common_groups["ipv6"].append((label, old_v6))
+            common_groups["cidrv6"].append((label, {f"{address}/128" for address in old_v6}))
+            used_stale_snapshot = True
+        if has_live_v4 or has_live_v6:
             resolved_services += 1
-        else:
-            service_v4, service_v6 = old_v4, old_v6
-            if service_v4 or service_v6:
-                stale_services += 1
-                label = f"{service.name} — last known snapshot (DNS unavailable)"
-                groups = {
-                    "ipv4": service_v4,
-                    "ipv6": service_v6,
-                    "cidrv4": {f"{address}/32" for address in service_v4},
-                    "cidrv6": {f"{address}/128" for address in service_v6},
-                }
-                for kind, entries in groups.items():
-                    service_groups[kind] = [(label, entries)]
-                    common_groups[kind].append((label, entries))
+        if used_stale_snapshot:
+            stale_services += 1
 
         headers = [
             f"DNS-derived IP snapshot for {service.name} ({slug})",
