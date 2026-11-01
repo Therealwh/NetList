@@ -117,6 +117,21 @@ class DnsMonitorTest(unittest.TestCase):
             events = json.loads((root / "state" / "dns_history.json").read_text())["events"]
             self.assertEqual(sum(e["type"] == "ip_added" for e in events), 4)
 
+
+    def test_recovered_dns_compares_new_ips_with_last_good_snapshot(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            good = lambda d, f: {"status": "ok", "addresses": ["8.8.8.8"], "error": None}
+            failed = lambda d, f: {"status": "error", "addresses": [], "error": "timeout"}
+            changed = lambda d, f: {"status": "ok", "addresses": ["1.1.1.1"], "error": None}
+            monitor_catalog(root, good, "2026-11-01T00:00:00+00:00")
+            monitor_catalog(root, failed, "2026-11-02T00:00:00+00:00")
+            monitor_catalog(root, changed, "2026-11-03T00:00:00+00:00")
+            events = json.loads((root / "state" / "dns_history.json").read_text())["events"]
+            self.assertEqual(sum(e["type"] == "ip_added" for e in events), 2)
+            self.assertEqual(sum(e["type"] == "ip_removed" for e in events), 2)
+
     def test_dns_errors_do_not_create_ip_removal_events(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
