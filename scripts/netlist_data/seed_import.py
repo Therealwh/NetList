@@ -169,6 +169,38 @@ def apply_domain_overrides(repo_root: Path, registry: dict[str, Service]) -> int
                 service.domains.add(domain)
                 service.counts[domain] = service.counts.get(domain, 0) + 1
                 added += 1
+    # Full upstream geosite files are checked out by the daily GitHub Actions workflow.
+    # Only literal domain:/full: rules are imported; regexp/keyword/include rules are
+    # deliberately skipped because they are not concrete domains and may be broad.
+    geosite_dir = Path(repo_root) / "sources" / "upstream" / "domain-list-community" / "data"
+    if geosite_dir.is_dir():
+        for slug, service in registry.items():
+            source_path = geosite_dir / slug
+            if not source_path.is_file():
+                continue
+            try:
+                lines = source_path.read_text(encoding="utf-8").splitlines()
+            except (OSError, UnicodeError):
+                continue
+            imported_for_service = 0
+            for raw_line in lines:
+                line = raw_line.partition("#")[0].strip()
+                if not line:
+                    continue
+                rule, separator, value = line.partition(":")
+                if not separator or rule not in {"domain", "full"}:
+                    continue
+                candidate = value.strip().split(maxsplit=1)[0] if value.strip() else ""
+                domain = normalize_domain(candidate)
+                if domain is None:
+                    continue
+                if domain not in service.domains:
+                    service.domains.add(domain)
+                    service.counts[domain] = service.counts.get(domain, 0) + 1
+                    added += 1
+                imported_for_service += 1
+            if imported_for_service:
+                service.datasets.add("v2fly-domain-list-community")
     return added
 
 
