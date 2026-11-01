@@ -82,6 +82,57 @@ class DnsMonitorTest(unittest.TestCase):
             self.assertEqual(recovered["domains"]["example.com"]["changed"], [])
             self.assertEqual(recovered["summary"]["domains_changed"], 0)
 
+
+    def test_global_history_tracks_domain_and_ip_additions_removals(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            good = lambda d, f: {"status": "ok", "addresses": ["8.8.8.8"] if f == socket.AF_INET else ["2001:4860:4860::8888"], "error": None}
+            first = monitor_catalog(root, good, "2026-11-01T00:00:00+00:00")
+            events1 = json.loads((root / "state" / "dns_history.json").read_text())["events"]
+            self.assertEqual(sum(e["type"] == "domain_added" for e in events1), 0)  # first run is a baseline
+            self.assertEqual(sum(e["type"] == "ip_added" for e in events1), 0)  # baseline is not a change
+
+            second = monitor_catalog(root, lambda d, f: {"status": "ok", "addresses": ["1.1.1.1"] if f == socket.AF_INET else ["2606:4700:4700::1111"], "error": None}, "2026-11-02T00:00:00+00:00")
+            events2 = json.loads((root / "state" / "dns_history.json").read_text())["events"]
+            self.assertEqual(sum(e["type"] == "ip_added" for e in events2), 4)
+            self.assertEqual(sum(e["type"] == "ip_removed" for e in events2), 4)
+
+            catalog = json.loads((root / "catalog.json").read_text())
+            catalog["services"] = [{"name": "Example", "slug": "example", "domains": ["example.com"]}]
+            (root / "catalog.json").write_text(json.dumps(catalog), encoding="utf-8")
+            third = monitor_catalog(root, good, "2026-11-03T00:00:00+00:00")
+            events3 = json.loads((root / "state" / "dns_history.json").read_text())["events"]
+            self.assertTrue(any(e["type"] == "domain_removed" and e["domain"] == "www.example.com" for e in events3))
+
+    def test_dns_errors_do_not_create_ip_removal_events(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            good = lambda d, f: {"status": "ok", "addresses": ["8.8.8.8"], "error": None}
+            failed = lambda d, f: {"status": "error", "addresses": [], "error": "timeout"}
+            monitor_catalog(root, good, "2026-11-01T00:00:00+00:00")
+            monitor_catalog(root, failed, "2026-11-02T00:00:00+00:00")
+            events = json.loads((root / "state" / "dns_history.json").read_text())["events"]
+            self.assertFalse(any(e["type"] == "ip_removed" for e in events))
+
+
+    def test_no_records_keeps_last_good_and_does_not_report_false_removal(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            good = lambda d, f: {"status": "ok", "addresses": ["8.8.8.8"] if f == socket.AF_INET else ["2001:4860:4860::8888"], "error": None}
+            empty = lambda d, f: {"status": "no_records", "addresses": [], "error": None}
+            monitor_catalog(root, good, "2026-11-01T00:00:00+00:00")
+            second = monitor_catalog(root, empty, "2026-11-02T00:00:00+00:00")
+            item = second["domains"]["example.com"]
+            self.assertEqual(item["ipv4"]["last_good_addresses"], ["8.8.8.8"])
+            self.assertEqual(item["ipv6"]["last_good_addresses"], ["2001:4860:4860::8888"])
+            events = json.loads((root / "state" / "dns_history.json").read_text())["events"]
+            self.assertFalse(any(e["type"] == "ip_removed" for e in events))
+            third = monitor_catalog(root, good, "2026-11-03T00:00:00+00:00")
+            self.assertEqual(third["domains"]["example.com"]["changed"], [])
+
     def test_history_tracks_address_changes(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
