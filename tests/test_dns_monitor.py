@@ -90,7 +90,7 @@ class DnsMonitorTest(unittest.TestCase):
             good = lambda d, f: {"status": "ok", "addresses": ["8.8.8.8"] if f == socket.AF_INET else ["2001:4860:4860::8888"], "error": None}
             first = monitor_catalog(root, good, "2026-11-01T00:00:00+00:00")
             events1 = json.loads((root / "state" / "dns_history.json").read_text())["events"]
-            self.assertEqual(sum(e["type"] == "domain_added" for e in events1), 2)
+            self.assertEqual(sum(e["type"] == "domain_added" for e in events1), 0)  # first run is a baseline
             self.assertEqual(sum(e["type"] == "ip_added" for e in events1), 0)  # baseline is not a change
 
             second = monitor_catalog(root, lambda d, f: {"status": "ok", "addresses": ["1.1.1.1"] if f == socket.AF_INET else ["2606:4700:4700::1111"], "error": None}, "2026-11-02T00:00:00+00:00")
