@@ -53,6 +53,12 @@ def monitor_catalog(
     except (OSError, json.JSONDecodeError, UnicodeDecodeError):
         previous = {}
     previous_domains = previous.get("domains", {}) if isinstance(previous, dict) else {}
+    history_path = root / "state" / "dns_history.json"
+    try:
+        history_data = json.loads(history_path.read_text(encoding="utf-8")) if history_path.exists() else {}
+    except (OSError, json.JSONDecodeError, UnicodeDecodeError):
+        history_data = {}
+    change_events = list(history_data.get("events", [])) if isinstance(history_data, dict) else []
 
     owners: dict[str, list[dict]] = {}
     for service in catalog.get("services", []):
@@ -119,6 +125,49 @@ def monitor_catalog(
     with ThreadPoolExecutor(max_workers=DNS_WORKERS) as pool:
         for domain, entry in pool.map(inspect, domains):
             results[domain] = entry
+
+    # Build an append-only, bounded event log. DNS errors and empty answers never
+    # imply address removal; removals are recorded only after a successful non-empty
+    # answer for that address family. Catalog additions/removals are tracked separately.
+    old_names = set(previous_domains) if isinstance(previous_domains, dict) else set()
+    new_names = set(results)
+    def add_event(kind: str, domain: str, service_refs: list[dict], family: str | None = None, address: str | None = None) -> None:
+        event = {"id": f"{timestamp}|{kind}|{domain}|{family or ''}|{address or ''}", "at": timestamp,
+                 "type": kind, "domain": domain, "services": service_refs}
+        if family: event["family"] = family
+        if address: event["address"] = address
+        if not any(isinstance(item, dict) and item.get("id") == event["id"] for item in change_events):
+            change_events.append(event)
+
+    for domain in sorted(new_names - old_names):
+        add_event("domain_added", domain, owners[domain])
+    for domain in sorted(old_names - new_names):
+        old_item = previous_domains.get(domain, {}) if isinstance(previous_domains, dict) else {}
+        refs = old_item.get("services", []) if isinstance(old_item, dict) else []
+        add_event("domain_removed", domain, refs if isinstance(refs, list) else [])
+
+    for domain, item in results.items():
+        old_item = previous_domains.get(domain, {}) if isinstance(previous_domains, dict) else {}
+        for family in ("ipv4", "ipv6"):
+            now = item[family]
+            before = old_item.get(family, {}) if isinstance(old_item, dict) else {}
+            if now["status"] != "ok" or not now["addresses"]:
+                continue
+            previous_good = before.get("last_good_addresses", []) if isinstance(before, dict) else []
+            if not previous_good and isinstance(before, dict) and before.get("status") == "ok":
+                previous_good = before.get("addresses", [])
+            old_set, new_set = set(previous_good or []), set(now["addresses"])
+            for address in sorted(new_set - old_set):
+                if old_set: add_event("ip_added", domain, item["services"], family, address)
+            for address in sorted(old_set - new_set):
+                add_event("ip_removed", domain, item["services"], family, address)
+
+    # Keep one year of events, capped defensively for shared-hosting consumers.
+    change_events = change_events[-10000:]
+    history_payload = {"schema_version": 1, "updated_at": timestamp, "events": change_events}
+    history_tmp = history_path.with_name(history_path.name + ".tmp")
+    history_tmp.write_text(json.dumps(history_payload, ensure_ascii=False, separators=(",", ":")) + "\\n", encoding="utf-8")
+    history_tmp.replace(history_path)
 
     ok = sum(1 for item in results.values() if item["ipv4"]["status"] == "ok" or item["ipv6"]["status"] == "ok")
     errors = sum(1 for item in results.values() if item["ipv4"]["status"] == "error" or item["ipv6"]["status"] == "error")
