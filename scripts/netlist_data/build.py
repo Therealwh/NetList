@@ -112,7 +112,6 @@ def build_all(repo_root: Path) -> dict:
             "services": len(registry),
             "categories": len(by_category),
             "domains": len(all_domains),
-            "curated_override_domains_added": override_count,
         },
         "categories": [
             {
