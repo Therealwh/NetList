@@ -1,6 +1,7 @@
 name: update-lists
 
 on:
+  # Rebuild generated lists and official logo cache after curated source changes.
   push:
     branches: [main]
   schedule:
