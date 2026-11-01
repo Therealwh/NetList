@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from .io_lists import write_list
-from .seed_import import Service, load_registry, load_user_submissions, primary_domain, slugify
+from .seed_import import Service, apply_domain_overrides, load_registry, load_user_submissions, primary_domain, slugify
 
 NOTICE = (
     "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, "
@@ -36,6 +36,7 @@ def _read_existing(root: Path) -> dict:
 def build_all(repo_root: Path) -> dict:
     root = Path(repo_root)
     registry: dict[str, Service] = load_registry(root / "state" / "registry.json")
+    override_count = apply_domain_overrides(root, registry)
 
     # Пользовательские кандидаты загружаются на каждой сборке, а не только при ручном import.
     # Источник истины — sources/user_submissions/*.json, которые добавляются через GitHub API.
@@ -111,6 +112,7 @@ def build_all(repo_root: Path) -> dict:
             "services": len(registry),
             "categories": len(by_category),
             "domains": len(all_domains),
+            "curated_override_domains_added": override_count,
         },
         "categories": [
             {
