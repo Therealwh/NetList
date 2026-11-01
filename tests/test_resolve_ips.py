@@ -109,5 +109,50 @@ class ResolveIpsTest(unittest.TestCase):
             self.assertIn("# YouTube — youtu.be", service)
 
 
+    def test_resolve_domain_keeps_a_records_when_aaaa_lookup_fails(self):
+        import socket
+        from scripts.netlist_data.resolve_ips import resolve_domain
+
+        def fake_getaddrinfo(domain, port, family, type):
+            if family == socket.AF_INET:
+                return [(socket.AF_INET, socket.SOCK_STREAM, 6, "", ("8.8.8.8", 0))]
+            raise socket.gaierror("temporary AAAA lookup failure")
+
+        with patch("scripts.netlist_data.resolve_ips.socket.getaddrinfo", side_effect=fake_getaddrinfo):
+            v4, v6 = resolve_domain("example.com")
+
+        self.assertEqual(v4, {"8.8.8.8"})
+        self.assertEqual(v6, set())
+
+    def test_preserves_last_known_ipv6_when_ipv4_still_resolves(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            registry = root / "state" / "registry.json"
+            registry.parent.mkdir(parents=True)
+            registry.write_text(json.dumps({"services": [{
+                "name": "Example",
+                "slug": "example",
+                "domains": ["example.com"],
+                "categories": ["test"],
+                "datasets": ["test"],
+                "counts": {"example.com": 1},
+            }]}), encoding="utf-8")
+            service_dir = root / "services" / "example"
+            service_dir.mkdir(parents=True)
+            (service_dir / "ipv6.txt").write_text("2001:4860:4860::8888\n", encoding="utf-8")
+
+            with patch(
+                "scripts.netlist_data.resolve_ips.resolve_domain",
+                return_value=({"8.8.4.4"}, set()),
+            ):
+                stats = generate(root)
+
+            self.assertEqual(stats["services_resolved"], 1)
+            self.assertEqual(stats["services_using_last_known_snapshot"], 1)
+            self.assertIn("8.8.4.4", (service_dir / "ipv4.txt").read_text(encoding="utf-8"))
+            self.assertIn("2001:4860:4860::8888", (service_dir / "ipv6.txt").read_text(encoding="utf-8"))
+            self.assertIn("2001:4860:4860::8888/128", (service_dir / "cidrv6.txt").read_text(encoding="utf-8"))
+
+
 if __name__ == "__main__":
     unittest.main()

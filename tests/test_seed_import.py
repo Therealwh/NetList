@@ -152,5 +152,33 @@ class SeedImportTest(unittest.TestCase):
             self.assertEqual(loaded["vk"].categories, {"social"})
 
 
+    def test_canonical_primary_domain_overrides_noisy_seed_hosts(self):
+        records = [
+            {"name": "BBC", "categories": {"media"}, "domains": {"aod-dash-uk-live.akamaized.net"}, "dataset": "seed"},
+            {"name": "ESET", "categories": {"security"}, "domains": {"epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com"}, "dataset": "seed"},
+            {"name": "Hulu", "categories": {"video"}, "domains": {"112263.com"}, "dataset": "seed"},
+            {"name": "LinkedIn", "categories": {"social"}, "domains": {"bizographics.com"}, "dataset": "seed"},
+            {"name": "Microsoft", "categories": {"software"}, "domains": {"1drv.com"}, "dataset": "seed"},
+            {"name": "Nintendo", "categories": {"gaming"}, "domains": {"100classicbooks.com"}, "dataset": "seed"},
+            {"name": "Prime Video", "categories": {"video"}, "domains": {"aiv-cdn.net"}, "dataset": "seed"},
+            {"name": "Sber", "categories": {"finance"}, "domains": {"error-tracking.megamarket.tech"}, "dataset": "seed"},
+        ]
+        registry = build_registry(records)
+        expected = {
+            "bbc": "bbc.com",
+            "eset": "eset.com",
+            "hulu": "hulu.com",
+            "linkedin": "linkedin.com",
+            "microsoft": "microsoft.com",
+            "nintendo": "nintendo.com",
+            "prime-video": "primevideo.com",
+            "sber": "sber.ru",
+        }
+        for slug, domain in expected.items():
+            with self.subTest(service=slug):
+                self.assertEqual(primary_domain(registry[slug]), domain)
+                self.assertIn(domain, registry[slug].domains)
+
+
 if __name__ == "__main__":
     unittest.main()
