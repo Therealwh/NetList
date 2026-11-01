@@ -64,6 +64,27 @@ def build_all(repo_root: Path) -> dict:
         service.datasets.add("user")
         service.counts[domain] = service.counts.get(domain, 0) + 1
 
+    # Passive CT discoveries are attached to the service that owns the submitted root.
+    # These hostnames remain explicitly unverified candidates; DNS resolution happens later.
+    discoveries_path = root / "state" / "discovered_subdomains.json"
+    if discoveries_path.exists():
+        discovery_data = json.loads(discoveries_path.read_text(encoding="utf-8"))
+        for item in discovery_data.get("domains", []):
+            root_domain = str(item.get("root_domain", ""))
+            candidate = str(item.get("domain", ""))
+            if not root_domain or not candidate or candidate == root_domain:
+                continue
+            service = next((s for s in registry.values() if root_domain in s.domains), None)
+            if service is None:
+                continue
+            from .normalize import normalize_domain
+            clean_candidate = normalize_domain(candidate)
+            clean_root = normalize_domain(root_domain)
+            if clean_candidate and clean_root and clean_candidate.endswith("." + clean_root):
+                service.domains.add(clean_candidate)
+                service.counts.setdefault(clean_candidate, 1)
+                service.datasets.add("crt.sh-certificate-transparency")
+
     for slug, service in sorted(registry.items()):
         write_list(
             root / "services" / slug / "domains.txt",
