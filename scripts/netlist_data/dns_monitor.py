@@ -75,7 +75,7 @@ def monitor_catalog(
             addresses = sorted(set(observed.get("addresses", [])))
             if status not in {"ok", "no_records", "error"}:
                 status = "error"
-            last_good = addresses if status in {"ok", "no_records"} and addresses else list(old.get("last_good_" + key, []))
+            last_good = addresses if status in {"ok", "no_records"} and addresses else list((old.get(key, {}) or {}).get("last_good_addresses", []))
             if status == "no_records":
                 # Empty answers are recorded as observations, but the previous good
                 # snapshot remains visible for diagnosis instead of being discarded.
