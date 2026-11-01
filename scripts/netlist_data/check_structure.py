@@ -30,7 +30,10 @@ def violations(repo_root: Path) -> list[str]:
         top = relative.split("/", 1)[0]
         if top not in ALLOWED_TOP_LEVEL:
             found.append(f"unexpected top-level entry: {relative}")
-        elif FORBIDDEN_RE.search(relative):
+        # Upstream rule repositories are build inputs and legitimately contain
+        # executable provider scripts and archived examples (JS/QX/etc.). They are
+        # not NetList application files, so apply our strict file checks to owned files.
+        elif not relative.startswith("sources/upstream/") and FORBIDDEN_RE.search(relative):
             found.append(f"forbidden file: {relative}")
     return sorted(found)
 
