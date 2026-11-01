@@ -47,6 +47,9 @@ jobs:
       - name: Тесты
         run: python -m unittest discover -s tests -v
 
+      - name: Поиск поддоменов подтверждённых пользовательских доменов (Certificate Transparency)
+        run: python -m scripts.netlist_data.discover_subdomains
+
       - name: Пересборка каталога из источников
         run: python -m scripts.netlist_data build
 
