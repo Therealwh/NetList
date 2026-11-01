@@ -56,6 +56,19 @@ class DnsMonitorTest(unittest.TestCase):
             self.assertEqual(item["ipv4"]["last_good_addresses"], ["8.8.8.8"])
             self.assertEqual(item["ipv6"]["last_good_addresses"], ["2001:4860:4860::8888"])
 
+
+    def test_first_snapshot_is_baseline_not_a_change(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.make_catalog(root)
+            data = monitor_catalog(
+                root,
+                lambda domain, family: {"status": "ok", "addresses": ["8.8.8.8"], "error": None},
+                "2026-11-01T00:00:00+00:00",
+            )
+            self.assertEqual(data["summary"]["domains_changed"], 0)
+            self.assertEqual(data["domains"]["example.com"]["changed"], [])
+
     def test_history_tracks_address_changes(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
