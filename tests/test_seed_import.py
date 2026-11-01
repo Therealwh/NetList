@@ -90,14 +90,14 @@ class SeedImportTest(unittest.TestCase):
             geosite = root / "sources" / "upstream" / "domain-list-community" / "data"
             geosite.mkdir(parents=True)
             (geosite / "example").write_text(
-                "# comment\\n"
-                "domain:example.org\\n"
-                "full:cdn.example.net\\n"
-                "regexp:^.*\\\\.example\\\\.org$\\n"
-                "keyword:example\\n"
-                "include:other\\n"
-                "domain:*.invalid.example\\n"
-                "domain:not-a-domain\\n",
+                "# comment\n"
+                "domain:example.org\n"
+                "full:cdn.example.net\n"
+                "regexp:^.*\\\\.example\\\\.org$\n"
+                "keyword:example\n"
+                "include:other\n"
+                "domain:*.invalid.example\n"
+                "domain:not-a-domain\n",
                 encoding="utf-8",
             )
             added = apply_domain_overrides(root, registry)
