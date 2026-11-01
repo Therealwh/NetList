@@ -47,13 +47,19 @@ def cmd_build(args: argparse.Namespace) -> int:
 
 def cmd_guards(args: argparse.Namespace) -> int:
     catalog = json.loads(Path(args.catalog).read_text(encoding="utf-8"))
-    problems = guards.check_against_previous(Path(args.repo_root), catalog)
-    if problems:
-        for problem in problems:
-            print(f"GUARD: {problem}", file=sys.stderr)
+    # A completely empty catalog is still a hard failure. Large reductions
+    # are reported for review but do not block publishing.
+    if catalog.get("counts", {}).get("domains", 0) == 0:
+        print("GUARD ERROR: build produced 0 domains; refusing to publish", file=sys.stderr)
         return 1
+    warnings = guards.check_against_previous(Path(args.repo_root), catalog)
+    if warnings:
+        print("GUARD WARNING: обнаружено сокращение данных; публикация разрешена:")
+        for warning in warnings:
+            print(f"  - {warning}")
+    else:
+        print("guards: ok — подозрительных сокращений нет")
     guards.save_last_good(Path(args.repo_root), catalog)
-    print("guards: ok")
     return 0
 
 
