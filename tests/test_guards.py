@@ -17,8 +17,7 @@ class GuardsTest(unittest.TestCase):
             problems = check_against_previous(root, catalog(0))
             self.assertTrue(any("0 domains" in p for p in problems))
 
-    def test_guards_reject_mass_deletion(self):
-        # Review Focus #3
+    def test_mass_deletion_is_reported_for_warning_only_cli(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             save_last_good(root, catalog(100))
