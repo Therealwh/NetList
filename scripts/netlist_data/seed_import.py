@@ -148,13 +148,19 @@ def apply_domain_overrides(repo_root: Path, registry: dict[str, Service]) -> int
         by_name.setdefault(service.name.casefold(), []).append(service)
     added = 0
     for item in data.get("sources", []):
+        service_slug = str(item.get("service_slug", "")).strip()
         name = str(item.get("service", "")).strip()
-        matches = by_name.get(name.casefold(), [])
-        if len(matches) != 1:
-            raise ValueError(
-                f"domain override service {name!r} matched {len(matches)} registry entries"
-            )
-        service = matches[0]
+        if service_slug:
+            service = registry.get(service_slug)
+            if service is None:
+                raise ValueError(f"domain override service slug {service_slug!r} is missing")
+        else:
+            matches = by_name.get(name.casefold(), [])
+            if len(matches) != 1:
+                raise ValueError(
+                    f"domain override service {name!r} matched {len(matches)} registry entries"
+                )
+            service = matches[0]
         for raw in item.get("domains", []):
             domain = normalize_domain(str(raw))
             if domain is None:
