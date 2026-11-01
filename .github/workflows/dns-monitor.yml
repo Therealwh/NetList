@@ -50,7 +50,9 @@ jobs:
           git config user.name "netlist-bot"
           git config user.email "actions@users.noreply.github.com"
           SNAPSHOT="$(mktemp)"
+          HISTORY_SNAPSHOT="$(mktemp)"
           cp state/dns_monitor.json "$SNAPSHOT"
+          cp state/dns_history.json "$HISTORY_SNAPSHOT"
 
           # The catalog workflow and other monitor runs may update main while DNS
           # queries are running. Rebase the generated snapshot onto the latest
@@ -59,7 +61,8 @@ jobs:
             git fetch origin +refs/heads/main:refs/remotes/origin/main
             git reset --hard origin/main
             cp "$SNAPSHOT" state/dns_monitor.json
-            git add -- state/dns_monitor.json
+            cp "$HISTORY_SNAPSHOT" state/dns_history.json
+            git add -- state/dns_monitor.json state/dns_history.json
             if git diff --cached --quiet; then
               echo "DNS monitoring snapshot is unchanged"
               exit 0
