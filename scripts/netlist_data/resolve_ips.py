@@ -7,14 +7,13 @@ may appear under multiple domains; consumers can deduplicate when needed.
 from __future__ import annotations
 
 import ipaddress
-import re
 from concurrent.futures import ThreadPoolExecutor
 import socket
 import sys
 from pathlib import Path
 
 from .io_lists import read_list
-from .seed_import import apply_domain_overrides, load_registry, load_user_submissions
+from .seed_import import Service, apply_domain_overrides, load_registry, load_user_submissions, slugify
 from .normalize import normalize_domain
 
 NON_PUBLIC_NETWORKS = (ipaddress.ip_network("100.0.0.0/8"),)
@@ -72,7 +71,7 @@ def generate(repo_root: Path) -> dict[str, int]:
             existing.datasets.add("user")
             existing.counts[domain] = existing.counts.get(domain, 0) + 1
             continue
-        base_slug = re.sub(r"[^a-z0-9]+", "-", record["name"].lower()).strip("-") or "user-domain"
+        base_slug = slugify(record["name"]) or slugify(domain) or "user-domain"
         slug = base_slug
         suffix = 2
         while slug in registry and domain not in registry[slug].domains:
@@ -80,7 +79,6 @@ def generate(repo_root: Path) -> dict[str, int]:
             suffix += 1
         service = registry.get(slug)
         if service is None:
-            from .seed_import import Service
             service = Service(name=record["name"], slug=slug)
             registry[slug] = service
         service.domains.add(domain)
