@@ -4,6 +4,7 @@ import unittest
 from pathlib import Path
 
 from scripts.netlist_data.seed_import import (
+    apply_domain_overrides,
     build_registry,
     load_registry,
     load_seed_catalog,
@@ -77,6 +78,35 @@ class SeedImportTest(unittest.TestCase):
             ]}])
             registry = build_registry(load_seed_catalog(root, "russian"))
             self.assertEqual(primary_domain(registry["vk"]), "vk.com")
+
+
+    def test_imports_literal_domains_from_upstream_geosite(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            registry = build_registry([{
+                "name": "Example", "categories": {"test"},
+                "domains": {"example.com"}, "dataset": "seed",
+            }])
+            geosite = root / "sources" / "upstream" / "domain-list-community" / "data"
+            geosite.mkdir(parents=True)
+            (geosite / "example").write_text(
+                "# comment\\n"
+                "domain:example.org\\n"
+                "full:cdn.example.net\\n"
+                "regexp:^.*\\\\.example\\\\.org$\\n"
+                "keyword:example\\n"
+                "include:other\\n"
+                "domain:*.invalid.example\\n"
+                "domain:not-a-domain\\n",
+                encoding="utf-8",
+            )
+            added = apply_domain_overrides(root, registry)
+            self.assertEqual(added, 2)
+            self.assertEqual(
+                registry["example"].domains,
+                {"example.com", "example.org", "cdn.example.net"},
+            )
+            self.assertIn("v2fly-domain-list-community", registry["example"].datasets)
 
     def test_registry_roundtrip(self):
         with tempfile.TemporaryDirectory() as tmp:
