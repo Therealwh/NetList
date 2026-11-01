@@ -5,24 +5,24 @@
 # (no public DNS addresses found)
 
 # Xbox — bethesda.net
-2600:9000:27c2:2800:1d:9d0:cd40:93a1
-2600:9000:27c2:5a00:1d:9d0:cd40:93a1
-2600:9000:27c2:6c00:1d:9d0:cd40:93a1
-2600:9000:27c2:8600:1d:9d0:cd40:93a1
-2600:9000:27c2:a000:1d:9d0:cd40:93a1
-2600:9000:27c2:b600:1d:9d0:cd40:93a1
-2600:9000:27c2:c800:1d:9d0:cd40:93a1
-2600:9000:27c2:de00:1d:9d0:cd40:93a1
+2600:9000:27fe:1400:1d:9d0:cd40:93a1
+2600:9000:27fe:3400:1d:9d0:cd40:93a1
+2600:9000:27fe:3600:1d:9d0:cd40:93a1
+2600:9000:27fe:aa00:1d:9d0:cd40:93a1
+2600:9000:27fe:ca00:1d:9d0:cd40:93a1
+2600:9000:27fe:d000:1d:9d0:cd40:93a1
+2600:9000:27fe:dc00:1d:9d0:cd40:93a1
+2600:9000:27fe:fc00:1d:9d0:cd40:93a1
 
 # Xbox — bethesdagamestudios.com
-2600:9000:215a:6a00:1d:336e:4880:93a1
-2600:9000:215a:800:1d:336e:4880:93a1
-2600:9000:215a:8a00:1d:336e:4880:93a1
-2600:9000:215a:a200:1d:336e:4880:93a1
-2600:9000:215a:c600:1d:336e:4880:93a1
-2600:9000:215a:c800:1d:336e:4880:93a1
-2600:9000:215a:d600:1d:336e:4880:93a1
-2600:9000:215a:dc00:1d:336e:4880:93a1
+2600:9000:20c5:2c00:1d:336e:4880:93a1
+2600:9000:20c5:3600:1d:336e:4880:93a1
+2600:9000:20c5:6c00:1d:336e:4880:93a1
+2600:9000:20c5:7200:1d:336e:4880:93a1
+2600:9000:20c5:7800:1d:336e:4880:93a1
+2600:9000:20c5:8a00:1d:336e:4880:93a1
+2600:9000:20c5:8c00:1d:336e:4880:93a1
+2600:9000:20c5:a600:1d:336e:4880:93a1
 
 # Xbox — bethsoft.com
 # (no public DNS addresses found)
@@ -43,14 +43,14 @@
 # (no public DNS addresses found)
 
 # Xbox — img-prod-cms-rt-microsoft-com.akamaized.net
-2600:1408:c400:5::17c7:3713
-2600:1408:c400:5::17c7:3721
+2600:1407:e800:25::17dc:ce86
+2600:1407:e800:25::17dc:ce8b
 
 # Xbox — login.live.com
 # (no public DNS addresses found)
 
 # Xbox — logincdn.msauth.net
-2620:1ec:bdf::40
+2620:1ec:bdf::38
 
 # Xbox — minecraft.net
 # (no public DNS addresses found)
@@ -71,8 +71,8 @@
 # (no public DNS addresses found)
 
 # Xbox — store-images.s-microsoft.com
-2600:1408:c400:f84::3114
-2600:1408:c400:f86::3114
+2600:1418:a000:38b::3114
+2600:1418:a000:39a::3114
 
 # Xbox — tellmewhygame.com
 # (no public DNS addresses found)

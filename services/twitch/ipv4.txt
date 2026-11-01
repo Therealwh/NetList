@@ -2,37 +2,37 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Twitch — d1g1f25tn8m2e6.cloudfront.net
-3.167.42.150
-3.167.42.167
-3.167.42.202
-3.167.42.38
+52.85.18.197
+52.85.18.22
+52.85.18.73
+52.85.18.99
 
 # Twitch — d1m7jfoe9zdc1j.cloudfront.net
-3.167.97.133
-3.167.97.15
-3.167.97.226
-3.167.97.59
+108.156.105.14
+108.156.105.178
+108.156.105.79
+108.156.105.9
 
 # Twitch — d1mhjrowxxagfy.cloudfront.net
 # (no public DNS addresses found)
 
 # Twitch — d1ndex63qxojbr.cloudfront.net
-18.160.0.165
-18.160.0.68
-18.160.0.80
-18.160.0.88
+18.160.227.229
+18.160.227.231
+18.160.227.46
+18.160.227.76
 
 # Twitch — d1oca24q5dwo6d.cloudfront.net
-18.165.98.102
-18.165.98.126
-18.165.98.46
-18.165.98.87
+143.204.204.61
+143.204.204.62
+143.204.204.96
+143.204.204.97
 
 # Twitch — d1w2poirtb3as9.cloudfront.net
-13.226.222.160
-13.226.222.17
-13.226.222.215
-13.226.222.29
+3.168.32.174
+3.168.32.22
+3.168.32.48
+3.168.32.90
 
 # Twitch — d1xhnb4ptk05mw.cloudfront.net
 # (no public DNS addresses found)
@@ -41,109 +41,109 @@
 # (no public DNS addresses found)
 
 # Twitch — d2aba1wr3818hz.cloudfront.net
-3.170.43.165
-3.170.43.214
-3.170.43.34
-3.170.43.99
+18.160.227.115
+18.160.227.131
+18.160.227.225
+18.160.227.54
 
 # Twitch — d2dylwb3shzel1.cloudfront.net
-13.35.87.120
-13.35.87.141
-13.35.87.195
-13.35.87.45
+99.86.78.33
+99.86.78.34
+99.86.78.43
+99.86.78.69
 
 # Twitch — d2e2de1etea730.cloudfront.net
 # (no public DNS addresses found)
 
 # Twitch — d2nvs31859zcd8.cloudfront.net
-3.167.42.132
-3.167.42.163
-3.167.42.19
-3.167.42.210
+13.225.41.119
+13.225.41.16
+13.225.41.46
+13.225.41.65
 
 # Twitch — d2um2qdswy1tb0.cloudfront.net
-13.227.65.19
-13.227.65.64
-13.227.65.88
-13.227.65.91
+18.172.134.33
+18.172.134.69
+18.172.134.75
+18.172.134.89
 
 # Twitch — d2vjef5jvl6bfs.cloudfront.net
 # (no public DNS addresses found)
 
 # Twitch — d2xmjdvx03ij56.cloudfront.net
-52.85.193.10
-52.85.193.13
-52.85.193.18
-52.85.193.69
+18.160.213.31
+18.160.213.52
+18.160.213.70
+18.160.213.8
 
 # Twitch — d36nr0u3xmc4mm.cloudfront.net
-3.162.103.123
-3.162.103.62
-3.162.103.74
-3.162.103.84
+13.226.53.120
+13.226.53.124
+13.226.53.9
+13.226.53.98
 
 # Twitch — d3aqoihi2n8ty8.cloudfront.net
-3.167.84.147
-3.167.84.36
-3.167.84.89
-3.167.84.92
+52.85.18.222
+52.85.18.37
+52.85.18.78
+52.85.18.95
 
 # Twitch — d3c27h4odz752x.cloudfront.net
-18.160.45.162
-18.160.45.202
-18.160.45.217
-18.160.45.96
+52.85.18.170
+52.85.18.179
+52.85.18.26
+52.85.18.95
 
 # Twitch — d3stzm2eumvgb4.cloudfront.net
-3.170.43.101
-3.170.43.20
-3.170.43.45
-3.170.43.76
+18.64.182.172
+18.64.182.189
+18.64.182.209
+18.64.182.23
 
 # Twitch — d3vd9lfkzbru3h.cloudfront.net
-54.230.21.174
-54.230.21.56
-54.230.21.69
-54.230.21.90
+52.85.60.118
+52.85.60.130
+52.85.60.60
+52.85.60.72
 
 # Twitch — d6d4ismr40iw.cloudfront.net
-13.227.65.102
-13.227.65.54
-13.227.65.58
-13.227.65.61
+13.226.53.16
+13.226.53.43
+13.226.53.81
+13.226.53.92
 
 # Twitch — d6tizftlrpuof.cloudfront.net
-13.226.222.114
-13.226.222.118
-13.226.222.203
-13.226.222.85
+3.170.186.130
+3.170.186.144
+3.170.186.231
+3.170.186.64
 
 # Twitch — ddacn6pr5v0tl.cloudfront.net
-3.167.116.102
-3.167.116.11
-3.167.116.67
-3.167.116.70
+52.85.18.170
+52.85.18.214
+52.85.18.230
+52.85.18.74
 
 # Twitch — dgeft87wbj63p.cloudfront.net
-13.35.87.109
-13.35.87.136
-13.35.87.187
-13.35.87.3
+18.64.182.100
+18.64.182.132
+18.64.182.152
+18.64.182.20
 
 # Twitch — dqrpb9wgowsf5.cloudfront.net
 # (no public DNS addresses found)
 
 # Twitch — ds0h3roq6wcgc.cloudfront.net
-13.227.65.101
-13.227.65.108
-13.227.65.75
-13.227.65.95
+52.85.40.115
+52.85.40.39
+52.85.40.51
+52.85.40.98
 
 # Twitch — dykkng5hnh52u.cloudfront.net
-3.170.21.134
-3.170.21.161
-3.170.21.48
-3.170.21.76
+52.85.60.118
+52.85.60.149
+52.85.60.166
+52.85.60.194
 
 # Twitch — ext-twitch.tv
 # (no public DNS addresses found)
@@ -152,10 +152,10 @@
 # (no public DNS addresses found)
 
 # Twitch — live-video.net
-3.170.3.25
-3.170.3.56
-3.170.3.6
-3.170.3.96
+99.86.77.103
+99.86.77.114
+99.86.77.59
+99.86.77.77
 
 # Twitch — ttvnw.net
 # (no public DNS addresses found)

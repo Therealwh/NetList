@@ -1,0 +1,5 @@
+# DNS-derived IP snapshot for ZOOMA CASINO (zooma-casino)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# ZOOMA CASINO — zref.pro
+# (no public DNS addresses found)

@@ -1,0 +1,154 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# shuffle.com — admin-api.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — admin.shuffle.com
+# (no public DNS addresses found)
+
+# shuffle.com — affiliate.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — affiliates.shuffle.com
+# (no public DNS addresses found)
+
+# shuffle.com — api-backup.shuffle.com
+# (no public DNS addresses found)
+
+# shuffle.com — api.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — betradar-websocket.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — betradar.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — cron-job.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — demo.shuffle.com
+# (no public DNS addresses found)
+
+# shuffle.com — fast-track.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — fireblocks.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — game-provider-no-cf.shuffle.com
+# (no public DNS addresses found)
+
+# shuffle.com — game-provider.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — genius-receiver.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — help.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — kyc.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — landing.shuffle.com
+# (no public DNS addresses found)
+
+# shuffle.com — lottery.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — metabase.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — nginx-api.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — nginx.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — oddin-stream.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — oddin.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — preprod.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — reader.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — shfl-jp.shuffle.com
+2606:4700:4401::ac40:93d1/128
+2a06:98c1:310d::6812:282f/128
+
+# shuffle.com — shfl-zh.shuffle.com
+2606:4700:4401::ac40:93d1/128
+2a06:98c1:310d::6812:282f/128
+
+# shuffle.com — shfl.shuffle.com
+2606:4700:4401::ac40:93d1/128
+2a06:98c1:310d::6812:282f/128
+
+# shuffle.com — shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — sports-main.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — sports-subscription.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — sports.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — stable-subscription.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — subscription-sports-temp.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — subscription-temp.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — subscription.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — subscription2.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — support.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128
+
+# shuffle.com — www.shuffle.com
+2606:4700:3108::ac42:2873/128
+2606:4700:3108::ac42:2b8d/128

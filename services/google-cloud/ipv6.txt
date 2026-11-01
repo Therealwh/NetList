@@ -2,13 +2,13 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Google Cloud — cloud.google.com
-2607:f8b0:4004:c1f::65
-2607:f8b0:4004:c1f::71
-2607:f8b0:4004:c1f::8a
-2607:f8b0:4004:c1f::8b
+2607:f8b0:4001:c1e::64
+2607:f8b0:4001:c1e::65
+2607:f8b0:4001:c1e::66
+2607:f8b0:4001:c1e::71
 
 # Google Cloud — googlecloud.com
-2607:f8b0:4004:c19::64
-2607:f8b0:4004:c19::65
-2607:f8b0:4004:c19::71
-2607:f8b0:4004:c19::8b
+2607:f8b0:4001:c70::64
+2607:f8b0:4001:c70::65
+2607:f8b0:4001:c70::66
+2607:f8b0:4001:c70::8a

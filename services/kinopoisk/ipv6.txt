@@ -5,8 +5,8 @@
 2a02:6b8::473
 
 # Кинопоиск — kp-config-smart-tv.akamaized.net
-2600:1408:a:203::170f:385
-2600:1408:a:203::170f:392
+2600:1407:e800:23::b819:7b98
+2600:1407:e800:23::b819:7b9e
 
 # Кинопоиск — kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 # (no public DNS addresses found)

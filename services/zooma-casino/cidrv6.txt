@@ -1,0 +1,3 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# ZOOMA CASINO — zref.pro
+# (no public DNS addresses found)

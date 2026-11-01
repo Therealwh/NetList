@@ -1,24 +1,24 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Docker Hub — compose-spec.io
-3.170.19.113/32
-3.170.19.124/32
-3.170.19.74/32
-3.170.19.83/32
+18.64.183.108/32
+18.64.183.34/32
+18.64.183.73/32
+18.64.183.83/32
 
 # Docker Hub — d1q6f0aelx0por.cloudfront.net
 # (no public DNS addresses found)
 
 # Docker Hub — d2wy8f7a9ursnm.cloudfront.net
-54.230.21.125/32
-54.230.21.131/32
-54.230.21.187/32
-54.230.21.222/32
+3.162.159.118/32
+3.162.159.164/32
+3.162.159.26/32
+3.162.159.6/32
 
 # Docker Hub — d36jcksde1wxzq.cloudfront.net
-3.170.3.103/32
-3.170.3.128/32
-3.170.3.47/32
-3.170.3.5/32
+3.167.138.3/32
+3.167.138.44/32
+3.167.138.45/32
+3.167.138.75/32
 
 # Docker Hub — docker.com
 23.185.0.4/32

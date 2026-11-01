@@ -1,0 +1,3 @@
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# ZOOMA CASINO — zref.pro
+46.174.142.132/32

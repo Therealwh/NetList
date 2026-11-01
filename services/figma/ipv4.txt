@@ -2,31 +2,31 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Figma — figma-gov.com
-3.162.112.39
-3.162.112.51
-3.162.112.61
-3.162.112.9
+3.167.163.52
+3.167.163.57
+3.167.163.78
+3.167.163.8
 
 # Figma — figma-gov.site
-108.138.64.7
-108.138.64.81
-108.138.64.94
-108.138.64.95
+13.249.141.100
+13.249.141.12
+13.249.141.32
+13.249.141.77
 
 # Figma — figma.app
 # (no public DNS addresses found)
 
 # Figma — figma.com
-18.160.41.10
-18.160.41.127
-18.160.41.23
-18.160.41.84
+18.172.134.119
+18.172.134.4
+18.172.134.40
+18.172.134.97
 
 # Figma — figma.site
-18.67.65.66
-18.67.65.70
-18.67.65.85
-18.67.65.90
+13.227.87.105
+13.227.87.37
+13.227.87.39
+13.227.87.90
 
 # Figma — figmaweave.com
 198.202.211.1
