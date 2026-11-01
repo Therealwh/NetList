@@ -1,0 +1,13 @@
+{
+    "submission_id": 3,
+    "domain": "kinogo.online",
+    "name": "KinoGo",
+    "categories": [
+        "movies"
+    ],
+    "source_url": "https://kinogo.online/",
+    "submitted_at": "2026-11-01T12:46:12+00:00",
+    "processed_at": "2026-11-01T12:46:21+00:00",
+    "status": "candidate_unverified",
+    "note": "Community domain suggestion. Needs maintainer review; DNS presence does not prove ownership or service attribution."
+}
