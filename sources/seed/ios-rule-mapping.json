@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "source": "https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash",
+  "services": [
+    {
+      "service_slug": "1337x",
+      "folder": "1337x"
+    },
+    {
+      "service_slug": "akamai",
+      "folder": "Akamai"
+    },
+    {
+      "service_slug": "amazon",
+      "folder": "Amazon"
+    },
+    {
+      "service_slug": "android",
+      "folder": "Android"
+    },
+    {
+      "service_slug": "apple",
+      "folder": "Apple"
+    },
+    {
+      "service_slug": "apple-music",
+      "folder": "AppleMusic"
+    },
+    {
+      "service_slug": "baidu",
+      "folder": "Baidu"
+    },
+    {
+      "service_slug": "battle-net",
+      "folder": "Battle"
+    },
+    {
+      "service_slug": "bbc",
+      "folder": "BBC"
+    },
+    {
+      "service_slug": "binance",
+      "folder": "Binance"
+    },
+    {
+      "service_slug": "bing",
+      "folder": "Bing"
+    },
+    {
+      "service_slug": "chatgpt",
+      "folder": "OpenAI"
+    },
+    {
+      "service_slug": "claude",
+      "folder": "Claude"
+    },
+    {
+      "service_slug": "cloudflare",
+      "folder": "Cloudflare"
+    },
+    {
+      "service_slug": "dailymotion",
+      "folder": "Dailymotion"
+    },
+    {
+      "service_slug": "deezer",
+      "folder": "Deezer"
+    },
+    {
+      "service_slug": "digitalocean",
+      "folder": "DigitalOcean"
+    },
+    {
+      "service_slug": "discord",
+      "folder": "Discord"
+    },
+    {
+      "service_slug": "disney",
+      "folder": "Disney"
+    },
+    {
+      "service_slug": "docker-hub",
+      "folder": "Docker"
+    },
+    {
+      "service_slug": "dropbox",
+      "folder": "Dropbox"
+    },
+    {
+      "service_slug": "duckduckgo",
+      "folder": "Duckduckgo"
+    },
+    {
+      "service_slug": "ea",
+      "folder": "EA"
+    },
+    {
+      "service_slug": "ebay",
+      "folder": "eBay"
+    },
+    {
+      "service_slug": "epic-games",
+      "folder": "Epic"
+    },
+    {
+      "service_slug": "facebook",
+      "folder": "Facebook"
+    },
+    {
+      "service_slug": "figma",
+      "folder": "Figma"
+    },
+    {
+      "service_slug": "gemini",
+      "folder": "Gemini"
+    },
+    {
+      "service_slug": "github",
+      "folder": "GitHub"
+    },
+    {
+      "service_slug": "github-pages",
+      "folder": "GitHub"
+    },
+    {
+      "service_slug": "gitlab",
+      "folder": "GitLab"
+    },
+    {
+      "service_slug": "google",
+      "folder": "Google"
+    },
+    {
+      "service_slug": "google-drive",
+      "folder": "GoogleDrive"
+    },
+    {
+      "service_slug": "hulu",
+      "folder": "Hulu"
+    },
+    {
+      "service_slug": "instagram",
+      "folder": "Instagram"
+    },
+    {
+      "service_slug": "jetbrains",
+      "folder": "Jetbrains"
+    },
+    {
+      "service_slug": "last-fm",
+      "folder": "LastFM"
+    },
+    {
+      "service_slug": "line",
+      "folder": "Line"
+    },
+    {
+      "service_slug": "linkedin",
+      "folder": "LinkedIn"
+    },
+    {
+      "service_slug": "mail-ru",
+      "folder": "Mailru"
+    },
+    {
+      "service_slug": "mega",
+      "folder": "MEGA"
+    },
+    {
+      "service_slug": "microsoft",
+      "folder": "Microsoft"
+    },
+    {
+      "service_slug": "mozilla",
+      "folder": "Mozilla"
+    },
+    {
+      "service_slug": "netflix",
+      "folder": "Netflix"
+    },
+    {
+      "service_slug": "nintendo",
+      "folder": "Nintendo"
+    },
+    {
+      "service_slug": "notion",
+      "folder": "Notion"
+    },
+    {
+      "service_slug": "onedrive",
+      "folder": "OneDrive"
+    },
+    {
+      "service_slug": "paypal",
+      "folder": "PayPal"
+    },
+    {
+      "service_slug": "pinterest",
+      "folder": "Pinterest"
+    },
+    {
+      "service_slug": "playstation",
+      "folder": "PlayStation"
+    },
+    {
+      "service_slug": "prime-video",
+      "folder": "PrimeVideo"
+    },
+    {
+      "service_slug": "proton-mail",
+      "folder": "Protonmail"
+    },
+    {
+      "service_slug": "reddit",
+      "folder": "Reddit"
+    },
+    {
+      "service_slug": "riot-games",
+      "folder": "Riot"
+    },
+    {
+      "service_slug": "slack",
+      "folder": "Slack"
+    },
+    {
+      "service_slug": "soundcloud",
+      "folder": "SoundCloud"
+    },
+    {
+      "service_slug": "sourceforge",
+      "folder": "SourceForge"
+    },
+    {
+      "service_slug": "spotify",
+      "folder": "Spotify"
+    },
+    {
+      "service_slug": "stack-overflow",
+      "folder": "Stackexchange"
+    },
+    {
+      "service_slug": "steam",
+      "folder": "Steam"
+    },
+    {
+      "service_slug": "stripe",
+      "folder": "Stripe"
+    },
+    {
+      "service_slug": "telegram",
+      "folder": "Telegram"
+    },
+    {
+      "service_slug": "threads",
+      "folder": "Threads"
+    },
+    {
+      "service_slug": "tidal",
+      "folder": "TIDAL"
+    },
+    {
+      "service_slug": "tiktok",
+      "folder": "TikTok"
+    },
+    {
+      "service_slug": "tumblr",
+      "folder": "Tumblr"
+    },
+    {
+      "service_slug": "twitch",
+      "folder": "Twitch"
+    },
+    {
+      "service_slug": "ubisoft",
+      "folder": "Ubisoft"
+    },
+    {
+      "service_slug": "ubuntu",
+      "folder": "Ubuntu"
+    },
+    {
+      "service_slug": "vercel",
+      "folder": "Vercel"
+    },
+    {
+      "service_slug": "vimeo",
+      "folder": "Vimeo"
+    },
+    {
+      "service_slug": "vk",
+      "folder": "VK"
+    },
+    {
+      "service_slug": "wechat",
+      "folder": "WeChat"
+    },
+    {
+      "service_slug": "whatsapp",
+      "folder": "Whatsapp"
+    },
+    {
+      "service_slug": "wikipedia",
+      "folder": "Wikipedia"
+    },
+    {
+      "service_slug": "xbox",
+      "folder": "Xbox"
+    },
+    {
+      "service_slug": "yandex",
+      "folder": "Yandex"
+    },
+    {
+      "service_slug": "youtube",
+      "folder": "YouTube"
+    },
+    {
+      "service_slug": "youtube-music",
+      "folder": "YouTubeMusic"
+    },
+    {
+      "service_slug": "zoho",
+      "folder": "Zoho"
+    }
+  ]
+}
