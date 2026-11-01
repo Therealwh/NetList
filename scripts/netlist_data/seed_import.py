@@ -140,9 +140,7 @@ def apply_domain_overrides(repo_root: Path, registry: dict[str, Service]) -> int
     is an error so catalog renames cannot silently discard curated additions.
     """
     path = Path(repo_root) / "sources" / "seed" / "domain-overrides.json"
-    if not path.exists():
-        return 0
-    data = json.loads(path.read_text(encoding="utf-8"))
+    data = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {"sources": []}
     by_name: dict[str, list[Service]] = {}
     for service in registry.values():
         by_name.setdefault(service.name.casefold(), []).append(service)
