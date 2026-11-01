@@ -29,6 +29,14 @@ jobs:
           path: sources/upstream/domain-list-community
           persist-credentials: false
 
+      - name: Загрузить каталог доменных правил приложений
+        uses: actions/checkout@v4
+        with:
+          repository: blackmatrix7/ios_rule_script
+          ref: master
+          path: sources/upstream/ios_rule_script
+          persist-credentials: false
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
