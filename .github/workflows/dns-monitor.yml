@@ -22,7 +22,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: dns-monitor
+  group: dns-monitor-${{ github.event_name }}
   cancel-in-progress: true
 
 jobs:
