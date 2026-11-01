@@ -73,7 +73,7 @@ jobs:
           git diff --check
           # Workflow может публиковать только ожидаемые результаты генерации.
           # Не добавлять весь репозиторий через git add -A.
-          git add -- services/ collections/ common/ catalog.json assets/logos/ state/last_good.json
+          git add -- services/ collections/ common/ catalog.json assets/logos/ state/last_good.json state/discovered_subdomains.json
           if git diff --cached --quiet; then
             echo "Изменений в разрешённых путях нет — коммит не нужен"
             exit 0
@@ -81,7 +81,7 @@ jobs:
           python - <<'PY'
           import subprocess, sys
           allowed = ("services/", "collections/", "common/", "assets/logos/")
-          allowed_exact = {"catalog.json", "state/last_good.json"}
+          allowed_exact = {"catalog.json", "state/last_good.json", "state/discovered_subdomains.json"}
           names = subprocess.check_output(
               ["git", "diff", "--cached", "--name-only"], text=True
           ).splitlines()
