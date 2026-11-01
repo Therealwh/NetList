@@ -53,8 +53,10 @@ jobs:
       - name: Пересборка каталога из источников
         run: python -m scripts.netlist_data build
 
-      - name: DNS-снимки IPv4, IPv6 и точные CIDR-маршруты
-        run: python -m scripts.netlist_data.resolve_ips
+      - name: DNS-проверка всех доменов, включая пользовательские заявки (IPv4, IPv6, CIDR)
+        run: |
+          python -m scripts.netlist_data.resolve_ips
+          echo "DNS-резолвер завершил обработку реестра, заявок сайта и найденных поддоменов."
 
       - name: Логотипы — поиск и сборка манифеста (§15.5)
         run: python -m scripts.netlist_data logos discover
