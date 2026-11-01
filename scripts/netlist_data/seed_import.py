@@ -133,6 +133,39 @@ def load_user_submissions(repo_root: Path, known_categories: set[str] | None = N
     return records
 
 
+def apply_domain_overrides(repo_root: Path, registry: dict[str, Service]) -> int:
+    """Apply curated, provenance-carrying additions on every build and DNS run.
+
+    The overlay is additive: it never removes seed/user domains. A missing service
+    is an error so catalog renames cannot silently discard curated additions.
+    """
+    path = Path(repo_root) / "sources" / "seed" / "domain-overrides.json"
+    if not path.exists():
+        return 0
+    data = json.loads(path.read_text(encoding="utf-8"))
+    by_name: dict[str, list[Service]] = {}
+    for service in registry.values():
+        by_name.setdefault(service.name.casefold(), []).append(service)
+    added = 0
+    for item in data.get("sources", []):
+        name = str(item.get("service", "")).strip()
+        matches = by_name.get(name.casefold(), [])
+        if len(matches) != 1:
+            raise ValueError(
+                f"domain override service {name!r} matched {len(matches)} registry entries"
+            )
+        service = matches[0]
+        for raw in item.get("domains", []):
+            domain = normalize_domain(str(raw))
+            if domain is None:
+                raise ValueError(f"invalid override domain for {name!r}: {raw!r}")
+            if domain not in service.domains:
+                service.domains.add(domain)
+                service.counts[domain] = service.counts.get(domain, 0) + 1
+                added += 1
+    return added
+
+
 def load_registry(path: Path) -> dict[str, Service]:
     data = json.loads(Path(path).read_text(encoding="utf-8"))
     return {
