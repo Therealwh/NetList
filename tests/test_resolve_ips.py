@@ -139,7 +139,7 @@ class ResolveIpsTest(unittest.TestCase):
             }]}), encoding="utf-8")
             service_dir = root / "services" / "example"
             service_dir.mkdir(parents=True)
-            (service_dir / "ipv6.txt").write_text("2001:4860:4860::8888\\n", encoding="utf-8")
+            (service_dir / "ipv6.txt").write_text("2001:4860:4860::8888\n", encoding="utf-8")
 
             with patch(
                 "scripts.netlist_data.resolve_ips.resolve_domain",
