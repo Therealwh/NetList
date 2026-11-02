@@ -12,6 +12,41 @@
 > [!TIP]
 > **Help keep the lists current.** Found a missing or outdated domain? Submit it through the [NetList suggestion form](https://netlist.pro/submit-domain). Every suggestion is reviewed before publication. By adding domains through the website, you help keep the shared datasets useful and up to date.
 
+
+## 🤝 Share your lists — help grow NetList together
+
+Have your own domain or IP lists for services, apps, games, routers or VPN setups? **Share them with other users!** Your work may be useful to the whole community.
+
+- 🌐 **On our website:** publish your collection in [NetList Community Lab](https://lab.netlist.pro/), where members can share projects and lists.
+- 🐙 **On GitHub:** suggest an improvement with a [Pull Request](https://github.com/Therealwh/NetList/pulls) or report new data in [Issues](https://github.com/Therealwh/NetList/issues).
+
+> [!IMPORTANT]
+> **Please organize contributions by service and category.** If you share a list outside our website, please do not submit one huge, unstructured file with domains and IP addresses from unrelated resources mixed together. Split entries into clear groups such as YouTube, Telegram, Gaming, Banks and Artificial intelligence. This makes lists easier to browse, validate and maintain.
+
+### Recommended list structure
+
+Instead of one flat, unstructured collection, use clear group headers:
+
+```text
+# YouTube
+youtube.com
+youtu.be
+ggpht.com
+
+# Telegram
+telegram.org
+t.me
+tg.dev
+
+# Gaming
+example-game.com
+cdn.example-game.com
+```
+
+For IP data, keep the same service/category grouping where possible and separate data types: **domains, IPv4, IPv6 and CIDR**. Do not mix unrelated services in one group. Include the source and, where useful, the purpose of the list. Submit only checked entries that belong to the stated service.
+
+**Thank you to everyone who contributes!** The better organized community lists are, the more useful NetList becomes for everyone. 💙
+
 ## Navigation
 
 - [NetList website](https://netlist.pro) · [Browse lists](https://netlist.pro/lists) · [Categories](https://netlist.pro/categories)
