@@ -132,8 +132,8 @@
     "candidates": [
       "bbc"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official BBC favicon",
+    "source": "bbc.co.uk"
   },
   "bet365": {
     "candidates": [
@@ -301,11 +301,10 @@
   },
   "disney": {
     "candidates": [
-      "disneyplus",
       "disney"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Disney favicon",
+    "source": "disney.com"
   },
   "docker-hub": {
     "candidates": [
@@ -332,8 +331,8 @@
     "candidates": [
       "dzen"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Dzen favicon",
+    "source": "dzen.ru"
   },
   "ea": {
     "candidates": [
@@ -367,8 +366,8 @@
     "candidates": [
       "eset"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official ESET favicon",
+    "source": "eset.com"
   },
   "etsy": {
     "candidates": [
@@ -409,8 +408,8 @@
     "candidates": [
       "fastmail"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Fastmail favicon",
+    "source": "fastmail.com"
   },
   "fedora": {
     "candidates": [
@@ -426,6 +425,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "fns": {
+    "candidates": [
+      "fns"
+    ],
+    "license": "Official Federal Tax Service favicon",
+    "source": "nalog.gov.ru"
+  },
   "gemini": {
     "candidates": [
       "googlegemini",
@@ -433,6 +439,13 @@
     ],
     "license": "CC0",
     "source": "simple-icons"
+  },
+  "gismeteo": {
+    "candidates": [
+      "gismeteo"
+    ],
+    "license": "Official Gismeteo favicon",
+    "source": "gismeteo.ru"
   },
   "github": {
     "candidates": [
@@ -496,8 +509,8 @@
     "candidates": [
       "headhunter"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official HeadHunter favicon",
+    "source": "hh.ru"
   },
   "hetzner": {
     "candidates": [
@@ -538,8 +551,8 @@
     "candidates": [
       "ivi"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official ivi favicon",
+    "source": "ivi.ru"
   },
   "jetbrains": {
     "candidates": [
@@ -583,12 +596,40 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "kion": {
+    "candidates": [
+      "kion"
+    ],
+    "license": "Official KION favicon",
+    "source": "kion.ru"
+  },
+  "kommersant": {
+    "candidates": [
+      "kommersant"
+    ],
+    "license": "Official Kommersant favicon",
+    "source": "kommersant.ru"
+  },
+  "kontur": {
+    "candidates": [
+      "kontur"
+    ],
+    "license": "Official Kontur favicon",
+    "source": "kontur.ru"
+  },
   "last-fm": {
     "candidates": [
       "lastdotfm"
     ],
     "license": "CC0",
     "source": "simple-icons"
+  },
+  "lenta": {
+    "candidates": [
+      "lenta"
+    ],
+    "license": "Official Lenta favicon",
+    "source": "lenta.com"
   },
   "line": {
     "candidates": [
@@ -621,10 +662,10 @@
   },
   "mail-ru": {
     "candidates": [
-      "mailru"
+      "mail-ru"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Mail.ru favicon",
+    "source": "mail.ru"
   },
   "malwarebytes": {
     "candidates": [
@@ -647,12 +688,26 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "meduza": {
+    "candidates": [
+      "meduza"
+    ],
+    "license": "Official Meduza favicon",
+    "source": "meduza.io"
+  },
   "mega": {
     "candidates": [
       "mega"
     ],
     "license": "CC0",
     "source": "simple-icons"
+  },
+  "megamarket": {
+    "candidates": [
+      "megamarket"
+    ],
+    "license": "Official Megamarket favicon",
+    "source": "megamarket.ru"
   },
   "microsoft": {
     "candidates": [
@@ -680,8 +735,8 @@
     "candidates": [
       "minecraft"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Minecraft favicon",
+    "source": "minecraft.net"
   },
   "mistral-ai": {
     "candidates": [
@@ -769,6 +824,13 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "okko": {
+    "candidates": [
+      "okko"
+    ],
+    "license": "Official Okko favicon",
+    "source": "okko.tv"
+  },
   "onedrive": {
     "candidates": [
       "microsoftonedrive",
@@ -838,8 +900,8 @@
     "candidates": [
       "pixeldrain"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Pixeldrain favicon",
+    "source": "pixeldrain.com"
   },
   "playstation": {
     "candidates": [
@@ -862,12 +924,19 @@
     "license": "CC0",
     "source": "simple-icons"
   },
+  "premier": {
+    "candidates": [
+      "premier"
+    ],
+    "license": "Official PREMIER favicon",
+    "source": "premier.one"
+  },
   "prime-video": {
     "candidates": [
-      "primevideo"
+      "prime-video"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Prime Video favicon",
+    "source": "primevideo.com"
   },
   "proton-mail": {
     "candidates": [
@@ -875,6 +944,13 @@
     ],
     "license": "CC0",
     "source": "simple-icons"
+  },
+  "pyatyorochka": {
+    "candidates": [
+      "pyatyorochka"
+    ],
+    "license": "Official Pyaterochka favicon",
+    "source": "5ka.ru"
   },
   "pypi": {
     "candidates": [
@@ -894,8 +970,8 @@
     "candidates": [
       "rambler"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Rambler favicon",
+    "source": "rambler.ru"
   },
   "rbk": {
     "candidates": [
@@ -930,8 +1006,8 @@
     "candidates": [
       "reuters"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Reuters favicon",
+    "source": "reuters.com"
   },
   "revanced": {
     "candidates": [
@@ -946,6 +1022,13 @@
     ],
     "license": "CC0",
     "source": "simple-icons"
+  },
+  "ria-novosti": {
+    "candidates": [
+      "ria-novosti"
+    ],
+    "license": "Official RIA Novosti favicon",
+    "source": "ria.ru"
   },
   "riot-games": {
     "candidates": [
@@ -979,22 +1062,22 @@
     "candidates": [
       "rustore"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official RuStore favicon",
+    "source": "rustore.ru"
   },
   "rutor": {
     "candidates": [
       "rutor"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official site favicon",
+    "source": "rutor.info"
   },
   "rutracker": {
     "candidates": [
       "rutracker"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official site favicon",
+    "source": "rutracker.org"
   },
   "rutube": {
     "candidates": [
@@ -1002,6 +1085,20 @@
     ],
     "license": "CC0",
     "source": "simple-icons"
+  },
+  "samokat": {
+    "candidates": [
+      "samokat"
+    ],
+    "license": "Official Samokat favicon",
+    "source": "samokat.ru"
+  },
+  "sbermobayl": {
+    "candidates": [
+      "sbermobayl"
+    ],
+    "license": "Official SberMobile favicon",
+    "source": "sbermobile.ru"
   },
   "selectel": {
     "candidates": [

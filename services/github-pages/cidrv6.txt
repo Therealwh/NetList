@@ -12,7 +12,7 @@
 # (no public DNS addresses found)
 
 # GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
-2a04:4e42:8a::591/128
+2a04:4e42:5::591/128
 
 # GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
 # (no public DNS addresses found)

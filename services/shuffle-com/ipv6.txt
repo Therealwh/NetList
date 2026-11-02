@@ -2,8 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # shuffle.com — admin-api.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — admin.shuffle.com
 # (no public DNS addresses found)
@@ -23,23 +22,19 @@
 2606:4700:3108::ac42:2b8d
 
 # shuffle.com — betradar-websocket.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — betradar.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — cron-job.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — demo.shuffle.com
 # (no public DNS addresses found)
 
 # shuffle.com — fast-track.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — fireblocks.shuffle.com
 2606:4700:3108::ac42:2873
@@ -53,8 +48,7 @@
 2606:4700:3108::ac42:2b8d
 
 # shuffle.com — genius-receiver.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — help.shuffle.com
 2606:4700:3108::ac42:2873
@@ -72,8 +66,7 @@
 2606:4700:3108::ac42:2b8d
 
 # shuffle.com — metabase.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — nginx-api.shuffle.com
 2606:4700:3108::ac42:2873
@@ -84,12 +77,10 @@
 2606:4700:3108::ac42:2b8d
 
 # shuffle.com — oddin-stream.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — oddin.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — preprod.shuffle.com
 2606:4700:3108::ac42:2873
@@ -132,12 +123,10 @@
 2606:4700:3108::ac42:2b8d
 
 # shuffle.com — subscription-sports-temp.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — subscription-temp.shuffle.com
-2606:4700:3108::ac42:2873
-2606:4700:3108::ac42:2b8d
+# (no public DNS addresses found)
 
 # shuffle.com — subscription.shuffle.com
 2606:4700:3108::ac42:2873

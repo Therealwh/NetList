@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "dataset": "netlist",
-  "generated_at": "2026-11-01T16:21:12+00:00",
+  "generated_at": "2026-11-02T10:39:51+00:00",
   "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
   "counts": {
     "services": 276,
@@ -2732,7 +2732,7 @@
     {
       "name": "BBC",
       "slug": "bbc",
-      "primary_domain": "aod-dash-uk-live.akamaized.net",
+      "primary_domain": "bbc.com",
       "domains": [
         "aod-dash-uk-live.akamaized.net",
         "aod-hls-uk-live.akamaized.net",
@@ -3362,7 +3362,7 @@
     {
       "name": "Disney+",
       "slug": "disney",
-      "primary_domain": "20thcenturystudios.com.au",
+      "primary_domain": "disney.com",
       "domains": [
         "20thcenturystudios.com.au",
         "20thcenturystudios.com.br",
@@ -4036,7 +4036,7 @@
     {
       "name": "ESET",
       "slug": "eset",
-      "primary_domain": "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com",
+      "primary_domain": "eset.com",
       "domains": [
         "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com",
         "eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com",
@@ -5972,7 +5972,7 @@
     {
       "name": "Hulu",
       "slug": "hulu",
-      "primary_domain": "112263.com",
+      "primary_domain": "hulu.com",
       "domains": [
         "112263.com",
         "assetshuluimcom-a.akamaihd.net",
@@ -6313,7 +6313,7 @@
     {
       "name": "KinoGo",
       "slug": "kinogo",
-      "primary_domain": "126279.kinogo.online",
+      "primary_domain": "kinogo.online",
       "domains": [
         "126279.kinogo.online",
         "193.kinogo.online",
@@ -8706,7 +8706,7 @@
     {
       "name": "LinkedIn",
       "slug": "linkedin",
-      "primary_domain": "bizographics.com",
+      "primary_domain": "linkedin.com",
       "domains": [
         "bizographics.com",
         "e122475.dscg.akamaiedge.net",
@@ -8957,7 +8957,7 @@
     {
       "name": "Microsoft",
       "slug": "microsoft",
-      "primary_domain": "1drv.com",
+      "primary_domain": "microsoft.com",
       "domains": [
         "1drv.com",
         "1drv.ms",
@@ -10010,7 +10010,7 @@
     {
       "name": "Nintendo",
       "slug": "nintendo",
-      "primary_domain": "100classicbooks.com",
+      "primary_domain": "nintendo.com",
       "domains": [
         "100classicbooks.com",
         "ac-pocketcamp.com",
@@ -10881,7 +10881,7 @@
     {
       "name": "Prime Video",
       "slug": "prime-video",
-      "primary_domain": "aiv-cdn.net",
+      "primary_domain": "primevideo.com",
       "domains": [
         "aiv-cdn.net",
         "aiv-delivery.net",
@@ -11420,7 +11420,7 @@
     {
       "name": "Сбер",
       "slug": "sber",
-      "primary_domain": "error-tracking.megamarket.tech",
+      "primary_domain": "sber.ru",
       "domains": [
         "error-tracking.megamarket.tech",
         "metrics.21-school.ru",

@@ -8,12 +8,7 @@
 # (no public DNS addresses found)
 
 # WeChat — dldir1.qq.com
-113.1.0.145
-113.1.0.163
-113.1.0.206
-116.162.16.30
-211.93.212.101
-42.59.25.174
+58.144.248.137
 
 # WeChat — iot-tencent.com
 # (no public DNS addresses found)

@@ -33,7 +33,6 @@
 
 # Яндекс — log.strm.yandex.ru
 2a02:6b8:24::77
-2a02:6b8::28d
 
 # Яндекс — mc.yandex.com
 2a02:6b8::1:119

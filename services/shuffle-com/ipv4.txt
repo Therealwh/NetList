@@ -2,8 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # shuffle.com — admin-api.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — admin.shuffle.com
 # (no public DNS addresses found)
@@ -23,23 +22,19 @@
 172.66.43.141
 
 # shuffle.com — betradar-websocket.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — betradar.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — cron-job.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — demo.shuffle.com
 # (no public DNS addresses found)
 
 # shuffle.com — fast-track.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — fireblocks.shuffle.com
 172.66.40.115
@@ -53,8 +48,7 @@
 172.66.43.141
 
 # shuffle.com — genius-receiver.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — help.shuffle.com
 172.66.40.115
@@ -72,8 +66,7 @@
 172.66.43.141
 
 # shuffle.com — metabase.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — nginx-api.shuffle.com
 172.66.40.115
@@ -84,12 +77,10 @@
 172.66.43.141
 
 # shuffle.com — oddin-stream.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — oddin.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — preprod.shuffle.com
 172.66.40.115
@@ -132,12 +123,10 @@
 172.66.43.141
 
 # shuffle.com — subscription-sports-temp.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — subscription-temp.shuffle.com
-172.66.40.115
-172.66.43.141
+# (no public DNS addresses found)
 
 # shuffle.com — subscription.shuffle.com
 172.66.40.115

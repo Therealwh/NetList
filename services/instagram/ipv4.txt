@@ -5,13 +5,13 @@
 # (no public DNS addresses found)
 
 # Instagram — ig.me
-57.144.194.34
+57.144.78.34
 
 # Instagram — igsonar.com
 # (no public DNS addresses found)
 
 # Instagram — instagr.am
-157.240.254.174
+57.144.216.34
 
 # Instagram — instagram.com
-57.144.20.34
+57.144.216.34

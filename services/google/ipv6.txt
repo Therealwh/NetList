@@ -11,74 +11,53 @@
 # (no public DNS addresses found)
 
 # Google — 265.com
-2607:f8b0:4001:c6a::6e
+2607:f8b0:400a:801::2017
 
 # Google — 2mdn-cn.net
-2607:f8b0:4001:c0f::6e
+2607:f8b0:400a:803::2017
 
 # Google — 2mdn.net
 # (no public DNS addresses found)
 
 # Google — 466453.com
-2607:f8b0:4001:c09::63
-2607:f8b0:4001:c09::67
-2607:f8b0:4001:c09::6a
-2607:f8b0:4001:c09::93
+2607:f8b0:400a:808::2004
 
 # Google — abc.xyz
 2606:4700:7::a29f:810b
 2606:4700:7::a29f:820b
 
 # Google — accounts.google.com
-2607:f8b0:4001:c70::54
+2607:f8b0:400e:c01::54
 
 # Google — adgoogle.net
 2001:4860:4802:32::1b
 
 # Google — admeld.com
-2607:f8b0:4001:c76::64
-2607:f8b0:4001:c76::65
-2607:f8b0:4001:c76::66
-2607:f8b0:4001:c76::8a
+2607:f8b0:400a:809::200e
 
 # Google — admin.google.com
-2607:f8b0:4001:c76::65
-2607:f8b0:4001:c76::71
-2607:f8b0:4001:c76::8a
-2607:f8b0:4001:c76::8b
+2607:f8b0:400a:80c::200e
 
 # Google — admob-cn.com
-2607:f8b0:4001:c0f::6e
+2607:f8b0:400a:80c::2017
 
 # Google — admob.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::8a
+2607:f8b0:400e:c20::64
+2607:f8b0:400e:c20::71
+2607:f8b0:400e:c20::8a
+2607:f8b0:400e:c20::8b
 
 # Google — adsense.com
-2607:f8b0:4001:c06::67
-2607:f8b0:4001:c06::69
-2607:f8b0:4001:c06::6a
-2607:f8b0:4001:c06::93
+2607:f8b0:400a:809::2004
 
 # Google — adsensecustomsearchads.com
-2607:f8b0:4001:c6c::64
-2607:f8b0:4001:c6c::65
-2607:f8b0:4001:c6c::71
-2607:f8b0:4001:c6c::8a
+2607:f8b0:400a:80c::200e
 
 # Google — adsenseformobileapps.com
-2607:f8b0:4001:c70::65
-2607:f8b0:4001:c70::66
-2607:f8b0:4001:c70::8a
-2607:f8b0:4001:c70::8b
+2607:f8b0:400a:802::200e
 
 # Google — adservice.google.com
-2607:f8b0:4001:c62::9a
-2607:f8b0:4001:c62::9b
-2607:f8b0:4001:c62::9c
-2607:f8b0:4001:c62::9d
+2607:f8b0:400a:80d::2002
 
 # Google — advertisercommunity.com
 2001:4860:4802:32::1b
@@ -87,70 +66,46 @@
 2001:4860:4802:32::1b
 
 # Google — adwords-community.com
-2607:f8b0:4001:c06::64
-2607:f8b0:4001:c06::65
-2607:f8b0:4001:c06::71
-2607:f8b0:4001:c06::8b
+2607:f8b0:400a:803::200e
 
 # Google — adwords.com
-2607:f8b0:4001:c76::64
-2607:f8b0:4001:c76::65
-2607:f8b0:4001:c76::66
-2607:f8b0:4001:c76::8a
+2607:f8b0:400e:c0c::66
+2607:f8b0:400e:c0c::71
+2607:f8b0:400e:c0c::8a
+2607:f8b0:400e:c0c::8b
 
 # Google — adwordsexpress.com
-2607:f8b0:4001:c10::64
-2607:f8b0:4001:c10::65
-2607:f8b0:4001:c10::8a
-2607:f8b0:4001:c10::8b
+2607:f8b0:400a:802::200e
 
 # Google — aistudio.google.com
-2607:f8b0:4001:c2f::64
-2607:f8b0:4001:c2f::65
-2607:f8b0:4001:c2f::66
-2607:f8b0:4001:c2f::71
+2607:f8b0:400a:800::200e
 
 # Google — amp.dev
 # (no public DNS addresses found)
 
 # Google — ampproject.com
-2607:f8b0:4001:c09::64
-2607:f8b0:4001:c09::65
-2607:f8b0:4001:c09::66
-2607:f8b0:4001:c09::71
+2607:f8b0:400a:808::200e
 
 # Google — ampproject.net
-2607:f8b0:4001:c19::64
-2607:f8b0:4001:c19::65
-2607:f8b0:4001:c19::71
-2607:f8b0:4001:c19::8a
+2607:f8b0:400a:800::200e
 
 # Google — ampproject.org
-2607:f8b0:4001:c70::64
-2607:f8b0:4001:c70::66
-2607:f8b0:4001:c70::71
-2607:f8b0:4001:c70::8a
+2607:f8b0:400a:80d::200e
 
 # Google — analytics.google.com
-2607:f8b0:4001:c09::64
-2607:f8b0:4001:c09::65
-2607:f8b0:4001:c09::8a
-2607:f8b0:4001:c09::8b
+2001:4860:4802:32::181
+2001:4860:4802:34::181
+2001:4860:4802:36::181
+2001:4860:4802:38::181
 
 # Google — android.clients.google.com
 # (no public DNS addresses found)
 
 # Google — android.com
-2607:f8b0:4001:c00::67
-2607:f8b0:4001:c00::69
-2607:f8b0:4001:c00::6a
-2607:f8b0:4001:c00::93
+2607:f8b0:400a:800::2004
 
 # Google — androidify.com
-2607:f8b0:4001:c00::64
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8a
+2607:f8b0:400a:801::200e
 
 # Google — androidtv.com
 # (no public DNS addresses found)
@@ -165,19 +120,13 @@
 # (no public DNS addresses found)
 
 # Google — app-analytics-services.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::8a
+2607:f8b0:400a:80d::200e
 
 # Google — app-measurement-cn.com
-2607:f8b0:4001:c62::6e
+2607:f8b0:400a:802::2017
 
 # Google — app-measurement.com
-2607:f8b0:4001:c62::64
-2607:f8b0:4001:c62::65
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::71
+2607:f8b0:400a:808::200e
 
 # Google — app-measurement.net
 # (no public DNS addresses found)
@@ -192,31 +141,19 @@
 # (no public DNS addresses found)
 
 # Google — apps.google.com
-2607:f8b0:4001:c0f::65
-2607:f8b0:4001:c0f::66
-2607:f8b0:4001:c0f::71
-2607:f8b0:4001:c0f::8a
+2607:f8b0:400a:809::200e
 
 # Google — apps5.oingo.com
 # (no public DNS addresses found)
 
 # Google — appspot.com
-2607:f8b0:4001:c05::64
-2607:f8b0:4001:c05::65
-2607:f8b0:4001:c05::71
-2607:f8b0:4001:c05::8a
+2607:f8b0:400a:80d::200e
 
 # Google — apture.com
-2607:f8b0:4001:c66::64
-2607:f8b0:4001:c66::65
-2607:f8b0:4001:c66::8a
-2607:f8b0:4001:c66::8b
+2607:f8b0:400a:801::200e
 
 # Google — area120.com
-2607:f8b0:4001:c16::64
-2607:f8b0:4001:c16::65
-2607:f8b0:4001:c16::66
-2607:f8b0:4001:c16::71
+2607:f8b0:400a:809::200e
 
 # Google — asp-cc.com
 # (no public DNS addresses found)
@@ -247,28 +184,22 @@
 # (no public DNS addresses found)
 
 # Google — beacons.gcp.gvt2.com
-2607:f8b0:4009:816::2003
+# (no public DNS addresses found)
 
 # Google — beacons.gvt2.com
-2607:f8b0:4002:c0c::5e
+2607:f8b0:4009:810::2003
 
 # Google — beacons2.gvt2.com
-2a00:1450:4025:1407::5e
+2404:6800:4000:100e::5e
 
 # Google — beacons3.gvt2.com
 # (no public DNS addresses found)
 
 # Google — beatthatquote.com
-2607:f8b0:4001:c00::64
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8a
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:801::200e
 
 # Google — blink.org
-2607:f8b0:4001:c05::64
-2607:f8b0:4001:c05::66
-2607:f8b0:4001:c05::71
-2607:f8b0:4001:c05::8b
+2607:f8b0:400a:809::200e
 
 # Google — blog.google
 2001:4860:4802:32::15
@@ -277,226 +208,226 @@
 2001:4860:4802:38::15
 
 # Google — blogblog.com
-2607:f8b0:4001:c56::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogger.com
-2607:f8b0:4001:c6a::bf
+2607:f8b0:400a:801::2009
 
 # Google — blogspot.ae
-2607:f8b0:4001:c0e::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.al
-2607:f8b0:4001:c79::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.am
-2607:f8b0:4001:c76::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.ba
-2607:f8b0:4001:c6e::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.be
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.bg
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:800::2009
 
 # Google — blogspot.bj
-2607:f8b0:4001:c06::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.ca
-2607:f8b0:4001:c62::bf
+2607:f8b0:400a:809::2009
 
 # Google — blogspot.cf
-2607:f8b0:4001:c0f::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.ch
-2607:f8b0:4001:c6a::bf
+2607:f8b0:400a:800::2009
 
 # Google — blogspot.cl
-2607:f8b0:4001:c70::bf
+2607:f8b0:400a:809::2009
 
 # Google — blogspot.co.at
-2607:f8b0:4001:c2f::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.co.id
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.co.il
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.co.ke
-2607:f8b0:4001:c08::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.co.nz
-2607:f8b0:4001:c7b::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.co.uk
-2607:f8b0:4001:c0e::bf
+2607:f8b0:400a:808::2009
 
 # Google — blogspot.co.za
-2607:f8b0:4001:c6a::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.com
-2607:f8b0:4001:c6a::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.com.ar
-2607:f8b0:4001:c7b::bf
+2607:f8b0:400a:801::2009
 
 # Google — blogspot.com.au
-2607:f8b0:4001:c76::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.com.br
-2607:f8b0:4001:c08::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.com.by
-2607:f8b0:4001:c70::bf
+2607:f8b0:400a:809::2009
 
 # Google — blogspot.com.co
-2607:f8b0:4001:c10::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.com.cy
-2607:f8b0:4001:c7d::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.com.ee
-2607:f8b0:4001:c19::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.com.eg
-2607:f8b0:4001:c79::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.com.es
-2607:f8b0:4001:c74::bf
+2607:f8b0:400a:808::2009
 
 # Google — blogspot.com.mt
-2607:f8b0:4001:c06::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.com.ng
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:808::2009
 
 # Google — blogspot.com.tr
-2607:f8b0:4001:c74::bf
+2607:f8b0:400a:808::2009
 
 # Google — blogspot.com.uy
-2607:f8b0:4001:c6a::bf
+2607:f8b0:400a:801::2009
 
 # Google — blogspot.cv
-2607:f8b0:4001:c01::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.cz
-2607:f8b0:4001:c70::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.de
-2607:f8b0:4001:c76::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.dk
-2607:f8b0:4001:c66::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.fi
-2607:f8b0:4001:c7d::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.fr
-2607:f8b0:4001:c70::bf
+2607:f8b0:400a:801::2009
 
 # Google — blogspot.gr
-2607:f8b0:4001:c2f::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.hk
-2607:f8b0:4001:c08::bf
+2607:f8b0:400a:800::2009
 
 # Google — blogspot.hr
-2607:f8b0:4001:c16::bf
+2607:f8b0:400a:801::2009
 
 # Google — blogspot.hu
-2607:f8b0:4001:c01::bf
+2607:f8b0:400a:800::2009
 
 # Google — blogspot.ie
-2607:f8b0:4001:c08::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.in
-2607:f8b0:4001:c62::bf
+2607:f8b0:400a:801::2009
 
 # Google — blogspot.is
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.it
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.jp
-2607:f8b0:4001:c64::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.kr
-2607:f8b0:4001:c76::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.li
-2607:f8b0:4001:c08::bf
+2607:f8b0:400a:809::2009
 
 # Google — blogspot.lt
-2607:f8b0:4001:c70::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.lu
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:802::2009
 
 # Google — blogspot.md
-2607:f8b0:4001:c56::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.mk
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.mx
-2607:f8b0:4001:c19::bf
+2607:f8b0:400a:808::2009
 
 # Google — blogspot.my
-2607:f8b0:4001:c08::bf
+2607:f8b0:400a:801::2009
 
 # Google — blogspot.nl
-2607:f8b0:4001:c06::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.no
-2607:f8b0:4001:c70::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.pe
-2607:f8b0:4001:c66::bf
+2607:f8b0:400a:808::2009
 
 # Google — blogspot.pt
-2607:f8b0:4001:c00::bf
+2607:f8b0:400a:809::2009
 
 # Google — blogspot.qa
-2607:f8b0:4001:c62::bf
+2607:f8b0:400a:803::2009
 
 # Google — blogspot.re
-2607:f8b0:4001:c70::bf
+2607:f8b0:400a:809::2009
 
 # Google — blogspot.ro
-2607:f8b0:4001:c09::bf
+2607:f8b0:400a:809::2009
 
 # Google — blogspot.rs
-2607:f8b0:4001:c66::bf
+2607:f8b0:400a:800::2009
 
 # Google — blogspot.ru
-2607:f8b0:4001:c70::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.se
-2607:f8b0:4001:c16::bf
+2607:f8b0:400a:800::2009
 
 # Google — blogspot.sg
-2607:f8b0:4001:c7b::bf
+2607:f8b0:400a:80d::2009
 
 # Google — blogspot.si
-2607:f8b0:4001:c19::bf
+2607:f8b0:400a:800::2009
 
 # Google — blogspot.sk
-2607:f8b0:4001:c0e::bf
+2607:f8b0:400a:808::2009
 
 # Google — blogspot.sn
-2607:f8b0:4001:c09::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.td
 # (no public DNS addresses found)
 
 # Google — blogspot.tw
-2607:f8b0:4001:c05::bf
+2607:f8b0:400a:808::2009
 
 # Google — blogspot.ug
-2607:f8b0:4001:c10::bf
+2607:f8b0:400a:80c::2009
 
 # Google — blogspot.vn
 # (no public DNS addresses found)
@@ -508,40 +439,22 @@
 2001:4860:4802:32::1d
 
 # Google — bumpshare.com
-2607:f8b0:4001:c74::64
-2607:f8b0:4001:c74::65
-2607:f8b0:4001:c74::71
-2607:f8b0:4001:c74::8b
+2607:f8b0:400a:801::200e
 
 # Google — bumptop.ca
-2607:f8b0:4001:c19::64
-2607:f8b0:4001:c19::65
-2607:f8b0:4001:c19::8a
-2607:f8b0:4001:c19::8b
+2607:f8b0:400a:801::200e
 
 # Google — bumptop.com
-2607:f8b0:4001:c70::64
-2607:f8b0:4001:c70::65
-2607:f8b0:4001:c70::71
-2607:f8b0:4001:c70::8b
+2607:f8b0:400a:800::200e
 
 # Google — bumptop.net
-2607:f8b0:4001:c74::64
-2607:f8b0:4001:c74::65
-2607:f8b0:4001:c74::66
-2607:f8b0:4001:c74::8b
+2607:f8b0:400a:802::200e
 
 # Google — bumptop.org
-2607:f8b0:4001:c0e::65
-2607:f8b0:4001:c0e::71
-2607:f8b0:4001:c0e::8a
-2607:f8b0:4001:c0e::8b
+2607:f8b0:400a:80c::200e
 
 # Google — bumptunes.com
-2607:f8b0:4001:c62::64
-2607:f8b0:4001:c62::71
-2607:f8b0:4001:c62::8a
-2607:f8b0:4001:c62::8b
+2607:f8b0:400a:809::200e
 
 # Google — c.admob.com
 # (no public DNS addresses found)
@@ -553,22 +466,16 @@
 2001:4860:4802:32::1b
 
 # Google — cache-management-prod.google.com
-2607:f8b0:4001:c16::66
-2607:f8b0:4001:c16::8a
-2607:f8b0:4001:c2f::64
-2607:f8b0:4001:c56::65
+2607:f8b0:400a:800::200e
+2607:f8b0:400a:801::200e
+2607:f8b0:400a:803::200e
+2607:f8b0:400a:80d::200e
 
 # Google — cache.pack.google.com
-2607:f8b0:4001:c09::65
-2607:f8b0:4001:c09::66
-2607:f8b0:4001:c09::71
-2607:f8b0:4001:c09::8b
+2607:f8b0:400a:80d::200e
 
 # Google — calendar.google.com
-2607:f8b0:4001:c1d::66
-2607:f8b0:4001:c1d::71
-2607:f8b0:4001:c1d::8a
-2607:f8b0:4001:c1d::8b
+2607:f8b0:400a:808::200e
 
 # Google — campuslondon.com
 2001:4860:4802:32::1d
@@ -586,34 +493,25 @@
 2001:4860:4802:32::1b
 
 # Google — charlestonroadregistry.com
-2607:f8b0:4001:c0e::65
-2607:f8b0:4001:c0e::66
-2607:f8b0:4001:c0e::71
-2607:f8b0:4001:c0e::8b
+2607:f8b0:400a:801::200e
 
 # Google — chat.gle
 # (no public DNS addresses found)
 
 # Google — checkin.gstatic.com
-2607:f8b0:4001:c62::5e
+2607:f8b0:400a:808::2003
 
 # Google — chrome.com
 2001:4860:4802:32::1b
 
 # Google — chromebook.com
-2607:f8b0:4001:c16::64
-2607:f8b0:4001:c16::65
-2607:f8b0:4001:c16::66
-2607:f8b0:4001:c16::8a
+2607:f8b0:400a:80d::200e
 
 # Google — chromecast.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8a
+2607:f8b0:400a:803::200e
 
 # Google — chromeexperiments.com
-2607:f8b0:4001:c08::79
+2607:f8b0:400a:801::2013
 
 # Google — chromeos.dev
 # (no public DNS addresses found)
@@ -643,37 +541,22 @@
 # (no public DNS addresses found)
 
 # Google — clickserve.dartsearch.net
-2607:f8b0:4001:c56::65
-2607:f8b0:4001:c56::66
-2607:f8b0:4001:c56::71
-2607:f8b0:4001:c56::8a
+2607:f8b0:400a:800::200e
 
 # Google — clickserver.googleads.com
 # (no public DNS addresses found)
 
 # Google — clients2.google.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8a
+2607:f8b0:400a:803::200e
 
 # Google — clients4.google.com
-2607:f8b0:4001:c68::64
-2607:f8b0:4001:c68::71
-2607:f8b0:4001:c68::8a
-2607:f8b0:4001:c68::8b
+2607:f8b0:400a:803::200e
 
 # Google — clients6.google.com
-2607:f8b0:4001:c70::64
-2607:f8b0:4001:c70::65
-2607:f8b0:4001:c70::66
-2607:f8b0:4001:c70::8b
+2607:f8b0:400a:803::200e
 
 # Google — clientservices.googleapis.com
-2607:f8b0:4001:c74::64
-2607:f8b0:4001:c74::65
-2607:f8b0:4001:c74::71
-2607:f8b0:4001:c74::8b
+2607:f8b0:400a:808::200e
 
 # Google — cloudburstresearch.com
 2001:4860:4802:32::1d
@@ -682,34 +565,22 @@
 # (no public DNS addresses found)
 
 # Google — cloudproxy.app
-2607:f8b0:4001:c6e::64
-2607:f8b0:4001:c6e::65
-2607:f8b0:4001:c6e::71
-2607:f8b0:4001:c6e::8a
+2607:f8b0:400a:801::200e
 
 # Google — cloudrobotics.com
-2607:f8b0:4001:c09::66
-2607:f8b0:4001:c09::71
-2607:f8b0:4001:c09::8a
-2607:f8b0:4001:c09::8b
+2607:f8b0:400a:80c::200e
 
 # Google — cn.widevine.com
-2607:f8b0:4001:c6c::5f
+2607:f8b0:400a:800::200a
 
 # Google — cobrasearch.com
-2607:f8b0:4001:c74::68
-2607:f8b0:4001:c74::69
-2607:f8b0:4001:c74::6a
-2607:f8b0:4001:c74::93
+2607:f8b0:400a:808::2004
 
 # Google — codespot.com
-2607:f8b0:4001:c16::63
-2607:f8b0:4001:c16::67
-2607:f8b0:4001:c16::69
-2607:f8b0:4001:c16::93
+2607:f8b0:400a:803::2004
 
 # Google — connectivitycheck.gstatic.com
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:802::2003
 
 # Google — conscrypt.com
 # (no public DNS addresses found)
@@ -721,22 +592,13 @@
 2001:4860:4802:32::1d
 
 # Google — coova.com
-2607:f8b0:4001:c56::64
-2607:f8b0:4001:c56::66
-2607:f8b0:4001:c56::71
-2607:f8b0:4001:c56::8a
+2607:f8b0:400a:809::200e
 
 # Google — coova.net
-2607:f8b0:4001:c10::64
-2607:f8b0:4001:c10::65
-2607:f8b0:4001:c10::66
-2607:f8b0:4001:c10::71
+2607:f8b0:400a:80d::200e
 
 # Google — coova.org
-2607:f8b0:4001:c66::64
-2607:f8b0:4001:c66::66
-2607:f8b0:4001:c66::71
-2607:f8b0:4001:c66::8b
+2607:f8b0:400a:800::200e
 
 # Google — crashlytics.com
 # (no public DNS addresses found)
@@ -754,23 +616,17 @@
 2001:4860:4802:32::1b
 
 # Google — crr.com
-2607:f8b0:4001:c6e::64
-2607:f8b0:4001:c6e::65
-2607:f8b0:4001:c6e::71
-2607:f8b0:4001:c6e::8b
+2607:f8b0:400a:801::200e
 
 # Google — crrev.com
 2001:4860:4802:32::1d
 
 # Google — cs4hs.com
-2607:f8b0:4001:c00::64
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8a
+2607:f8b0:400a:800::200e
 
 # Google — csi.gstatic.com
-2404:6800:4000:101f::5e
-2404:6800:4000:101f::78
+2404:6800:4001:c01::5e
+2404:6800:4001:c01::78
 
 # Google — dart.dev
 # (no public DNS addresses found)
@@ -782,22 +638,16 @@
 # (no public DNS addresses found)
 
 # Google — dartsearch-cn.net
-2607:f8b0:4001:c08::6e
+2607:f8b0:400a:808::2017
 
 # Google — dartsearch.net
 # (no public DNS addresses found)
 
 # Google — data-vocabulary.org
-2607:f8b0:4001:c09::64
-2607:f8b0:4001:c09::65
-2607:f8b0:4001:c09::66
-2607:f8b0:4001:c09::8b
+2607:f8b0:400a:80d::200e
 
 # Google — dataliberation.org
-2607:f8b0:4001:c1e::64
-2607:f8b0:4001:c1e::65
-2607:f8b0:4001:c1e::71
-2607:f8b0:4001:c1e::8b
+2607:f8b0:400a:80c::200e
 
 # Google — debug.com
 2001:4860:4802:32::1d
@@ -812,10 +662,7 @@
 2001:4860:4802:38::15
 
 # Google — deja.com
-2607:f8b0:4001:c2f::63
-2607:f8b0:4001:c2f::68
-2607:f8b0:4001:c2f::69
-2607:f8b0:4001:c2f::6a
+2607:f8b0:400a:808::2004
 
 # Google — deps.dev
 # (no public DNS addresses found)
@@ -827,10 +674,10 @@
 2001:4860:4802:32::1b
 
 # Google — dg-meta.video.google.com
-2607:f8b0:4001:c0f::64
-2607:f8b0:4001:c0f::66
-2607:f8b0:4001:c0f::8a
-2607:f8b0:4001:c0f::8b
+2607:f8b0:400e:c0a::64
+2607:f8b0:400e:c0a::65
+2607:f8b0:400e:c0a::8a
+2607:f8b0:400e:c0a::8b
 
 # Google — dialogflow.com
 2607:f8b0:4003:c01::64
@@ -848,49 +695,31 @@
 2001:4860:4802:38::15
 
 # Google — dl.google.com
-2607:f8b0:4001:c08::5b
-2607:f8b0:4001:c08::5d
-2607:f8b0:4001:c08::88
-2607:f8b0:4001:c08::be
+2607:f8b0:400a:800::200e
 
 # Google — dl.l.google.com
-2607:f8b0:4001:c6e::5b
-2607:f8b0:4001:c6e::5d
-2607:f8b0:4001:c6e::88
-2607:f8b0:4001:c6e::be
+2607:f8b0:400a:80c::200e
 
 # Google — docs.google.com
-2607:f8b0:4001:c56::64
-2607:f8b0:4001:c56::65
-2607:f8b0:4001:c56::66
-2607:f8b0:4001:c56::8b
+2607:f8b0:400a:80c::200e
 
 # Google — doubleclick-cn.net
-2607:f8b0:4001:c08::6e
+2607:f8b0:400a:800::2017
 
 # Google — doubleclick.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::8b
+2607:f8b0:400a:808::200e
 
 # Google — doubleclick.net
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::8a
+2607:f8b0:400a:80c::200e
 
 # Google — download.mlcc.google.com
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:803::2003
 
 # Google — download.tensorflow.google.com
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:800::2003
 
 # Google — episodic.com
-2607:f8b0:4001:c19::65
-2607:f8b0:4001:c19::71
-2607:f8b0:4001:c19::8a
-2607:f8b0:4001:c19::8b
+2607:f8b0:400a:808::200e
 
 # Google — fastlane.ci
 2001:4860:4802:32::1d
@@ -899,22 +728,13 @@
 # (no public DNS addresses found)
 
 # Google — feedburner.com
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8a
+2607:f8b0:400a:800::200e
 
 # Google — fflick.com
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::66
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:801::200e
 
 # Google — financeleadsonline.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8a
+2607:f8b0:400a:800::200e
 
 # Google — firebaseapp.com
 2620:0:890::100
@@ -929,25 +749,19 @@
 # (no public DNS addresses found)
 
 # Google — fontfiles.googleapis.com
-2607:f8b0:4001:c08::5f
+2607:f8b0:400a:801::200a
 
 # Google — fonts.googleapis.com
-2607:f8b0:4001:c06::5f
+2607:f8b0:400a:801::200a
 
 # Google — fonts.gstatic.com
-2607:f8b0:4001:c0e::5e
+2607:f8b0:400a:808::2003
 
 # Google — foofle.com
-2607:f8b0:4001:c7d::67
-2607:f8b0:4001:c7d::68
-2607:f8b0:4001:c7d::6a
-2607:f8b0:4001:c7d::93
+2607:f8b0:400a:80c::2004
 
 # Google — froogle.com
-2607:f8b0:4001:c70::63
-2607:f8b0:4001:c70::67
-2607:f8b0:4001:c70::6a
-2607:f8b0:4001:c70::93
+2607:f8b0:400a:800::2004
 
 # Google — fuchsia.dev
 2001:4860:4802:32::1b
@@ -956,13 +770,10 @@
 # (no public DNS addresses found)
 
 # Google — g.cn
-2607:f8b0:4001:c0f::6e
+2607:f8b0:400a:80c::2017
 
 # Google — g.co
-2607:f8b0:4001:c6e::64
-2607:f8b0:4001:c6e::66
-2607:f8b0:4001:c6e::71
-2607:f8b0:4001:c6e::8a
+2607:f8b0:400a:80d::200e
 
 # Google — g.dev
 2001:4860:4802:32::1b
@@ -971,16 +782,16 @@
 2001:4860:4802:32::1b
 
 # Google — g0.gstatic.com
-2607:f8b0:4001:c2f::5e
+2607:f8b0:400a:809::2003
 
 # Google — g1.gstatic.com
-2607:f8b0:4001:c16::5e
+2607:f8b0:400a:808::2003
 
 # Google — g2.gstatic.com
-2607:f8b0:4001:c09::5e
+2607:f8b0:400a:80c::2003
 
 # Google — g3.gstatic.com
-2607:f8b0:4001:c56::5e
+2607:f8b0:400a:801::2003
 
 # Google — gateway.dev
 # (no public DNS addresses found)
@@ -989,7 +800,7 @@
 # (no public DNS addresses found)
 
 # Google — gcr.io
-2607:f8b0:4001:c66::52
+2607:f8b0:400e:c0a::52
 
 # Google — gerritcodereview.com
 2001:4860:4802:32::1d
@@ -1007,10 +818,7 @@
 2001:4860:4802:32::1b
 
 # Google — getbumptop.com
-2607:f8b0:4001:c62::65
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::71
-2607:f8b0:4001:c62::8a
+2607:f8b0:400a:808::200e
 
 # Google — getmdl.io
 2001:4860:4802:32::15
@@ -1023,43 +831,31 @@
 2606:4700:3037::6815:5d4
 
 # Google — ggoogle.com
-2607:f8b0:4001:c66::67
-2607:f8b0:4001:c66::68
-2607:f8b0:4001:c66::6a
-2607:f8b0:4001:c66::93
+2607:f8b0:400a:802::2004
 
 # Google — gipscorp.com
-2607:f8b0:4001:c09::65
-2607:f8b0:4001:c09::66
-2607:f8b0:4001:c09::71
-2607:f8b0:4001:c09::8b
+2607:f8b0:400a:808::200e
 
 # Google — gkecnapps.cn
-2607:f8b0:4001:c76::6e
+2607:f8b0:400a:803::2017
 
 # Google — globaledu.org
 2001:4860:4802:32::1d
 
 # Google — gmail.com
-2607:f8b0:4001:c6a::11
-2607:f8b0:4001:c6a::12
-2607:f8b0:4001:c6a::13
-2607:f8b0:4001:c6a::53
+2607:f8b0:400a:809::2005
 
 # Google — gmodules.com
-2607:f8b0:4001:c0e::67
-2607:f8b0:4001:c0e::68
-2607:f8b0:4001:c0e::69
-2607:f8b0:4001:c0e::6a
+2607:f8b0:400a:80d::2004
 
 # Google — go-lang.com
-2607:f8b0:4001:c05::8d
+2607:f8b0:400a:808::2011
 
 # Google — go-lang.net
-2607:f8b0:4001:c70::8d
+2607:f8b0:400a:809::2011
 
 # Google — go-lang.org
-2607:f8b0:4001:c79::8d
+2607:f8b0:400a:800::2011
 
 # Google — go.dev
 2001:4860:4802:32::15
@@ -1071,778 +867,634 @@
 # (no public DNS addresses found)
 
 # Google — gogle.com
-2607:f8b0:4001:c64::63
-2607:f8b0:4001:c64::67
-2607:f8b0:4001:c64::68
-2607:f8b0:4001:c64::93
+2607:f8b0:400a:80d::2004
 
 # Google — gogole.com
-2607:f8b0:4001:c7d::68
-2607:f8b0:4001:c7d::69
-2607:f8b0:4001:c7d::6a
-2607:f8b0:4001:c7d::93
+2607:f8b0:400a:803::2004
 
 # Google — golang.com
-2607:f8b0:4001:c66::8d
+2607:f8b0:400a:809::2011
 
 # Google — golang.net
-2607:f8b0:4001:c62::8d
+2607:f8b0:400a:803::2011
 
 # Google — golang.org
-2607:f8b0:4001:c62::8d
+2607:f8b0:400a:801::2011
 
 # Google — gonglchuangl.net
-2607:f8b0:4001:c62::6e
+2607:f8b0:400a:80c::2017
 
 # Google — gongyichuangyi.net
-2607:f8b0:4001:c08::6e
+2607:f8b0:400a:80c::2017
 
 # Google — goo.gl
-2607:f8b0:4001:c19::65
-2607:f8b0:4001:c19::71
-2607:f8b0:4001:c19::8a
-2607:f8b0:4001:c19::8b
+2607:f8b0:400a:802::200e
 
 # Google — googel.com
-2607:f8b0:4001:c1e::67
-2607:f8b0:4001:c1e::69
-2607:f8b0:4001:c1e::6a
-2607:f8b0:4001:c1e::93
+2607:f8b0:400a:80d::2004
 
 # Google — googil.com
-2607:f8b0:4001:c72::63
-2607:f8b0:4001:c72::67
-2607:f8b0:4001:c72::68
-2607:f8b0:4001:c72::6a
+2607:f8b0:400a:809::2004
 
 # Google — googl.com
-2607:f8b0:4001:c72::63
-2607:f8b0:4001:c72::67
-2607:f8b0:4001:c72::69
-2607:f8b0:4001:c72::6a
+2607:f8b0:400a:808::2004
 
 # Google — google-analytics-cn.com
-2607:f8b0:4001:c76::6e
+2607:f8b0:400a:802::2017
 
 # Google — google-analytics.com
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::69
-2607:f8b0:4001:c08::6a
-2607:f8b0:4001:c08::93
+2607:f8b0:400a:80c::2004
 
 # Google — google-ohttp-relay-safebrowsing.fastly-edge.com
-2a04:4e42:8a::347
+2a04:4e42:5::347
 
 # Google — google-syndication.com
 # (no public DNS addresses found)
 
 # Google — google.ad
-2607:f8b0:4001:c64::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.ae
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.al
-2607:f8b0:4001:c19::67
-2607:f8b0:4001:c19::68
-2607:f8b0:4001:c19::6a
-2607:f8b0:4001:c19::93
+2607:f8b0:400a:809::2004
 
 # Google — google.am
-2607:f8b0:4001:c10::63
-2607:f8b0:4001:c10::69
-2607:f8b0:4001:c10::6a
-2607:f8b0:4001:c10::93
+2607:f8b0:400a:802::2004
 
 # Google — google.as
-2607:f8b0:4001:c56::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.at
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.az
-2607:f8b0:4001:c08::63
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::69
-2607:f8b0:4001:c08::6a
+2607:f8b0:400a:801::2004
 
 # Google — google.ba
-2607:f8b0:4001:c08::63
-2607:f8b0:4001:c08::67
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::93
+2607:f8b0:400a:801::2004
 
 # Google — google.be
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.berlin
 2001:4860:4802:32::1d
 
 # Google — google.bf
-2607:f8b0:4001:c6e::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.bg
-2607:f8b0:4001:c10::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.bi
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.bj
-2607:f8b0:4001:c66::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.bs
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.bt
-2607:f8b0:4001:c6e::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.by
-2607:f8b0:4001:c66::63
-2607:f8b0:4001:c66::69
-2607:f8b0:4001:c66::6a
-2607:f8b0:4001:c66::93
+2607:f8b0:400a:80d::2004
 
 # Google — google.ca
-2607:f8b0:4001:c1e::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.cat
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.cd
-2607:f8b0:4001:c16::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.cf
-2607:f8b0:4001:c1d::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.cg
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.ch
-2607:f8b0:4001:c16::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.ci
-2607:f8b0:4001:c7d::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.cl
-2607:f8b0:4001:c62::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.cm
-2607:f8b0:4001:c7b::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.cn
-2607:f8b0:4001:c05::6e
+2607:f8b0:400a:803::2017
 
 # Google — google.co.ao
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.co.bw
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.co.ck
-2607:f8b0:4001:c05::63
-2607:f8b0:4001:c05::69
-2607:f8b0:4001:c05::6a
-2607:f8b0:4001:c05::93
+2607:f8b0:400a:803::2004
 
 # Google — google.co.cr
-2607:f8b0:4001:c76::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.co.id
-2607:f8b0:4001:c6e::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.co.il
-2607:f8b0:4001:c01::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.co.in
-2607:f8b0:4001:c66::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.co.jp
-2607:f8b0:4001:c6e::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.co.ke
-2607:f8b0:4001:c56::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.co.kr
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.co.ls
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.co.ma
-2607:f8b0:4001:c7d::68
-2607:f8b0:4001:c7d::69
-2607:f8b0:4001:c7d::6a
-2607:f8b0:4001:c7d::93
+2607:f8b0:400a:801::2004
 
 # Google — google.co.mz
-2607:f8b0:4001:c09::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.co.nz
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.co.th
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.co.tz
-2607:f8b0:4001:c74::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.co.ug
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.co.uk
-2607:f8b0:4001:c76::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.co.uz
-2607:f8b0:4001:c1e::63
-2607:f8b0:4001:c1e::68
-2607:f8b0:4001:c1e::69
-2607:f8b0:4001:c1e::93
+2607:f8b0:400a:80d::2004
 
 # Google — google.co.ve
-2607:f8b0:4001:c74::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.co.vi
-2607:f8b0:4001:c66::63
-2607:f8b0:4001:c66::67
-2607:f8b0:4001:c66::69
-2607:f8b0:4001:c66::93
+2607:f8b0:400a:809::2004
 
 # Google — google.co.za
-2607:f8b0:4001:c66::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.co.zm
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.co.zw
-2607:f8b0:4001:c2f::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8a
-2607:f8b0:4001:c08::8b
+2607:f8b0:400a:802::200e
 
 # Google — google.com.af
-2607:f8b0:4001:c6a::63
-2607:f8b0:4001:c6a::67
-2607:f8b0:4001:c6a::6a
-2607:f8b0:4001:c6a::93
+2607:f8b0:400a:802::2004
 
 # Google — google.com.ag
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.com.ai
-2607:f8b0:4001:c62::67
-2607:f8b0:4001:c62::68
-2607:f8b0:4001:c62::69
-2607:f8b0:4001:c62::6a
+2607:f8b0:400a:802::2004
 
 # Google — google.com.ar
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.com.au
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.com.bd
-2607:f8b0:4001:c76::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.com.bh
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.bn
-2607:f8b0:4001:c6a::63
-2607:f8b0:4001:c6a::68
-2607:f8b0:4001:c6a::69
-2607:f8b0:4001:c6a::93
+2607:f8b0:400a:801::2004
 
 # Google — google.com.bo
-2607:f8b0:4001:c09::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.com.br
-2607:f8b0:4001:c16::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.com.bz
-2607:f8b0:4001:c64::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.com.co
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.com.cu
-2607:f8b0:4001:c10::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.cy
-2607:f8b0:4001:c66::67
-2607:f8b0:4001:c66::68
-2607:f8b0:4001:c66::69
-2607:f8b0:4001:c66::6a
+2607:f8b0:400a:808::2004
 
 # Google — google.com.do
-2607:f8b0:4001:c0f::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.com.ec
-2607:f8b0:4001:c66::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.eg
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.com.et
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.com.fj
-2607:f8b0:4001:c7b::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.com.gh
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.com.gi
-2607:f8b0:4001:c64::63
-2607:f8b0:4001:c64::68
-2607:f8b0:4001:c64::69
-2607:f8b0:4001:c64::93
+2607:f8b0:400a:800::2004
 
 # Google — google.com.gt
-2607:f8b0:4001:c56::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.hk
-2607:f8b0:4001:c64::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.jm
-2607:f8b0:4001:c64::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.com.kh
-2607:f8b0:4001:c01::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.com.kw
-2607:f8b0:4001:c62::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.com.lb
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.com.ly
-2607:f8b0:4001:c2f::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.com.mm
-2607:f8b0:4001:c68::63
-2607:f8b0:4001:c68::67
-2607:f8b0:4001:c68::6a
-2607:f8b0:4001:c68::93
+2607:f8b0:400a:80c::2004
 
 # Google — google.com.mt
-2607:f8b0:4001:c7b::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.com.mx
-2607:f8b0:4001:c0f::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.com.my
-2607:f8b0:4001:c72::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.com.na
-2607:f8b0:4001:c6e::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.com.ng
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.ni
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.com.np
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.com.om
-2607:f8b0:4001:c1d::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.com.pa
-2607:f8b0:4001:c6e::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.pe
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.com.pg
-2607:f8b0:4001:c66::63
-2607:f8b0:4001:c66::67
-2607:f8b0:4001:c66::69
-2607:f8b0:4001:c66::93
+2607:f8b0:400a:808::2004
 
 # Google — google.com.ph
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.com.pk
-2607:f8b0:4001:c66::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.com.pr
-2607:f8b0:4001:c0e::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.com.py
-2607:f8b0:4001:c72::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.com.qa
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.sa
-2607:f8b0:4001:c1e::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.com.sb
-2607:f8b0:4001:c06::63
-2607:f8b0:4001:c06::67
-2607:f8b0:4001:c06::68
-2607:f8b0:4001:c06::93
+2607:f8b0:400a:803::2004
 
 # Google — google.com.sg
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.com.sl
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.com.sv
-2607:f8b0:4001:c19::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.com.tj
-2607:f8b0:4001:c08::63
-2607:f8b0:4001:c08::67
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::93
+2607:f8b0:400a:80c::2004
 
 # Google — google.com.tr
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.com.tw
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.com.ua
-2607:f8b0:4001:c62::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.com.uy
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.com.vc
-2607:f8b0:4001:c16::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.com.vn
-2607:f8b0:4001:c74::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.cv
-2607:f8b0:4001:c09::67
-2607:f8b0:4001:c09::69
-2607:f8b0:4001:c09::6a
-2607:f8b0:4001:c09::93
+2607:f8b0:400a:803::2004
 
 # Google — google.cz
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.de
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.dev
 2001:4860:4802:32::1b
 
 # Google — google.dj
-2607:f8b0:4001:c74::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.dk
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.dm
-2607:f8b0:4001:c64::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.dz
-2607:f8b0:4001:c6c::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.ee
-2607:f8b0:4001:c09::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.es
-2607:f8b0:4001:c0f::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.fi
-2607:f8b0:4001:c1e::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.fm
-2607:f8b0:4001:c72::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.fr
-2607:f8b0:4001:c62::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.ga
-2607:f8b0:4001:c0e::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.ge
-2607:f8b0:4001:c08::63
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::69
-2607:f8b0:4001:c08::6a
+2607:f8b0:400a:802::2004
 
 # Google — google.gg
-2607:f8b0:4001:c16::63
-2607:f8b0:4001:c16::67
-2607:f8b0:4001:c16::69
-2607:f8b0:4001:c16::6a
+2607:f8b0:400a:800::2004
 
 # Google — google.gl
-2607:f8b0:4001:c62::67
-2607:f8b0:4001:c62::69
-2607:f8b0:4001:c62::6a
-2607:f8b0:4001:c62::93
+2607:f8b0:400a:80d::2004
 
 # Google — google.gm
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.gr
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.gy
-2607:f8b0:4001:c1d::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.hn
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.hr
-2607:f8b0:4001:c01::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.ht
-2607:f8b0:4001:c10::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.hu
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.ie
-2607:f8b0:4001:c19::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.im
-2607:f8b0:4001:c06::67
-2607:f8b0:4001:c06::69
-2607:f8b0:4001:c06::6a
-2607:f8b0:4001:c06::93
+2607:f8b0:400a:80c::2004
 
 # Google — google.iq
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.is
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.it
-2607:f8b0:4001:c2f::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.je
-2607:f8b0:4001:c56::63
-2607:f8b0:4001:c56::67
-2607:f8b0:4001:c56::69
-2607:f8b0:4001:c56::6a
+2607:f8b0:400a:809::2004
 
 # Google — google.jo
-2607:f8b0:4001:c62::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.kg
-2607:f8b0:4001:c6e::63
-2607:f8b0:4001:c6e::68
-2607:f8b0:4001:c6e::6a
-2607:f8b0:4001:c6e::93
+2607:f8b0:400a:801::2004
 
 # Google — google.ki
-2607:f8b0:4001:c1d::63
-2607:f8b0:4001:c1d::68
-2607:f8b0:4001:c1d::6a
-2607:f8b0:4001:c1d::93
+2607:f8b0:400a:80d::2004
 
 # Google — google.kz
-2607:f8b0:4001:c70::63
-2607:f8b0:4001:c70::68
-2607:f8b0:4001:c70::69
-2607:f8b0:4001:c70::93
+2607:f8b0:400a:80c::2004
 
 # Google — google.la
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.li
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.lk
-2607:f8b0:4001:c16::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.lt
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.lu
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.lv
-2607:f8b0:4001:c16::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.md
-2607:f8b0:4001:c2f::63
-2607:f8b0:4001:c2f::67
-2607:f8b0:4001:c2f::68
-2607:f8b0:4001:c2f::93
+2607:f8b0:400a:800::2004
 
 # Google — google.me
-2607:f8b0:4001:c16::63
-2607:f8b0:4001:c16::68
-2607:f8b0:4001:c16::69
-2607:f8b0:4001:c16::6a
+2607:f8b0:400a:801::2004
 
 # Google — google.mg
-2607:f8b0:4001:c0e::5e
+2607:f8b0:400a:800::2003
 
 # Google — google.mk
-2607:f8b0:4001:c74::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.ml
-2607:f8b0:4001:c79::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.mn
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.ms
-2607:f8b0:4001:c6a::63
-2607:f8b0:4001:c6a::67
-2607:f8b0:4001:c6a::69
-2607:f8b0:4001:c6a::93
+2607:f8b0:400a:800::2004
 
 # Google — google.mu
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.mv
-2607:f8b0:4001:c09::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.mw
-2607:f8b0:4001:c76::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.ne
-2a00:1450:400c:c02::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.net
-2607:f8b0:4001:c6a::67
-2607:f8b0:4001:c6a::68
-2607:f8b0:4001:c6a::69
-2607:f8b0:4001:c6a::6a
+2607:f8b0:400a:801::2004
 
 # Google — google.nl
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.no
-2607:f8b0:4001:c6c::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.nr
-2607:f8b0:4001:c00::63
-2607:f8b0:4001:c00::67
-2607:f8b0:4001:c00::68
-2607:f8b0:4001:c00::6a
+2607:f8b0:400a:803::2004
 
 # Google — google.nu
-2607:f8b0:4001:c68::63
-2607:f8b0:4001:c68::67
-2607:f8b0:4001:c68::68
-2607:f8b0:4001:c68::6a
+2607:f8b0:400a:801::2004
 
 # Google — google.org
 2001:4860:4802:32::1b
 
 # Google — google.pl
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.pn
-2607:f8b0:4001:c6e::63
-2607:f8b0:4001:c6e::68
-2607:f8b0:4001:c6e::69
-2607:f8b0:4001:c6e::93
+2607:f8b0:400a:801::2004
 
 # Google — google.ps
-2607:f8b0:4001:c10::63
-2607:f8b0:4001:c10::67
-2607:f8b0:4001:c10::68
-2607:f8b0:4001:c10::69
+2607:f8b0:400a:80c::2004
 
 # Google — google.pt
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.ro
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.rs
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.ru
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.rw
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.sc
-2607:f8b0:4001:c74::5e
+2607:f8b0:400a:809::2003
 
 # Google — google.se
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.sh
-2607:f8b0:4001:c06::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.si
-2607:f8b0:4001:c7d::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.sk
-2607:f8b0:4001:c66::5e
+2607:f8b0:400a:80c::2003
 
 # Google — google.sm
-2607:f8b0:4001:c56::63
-2607:f8b0:4001:c56::67
-2607:f8b0:4001:c56::69
-2607:f8b0:4001:c56::93
+2607:f8b0:400a:809::2004
 
 # Google — google.sn
-2607:f8b0:4001:c19::5e
+2607:f8b0:400a:802::2003
 
 # Google — google.so
-2607:f8b0:4001:c19::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.sr
-2607:f8b0:4001:c10::68
-2607:f8b0:4001:c10::69
-2607:f8b0:4001:c10::6a
-2607:f8b0:4001:c10::93
+2607:f8b0:400a:802::2004
 
 # Google — google.st
-2607:f8b0:4001:c16::5e
+2607:f8b0:400a:801::2003
 
 # Google — google.td
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.tg
-2607:f8b0:4001:c70::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.tl
-2607:f8b0:4001:c0e::67
-2607:f8b0:4001:c0e::68
-2607:f8b0:4001:c0e::69
-2607:f8b0:4001:c0e::6a
+2607:f8b0:400a:809::2004
 
 # Google — google.tm
-2607:f8b0:4001:c08::63
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::6a
-2607:f8b0:4001:c08::93
+2607:f8b0:400a:803::2004
 
 # Google — google.tn
-2607:f8b0:4001:c19::5e
+2607:f8b0:400a:80d::2003
 
 # Google — google.to
-2607:f8b0:4001:c00::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.tt
-2607:f8b0:4001:c08::5e
+2607:f8b0:400a:808::2003
 
 # Google — google.ventures
 2001:4860:4802:32::1d
 
 # Google — google.vg
-2607:f8b0:4001:c76::63
-2607:f8b0:4001:c76::67
-2607:f8b0:4001:c76::68
-2607:f8b0:4001:c76::93
+2607:f8b0:400a:800::2004
 
 # Google — google.vu
-2607:f8b0:4001:c72::5e
+2607:f8b0:400a:803::2003
 
 # Google — google.ws
-2607:f8b0:4001:c6a::5e
+2607:f8b0:400a:80d::2003
 
 # Google — googleacquisitionmigration.com
 # (no public DNS addresses found)
@@ -1851,46 +1503,37 @@
 # (no public DNS addresses found)
 
 # Google — googleadservices-cn.com
-2607:f8b0:4001:c72::6e
+2607:f8b0:400a:802::2017
 
 # Google — googleadservices.com
 # (no public DNS addresses found)
 
 # Google — googleanalytics.com
-2607:f8b0:4001:c6a::67
-2607:f8b0:4001:c6a::68
-2607:f8b0:4001:c6a::69
-2607:f8b0:4001:c6a::6a
+2607:f8b0:400a:801::2004
 
 # Google — googleapis-cn.com
-2607:f8b0:4001:c62::6e
+2607:f8b0:400a:801::2017
 
 # Google — googleapis.cn
 # (no public DNS addresses found)
 
 # Google — googleapis.com
-2607:f8b0:4001:c08::67
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::69
-2607:f8b0:4001:c08::93
+2607:f8b0:400a:80d::2004
 
 # Google — googleapps-cn.com
-2607:f8b0:4001:c19::6e
+2607:f8b0:400a:803::2017
 
 # Google — googleapps.com
-2607:f8b0:4001:c08::76
+2607:f8b0:400a:808::200e
 
 # Google — googlearth.com
 # (no public DNS addresses found)
 
 # Google — googleblog.com
-2607:f8b0:4001:c62::84
+2607:f8b0:400a:80c::2001
 
 # Google — googlebot.com
-2607:f8b0:4001:c70::67
-2607:f8b0:4001:c70::68
-2607:f8b0:4001:c70::69
-2607:f8b0:4001:c70::93
+2607:f8b0:400a:808::2004
 
 # Google — googlecapital.com
 2001:4860:4802:32::15
@@ -1902,196 +1545,127 @@
 2001:4860:4802:32::1d
 
 # Google — googlecnapps.cn
-2607:f8b0:4001:c62::6e
+2607:f8b0:400a:80c::2017
 
 # Google — googlecode.com
-2607:f8b0:4001:c05::63
-2607:f8b0:4001:c05::67
-2607:f8b0:4001:c05::68
-2607:f8b0:4001:c05::93
+2607:f8b0:400a:80c::2004
 
 # Google — googlecommerce.com
-2607:f8b0:4001:c70::64
-2607:f8b0:4001:c70::66
-2607:f8b0:4001:c70::71
-2607:f8b0:4001:c70::8b
+2607:f8b0:400a:803::200e
 
 # Google — googlecompare.co.uk
 2001:4860:4802:32::1b
 
 # Google — googledanmark.com
-2607:f8b0:4001:c7d::64
-2607:f8b0:4001:c7d::65
-2607:f8b0:4001:c7d::66
-2607:f8b0:4001:c7d::71
+2607:f8b0:400a:808::200e
 
 # Google — googledomains.com
 2001:4860:4802:32::1d
 
 # Google — googledrive.com
-2607:f8b0:4001:c66::84
+2607:f8b0:400a:800::2001
 
 # Google — googlee.com
-2607:f8b0:4001:c6e::67
-2607:f8b0:4001:c6e::68
-2607:f8b0:4001:c6e::69
-2607:f8b0:4001:c6e::93
+2607:f8b0:400a:80c::2004
 
 # Google — googleearth.com
-2607:f8b0:4001:c6c::63
-2607:f8b0:4001:c6c::68
-2607:f8b0:4001:c6c::6a
-2607:f8b0:4001:c6c::93
+2607:f8b0:400a:802::2004
 
 # Google — googlefiber.com
-2607:f8b0:4001:c70::63
-2607:f8b0:4001:c70::68
-2607:f8b0:4001:c70::69
-2607:f8b0:4001:c70::6a
+2607:f8b0:400a:800::2004
 
 # Google — googlefiber.net
-2607:f8b0:4001:c05::63
-2607:f8b0:4001:c05::68
-2607:f8b0:4001:c05::69
-2607:f8b0:4001:c05::93
+2607:f8b0:400a:80c::2004
 
 # Google — googlefinland.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::8a
+2607:f8b0:400a:803::200e
 
 # Google — googleflights-cn.net
-2607:f8b0:4001:c74::6e
+2607:f8b0:400a:801::2017
 
 # Google — googlemail.com
-2607:f8b0:4001:c19::11
-2607:f8b0:4001:c19::12
-2607:f8b0:4001:c19::13
-2607:f8b0:4001:c19::53
+2607:f8b0:400a:809::2005
 
 # Google — googlemaps.com
-2607:f8b0:4001:c62::63
-2607:f8b0:4001:c62::67
-2607:f8b0:4001:c62::6a
-2607:f8b0:4001:c62::93
+2607:f8b0:400a:80c::2004
 
 # Google — googlemashups.com
-2607:f8b0:4001:c05::63
-2607:f8b0:4001:c05::67
-2607:f8b0:4001:c05::69
-2607:f8b0:4001:c05::6a
+2607:f8b0:400a:80c::2004
 
 # Google — googleoptimize-cn.com
-2607:f8b0:4001:c00::6e
+2607:f8b0:400a:800::2017
 
 # Google — googleoptimize.com
-2607:f8b0:4001:c01::64
-2607:f8b0:4001:c01::66
-2607:f8b0:4001:c01::71
-2607:f8b0:4001:c01::8b
+2607:f8b0:400a:800::200e
 
 # Google — googlepagecreator.com
-2607:f8b0:4001:c7d::79
+2607:f8b0:400a:801::2013
 
 # Google — googlephotos.com
-2607:f8b0:4001:c62::65
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::8a
-2607:f8b0:4001:c62::8b
+2607:f8b0:400a:80c::200e
 
 # Google — googleplay.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::71
+2607:f8b0:400a:801::200e
 
 # Google — googleplus.com
-2607:f8b0:4001:c05::64
-2607:f8b0:4001:c05::66
-2607:f8b0:4001:c05::71
-2607:f8b0:4001:c05::8b
+2607:f8b0:400a:808::200e
 
 # Google — googlescholar.com
-2607:f8b0:4001:c56::63
-2607:f8b0:4001:c56::68
-2607:f8b0:4001:c56::69
-2607:f8b0:4001:c56::6a
+2607:f8b0:400a:802::2004
 
 # Google — googlesource.com
-2607:f8b0:4001:c00::52
+2607:f8b0:400e:c20::52
 
 # Google — googlestore.com
-2607:f8b0:4001:c56::65
-2607:f8b0:4001:c56::71
-2607:f8b0:4001:c56::8a
-2607:f8b0:4001:c56::8b
+2607:f8b0:400a:802::200e
 
 # Google — googlesverige.com
-2607:f8b0:4001:c2f::64
-2607:f8b0:4001:c2f::71
-2607:f8b0:4001:c2f::8a
-2607:f8b0:4001:c2f::8b
+2607:f8b0:400a:80c::200e
 
 # Google — googlesyndication-cn.com
-2607:f8b0:4001:c74::6e
+2607:f8b0:400a:809::2017
 
 # Google — googlesyndication.com
-2607:f8b0:4001:c01::63
-2607:f8b0:4001:c01::68
-2607:f8b0:4001:c01::6a
-2607:f8b0:4001:c01::93
+2607:f8b0:400a:803::2004
 
 # Google — googletagmanager-cn.com
-2607:f8b0:4001:c09::6e
+2607:f8b0:400a:801::2017
 
 # Google — googletagmanager.com
-2607:f8b0:4001:c56::61
+2607:f8b0:400a:80d::2008
 
 # Google — googletagservices-cn.com
-2607:f8b0:4001:c64::6e
+2607:f8b0:400a:802::2017
 
 # Google — googletagservices.com
 # (no public DNS addresses found)
 
 # Google — googletraveladservices-cn.com
-2607:f8b0:4001:c70::6e
+2607:f8b0:400a:80d::2017
 
 # Google — googletraveladservices.com
-2607:f8b0:4001:c00::5f
+2607:f8b0:400a:80c::200a
 
 # Google — googleusercontent.com
-2607:f8b0:4001:c00::84
+2607:f8b0:400a:809::2001
 
 # Google — googlevads-cn.com
-2607:f8b0:4001:c16::6e
+2607:f8b0:400a:803::2017
 
 # Google — googleventures.com
 # (no public DNS addresses found)
 
 # Google — googlevideo.com
-2607:f8b0:4001:c09::63
-2607:f8b0:4001:c09::67
-2607:f8b0:4001:c09::68
-2607:f8b0:4001:c09::69
+2607:f8b0:400a:800::2004
 
 # Google — googlr.com
-2607:f8b0:4001:c09::63
-2607:f8b0:4001:c09::67
-2607:f8b0:4001:c09::68
-2607:f8b0:4001:c09::6a
+2607:f8b0:400a:80d::2004
 
 # Google — goolge.com
-2607:f8b0:4001:c08::67
-2607:f8b0:4001:c08::68
-2607:f8b0:4001:c08::69
-2607:f8b0:4001:c08::93
+2607:f8b0:400a:80d::2004
 
 # Google — gooogle.com
-2607:f8b0:4001:c16::63
-2607:f8b0:4001:c16::68
-2607:f8b0:4001:c16::69
-2607:f8b0:4001:c16::6a
+2607:f8b0:400a:800::2004
 
 # Google — gridaware.app
 2001:4860:4802:32::1b
@@ -2100,26 +1674,25 @@
 2001:4860:4802:32::1d
 
 # Google — gstatic-cn.com
-2607:f8b0:4001:c56::6e
+2607:f8b0:400a:809::2017
 
 # Google — gstatic.cn
-2607:f8b0:4001:c62::6e
+2607:f8b0:400a:803::2017
 
 # Google — gstatic.com
-2607:f8b0:4001:c00::5e
-2607:f8b0:4001:c00::78
+2607:f8b0:400a:801::2003
 
 # Google — gstaticadssl.l.google.com
-2607:f8b0:4001:c01::5e
+2607:f8b0:400a:801::2003
 
 # Google — gstaticcnapps.cn
-2607:f8b0:4001:c70::6e
+2607:f8b0:400a:802::2017
 
 # Google — gsuite.com
 2001:4860:4802:32::1d
 
 # Google — gtm.oasisfeng.com
-2607:f8b0:4001:c05::61
+2607:f8b0:400a:801::2008
 
 # Google — gv.com
 # (no public DNS addresses found)
@@ -2128,10 +1701,10 @@
 # (no public DNS addresses found)
 
 # Google — gvt1-cn.com
-2607:f8b0:4001:c70::6e
+2607:f8b0:400a:801::2017
 
 # Google — gvt2-cn.com
-2607:f8b0:4001:c62::6e
+2607:f8b0:400a:801::2017
 
 # Google — gvt3.com
 # (no public DNS addresses found)
@@ -2161,43 +1734,28 @@
 2001:4860:4802:32::1d
 
 # Google — howtogetmo.co.uk
-2607:f8b0:4001:c0f::65
-2607:f8b0:4001:c0f::66
-2607:f8b0:4001:c0f::71
-2607:f8b0:4001:c0f::8b
+2607:f8b0:400a:808::200e
 
 # Google — html5rocks.com
-2607:f8b0:4001:c70::79
+2607:f8b0:400a:808::2013
 
 # Google — hwgo.com
-2607:f8b0:4001:c16::66
-2607:f8b0:4001:c16::71
-2607:f8b0:4001:c16::8a
-2607:f8b0:4001:c16::8b
+2607:f8b0:400a:808::200e
 
 # Google — iam.soy
 2001:4860:4802:32::1b
 
 # Google — iamremarkable.org
-2607:f8b0:4001:c7d::64
-2607:f8b0:4001:c7d::66
-2607:f8b0:4001:c7d::71
-2607:f8b0:4001:c7d::8b
+2607:f8b0:400a:80d::200e
 
 # Google — igoogle.com
-2607:f8b0:4001:c19::63
-2607:f8b0:4001:c19::67
-2607:f8b0:4001:c19::69
-2607:f8b0:4001:c19::93
+2607:f8b0:400a:800::2004
 
 # Google — imasdk.googleapis.com
-2607:f8b0:4001:c70::5f
+2607:f8b0:400a:803::200a
 
 # Google — impermium.com
-2607:f8b0:4001:c6a::65
-2607:f8b0:4001:c6a::71
-2607:f8b0:4001:c6a::8a
-2607:f8b0:4001:c6a::8b
+2607:f8b0:400a:801::200e
 
 # Google — itasoftware.com
 2001:4860:4802:32::1d
@@ -2215,14 +1773,7 @@
 # (no public DNS addresses found)
 
 # Google — keep.google.com
-2001:4860:4826:b000::
-2001:4860:4827:b000::
-2001:4860:4828:b000::
-2001:4860:4829:b000::
-2001:4860:482a:b000::
-2001:4860:482b:b000::
-2001:4860:482c:b000::
-2001:4860:482d:b000::
+2607:f8b0:400a:809::200e
 
 # Google — keyhole.com
 # (no public DNS addresses found)
@@ -2240,7 +1791,7 @@
 2001:4860:4802:32::1b
 
 # Google — lh3.googleusercontent.com
-2607:f8b0:4001:c1e::84
+2607:f8b0:400a:800::2001
 
 # Google — like.com
 # (no public DNS addresses found)
@@ -2252,10 +1803,7 @@
 2001:4860:4802:38::15
 
 # Google — mail.google.com
-2607:f8b0:4001:c00::11
-2607:f8b0:4001:c00::12
-2607:f8b0:4001:c00::13
-2607:f8b0:4001:c00::53
+2607:f8b0:400a:80d::2005
 
 # Google — material.io
 2001:4860:4802:32::15
@@ -2280,7 +1828,7 @@
 2001:4860:4802:32::1d
 
 # Google — meetings.clients6.google.com
-2607:f8b0:4001:c62::5f
+2607:f8b0:400a:808::200a
 
 # Google — meetings.googleapis.com
 2001:4860:4840:400::
@@ -2293,16 +1841,10 @@
 2001:4860:4847:400::
 
 # Google — mfg-inspector.com
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::66
-2607:f8b0:4001:c00::8a
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:800::200e
 
 # Google — mobileview.page
-2607:f8b0:4001:c00::64
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:800::200e
 
 # Google — moodstocks.com
 # (no public DNS addresses found)
@@ -2320,10 +1862,7 @@
 2001:4860:4802:32::1d
 
 # Google — notebook.google.com
-2607:f8b0:4001:c10::64
-2607:f8b0:4001:c10::65
-2607:f8b0:4001:c10::8a
-2607:f8b0:4001:c10::8b
+2607:f8b0:400a:801::200e
 
 # Google — oasisfeng.com
 # (no public DNS addresses found)
@@ -2332,10 +1871,7 @@
 2001:4860:4802:32::1b
 
 # Google — ogs.google.com
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::66
-2607:f8b0:4001:c00::8a
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:801::200e
 
 # Google — ok.gle
 2001:4860:4802:32::1b
@@ -2344,10 +1880,7 @@
 2001:4860:4802:32::1b
 
 # Google — on2.com
-2607:f8b0:4001:c1d::64
-2607:f8b0:4001:c1d::66
-2607:f8b0:4001:c1d::71
-2607:f8b0:4001:c1d::8b
+2607:f8b0:400a:801::200e
 
 # Google — onefifteen.net
 # (no public DNS addresses found)
@@ -2356,10 +1889,7 @@
 # (no public DNS addresses found)
 
 # Google — oneworldmanystories.com
-2607:f8b0:4001:c64::64
-2607:f8b0:4001:c64::65
-2607:f8b0:4001:c64::66
-2607:f8b0:4001:c64::8a
+2607:f8b0:400a:800::200e
 
 # Google — opensourceinsight.dev
 # (no public DNS addresses found)
@@ -2377,79 +1907,46 @@
 # (no public DNS addresses found)
 
 # Google — page.link
-2607:f8b0:4001:c74::84
+2607:f8b0:400a:808::2001
 
 # Google — pagead-googlehosted.l.google.com
-2607:f8b0:4001:c19::84
+2607:f8b0:400a:808::2001
 
 # Google — pagespeedmobilizer.com
 2001:4860:4802:32::1b
 
 # Google — pageview.mobi
-2607:f8b0:4001:c62::64
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::8a
-2607:f8b0:4001:c62::8b
+2607:f8b0:400a:800::200e
 
 # Google — panoramio.com
-2607:f8b0:4001:c10::64
-2607:f8b0:4001:c10::66
-2607:f8b0:4001:c10::71
-2607:f8b0:4001:c10::8b
+2607:f8b0:400a:800::200e
 
 # Google — partylikeits1986.org
-2607:f8b0:4001:c70::64
-2607:f8b0:4001:c70::65
-2607:f8b0:4001:c70::66
-2607:f8b0:4001:c70::71
+2607:f8b0:400a:801::200e
 
 # Google — paxlicense.org
-2607:f8b0:4001:c66::64
-2607:f8b0:4001:c66::65
-2607:f8b0:4001:c66::71
-2607:f8b0:4001:c66::8a
+2607:f8b0:400a:801::200e
 
 # Google — performanceparameters.googleapis.com
-2607:f8b0:4001:c79::64
-2607:f8b0:4001:c79::65
-2607:f8b0:4001:c79::66
-2607:f8b0:4001:c79::8b
+2607:f8b0:400a:809::200e
 
 # Google — picasa.com
-2607:f8b0:4001:c0f::63
-2607:f8b0:4001:c0f::68
-2607:f8b0:4001:c0f::6a
-2607:f8b0:4001:c0f::93
+2607:f8b0:400a:800::2004
 
 # Google — picasaweb.com
-2607:f8b0:4001:c16::5b
-2607:f8b0:4001:c16::5d
-2607:f8b0:4001:c16::88
-2607:f8b0:4001:c16::be
+2607:f8b0:400a:801::200e
 
 # Google — picasaweb.net
-2607:f8b0:4001:c0e::5b
-2607:f8b0:4001:c0e::5d
-2607:f8b0:4001:c0e::88
-2607:f8b0:4001:c0e::be
+2607:f8b0:400a:802::200e
 
 # Google — picasaweb.org
-2607:f8b0:4001:c1d::5b
-2607:f8b0:4001:c1d::5d
-2607:f8b0:4001:c1d::88
-2607:f8b0:4001:c1d::be
+2607:f8b0:400a:809::200e
 
 # Google — picnik.com
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8a
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:803::200e
 
 # Google — pittpatt.com
-2607:f8b0:4001:c62::64
-2607:f8b0:4001:c62::65
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::8a
+2607:f8b0:400a:80c::200e
 
 # Google — pixate.com
 # (no public DNS addresses found)
@@ -2458,10 +1955,7 @@
 2001:4860:4802:32::1d
 
 # Google — play-fe.googleapis.com
-2607:f8b0:4001:c62::65
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::8a
-2607:f8b0:4001:c62::8b
+2607:f8b0:400a:803::200e
 
 # Google — play.google.com
 2001:4860:4826:700::
@@ -2496,28 +1990,22 @@
 2001:4860:4802:38::15
 
 # Google — polymerproject.org
-2607:f8b0:4001:c66::64
-2607:f8b0:4001:c66::71
-2607:f8b0:4001:c66::8a
-2607:f8b0:4001:c66::8b
+2607:f8b0:400a:80d::200e
 
 # Google — postini.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8a
+2607:f8b0:400a:801::200e
 
 # Google — privacysandbox.com
 2001:4860:4802:32::1d
 
 # Google — prod-controlbe.floonet.goog
-2607:f8b0:4002:c05::5e
+2607:f8b0:4009:810::2003
 
 # Google — prod-databe.floonet.goog
-2607:f8b0:4002:c11::5e
+2607:f8b0:4009:813::2003
 
 # Google — prod.databe.floonet.goog
-2607:f8b0:4009:815::2003
+2607:f8b0:4009:813::2003
 
 # Google — projectara.com
 # (no public DNS addresses found)
@@ -2532,97 +2020,55 @@
 # (no public DNS addresses found)
 
 # Google — qpx.googleflights.net
-2607:f8b0:4001:c2f::64
-2607:f8b0:4001:c2f::66
-2607:f8b0:4001:c2f::71
-2607:f8b0:4001:c2f::8a
+2607:f8b0:400a:808::200e
 
 # Google — questvisual.com
-2607:f8b0:4001:c6e::64
-2607:f8b0:4001:c6e::66
-2607:f8b0:4001:c6e::71
-2607:f8b0:4001:c6e::8a
+2607:f8b0:400a:809::200e
 
 # Google — quickoffice.com
-2607:f8b0:4001:c66::64
-2607:f8b0:4001:c66::65
-2607:f8b0:4001:c66::8a
-2607:f8b0:4001:c66::8b
+2607:f8b0:400a:80c::200e
 
 # Google — quiksee.com
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8b
+2607:f8b0:400a:808::200e
 
 # Google — recaptcha-cn.net
-2607:f8b0:4001:c74::6e
+2607:f8b0:400a:80c::2017
 
 # Google — recaptcha.net
-2607:f8b0:4001:c01::5e
+2607:f8b0:400a:808::2003
 
 # Google — redhotlabs.com
 # (no public DNS addresses found)
 
 # Google — redirector.bdn.dev
-2607:f8b0:4001:c74::65
-2607:f8b0:4001:c74::66
-2607:f8b0:4001:c74::71
-2607:f8b0:4001:c74::8a
+2607:f8b0:400a:801::200e
 
 # Google — redirector.c.chat.google.com
-2607:f8b0:4001:c09::64
-2607:f8b0:4001:c09::66
-2607:f8b0:4001:c09::71
-2607:f8b0:4001:c09::8b
+2607:f8b0:400a:800::200e
 
 # Google — redirector.c.mail.google.com
-2607:f8b0:4001:c79::65
-2607:f8b0:4001:c79::66
-2607:f8b0:4001:c79::71
-2607:f8b0:4001:c79::8b
+2607:f8b0:400a:803::200e
 
 # Google — redirector.c.pack.google.com
-2607:f8b0:4001:c66::65
-2607:f8b0:4001:c66::66
-2607:f8b0:4001:c66::8a
-2607:f8b0:4001:c66::8b
+2607:f8b0:400a:801::200e
 
 # Google — redirector.c.youtubeeducation.com
-2607:f8b0:4001:c2f::64
-2607:f8b0:4001:c2f::65
-2607:f8b0:4001:c2f::66
-2607:f8b0:4001:c2f::71
+2607:f8b0:400a:802::200e
 
 # Google — redirector.gcpcdn.gvt1.com
-2607:f8b0:4001:c00::64
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:803::200e
 
 # Google — redirector.gvt1.com
-2607:f8b0:4001:c01::65
-2607:f8b0:4001:c01::66
-2607:f8b0:4001:c01::71
-2607:f8b0:4001:c01::8a
+2607:f8b0:400a:802::200e
 
 # Google — redirector.offline-maps.gvt1.com
-2607:f8b0:4001:c1e::64
-2607:f8b0:4001:c1e::65
-2607:f8b0:4001:c1e::8a
-2607:f8b0:4001:c1e::8b
+2607:f8b0:400a:809::200e
 
 # Google — redirector.snap.gvt1.com
-2607:f8b0:4001:c00::64
-2607:f8b0:4001:c00::71
-2607:f8b0:4001:c00::8a
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:80c::200e
 
 # Google — redirector.xn--ngstr-lra8j.com
-2607:f8b0:4001:c1e::65
-2607:f8b0:4001:c1e::66
-2607:f8b0:4001:c1e::71
-2607:f8b0:4001:c1e::8a
+2607:f8b0:400a:808::200e
 
 # Google — registry.google
 2001:4860:4802:32::1d
@@ -2631,10 +2077,7 @@
 2001:4860:4802:32::1d
 
 # Google — ridepenguin.com
-2607:f8b0:4001:c68::64
-2607:f8b0:4001:c68::66
-2607:f8b0:4001:c68::71
-2607:f8b0:4001:c68::8a
+2607:f8b0:400a:802::200e
 
 # Google — run.app
 2001:4860:4802:32::35
@@ -2643,28 +2086,22 @@
 2001:4860:4802:38::35
 
 # Google — safebrowsing-cache.google.com
-2607:f8b0:4002:c10::64
-2607:f8b0:4002:c10::65
-2607:f8b0:4002:c10::71
-2607:f8b0:4002:c10::8a
+2607:f8b0:4002:c06::64
+2607:f8b0:4002:c06::65
+2607:f8b0:4002:c06::71
+2607:f8b0:4002:c06::8a
 
 # Google — safebrowsing.googleapis.com
-2607:f8b0:4001:c2f::5f
+2607:f8b0:400a:801::200a
 
 # Google — savethedate.foo
 # (no public DNS addresses found)
 
 # Google — saynow.com
-2607:f8b0:4001:c05::64
-2607:f8b0:4001:c05::65
-2607:f8b0:4001:c05::71
-2607:f8b0:4001:c05::8b
+2607:f8b0:400a:809::200e
 
 # Google — schema.org
-2607:f8b0:4001:c7b::65
-2607:f8b0:4001:c7b::66
-2607:f8b0:4001:c7b::71
-2607:f8b0:4001:c7b::8a
+2607:f8b0:400a:808::200e
 
 # Google — schemer.com
 2001:4860:4802:32::1b
@@ -2676,53 +2113,35 @@
 2001:4860:4802:32::1b
 
 # Google — script.google.com
-2607:f8b0:4001:c62::64
-2607:f8b0:4001:c62::66
-2607:f8b0:4001:c62::71
-2607:f8b0:4001:c62::8b
+2607:f8b0:400a:801::200e
 
 # Google — service.urchin.com
-2607:f8b0:4001:c7d::65
-2607:f8b0:4001:c7d::66
-2607:f8b0:4001:c7d::71
-2607:f8b0:4001:c7d::8a
+2607:f8b0:400a:80c::200e
 
 # Google — shattered.io
 2606:4700:3030::6815:1969
 2606:4700:3030::ac43:8604
 
 # Google — sheets.google.com
-2607:f8b0:4001:c19::65
-2607:f8b0:4001:c19::66
-2607:f8b0:4001:c19::71
-2607:f8b0:4001:c19::8a
+2607:f8b0:400a:80d::200e
 
 # Google — sites.google.com
-2607:f8b0:4001:c76::66
-2607:f8b0:4001:c76::71
-2607:f8b0:4001:c76::8a
-2607:f8b0:4001:c76::8b
+2607:f8b0:400a:808::200e
 
 # Google — slides.google.com
-2607:f8b0:4001:c66::64
-2607:f8b0:4001:c66::66
-2607:f8b0:4001:c66::71
-2607:f8b0:4001:c66::8b
+2607:f8b0:400a:809::200e
 
 # Google — snapseed.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::65
-2607:f8b0:4001:c08::8a
-2607:f8b0:4001:c08::8b
+2607:f8b0:400a:800::200e
 
 # Google — solveforx.com
 2001:4860:4802:32::1b
 
 # Google — ssl-google-analytics.l.google.com
-2607:f8b0:4001:c09::61
+2607:f8b0:400a:803::2008
 
 # Google — ssl.gstatic.com
-2607:f8b0:4001:c72::5e
+2607:f8b0:400a:802::2003
 
 # Google — stadia.dev
 2001:4860:4802:32::15
@@ -2731,13 +2150,13 @@
 2001:4860:4802:38::15
 
 # Google — staging-controlbe.floonet.goog
-2607:f8b0:4002:c06::5e
+2607:f8b0:4009:815::2003
 
 # Google — staging-databe.floonet.goog
-2607:f8b0:4002:c05::5e
+2607:f8b0:4002:c11::5e
 
 # Google — staging.databe.floonet.goog
-2607:f8b0:4009:812::2003
+2607:f8b0:4009:815::2003
 
 # Google — stcroixmosquito.com
 2001:4860:4802:32::1d
@@ -2746,10 +2165,7 @@
 2001:4860:4802:32::1d
 
 # Google — stream.meet.google.com
-2607:f8b0:4001:c6e::65
-2607:f8b0:4001:c6e::66
-2607:f8b0:4001:c6e::71
-2607:f8b0:4001:c6e::8a
+2607:f8b0:400a:801::200e
 
 # Google — studywatchbyverily.com
 # (no public DNS addresses found)
@@ -2773,7 +2189,7 @@
 2001:4860:4802:32::1d
 
 # Google — tac.googleapis.com
-2607:f8b0:4001:c74::5f
+2607:f8b0:400a:80c::200a
 
 # Google — teachparentstech.org
 2001:4860:4802:32::1d
@@ -2785,43 +2201,25 @@
 # (no public DNS addresses found)
 
 # Google — thecleversense.com
-2607:f8b0:4001:c7d::64
-2607:f8b0:4001:c7d::66
-2607:f8b0:4001:c7d::71
-2607:f8b0:4001:c7d::8b
+2607:f8b0:400a:803::200e
 
 # Google — thegooglestore.com
-2607:f8b0:4001:c05::64
-2607:f8b0:4001:c05::65
-2607:f8b0:4001:c05::66
-2607:f8b0:4001:c05::8a
+2607:f8b0:400a:80c::200e
 
 # Google — thinkquarterly.co.uk
-2607:f8b0:4001:c10::65
-2607:f8b0:4001:c10::66
-2607:f8b0:4001:c10::8a
-2607:f8b0:4001:c10::8b
+2607:f8b0:400a:801::200e
 
 # Google — thinkquarterly.com
-2607:f8b0:4001:c00::64
-2607:f8b0:4001:c00::65
-2607:f8b0:4001:c00::8a
-2607:f8b0:4001:c00::8b
+2607:f8b0:400a:809::200e
 
 # Google — thinkwithgoogle.com
-2607:f8b0:4001:c0e::64
-2607:f8b0:4001:c0e::65
-2607:f8b0:4001:c0e::66
-2607:f8b0:4001:c0e::8a
+2607:f8b0:400a:80c::200e
 
 # Google — tiltbrush.com
 # (no public DNS addresses found)
 
 # Google — tools.google.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::71
-2607:f8b0:4001:c08::8b
+2607:f8b0:400a:800::200e
 
 # Google — txcloud.net
 # (no public DNS addresses found)
@@ -2833,22 +2231,13 @@
 # (no public DNS addresses found)
 
 # Google — update.googleapis.com
-2607:f8b0:4001:c6c::64
-2607:f8b0:4001:c6c::65
-2607:f8b0:4001:c6c::66
-2607:f8b0:4001:c6c::71
+2607:f8b0:400a:803::200e
 
 # Google — urchin.com
-2607:f8b0:4001:c00::63
-2607:f8b0:4001:c00::67
-2607:f8b0:4001:c00::68
-2607:f8b0:4001:c00::93
+2607:f8b0:400a:803::2004
 
 # Google — useplannr.com
-2607:f8b0:4001:c2f::64
-2607:f8b0:4001:c2f::65
-2607:f8b0:4001:c2f::66
-2607:f8b0:4001:c2f::8b
+2607:f8b0:400a:800::200e
 
 # Google — usvimosquito.com
 2001:4860:4802:32::1d
@@ -2884,25 +2273,19 @@
 # (no public DNS addresses found)
 
 # Google — wallet.com
-2607:f8b0:4001:c19::64
-2607:f8b0:4001:c19::65
-2607:f8b0:4001:c19::8a
-2607:f8b0:4001:c19::8b
+2607:f8b0:400a:800::200e
 
 # Google — waveprotocol.org
-2607:f8b0:4001:c08::79
+2607:f8b0:400a:802::2013
 
 # Google — waymo.com
-2607:f8b0:4001:c62::64
-2607:f8b0:4001:c62::65
-2607:f8b0:4001:c62::8a
-2607:f8b0:4001:c62::8b
+2607:f8b0:400a:80d::200e
 
 # Google — waze.com
 2600:1901:0:b230::
 
 # Google — wear.googleapis.com
-2607:f8b0:4001:c0e::5f
+2607:f8b0:400a:80d::200a
 
 # Google — web.app
 2620:0:890::100
@@ -2911,25 +2294,16 @@
 2001:4860:4802:32::1b
 
 # Google — webappfieldguide.com
-2607:f8b0:4001:c7b::66
-2607:f8b0:4001:c7b::71
-2607:f8b0:4001:c7b::8a
-2607:f8b0:4001:c7b::8b
+2607:f8b0:400a:80d::200e
 
 # Google — webmproject.org
-2607:f8b0:4001:c6c::67
-2607:f8b0:4001:c6c::68
-2607:f8b0:4001:c6c::69
-2607:f8b0:4001:c6c::93
+2607:f8b0:400a:808::2004
 
 # Google — webpkgcache.com
-2607:f8b0:4001:c70::84
+2607:f8b0:400a:809::2001
 
 # Google — webrtc.org
-2607:f8b0:4001:c0e::64
-2607:f8b0:4001:c0e::66
-2607:f8b0:4001:c0e::8a
-2607:f8b0:4001:c0e::8b
+2607:f8b0:400a:803::200e
 
 # Google — weltweitwachsen.de
 2001:4860:4802:32::1d
@@ -2938,16 +2312,10 @@
 2001:4860:4802:32::1b
 
 # Google — widevine.com
-2607:f8b0:4001:c74::64
-2607:f8b0:4001:c74::65
-2607:f8b0:4001:c74::66
-2607:f8b0:4001:c74::8b
+2607:f8b0:400a:803::200e
 
 # Google — withgoogle.com
-2607:f8b0:4001:c56::65
-2607:f8b0:4001:c56::66
-2607:f8b0:4001:c56::71
-2607:f8b0:4001:c56::8a
+2607:f8b0:400a:808::200e
 
 # Google — womenwill.com
 2001:4860:4802:32::1d
@@ -2965,28 +2333,25 @@
 2001:4860:4802:32::1d
 
 # Google — www-google-analytics.l.google.com
-2607:f8b0:4001:c6e::65
-2607:f8b0:4001:c6e::66
-2607:f8b0:4001:c6e::8a
-2607:f8b0:4001:c6e::8b
+2607:f8b0:400a:808::200e
 
 # Google — www-googletagmanager.l.google.com
-2607:f8b0:4001:c70::61
+2607:f8b0:400a:802::2008
 
 # Google — www.destinationurl.com
 # (no public DNS addresses found)
 
 # Google — www.gstatic.com
-2607:f8b0:4001:c6e::5e
+2607:f8b0:400a:802::2003
 
 # Google — www.pxcc.com
 # (no public DNS addresses found)
 
 # Google — www.recaptcha-cn.net
-2607:f8b0:4001:c08::6e
+2607:f8b0:400a:802::2017
 
 # Google — www.recaptcha.net
-2607:f8b0:4001:c09::5e
+2607:f8b0:400a:802::2003
 
 # Google — x.company
 2001:4860:4802:32::15
@@ -3038,7 +2403,4 @@
 2001:4860:4802:32::1d
 
 # Google — zynamics.com
-2607:f8b0:4001:c06::64
-2607:f8b0:4001:c06::66
-2607:f8b0:4001:c06::8a
-2607:f8b0:4001:c06::8b
+2607:f8b0:400a:802::200e

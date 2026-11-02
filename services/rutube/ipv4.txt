@@ -5,7 +5,7 @@
 # (no public DNS addresses found)
 
 # Rutube — rutube-cdn.ru
-5.101.152.161
+# (no public DNS addresses found)
 
 # Rutube — rutube.com
 103.224.182.245
