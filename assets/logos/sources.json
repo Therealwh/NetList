@@ -166,11 +166,10 @@
   },
   "bing": {
     "candidates": [
-      "bing",
-      "microsoftbing"
+      "bing"
     ],
-    "license": "CC0",
-    "source": "simple-icons"
+    "license": "Official Bing favicon",
+    "source": "bing.com"
   },
   "bitbucket": {
     "candidates": [
@@ -496,6 +495,13 @@
     ],
     "license": "CC0",
     "source": "simple-icons"
+  },
+  "gosuslugi": {
+    "candidates": [
+      "gosuslugi"
+    ],
+    "license": "Official Gosuslugi favicon",
+    "source": "gosuslugi.ru"
   },
   "grok": {
     "candidates": [

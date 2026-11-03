@@ -3,7 +3,7 @@
 2607:6bc0::10/128
 
 # Claude — cdn.usefathom.com
-2400:52e0:1a05::1120:1/128
+2001:550:2:dc::5e:2/128
 
 # Claude — claude.ai
 2607:6bc0::10/128

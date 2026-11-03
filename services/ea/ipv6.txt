@@ -140,8 +140,8 @@
 # (no public DNS addresses found)
 
 # EA — ea.com
-2600:1409:3c00:580::1127
-2600:1409:3c00:58e::1127
+2600:1418:a000:589::1127
+2600:1418:a000:58a::1127
 
 # EA — ea.tt.omtrdc.net
 # (no public DNS addresses found)

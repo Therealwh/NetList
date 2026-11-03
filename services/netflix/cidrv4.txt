@@ -4,16 +4,16 @@
 104.18.87.42/32
 
 # Netflix — e13252.dscg.akamaiedge.net
-95.101.160.209/32
+23.64.151.122/32
 
 # Netflix — fast.com
-92.122.15.29/32
+23.64.145.111/32
 
 # Netflix — flxvpn.net
 # (no public DNS addresses found)
 
 # Netflix — h-netflix.online-metrix.net
-192.225.158.191/32
+199.101.158.51/32
 
 # Netflix — netflix.ca
 107.20.175.192/32

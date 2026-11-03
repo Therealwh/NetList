@@ -2,6 +2,7 @@
 # Epic Games — battlebreakers.com
 32.194.105.194/32
 34.193.11.130/32
+34.202.38.29/32
 
 # Epic Games — eac-cdn.com
 # (no public DNS addresses found)
@@ -34,26 +35,28 @@
 # Epic Games — paragon.com
 32.194.105.194/32
 34.193.11.130/32
+34.202.38.29/32
 
 # Epic Games — playparagon.com
 32.194.105.194/32
 34.193.11.130/32
+34.202.38.29/32
 
 # Epic Games — roborecall.com
 32.194.105.194/32
 34.193.11.130/32
+34.202.38.29/32
 
 # Epic Games — shadowcomplex.com
 32.194.105.194/32
 34.193.11.130/32
+34.202.38.29/32
 
 # Epic Games — spyjinx.com
 # (no public DNS addresses found)
 
 # Epic Games — unrealengine.com
-3.224.52.123/32
-34.236.212.199/32
-54.236.149.212/32
+32.197.85.124/32
 
 # Epic Games — unrealtournament.com
 3.210.253.50/32

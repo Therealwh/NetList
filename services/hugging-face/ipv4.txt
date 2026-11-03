@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Hugging Face — huggingface.co
-18.161.6.107
-18.161.6.33
-18.161.6.46
-18.161.6.94
+108.157.142.50
+108.157.142.53
+108.157.142.55
+108.157.142.74

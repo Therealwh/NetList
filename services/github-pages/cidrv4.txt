@@ -3,41 +3,41 @@
 140.82.113.17/32
 
 # GitHub Pages — dependabot.com
-140.82.113.17/32
+140.82.112.17/32
 
 # GitHub Pages — ghcr.io
-20.29.134.18/32
+140.82.112.34/32
 
 # GitHub Pages — git.io
-140.82.113.21/32
+140.82.113.22/32
 
 # GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
-151.101.22.79/32
+140.248.146.79/32
 
 # GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
 47.79.66.61/32
 
 # GitHub Pages — github-cloud.s3.amazonaws.com
-16.15.245.159/32
-16.15.246.16/32
-16.15.253.45/32
-16.182.35.154/32
-52.216.237.86/32
-52.216.89.224/32
-54.231.192.90/32
-54.231.229.186/32
+16.15.163.111/32
+16.15.207.154/32
+16.15.213.254/32
+16.15.228.112/32
+16.15.228.95/32
+16.15.237.103/32
+52.217.140.178/32
+52.217.83.88/32
 
 # GitHub Pages — github.blog
 192.0.66.2/32
 
 # GitHub Pages — github.com
-140.82.116.3/32
+140.82.114.4/32
 
 # GitHub Pages — github.community
-140.82.113.17/32
+140.82.113.18/32
 
 # GitHub Pages — github.dev
-20.99.227.183/32
+52.224.38.193/32
 
 # GitHub Pages — github.io
 185.199.108.153/32
@@ -65,7 +65,7 @@
 140.82.114.18/32
 
 # GitHub Pages — githubhackathon.com
-140.82.113.17/32
+140.82.114.17/32
 
 # GitHub Pages — githubnext.com
 185.199.108.153/32
@@ -98,7 +98,7 @@
 185.199.111.153/32
 
 # GitHub Pages — npm.community
-140.82.113.17/32
+140.82.114.17/32
 
 # GitHub Pages — npmjs.com
 104.17.134.117/32
@@ -132,7 +132,7 @@
 # (no public DNS addresses found)
 
 # GitHub Pages — repo.new
-140.82.112.18/32
+140.82.114.18/32
 
 # GitHub Pages — thegithubshop.com
 23.227.38.65/32

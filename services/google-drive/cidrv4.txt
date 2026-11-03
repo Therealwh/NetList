@@ -1,15 +1,25 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Google Drive — docs.google.com
-142.251.34.206/32
+142.251.189.100/32
+142.251.189.101/32
+142.251.189.102/32
+142.251.189.113/32
+142.251.189.138/32
+142.251.189.139/32
 
 # Google Drive — drive.google.com
-142.250.73.78/32
+74.125.132.100/32
+74.125.132.101/32
+74.125.132.102/32
+74.125.132.113/32
+74.125.132.138/32
+74.125.132.139/32
 
 # Google Drive — googledrive.com
-142.250.73.129/32
+209.85.200.132/32
 
 # Google Drive — googleusercontent.com
-142.250.69.161/32
+173.194.64.132/32
 
 # Google Drive — www.googleapis.com
 172.217.112.4/32

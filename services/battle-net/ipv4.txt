@@ -18,19 +18,18 @@
 # (no public DNS addresses found)
 
 # Battle.net — blzddist1-a.akamaihd.net
-23.219.78.208
-23.219.78.210
-23.219.78.211
-23.219.78.213
+184.25.59.81
+184.25.59.84
+184.25.59.87
+23.192.220.132
 
 # Battle.net — blzddistkr1-a.akamaihd.net
-23.219.78.202
-23.219.78.206
-23.219.78.208
+23.219.87.105
+23.53.127.175
 
 # Battle.net — bnetproduct-a.akamaihd.net
-23.53.122.135
-23.53.122.140
+23.64.114.209
+23.64.114.211
 
 # Battle.net — cdn.blz-contentstack.com
 104.18.35.174

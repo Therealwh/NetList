@@ -2,59 +2,59 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — amp-api-edge.music.apple.com
-2a04:4e42:5::774
+2a04:4e42:94::774
 
 # Apple Music — amp-api.music.apple.com
-2a04:4e42:5::774
+2a04:4e42:94::774
 
 # Apple Music — aod-ssl.itunes.apple.com
-2600:1409:3c00:381::20b6
-2600:1409:3c00:391::20b6
+2600:1418:a000:88b::20b6
+2600:1418:a000:897::20b6
 
 # Apple Music — aod.itunes.apple.com
-2620:149:a00:f000::136
-2620:149:a00:f000::152
+2620:149:a32:f000::139
+2620:149:a32:f000::148
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
 
 # Apple Music — audio-ssl.itunes.apple.com
-2600:1409:3c00:381::20b6
-2600:1409:3c00:391::20b6
+2600:1418:a000:88b::20b6
+2600:1418:a000:897::20b6
 
 # Apple Music — audio.itunes.apple.com
-2620:149:a00:f000::136
-2620:149:a00:f000::143
+2620:149:a32:f000::143
+2620:149:a32:f000::148
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1409:3c00:3::17db:4eca
-2600:1409:3c00:3::17db:4ed0
+2600:1418:a000:9::1728:630e
+2600:1418:a000:9::1728:6314
 
 # Apple Music — music.apple.com
-2600:1409:3c00:381::2a1
-2600:1409:3c00:384::2a1
-2600:1409:3c00:386::2a1
-2600:1409:3c00:38a::2a1
-2600:1409:3c00:393::2a1
+2600:1407:e800:b86::2a1
+2600:1407:e800:b8e::2a1
+2600:1407:e800:b93::2a1
+2600:1407:e800:b95::2a1
+2600:1407:e800:b96::2a1
 
 # Apple Music — musicstatus.music.apple.com
-2600:1409:3c00:9::172c:af46
-2600:1409:3c00:9::172c:af47
+2600:1418:a000:e::17c1:c8cb
+2600:1418:a000:e::17c1:c8d9
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a00:f000::133
-2620:149:a00:f000::142
+2620:149:a32:f000::135
+2620:149:a32:f000::139
 
 # Apple Music — play.music.apple.com
-2600:1409:9800:e1::172e:e44e
-2600:1409:9800:e1::172e:e450
+2600:1418:a000:10::17c1:c80f
+2600:1418:a000:10::17c1:c813
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:5::774
+2a04:4e42:26::774
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a00:f000::134
-2620:149:a00:f000::143
+2620:149:a32:f000::142
+2620:149:a32:f000::143
