@@ -2,4 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Amazon Music — music.amazon.com
-52.85.11.9
+13.225.70.177

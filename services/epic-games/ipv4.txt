@@ -24,7 +24,7 @@
 # Epic Games — epicgames.dev
 3.92.101.174
 52.1.140.99
-52.7.193.60
+54.174.185.36
 
 # Epic Games — fortnite.com
 32.194.244.87

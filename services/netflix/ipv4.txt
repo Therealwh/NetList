@@ -9,13 +9,13 @@
 23.64.151.122
 
 # Netflix — fast.com
-23.64.145.111
+23.194.65.186
 
 # Netflix — flxvpn.net
 # (no public DNS addresses found)
 
 # Netflix — h-netflix.online-metrix.net
-199.101.158.51
+192.225.158.191
 
 # Netflix — netflix.ca
 107.20.175.192

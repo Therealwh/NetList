@@ -5,14 +5,14 @@
 # (no public DNS addresses found)
 
 # Steam — alibaba.cdn.steampipe.steamcontent.com
-2600:9000:21f2:1800:13:8ee3:f9c0:21
-2600:9000:21f2:2c00:13:8ee3:f9c0:21
-2600:9000:21f2:7200:13:8ee3:f9c0:21
-2600:9000:21f2:7c00:13:8ee3:f9c0:21
-2600:9000:21f2:9000:13:8ee3:f9c0:21
-2600:9000:21f2:b400:13:8ee3:f9c0:21
-2600:9000:21f2:d400:13:8ee3:f9c0:21
-2600:9000:21f2:ea00:13:8ee3:f9c0:21
+2600:9000:20d1:4600:13:8ee3:f9c0:21
+2600:9000:20d1:7800:13:8ee3:f9c0:21
+2600:9000:20d1:9a00:13:8ee3:f9c0:21
+2600:9000:20d1:a000:13:8ee3:f9c0:21
+2600:9000:20d1:aa00:13:8ee3:f9c0:21
+2600:9000:20d1:ac00:13:8ee3:f9c0:21
+2600:9000:20d1:d000:13:8ee3:f9c0:21
+2600:9000:20d1:e200:13:8ee3:f9c0:21
 
 # Steam — cdn-ali.content.steamchina.com
 # (no public DNS addresses found)
@@ -29,7 +29,8 @@
 # Steam — dl.steam.clngaa.com
 240e:930:c300:c00::14
 240e:930:c300:c00::17
-240e:f7:8016:500::9b
+240e:93c:109:100::9d
+240e:93c:109:100::a0
 
 # Steam — dl.steam.ksyna.com
 # (no public DNS addresses found)
@@ -41,12 +42,12 @@
 # (no public DNS addresses found)
 
 # Steam — edge.steam-dns.top.comcast.net
-2001:558:fe24:4d::
-2001:558:fe24:4d::1d
-2001:558:fe24:4d::1e
-2001:558:fe24:4d::3
-2001:558:fe24:4d::a
-2001:558:fe24:4d::f
+2001:558:fe1a:8::18
+2001:558:fe1a:8::19
+2001:558:fe1a:8::1b
+2001:558:fe1a:8::1c
+2001:558:fe1a:8::d
+2001:558:fe1a:cb::2
 
 # Steam — f3b7q2p3.ssl.hwcdn.net
 # (no public DNS addresses found)
@@ -131,8 +132,8 @@
 # (no public DNS addresses found)
 
 # Steam — steamconnecttest.com
-2600:1418:a000:9::1728:6306
-2600:1418:a000:9::1728:6315
+2600:1404:200:a::173f:e768
+2600:1404:200:a::173f:e772
 
 # Steam — steamcontent.com
 # (no public DNS addresses found)
@@ -147,20 +148,20 @@
 # (no public DNS addresses found)
 
 # Steam — steammobile.akamaized.net
-2600:1407:e800:44::215:904
-2600:1407:e800:44::215:912
+2600:1404:ec00:4a::17dc:6688
+2600:1404:ec00:4a::17dc:6696
 
 # Steam — steampipe-kr.akamaized.net
-2600:1407:e800:23::b819:7bbe
-2600:1407:e800:23::b819:7bcf
+2600:1404:ec00:2400::17db:576d
+2600:1404:ec00:240a::1735:7fc8
 
 # Steam — steampipe-partner.akamaized.net
-2600:1407:e800:26::17dc:ce26
-2600:1407:e800:26::17dc:ce34
+2600:1404:ec00:f::17da:e80b
+2600:1404:ec00:f::17da:e815
 
 # Steam — steampipe.akamaized.net
-2600:1407:e800:26::17dc:ce16
-2600:1407:e800:26::17dc:ce4a
+2600:1404:ec00:f::17da:e80a
+2600:1404:ec00:f::17da:e817
 
 # Steam — steampowered.com
 # (no public DNS addresses found)
@@ -188,17 +189,16 @@
 # (no public DNS addresses found)
 
 # Steam — steamunlocked.net
-2606:4700:20::681a:e12
-2606:4700:20::681a:f12
-2606:4700:20::ac43:4735
+2606:4700:3030::6815:4551
+2606:4700:3036::ac43:ce83
 
 # Steam — steamusercontent-a.akamaihd.net
-2600:1418:a000:9::1728:6316
-2600:1418:a000:9::1728:6317
+2600:1404:200:a::173f:e76c
+2600:1404:200:a::173f:e771
 
 # Steam — steamuserimages-a.akamaihd.net
-2600:1418:a000:9::1728:630d
-2600:1418:a000:9::1728:6316
+2600:1404:200:a::173f:e771
+2600:1404:200:a::173f:e772
 
 # Steam — steamvideo-a.akamaihd.net
 # (no public DNS addresses found)

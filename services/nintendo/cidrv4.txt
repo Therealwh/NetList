@@ -38,14 +38,14 @@
 192.159.190.35/32
 
 # Nintendo — drmario-world.com
-173.223.151.251/32
+23.194.89.203/32
 
 # Nintendo — excitebots.com
 192.159.190.35/32
 3.218.0.127/32
 
 # Nintendo — fire-emblem-heroes.com
-2.17.83.185/32
+23.60.48.26/32
 
 # Nintendo — fireemblemawakening.com
 192.159.190.32/32
@@ -105,8 +105,8 @@
 3.218.0.127/32
 
 # Nintendo — miitomo.com
-23.64.112.186/32
-23.64.112.190/32
+23.45.119.164/32
+23.45.119.185/32
 
 # Nintendo — miitomo.com.cn
 165.160.13.20/32
@@ -416,7 +416,7 @@
 3.218.0.127/32
 
 # Nintendo — supermariorun.com
-23.2.141.120/32
+23.60.45.120/32
 
 # Nintendo — superpapermario.com
 192.159.190.35/32

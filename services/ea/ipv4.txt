@@ -2,62 +2,62 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # EA — anthemgame.com
-23.62.65.112
+23.195.222.52
 
 # EA — anthemthegame.com
-23.62.65.112
+23.195.222.52
 
 # EA — apexlegends.com
-23.62.66.109
+23.199.181.188
 
 # EA — awayoutgame.com
-23.62.65.112
+23.195.222.52
 
 # EA — battlefield.com
-23.62.95.80
+23.195.222.54
 
 # EA — battlefield1943.com
-23.62.95.80
+23.195.222.54
 
 # EA — battlefield3.com
 54.86.134.235
 
 # EA — battlefield4.com
-23.62.65.112
+23.195.222.52
 
 # EA — battlefield5.com
-23.62.95.80
+23.195.222.54
 
 # EA — battlefieldbadcompany2.com
-23.62.95.80
+23.195.222.54
 
 # EA — battlefieldheroes.com
 # (no public DNS addresses found)
 
 # EA — battlefieldv.com
-23.62.95.80
+23.195.222.54
 
 # EA — battlefront2.com
-23.62.65.112
+23.195.222.52
 
 # EA — battlefrontii.com
-23.62.65.112
+23.195.222.52
 
 # EA — battlelog.com
-13.249.141.56
-13.249.141.62
-13.249.141.74
-13.249.141.83
+13.32.115.29
+13.32.115.30
+13.32.115.36
+13.32.115.8
 
 # EA — bejeweledstars.com
-23.14.141.119
+23.39.148.243
 
 # EA — bejewled-stars.com
-23.14.141.119
+23.39.148.243
 
 # EA — bioware.com
-23.54.76.13
-23.54.76.56
+23.220.161.15
+23.220.161.7
 
 # EA — biowarestore.com
 23.227.38.65
@@ -82,26 +82,26 @@
 54.86.134.235
 
 # EA — cloudsync-prod.s3.amazonaws.com
-16.15.163.222
-16.15.191.53
-16.15.207.216
-16.15.213.144
-16.15.214.231
-16.15.237.175
-16.15.245.42
-52.216.214.250
+16.15.158.47
+16.15.159.162
+16.15.237.247
+16.15.237.249
+16.182.101.114
+16.182.72.250
+52.217.134.242
+52.217.207.106
 
 # EA — cncrivals.com
-23.62.95.80
+23.195.222.54
 
 # EA — commandandconquer.com
-23.14.141.119
+23.39.148.243
 
 # EA — conquerwithcharacter.com
-23.62.65.112
+23.195.222.52
 
 # EA — crysis.jp
-23.62.65.112
+23.195.222.52
 
 # EA — daoc.net
 # (no public DNS addresses found)
@@ -114,13 +114,13 @@
 # (no public DNS addresses found)
 
 # EA — dawngate.com
-23.62.65.112
+23.195.222.52
 
 # EA — dawngatechronicles.com
-23.62.65.112
+23.195.222.52
 
 # EA — deadspacegame.com
-23.62.66.109
+23.199.181.188
 
 # EA — dice.se
 198.185.159.144
@@ -129,16 +129,16 @@
 198.49.23.145
 
 # EA — dicela.com
-23.62.66.109
+23.199.181.188
 
 # EA — dicela.net
-23.62.66.109
+23.199.181.188
 
 # EA — dragonage.com
-23.62.65.112
+23.195.222.52
 
 # EA — dragonagekeep.com
-23.39.150.143
+23.213.44.163
 
 # EA — dragonagemovie.com
 54.86.194.166
@@ -157,15 +157,19 @@
 94.198.82.4
 
 # EA — ea.com
-23.39.150.143
+23.213.44.163
 
 # EA — ea.tt.omtrdc.net
-66.117.20.101
-66.117.20.131
-66.117.20.168
-66.117.20.178
-66.117.20.212
-66.117.20.252
+63.140.36.131
+63.140.36.212
+63.140.36.26
+63.140.36.67
+63.140.37.142
+63.140.37.151
+63.140.37.172
+63.140.37.191
+63.140.37.238
+63.140.37.45
 
 # EA — eaaccess.com
 23.64.4.25
@@ -174,24 +178,24 @@
 # (no public DNS addresses found)
 
 # EA — eaassets-a.akamaihd.net
-23.1.254.201
-23.1.254.202
+23.220.162.134
+23.220.162.149
 
 # EA — eablackbox.com
 54.86.134.235
 
 # EA — eacashcard.com
-23.62.65.112
+23.195.222.52
 
 # EA — eacodigos.com
 # (no public DNS addresses found)
 
 # EA — eafootballworld.com
-23.64.114.200
-23.64.114.217
+23.220.161.10
+23.220.161.7
 
 # EA — eakorea.co.kr
-23.62.95.80
+23.195.222.54
 
 # EA — eamirrorsedge.com
 54.86.134.235
@@ -211,13 +215,13 @@
 194.169.225.56
 
 # EA — eaplay.com
-23.62.66.109
+23.199.181.188
 
 # EA — easports.com
-23.62.65.112
+23.195.222.52
 
 # EA — easports.jp
-23.62.65.112
+23.195.222.52
 
 # EA — easportsactive.com
 159.153.20.7
@@ -238,14 +242,14 @@
 159.153.20.9
 
 # EA — eastore.com
-23.64.114.217
-23.64.114.219
+23.220.161.18
+23.220.161.4
 
 # EA — electronicarts.com
-23.62.65.112
+23.195.222.52
 
 # EA — electronicarts.fr
-23.62.65.112
+23.195.222.52
 
 # EA — fifastreet.com
 159.153.20.8
@@ -257,52 +261,52 @@
 23.64.5.237
 
 # EA — futpromos.com
-23.62.65.112
+23.195.222.52
 
 # EA — futunited.com
 # (no public DNS addresses found)
 
 # EA — ghostgames.com
-23.62.95.80
+23.195.222.54
 
 # EA — heroesofdragonage.com
 # (no public DNS addresses found)
 
 # EA — hutpromos.com
-23.62.65.112
+23.195.222.52
 
 # EA — industrialtoys.com
 # (no public DNS addresses found)
 
 # EA — lordofultima.com
-23.62.65.112
+23.195.222.52
 
 # EA — maddenchampionship.com
-23.62.65.112
+23.195.222.52
 
 # EA — maddenrewards.com
-23.62.95.80
+23.195.222.54
 
 # EA — maddenseason.info
-23.62.65.112
+23.195.222.52
 
 # EA — maddenseason.net
-23.62.65.112
+23.195.222.52
 
 # EA — maddenseason.org
-23.62.65.112
+23.195.222.52
 
 # EA — masseffect.com
-23.62.65.112
+23.195.222.52
 
 # EA — masseffectarchives.com
-108.156.107.117
-108.156.107.129
-108.156.107.39
-108.156.107.81
+13.225.61.29
+13.225.61.31
+13.225.61.81
+13.225.61.85
 
 # EA — maxis.com
-23.62.65.112
+23.195.222.52
 
 # EA — mirrorsedge.com
 23.64.5.237
@@ -320,7 +324,7 @@
 # (no public DNS addresses found)
 
 # EA — mysims.com
-23.7.17.119
+23.195.222.52
 
 # EA — mysimsracing.com
 206.225.87.26
@@ -384,11 +388,11 @@
 3.33.152.147
 
 # EA — origin-a.akamaihd.net
-23.200.156.207
-23.200.156.212
+23.221.24.197
+23.221.24.206
 
 # EA — origin.com
-23.62.81.44
+23.195.207.116
 
 # EA — origin.tv
 54.86.134.235
@@ -397,7 +401,7 @@
 # (no public DNS addresses found)
 
 # EA — plantsvszombies2.com
-23.62.65.112
+23.195.222.52
 
 # EA — play4free.com
 23.207.202.26
@@ -406,40 +410,40 @@
 23.216.147.35
 
 # EA — playapex.com
-23.7.17.119
+23.195.222.52
 
 # EA — pogo.com
-23.14.141.119
+23.39.148.243
 
 # EA — pogobeta.com
-23.14.141.119
+23.39.148.243
 
 # EA — popcap.com
 23.198.168.41
 
 # EA — projectapex.com
-23.62.65.112
+23.195.222.52
 
 # EA — pvzgw2.com
 54.86.134.235
 
 # EA — pvzheroes.com
-23.14.141.119
+23.39.148.243
 
 # EA — seaofsolitude.com
 217.160.0.46
 
 # EA — simcity-buildit.com
-23.62.65.112
+23.195.222.52
 
 # EA — simcity.com
-23.62.95.80
+23.195.222.54
 
 # EA — skate2.com
-23.7.17.119
+23.195.222.52
 
 # EA — spearhead.kr
-23.62.65.112
+23.195.222.52
 
 # EA — speedhunters.com
 54.86.134.235
@@ -448,49 +452,49 @@
 98.83.62.14
 
 # EA — ssx3.com
-23.62.65.112
+23.195.222.52
 
 # EA — starwarsbattlefront.com
 34.110.155.89
 
 # EA — starwarsbattlefront2.com
-23.62.65.112
+23.195.222.52
 
 # EA — starwarsfallenorder.com
-23.62.95.80
+23.195.222.54
 
 # EA — starwarsjedifallenorder.com
-23.62.95.80
+23.195.222.54
 
 # EA — starwarstheoldrepublic.com
 159.153.92.41
 
 # EA — swjedifallenorder.com
-23.62.95.80
+23.195.222.54
 
 # EA — swjfo.com
-23.62.95.80
+23.195.222.54
 
 # EA — swtor.com
-18.172.122.109
-18.172.122.11
-18.172.122.66
-18.172.122.77
+18.238.171.124
+18.238.171.72
+18.238.171.94
+18.238.171.97
 
 # EA — swtor.net
-13.32.164.11
-13.32.164.48
-13.32.164.55
-13.32.164.67
+18.245.124.11
+18.245.124.112
+18.245.124.63
+18.245.124.85
 
 # EA — teamneedforspeed.com
 54.86.134.235
 
 # EA — thedreadwolfrises.com
-23.62.95.80
+23.195.222.54
 
 # EA — thesims.com
-23.60.126.212
+23.64.5.237
 
 # EA — thesims3.com
 32.200.218.200
@@ -498,16 +502,16 @@
 54.87.29.115
 
 # EA — thesims4.com
-23.62.65.112
+23.195.222.52
 
 # EA — thesimssocial.com
 54.86.134.235
 
 # EA — tiberiumalliances.com
-23.62.95.80
+23.195.222.54
 
 # EA — tiburon.com
-23.62.66.109
+23.199.181.188
 
 # EA — titanfall.com
 54.86.134.235
@@ -523,10 +527,10 @@
 54.144.183.199
 
 # EA — unravel2.com
-23.62.95.80
+23.195.222.54
 
 # EA — unraveltwo.com
-23.62.95.80
+23.195.222.54
 
 # EA — uo.com
 34.233.0.227
@@ -536,7 +540,7 @@
 # (no public DNS addresses found)
 
 # EA — visceralgames.com
-23.62.65.112
+23.195.222.52
 
 # EA — xdsummit.com
 192.124.249.5

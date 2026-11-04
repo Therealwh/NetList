@@ -5,16 +5,16 @@
 # (no public DNS addresses found)
 
 # WhatsApp — graph.facebook.com
-2a03:2880:f364:8d:face:b00c:0:2
+2a03:2880:f361:8d:face:b00c:0:2
 
 # WhatsApp — wa.me
-2a03:2880:f309:120:face:b00c:0:167
+2a03:2880:f361:120:face:b00c:0:167
 
 # WhatsApp — whatsapp.biz
 # (no public DNS addresses found)
 
 # WhatsApp — whatsapp.com
-2a03:2880:f364:120:face:b00c:0:167
+2a03:2880:f38a:120:face:b00c:0:167
 
 # WhatsApp — whatsapp.net
-2a03:2880:f309:120:face:b00c:0:167
+2a03:2880:f361:120:face:b00c:0:167

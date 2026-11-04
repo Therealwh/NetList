@@ -2,24 +2,24 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # BBC — aod-dash-uk-live.akamaized.net
-23.211.176.161
-23.211.176.170
+23.205.110.212
+23.205.110.214
 
 # BBC — aod-hls-uk-live.akamaized.net
-23.211.176.159
-23.211.176.160
+23.205.110.204
+23.205.110.214
 
 # BBC — aod-pod-uk-live.akamaized.net
-23.211.176.153
-23.211.176.183
+23.205.110.203
+23.205.110.204
 
 # BBC — as-dash-uk-live.akamaized.net
-23.211.176.173
-23.211.176.183
+23.205.110.210
+23.205.110.217
 
 # BBC — as-hls-uk-live.akamaized.net
-23.211.176.155
-23.211.176.183
+23.205.110.202
+23.205.110.212
 
 # BBC — bbc.co
 165.160.13.20
@@ -79,49 +79,49 @@
 # (no public DNS addresses found)
 
 # BBC — ve-dash-uk-live.akamaized.net
-2.21.9.108
-2.21.9.119
+23.220.162.204
+23.220.162.212
 
 # BBC — ve-uhd-push-uk-live.akamaized.net
-2.21.9.111
-2.21.9.114
+23.220.162.209
+23.220.162.216
 
 # BBC — vod-dash-uk-live.akamaized.net
 23.220.161.28
 23.220.161.6
 
 # BBC — vod-dash-ww-live.akamaized.net
-184.25.123.149
-184.25.123.168
+23.220.161.18
+23.220.161.24
 
 # BBC — vod-hls-uk-live.akamaized.net
-184.25.123.135
-184.25.123.171
+23.220.161.10
+23.220.161.11
 
 # BBC — vod-sub-uk-live.akamaized.net
-23.211.176.13
-23.211.176.29
+23.220.251.141
+23.220.251.151
 
 # BBC — vod-thumb-uk-live.akamaized.net
-23.211.176.43
-23.211.176.55
+23.220.161.16
+23.220.161.22
 
 # BBC — vod-thumb-ww-live.akamaized.net
 23.220.161.10
 23.220.161.20
 
 # BBC — vs-cmaf-push-uk-live.akamaized.net
-23.48.99.152
-23.48.99.155
+23.220.162.205
+23.220.162.220
 
 # BBC — vs-cmaf-pushb-ww-live.akamaized.net
-23.52.42.5
-23.52.42.59
+23.205.109.85
+23.205.109.87
 
 # BBC — vs-hls-push-uk-live.akamaized.net
-2.21.9.109
-2.21.9.119
+23.220.162.212
+23.220.162.216
 
 # BBC — vs-hls-pushb-uk-live.akamaized.net
-2.21.9.110
-2.21.9.118
+23.220.162.205
+23.220.162.213
