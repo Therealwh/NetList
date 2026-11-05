@@ -2,19 +2,19 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Gemini — ai.google.dev
-2607:f8b0:4023:100b::65
-2607:f8b0:4023:100b::66
-2607:f8b0:4023:100b::71
-2607:f8b0:4023:100b::8a
+2607:f8b0:4004:c1f::64
+2607:f8b0:4004:c1f::65
+2607:f8b0:4004:c1f::71
+2607:f8b0:4004:c1f::8a
 
 # Gemini — alkalimakersuite-pa.clients6.google.com
-2607:f8b0:4023:100b::5f
+2607:f8b0:4004:c23::5f
 
 # Gemini — apis.google.com
-2607:f8b0:4023:1011::64
-2607:f8b0:4023:1011::65
-2607:f8b0:4023:1011::66
-2607:f8b0:4023:1011::71
+2607:f8b0:4004:c09::64
+2607:f8b0:4004:c09::66
+2607:f8b0:4004:c09::71
+2607:f8b0:4004:c09::8b
 
 # Gemini — bard.google.com
 2001:4860:4826:200::
@@ -52,10 +52,10 @@
 2001:4860:4802:32::1d
 
 # Gemini — makersuite.google.com
-2607:f8b0:4023:1006::64
-2607:f8b0:4023:1006::65
-2607:f8b0:4023:1006::66
-2607:f8b0:4023:1006::8a
+2607:f8b0:4004:c1f::64
+2607:f8b0:4004:c1f::65
+2607:f8b0:4004:c1f::8a
+2607:f8b0:4004:c1f::8b
 
 # Gemini — proactivebackend-pa.googleapis.com
 2001:4860:4826:100::

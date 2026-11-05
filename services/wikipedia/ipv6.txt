@@ -2,37 +2,37 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Wikipedia — mediawiki.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikibooks.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikidata.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikileaks.org
 # (no public DNS addresses found)
 
 # Wikipedia — wikimedia.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikinews.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikipedia.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikiquote.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikisource.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikiversity.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wikivoyage.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1
 
 # Wikipedia — wiktionary.org
-2620:0:860:ed1a::1
+2620:0:861:ed1a::1

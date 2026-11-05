@@ -1,6 +1,5 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Wink — wink.rt.ru
-212.193.153.131/32
 212.193.153.139/32
 
 # Wink — wink.ru

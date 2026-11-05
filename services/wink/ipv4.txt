@@ -2,7 +2,6 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Wink — wink.rt.ru
-212.193.153.131
 212.193.153.139
 
 # Wink — wink.ru

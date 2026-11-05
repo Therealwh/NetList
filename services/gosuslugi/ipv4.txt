@@ -3,7 +3,6 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Госуслуги — esia.gosuslugi.ru
 213.59.253.8
-213.59.254.8
 
 # Госуслуги — gosuslugi.ru
 213.59.253.7

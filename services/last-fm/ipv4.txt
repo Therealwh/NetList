@@ -39,11 +39,11 @@
 34.96.123.111
 
 # Last.fm — last.us11.list-manage.com
-23.199.176.210
+23.13.171.188
 
 # Last.fm — lastfm-img2.akamaized.net
-23.220.161.16
-23.220.161.28
+23.205.105.146
+23.205.105.173
 
 # Last.fm — lastfm.cn
 54.157.108.158
@@ -59,7 +59,7 @@
 34.96.123.111
 
 # Last.fm — lastfm.freetls.fastly.net
-151.101.162.79
+146.75.38.79
 
 # Last.fm — lastfm.ph
 34.96.123.111
