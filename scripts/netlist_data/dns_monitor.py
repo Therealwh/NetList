@@ -104,24 +104,14 @@ def monitor_catalog(
                     old_observed = old_state.get("addresses", [])
                 if sorted(old_observed or []) != new_state["addresses"]:
                     changed.append(key)
-        history = list(old.get("history", [])) if isinstance(old, dict) else []
-        event = {
-            "checked_at": timestamp,
-            "ipv4_status": current["ipv4"]["status"],
-            "ipv6_status": current["ipv6"]["status"],
-            "ipv4_count": len(current["ipv4"]["addresses"]),
-            "ipv6_count": len(current["ipv6"]["addresses"]),
-            "changed": changed,
-        }
-        if not history or history[-1] != event:
-            history.append(event)
+        # Хранится только актуальное состояние; прошлые проверки удаляются.
+        # События изменений ведутся отдельно в state/dns_history.json (bounded).
         entry = {
             "services": owners[domain],
             "checked_at": timestamp,
             "ipv4": current["ipv4"],
             "ipv6": current["ipv6"],
             "changed": changed,
-            "history": history[-HISTORY_LIMIT:],
         }
         return domain, entry
 
@@ -175,6 +165,31 @@ def monitor_catalog(
     history_tmp.write_text(json.dumps(history_payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     history_tmp.replace(history_path)
 
+    # Компактная сводка для главной страницы сайта: агрегаты по сервисам без детальных доменов.
+    service_stats: dict[str, dict] = {}
+    for domain, item in results.items():
+        for ref in item.get("services", []):
+            slug = str(ref.get("slug", ""))
+            if not slug:
+                continue
+            stat = service_stats.setdefault(slug, {
+                "checked_domains": 0, "has_error": False, "has_change": False, "ipv4": {}, "ipv6": {},
+            })
+            stat["checked_domains"] += 1
+            if item.get("changed"):
+                stat["has_change"] = True
+            for family in ("ipv4", "ipv6"):
+                record = item[family]
+                if record.get("status") == "error":
+                    stat["has_error"] = True
+                for address in record.get("addresses", []):
+                    stat[family][address] = True
+    for stat in service_stats.values():
+        stat["ipv4"] = sorted(stat["ipv4"])
+        stat["ipv6"] = sorted(stat["ipv6"])
+        stat["ipv4_count"] = len(stat["ipv4"])
+        stat["ipv6_count"] = len(stat["ipv6"])
+
     ok = sum(1 for item in results.values() if item["ipv4"]["status"] == "ok" or item["ipv6"]["status"] == "ok")
     errors = sum(1 for item in results.values() if item["ipv4"]["status"] == "error" or item["ipv6"]["status"] == "error")
     no_records = sum(1 for item in results.values() if item["ipv4"]["status"] == "no_records" and item["ipv6"]["status"] == "no_records")
@@ -196,6 +211,17 @@ def monitor_catalog(
     temporary = previous_path.with_name(previous_path.name + ".tmp")
     temporary.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     temporary.replace(previous_path)
+
+    summary_path = previous_path.with_name("dns_monitor_summary.json")
+    summary_payload = {
+        "schema_version": 1,
+        "checked_at": timestamp,
+        "summary": payload["summary"],
+        "services": dict(sorted(service_stats.items())),
+    }
+    summary_tmp = summary_path.with_name(summary_path.name + ".tmp")
+    summary_tmp.write_text(json.dumps(summary_payload, ensure_ascii=False, separators=(",", ":")) + '\\n', encoding="utf-8")
+    summary_tmp.replace(summary_path)
     return payload
 
 

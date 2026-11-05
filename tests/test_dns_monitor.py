@@ -161,13 +161,19 @@ class DnsMonitorTest(unittest.TestCase):
             self.assertEqual(third["domains"]["example.com"]["changed"], [])
 
     def test_history_tracks_address_changes(self):
+        # Прошлые проверки удаляются из снапшота (только актуальное состояние);
+        # событие изменения адреса фиксируется в bounded-логе dns_history.json.
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             self.make_catalog(root)
             monitor_catalog(root, lambda d, f: {"status": "ok", "addresses": ["8.8.8.8"], "error": None}, "2026-11-01T00:00:00+00:00")
             second = monitor_catalog(root, lambda d, f: {"status": "ok", "addresses": ["1.1.1.1"], "error": None}, "2026-11-02T00:00:00+00:00")
             self.assertEqual(second["domains"]["example.com"]["changed"], ["ipv4", "ipv6"])
-            self.assertEqual(len(second["domains"]["example.com"]["history"]), 2)
+            self.assertNotIn("history", second["domains"]["example.com"], "история не хранится в снапшоте")
+            events = json.loads((root / "state" / "dns_history.json").read_text())["events"]
+            ip_events = [e for e in events if e["type"] == "ip_added"]
+            # example.com и www.example.com меняют адреса в обеих семьях → 4 события
+            self.assertEqual(len(ip_events), 4, "обе смены адресов попали в журнал событий")
 
 
 if __name__ == "__main__":
