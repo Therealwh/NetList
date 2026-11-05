@@ -20,6 +20,9 @@ x1337x.ws
 # Service — 1С
 1c.ru
 
+# Service — 2nd-no.com (Получения вирт номера)
+2nd-no.com
+
 # Service — 2ГИС
 2gis.ru
 

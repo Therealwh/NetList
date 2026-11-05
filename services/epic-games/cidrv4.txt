@@ -53,7 +53,8 @@
 34.202.38.29/32
 
 # Epic Games — spyjinx.com
-# (no public DNS addresses found)
+104.21.73.35/32
+172.67.157.114/32
 
 # Epic Games — unrealengine.com
 32.197.85.124/32

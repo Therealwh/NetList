@@ -9,5 +9,5 @@
 # (no public DNS addresses found)
 
 # Perplexity — pplx-res.cloudinary.com
-2600:1408:c400:385::523
-2600:1408:c400:397::523
+2600:1406:2e00:784::523
+2600:1406:2e00:795::523

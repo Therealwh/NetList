@@ -1,9 +1,9 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Deezer — deezer.com
-18.154.227.10/32
-18.154.227.111/32
-18.154.227.13/32
-18.154.227.59/32
+18.155.192.117/32
+18.155.192.119/32
+18.155.192.45/32
+18.155.192.52/32
 
 # Deezer — dzcdn.net
 # (no public DNS addresses found)

@@ -2,10 +2,10 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Deezer — deezer.com
-18.154.227.10
-18.154.227.111
-18.154.227.13
-18.154.227.59
+18.155.192.117
+18.155.192.119
+18.155.192.45
+18.155.192.52
 
 # Deezer — dzcdn.net
 # (no public DNS addresses found)

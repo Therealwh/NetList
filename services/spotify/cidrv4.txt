@@ -3,15 +3,15 @@
 35.186.224.24/32
 
 # Spotify — adstudio-assets.scdn.co
-146.75.30.248/32
+151.101.202.248/32
 
 # Spotify — audio-ak-spotify-com.akamaized.net
-2.18.67.25/32
-23.15.3.132/32
+23.11.232.108/32
+23.11.232.165/32
 
 # Spotify — audio4-ak-spotify-com.akamaized.net
-2.18.67.25/32
-23.15.3.132/32
+23.11.232.108/32
+23.11.232.165/32
 
 # Spotify — bloodhound.spotify.com
 35.186.224.24/32
@@ -20,15 +20,15 @@
 # (no public DNS addresses found)
 
 # Spotify — cdn-spotify-experiments.conductrics.com
-152.233.50.2/32
+169.150.221.147/32
 
 # Spotify — heads-ak-spotify-com.akamaized.net
-23.205.105.136/32
-23.205.105.158/32
+23.212.62.74/32
+23.212.62.93/32
 
 # Spotify — heads4-ak-spotify-com.akamaized.net
-23.205.105.136/32
-23.205.105.158/32
+23.212.62.74/32
+23.212.62.93/32
 
 # Spotify — pscdn.co
 # (no public DNS addresses found)
@@ -49,10 +49,10 @@
 98.83.184.133/32
 
 # Spotify — spotify.app.link
-3.171.38.40/32
-3.171.38.47/32
-3.171.38.74/32
-3.171.38.89/32
+65.8.180.105/32
+65.8.180.41/32
+65.8.180.43/32
+65.8.180.98/32
 
 # Spotify — spotify.com
 35.186.224.24/32

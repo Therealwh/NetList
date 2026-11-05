@@ -37,7 +37,8 @@
 # (no public DNS addresses found)
 
 # Epic Games — spyjinx.com
-# (no public DNS addresses found)
+2606:4700:3030::ac43:9d72/128
+2606:4700:3032::6815:4923/128
 
 # Epic Games — unrealengine.com
 # (no public DNS addresses found)

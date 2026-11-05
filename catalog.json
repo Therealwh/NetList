@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "dataset": "netlist",
-  "generated_at": "2026-11-02T10:39:51+00:00",
+  "generated_at": "2026-11-05T14:41:16+00:00",
   "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
   "counts": {
-    "services": 276,
-    "categories": 27,
-    "domains": 24137
+    "services": 277,
+    "categories": 28,
+    "domains": 24138
   },
   "categories": [
     {
@@ -135,6 +135,11 @@
       "domains_count": 9
     },
     {
+      "id": "user_collections",
+      "services_count": 1,
+      "domains_count": 1
+    },
+    {
       "id": "video_music_media",
       "services_count": 15,
       "domains_count": 25
@@ -218,6 +223,22 @@
       ],
       "datasets": [
         "russian"
+      ],
+      "seed_status": "candidate_unverified"
+    },
+    {
+      "name": "2nd-no.com (Получения вирт номера)",
+      "slug": "2nd-no-com-polucheniya-virt-nomera",
+      "primary_domain": "2nd-no.com",
+      "domains": [
+        "2nd-no.com"
+      ],
+      "domain_count": 1,
+      "categories": [
+        "user_collections"
+      ],
+      "datasets": [
+        "user"
       ],
       "seed_status": "candidate_unverified"
     },

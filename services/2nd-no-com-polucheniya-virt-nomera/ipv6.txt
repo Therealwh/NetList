@@ -1,0 +1,7 @@
+# DNS-derived IP snapshot for 2nd-no.com (Получения вирт номера) (2nd-no-com-polucheniya-virt-nomera)
+# Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
+# DNS answers change and do not prove exclusive service ownership.
+# 2nd-no.com (Получения вирт номера) — 2nd-no.com
+2606:4700:20::681a:4d1
+2606:4700:20::681a:5d1
+2606:4700:20::ac43:4897

@@ -1,8 +1,8 @@
 {
   "counts": {
-    "services": 276,
-    "categories": 27,
-    "domains": 24137
+    "services": 277,
+    "categories": 28,
+    "domains": 24138
   },
   "services": {
     "1337x": {
@@ -15,6 +15,9 @@
       "domain_count": 1
     },
     "2gis": {
+      "domain_count": 1
+    },
+    "2nd-no-com-polucheniya-virt-nomera": {
       "domain_count": 1
     },
     "aeroflot": {

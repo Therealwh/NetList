@@ -1,0 +1,5 @@
+# Exact IPv4 host routes (/32); not service-owned ranges.
+# 2nd-no.com (Получения вирт номера) — 2nd-no.com
+104.26.4.209/32
+104.26.5.209/32
+172.67.72.151/32

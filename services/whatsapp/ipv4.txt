@@ -16,7 +16,7 @@
 # (no public DNS addresses found)
 
 # WhatsApp — whatsapp.com
-57.145.1.32
+157.240.22.53
 
 # WhatsApp — whatsapp.net
-57.144.181.32
+57.144.231.32

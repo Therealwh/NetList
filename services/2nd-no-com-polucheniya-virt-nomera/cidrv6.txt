@@ -1,0 +1,5 @@
+# Exact IPv6 host routes (/128); not service-owned ranges.
+# 2nd-no.com (Получения вирт номера) — 2nd-no.com
+2606:4700:20::681a:4d1/128
+2606:4700:20::681a:5d1/128
+2606:4700:20::ac43:4897/128
