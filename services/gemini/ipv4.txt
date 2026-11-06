@@ -2,13 +2,23 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Gemini — ai.google.dev
-142.251.218.174
+192.178.210.100
+192.178.210.101
+192.178.210.102
+192.178.210.113
+192.178.210.138
+192.178.210.139
 
 # Gemini — alkalimakersuite-pa.clients6.google.com
-142.251.219.138
+192.179.16.95
 
 # Gemini — apis.google.com
-142.251.218.174
+209.85.200.100
+209.85.200.101
+209.85.200.102
+209.85.200.113
+209.85.200.138
+209.85.200.139
 
 # Gemini — bard.google.com
 142.251.150.2
@@ -46,7 +56,12 @@
 216.239.32.29
 
 # Gemini — makersuite.google.com
-142.251.218.238
+142.250.152.100
+142.250.152.101
+142.250.152.102
+142.250.152.113
+142.250.152.138
+142.250.152.139
 
 # Gemini — proactivebackend-pa.googleapis.com
 142.251.150.1

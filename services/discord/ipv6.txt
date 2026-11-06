@@ -21,10 +21,10 @@
 # (no public DNS addresses found)
 
 # Discord — discord-attachments-uploads-prd.storage.googleapis.com
-2600:1901:4020:1b00::
-2600:1901:4021:1b00::
-2600:1901:4022:1b00::
-2600:1901:4023:1b00::
+2607:f8b0:4001:c56::cf
+2607:f8b0:4001:c6a::cf
+2607:f8b0:4001:c70::cf
+2607:f8b0:4001:c7b::cf
 
 # Discord — discord.co
 # (no public DNS addresses found)
@@ -81,7 +81,7 @@
 # (no public DNS addresses found)
 
 # Discord — discordapp.page.link
-2607:f8b0:4005:806::2001
+2607:f8b0:4001:c00::84
 
 # Discord — discordcdn.com
 # (no public DNS addresses found)

@@ -2,25 +2,25 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Docker Hub — compose-spec.io
-13.226.38.123
-13.226.38.15
-13.226.38.67
-13.226.38.68
+18.64.183.108
+18.64.183.34
+18.64.183.73
+18.64.183.83
 
 # Docker Hub — d1q6f0aelx0por.cloudfront.net
 # (no public DNS addresses found)
 
 # Docker Hub — d2wy8f7a9ursnm.cloudfront.net
-65.8.177.190
-65.8.177.231
-65.8.177.5
-65.8.177.72
+3.162.159.118
+3.162.159.164
+3.162.159.26
+3.162.159.6
 
 # Docker Hub — d36jcksde1wxzq.cloudfront.net
-18.173.121.105
-18.173.121.54
-18.173.121.81
-18.173.121.97
+3.167.138.3
+3.167.138.44
+3.167.138.45
+3.167.138.75
 
 # Docker Hub — docker.com
 23.185.0.4

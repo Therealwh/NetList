@@ -3,25 +3,25 @@
 # (no public DNS addresses found)
 
 # Dropbox — api-content-au.dropbox.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — api-content-eu.dropbox.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — api-content-jp.dropbox.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — api-content-photos.dropbox.com
-2620:100:601b:16::a27d:810/128
+2620:100:6018:16::a27d:310/128
 
 # Dropbox — api-content-uk.dropbox.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — api-content.dropbox.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — api-content1-eu.dropbox.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — app.hellosign.com
 # (no public DNS addresses found)
@@ -30,19 +30,19 @@
 # (no public DNS addresses found)
 
 # Dropbox — content-au.dropboxapi.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — content-eu.dropboxapi.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — content-jp.dropboxapi.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — content-uk.dropboxapi.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — content.dropboxapi.com
-2620:100:601b:14::a27d:80e/128
+2620:100:6018:14::a27d:30e/128
 
 # Dropbox — dash.ai
 # (no public DNS addresses found)
@@ -180,7 +180,7 @@
 # (no public DNS addresses found)
 
 # Dropbox — links.dropbox.com
-2620:100:601b:18::a27d:812/128
+2620:100:6018:18::a27d:312/128
 
 # Dropbox — paper-attachments.s3.amazonaws.com
 # (no public DNS addresses found)

@@ -12,6 +12,8 @@
 2a06:bc80:0:1000::16/128
 2a06:bc80:0:1000::17/128
 2a06:bc80:0:1000::18/128
+2a06:bc80:10:1000::398/128
+2a06:bc80:10:1000::3fd/128
 
 # Ubuntu — askubuntu.com
 # (no public DNS addresses found)

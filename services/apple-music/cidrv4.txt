@@ -1,52 +1,52 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Apple Music — amp-api-edge.music.apple.com
-151.101.43.6/32
+151.101.163.6/32
 
 # Apple Music — amp-api.music.apple.com
-151.101.203.6/32
+140.248.147.6/32
 
 # Apple Music — aod-ssl.itunes.apple.com
-96.6.230.248/32
+23.204.167.214/32
 
 # Apple Music — aod.itunes.apple.com
-17.253.5.140/32
-17.253.5.154/32
+17.253.127.131/32
+17.253.127.132/32
 
 # Apple Music — applemusic.com
 17.253.142.4/32
 
 # Apple Music — audio-ssl.itunes.apple.com
-96.6.230.248/32
+23.64.249.76/32
 
 # Apple Music — audio.itunes.apple.com
-17.253.5.136/32
-17.253.5.142/32
+17.253.127.135/32
+17.253.127.143/32
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-23.67.33.105/32
-23.67.33.81/32
+23.195.81.57/32
+23.195.81.81/32
 
 # Apple Music — music.apple.com
-23.45.136.27/32
+184.29.30.30/32
 
 # Apple Music — musicstatus.music.apple.com
-23.67.33.134/32
-23.67.33.146/32
+23.195.81.66/32
+23.195.81.80/32
 
 # Apple Music — mvod.itunes.apple.com
-17.253.5.136/32
-17.253.5.140/32
+17.253.127.137/32
+17.253.127.148/32
 
 # Apple Music — play.music.apple.com
-23.67.33.85/32
-23.67.33.94/32
+23.195.81.106/32
+23.195.81.67/32
 
 # Apple Music — speedysub.music.apple.com
-151.101.43.6/32
+140.248.147.6/32
 
 # Apple Music — streamingaudio.itunes.apple.com
-17.253.5.133/32
-17.253.5.144/32
+17.253.127.131/32
+17.253.127.137/32

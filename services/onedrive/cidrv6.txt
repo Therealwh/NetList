@@ -9,9 +9,8 @@
 # (no public DNS addresses found)
 
 # OneDrive — oneclient.sfx.ms
-2600:1406:2e00:b00::170b:e8b3/128
-2600:1406:2e00:b00::170b:e8b6/128
-2600:1406:2e00:b02::170b:e830/128
+2600:1407:e800:23::b819:7bc6/128
+2600:1407:e800:23::b819:7bcf/128
 
 # OneDrive — onedrive.com
 # (no public DNS addresses found)

@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Send Anywhere — send-anywhere.com
-18.239.199.106
-18.239.199.18
-18.239.199.71
-18.239.199.81
+13.225.47.110
+13.225.47.32
+13.225.47.61
+13.225.47.68

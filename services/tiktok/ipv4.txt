@@ -14,8 +14,8 @@
 # (no public DNS addresses found)
 
 # TikTok — capcut.com
-23.62.46.181
-23.62.46.182
+23.195.81.161
+23.195.81.186
 
 # TikTok — capcutapi.com
 # (no public DNS addresses found)
@@ -39,16 +39,16 @@
 # (no public DNS addresses found)
 
 # TikTok — lf16-effectcdn.byteeffecttos-g.com
-23.67.33.105
-23.67.33.70
+23.195.81.106
+23.195.81.74
 
 # TikTok — lf16-pkgcdn.pitaya-clientai.com
-23.61.246.214
-23.61.246.222
+23.220.163.203
+23.220.163.209
 
 # TikTok — marscode.com
-23.11.232.114
-23.11.232.52
+23.195.81.104
+23.195.81.74
 
 # TikTok — muscdn.com
 # (no public DNS addresses found)
@@ -57,51 +57,50 @@
 # (no public DNS addresses found)
 
 # TikTok — p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
-23.214.95.197
-23.214.95.214
+23.195.81.67
+23.195.81.83
 
 # TikTok — p16-tiktokcdn-com.akamaized.net
-23.61.246.198
-23.61.246.218
+23.220.163.197
+23.220.163.198
 
 # TikTok — roovza-launches.appsflyersdk.com
-18.244.218.167
-18.244.218.215
-18.244.218.68
-18.244.218.90
+108.156.105.132
+108.156.105.25
+108.156.105.4
+108.156.105.99
 
 # TikTok — roovza.inapps.appsflyersdk.com
-65.8.54.107
-65.8.54.19
-65.8.54.24
-65.8.54.55
+99.86.77.115
+99.86.77.120
+99.86.77.124
+99.86.77.77
 
 # TikTok — roovza.launches.appsflyersdk.com
-65.8.180.122
-65.8.180.124
-65.8.180.47
-65.8.180.64
+13.249.141.28
+13.249.141.62
+13.249.141.65
+13.249.141.81
 
 # TikTok — roovza.skadsdk.appsflyersdk.com
-52.85.151.123
-52.85.151.66
-52.85.151.7
-52.85.151.95
+13.226.53.113
+13.226.53.121
+13.226.53.77
+13.226.53.81
 
 # TikTok — sgpstatp.com
 # (no public DNS addresses found)
 
 # TikTok — snssdk.com
-122.14.229.128
+122.14.229.127
 
 # TikTok — tik-tokapi.com
 # (no public DNS addresses found)
 
 # TikTok — tiktok.com
-23.46.216.198
-23.46.216.199
-23.46.216.205
-23.46.216.209
+23.195.81.147
+23.195.81.152
+23.195.81.178
 
 # TikTok — tiktok.org
 104.21.0.123
@@ -123,26 +122,26 @@
 # (no public DNS addresses found)
 
 # TikTok — tiktokv.com
-23.212.62.196
-23.212.62.198
-23.212.62.199
-23.212.62.208
-23.212.62.209
-23.212.62.211
-23.212.62.213
-23.212.62.214
-23.212.62.218
+23.201.96.134
+23.201.96.137
+23.201.96.138
+23.201.96.142
+23.201.96.144
+23.201.96.150
+23.201.96.161
+23.201.96.164
+23.201.96.168
 
 # TikTok — tiktokv.us
 # (no public DNS addresses found)
 
 # TikTok — trae-api-sg.mchost.guru
-23.11.232.107
-23.11.232.9
+23.195.81.65
+23.195.81.67
 
 # TikTok — trae.ai
-23.192.228.77
-23.192.228.84
+184.25.255.146
+23.38.111.106
 
 # TikTok — ttwebview.com
 # (no public DNS addresses found)

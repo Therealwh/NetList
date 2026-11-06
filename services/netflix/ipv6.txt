@@ -6,12 +6,12 @@
 2606:4700::6812:572a
 
 # Netflix — e13252.dscg.akamaiedge.net
-2600:1406:3a00:98a::33c4
-2600:1406:3a00:98b::33c4
+2600:1407:e800:39b::33c4
+2600:1407:e800:3aa::33c4
 
 # Netflix — fast.com
-2600:1409:3c00:682::24fe
-2600:1409:3c00:68e::24fe
+2600:1418:a000:888::24fe
+2600:1418:a000:8a0::24fe
 
 # Netflix — flxvpn.net
 # (no public DNS addresses found)

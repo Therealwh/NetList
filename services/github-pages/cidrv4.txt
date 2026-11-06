@@ -1,43 +1,43 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # GitHub Pages — atom.io
-140.82.113.18/32
+140.82.112.18/32
 
 # GitHub Pages — dependabot.com
 140.82.112.18/32
 
 # GitHub Pages — ghcr.io
-172.182.252.136/32
+140.82.113.34/32
 
 # GitHub Pages — git.io
-140.82.112.21/32
+140.82.113.22/32
 
 # GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
-151.101.202.79/32
+146.75.106.79/32
 
 # GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
 47.79.66.61/32
 
 # GitHub Pages — github-cloud.s3.amazonaws.com
-16.15.230.14/32
-16.15.236.111/32
-16.15.244.129/32
-16.15.253.171/32
-16.15.253.66/32
-52.217.81.184/32
-54.231.164.98/32
-54.231.201.2/32
+16.15.171.17/32
+16.15.207.255/32
+16.15.212.245/32
+16.15.228.70/32
+16.15.247.141/32
+52.216.56.154/32
+52.217.118.250/32
+54.231.168.146/32
 
 # GitHub Pages — github.blog
 192.0.66.2/32
 
 # GitHub Pages — github.com
-172.182.252.133/32
+140.82.114.4/32
 
 # GitHub Pages — github.community
-140.82.114.18/32
+140.82.114.17/32
 
 # GitHub Pages — github.dev
-20.99.227.183/32
+52.224.38.193/32
 
 # GitHub Pages — github.io
 185.199.108.153/32
@@ -65,7 +65,7 @@
 140.82.114.18/32
 
 # GitHub Pages — githubhackathon.com
-140.82.113.18/32
+140.82.112.18/32
 
 # GitHub Pages — githubnext.com
 185.199.108.153/32
@@ -132,7 +132,7 @@
 # (no public DNS addresses found)
 
 # GitHub Pages — repo.new
-140.82.113.17/32
+140.82.113.18/32
 
 # GitHub Pages — thegithubshop.com
 23.227.38.65/32

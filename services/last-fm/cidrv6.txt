@@ -58,7 +58,7 @@
 # (no public DNS addresses found)
 
 # Last.fm — lastfm.freetls.fastly.net
-2a04:4e42:a::591/128
+2a04:4e42:94::591/128
 
 # Last.fm — lastfm.ph
 # (no public DNS addresses found)

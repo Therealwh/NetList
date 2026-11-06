@@ -2,59 +2,59 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — amp-api-edge.music.apple.com
-2a04:4e42:2f::774
+2a04:4e42:26::774
 
 # Apple Music — amp-api.music.apple.com
-2a04:4e42:2f::774
+2a04:4e42:26::774
 
 # Apple Music — aod-ssl.itunes.apple.com
-2600:1406:3a00:98d::20b6
-2600:1406:3a00:98f::20b6
+2600:1418:a000:88b::20b6
+2600:1418:a000:897::20b6
 
 # Apple Music — aod.itunes.apple.com
-2620:149:a00:f000::138
-2620:149:a00:f000::151
+2620:149:a32:f000::134
+2620:149:a32:f000::144
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
 
 # Apple Music — audio-ssl.itunes.apple.com
-2600:1406:3a00:98d::20b6
-2600:1406:3a00:98f::20b6
+2600:1418:a000:88b::20b6
+2600:1418:a000:897::20b6
 
 # Apple Music — audio.itunes.apple.com
-2620:149:a00:f000::136
-2620:149:a00:f000::139
+2620:149:a32:f000::137
+2620:149:a32:f000::138
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1406:2e00:b::6010:3787
-2600:1406:2e00:b::6010:3795
+2600:1418:a000:9::1728:630e
+2600:1418:a000:9::1728:6314
 
 # Apple Music — music.apple.com
-2600:1406:3a00:981::2a1
-2600:1406:3a00:985::2a1
-2600:1406:3a00:988::2a1
-2600:1406:3a00:98a::2a1
-2600:1406:3a00:98e::2a1
+2600:1407:e800:b82::2a1
+2600:1407:e800:b89::2a1
+2600:1407:e800:b8b::2a1
+2600:1407:e800:b8f::2a1
+2600:1407:e800:b94::2a1
 
 # Apple Music — musicstatus.music.apple.com
-2600:1406:2e00:1c::1743:2165
-2600:1406:2e00:1c::1743:2167
+2600:1418:a000:e::17c1:c8cb
+2600:1418:a000:e::17c1:c8d9
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a00:f000::132
-2620:149:a00:f000::142
+2620:149:a32:f000::142
+2620:149:a32:f000::148
 
 # Apple Music — play.music.apple.com
-2600:1406:2e00:63::173d:f6cd
-2600:1406:2e00:63::173d:f6d7
+2600:1418:a000:10::17c1:c80f
+2600:1418:a000:10::17c1:c813
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:2f::774
+2a04:4e42:8a::774
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a00:f000::137
-2620:149:a00:f000::141
+2620:149:a32:f000::140
+2620:149:a32:f000::148
