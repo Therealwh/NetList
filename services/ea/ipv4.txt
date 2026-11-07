@@ -2,46 +2,46 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # EA — anthemgame.com
-23.194.146.114
+23.62.65.112
 
 # EA — anthemthegame.com
-23.194.146.114
+23.62.65.112
 
 # EA — apexlegends.com
-23.194.174.178
+23.62.66.109
 
 # EA — awayoutgame.com
-23.194.146.114
+23.62.65.112
 
 # EA — battlefield.com
-23.194.146.116
+23.62.95.80
 
 # EA — battlefield1943.com
-23.194.146.116
+23.62.95.80
 
 # EA — battlefield3.com
 54.86.134.235
 
 # EA — battlefield4.com
-23.194.146.114
+23.62.65.112
 
 # EA — battlefield5.com
-23.194.146.116
+23.62.95.80
 
 # EA — battlefieldbadcompany2.com
-23.194.146.116
+23.62.95.80
 
 # EA — battlefieldheroes.com
 # (no public DNS addresses found)
 
 # EA — battlefieldv.com
-23.194.146.116
+23.62.95.80
 
 # EA — battlefront2.com
-23.194.146.114
+23.62.65.112
 
 # EA — battlefrontii.com
-23.194.146.114
+23.62.65.112
 
 # EA — battlelog.com
 13.249.141.56
@@ -50,7 +50,7 @@
 13.249.141.83
 
 # EA — bejeweledstars.com
-23.14.141.119
+23.39.148.243
 
 # EA — bejewled-stars.com
 23.14.141.119
@@ -82,26 +82,26 @@
 54.86.134.235
 
 # EA — cloudsync-prod.s3.amazonaws.com
-16.15.159.149
-16.15.172.160
-16.15.228.112
-16.15.245.39
-16.15.245.60
-16.182.65.130
-52.216.38.98
-52.217.201.50
+16.15.212.26
+16.15.215.134
+16.15.228.226
+16.15.237.82
+16.15.253.17
+16.15.253.248
+16.182.74.138
+16.182.99.202
 
 # EA — cncrivals.com
-23.194.146.116
+23.62.95.80
 
 # EA — commandandconquer.com
 23.39.148.243
 
 # EA — conquerwithcharacter.com
-23.194.146.114
+23.62.65.112
 
 # EA — crysis.jp
-23.194.146.114
+23.62.65.112
 
 # EA — daoc.net
 # (no public DNS addresses found)
@@ -114,13 +114,13 @@
 # (no public DNS addresses found)
 
 # EA — dawngate.com
-23.194.146.114
+23.62.65.112
 
 # EA — dawngatechronicles.com
-23.194.146.114
+23.62.65.112
 
 # EA — deadspacegame.com
-23.194.174.178
+23.62.66.109
 
 # EA — dice.se
 198.185.159.144
@@ -129,13 +129,13 @@
 198.49.23.145
 
 # EA — dicela.com
-23.194.174.178
+23.62.66.109
 
 # EA — dicela.net
-23.194.174.178
+23.62.66.109
 
 # EA — dragonage.com
-23.194.146.114
+23.62.65.112
 
 # EA — dragonagekeep.com
 23.217.76.194
@@ -168,30 +168,30 @@
 66.117.20.252
 
 # EA — eaaccess.com
-23.64.4.25
+23.220.212.222
 
 # EA — eaasserts-a.akamaihd.net
 # (no public DNS addresses found)
 
 # EA — eaassets-a.akamaihd.net
-23.220.162.134
-23.220.162.149
+23.1.254.201
+23.1.254.202
 
 # EA — eablackbox.com
 54.86.134.235
 
 # EA — eacashcard.com
-23.194.146.114
+23.62.65.112
 
 # EA — eacodigos.com
 # (no public DNS addresses found)
 
 # EA — eafootballworld.com
-23.54.76.35
-23.54.76.38
+23.220.246.138
+23.220.246.140
 
 # EA — eakorea.co.kr
-23.194.146.116
+23.62.95.80
 
 # EA — eamirrorsedge.com
 54.86.134.235
@@ -211,10 +211,10 @@
 194.169.225.56
 
 # EA — eaplay.com
-23.194.174.178
+23.62.66.109
 
 # EA — easports.com
-23.194.146.114
+23.62.65.112
 
 # EA — easports.jp
 23.62.65.112
@@ -254,7 +254,7 @@
 159.153.20.8
 
 # EA — frostbite.com
-23.64.5.237
+23.61.46.171
 
 # EA — futpromos.com
 23.62.65.112
@@ -305,7 +305,7 @@
 23.62.65.112
 
 # EA — mirrorsedge.com
-23.64.5.237
+23.61.46.171
 
 # EA — mirrorsedge.jp
 # (no public DNS addresses found)
@@ -338,7 +338,7 @@
 34.236.64.37
 
 # EA — needforspeed.com
-23.64.5.237
+23.61.46.171
 
 # EA — needforspeedboost.com
 54.86.134.235
@@ -384,8 +384,10 @@
 3.33.152.147
 
 # EA — origin-a.akamaihd.net
-23.46.30.64
-23.46.30.74
+184.25.119.42
+184.25.119.43
+184.25.119.63
+184.25.119.7
 
 # EA — origin.com
 23.62.81.44
@@ -409,10 +411,10 @@
 23.62.65.112
 
 # EA — pogo.com
-23.14.141.119
+23.54.41.93
 
 # EA — pogobeta.com
-23.39.148.243
+23.54.41.93
 
 # EA — popcap.com
 23.198.168.41
@@ -424,7 +426,7 @@
 54.86.134.235
 
 # EA — pvzheroes.com
-23.39.148.243
+23.54.41.93
 
 # EA — seaofsolitude.com
 217.160.0.46
@@ -445,7 +447,7 @@
 54.86.134.235
 
 # EA — spore.com
-# (no public DNS addresses found)
+44.193.86.92
 
 # EA — ssx3.com
 23.62.65.112
@@ -490,7 +492,7 @@
 23.62.95.80
 
 # EA — thesims.com
-23.60.126.212
+23.61.46.171
 
 # EA — thesims3.com
 32.200.218.200

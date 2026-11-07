@@ -38,8 +38,8 @@
 13.227.87.77
 
 # JetBrains — jetbrains.space
-108.132.213.233
-34.241.116.36
+34.241.48.27
+52.16.250.146
 
 # JetBrains — jetbrains.team
 54.217.240.89

@@ -3,7 +3,7 @@
 151.101.1.91/32
 
 # Mozilla — ads.mozilla.org
-151.101.161.91/32
+140.248.145.91/32
 
 # Mozilla — bugzilla.org
 104.21.65.126/32

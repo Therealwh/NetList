@@ -1,23 +1,23 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # BBC — aod-dash-uk-live.akamaized.net
-23.205.110.212/32
-23.205.110.214/32
+23.64.114.198/32
+23.64.114.204/32
 
 # BBC — aod-hls-uk-live.akamaized.net
 23.211.176.159/32
 23.211.176.160/32
 
 # BBC — aod-pod-uk-live.akamaized.net
-23.205.110.203/32
-23.205.110.204/32
+23.211.176.153/32
+23.211.176.183/32
 
 # BBC — as-dash-uk-live.akamaized.net
-23.211.176.173/32
-23.211.176.183/32
+23.64.114.210/32
+23.64.114.220/32
 
 # BBC — as-hls-uk-live.akamaized.net
-23.211.176.155/32
-23.211.176.183/32
+23.64.114.201/32
+23.64.114.205/32
 
 # BBC — bbc.co
 165.160.13.20/32
@@ -77,12 +77,12 @@
 # (no public DNS addresses found)
 
 # BBC — ve-dash-uk-live.akamaized.net
-23.220.162.204/32
-23.220.162.212/32
+23.210.244.17/32
+23.210.244.5/32
 
 # BBC — ve-uhd-push-uk-live.akamaized.net
-23.48.99.146/32
-23.48.99.155/32
+23.210.244.17/32
+23.210.244.20/32
 
 # BBC — vod-dash-uk-live.akamaized.net
 23.220.161.28/32
@@ -101,25 +101,25 @@
 23.33.20.216/32
 
 # BBC — vod-thumb-uk-live.akamaized.net
-23.220.161.16/32
-23.220.161.22/32
+23.33.20.219/32
+23.33.20.220/32
 
 # BBC — vod-thumb-ww-live.akamaized.net
 23.220.161.10/32
 23.220.161.20/32
 
 # BBC — vs-cmaf-push-uk-live.akamaized.net
-23.220.162.205/32
-23.220.162.220/32
+23.210.244.15/32
+23.210.244.20/32
 
 # BBC — vs-cmaf-pushb-ww-live.akamaized.net
 23.33.29.71/32
 23.33.29.79/32
 
 # BBC — vs-hls-push-uk-live.akamaized.net
-23.220.162.212/32
-23.220.162.216/32
+2.21.9.109/32
+2.21.9.119/32
 
 # BBC — vs-hls-pushb-uk-live.akamaized.net
-23.220.162.205/32
-23.220.162.213/32
+23.210.244.14/32
+23.210.244.7/32

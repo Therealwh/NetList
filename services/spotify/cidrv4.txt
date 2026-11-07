@@ -3,7 +3,7 @@
 35.186.224.24/32
 
 # Spotify — adstudio-assets.scdn.co
-140.248.146.248/32
+151.101.162.248/32
 
 # Spotify — audio-ak-spotify-com.akamaized.net
 23.219.87.106/32
@@ -23,12 +23,12 @@
 38.142.94.218/32
 
 # Spotify — heads-ak-spotify-com.akamaized.net
-23.220.162.141/32
-23.220.162.149/32
+23.1.254.201/32
+23.1.254.218/32
 
 # Spotify — heads4-ak-spotify-com.akamaized.net
-23.220.162.141/32
-23.220.162.149/32
+23.1.254.201/32
+23.1.254.218/32
 
 # Spotify — pscdn.co
 # (no public DNS addresses found)

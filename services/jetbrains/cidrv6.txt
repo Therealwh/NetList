@@ -30,8 +30,8 @@
 # (no public DNS addresses found)
 
 # JetBrains — jetbrains.space
-2a05:d018:38c:6202:d6a:b1bb:8ae6:d92b/128
-2a05:d018:38c:6203:cebb:68e4:5d70:24ce/128
+2a05:d018:38c:6202:3588:57fc:a038:ffea/128
+2a05:d018:38c:6203:d3ba:e2ec:eb53:53b5/128
 
 # JetBrains — jetbrains.team
 # (no public DNS addresses found)

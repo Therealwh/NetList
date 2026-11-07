@@ -3,8 +3,8 @@
 # (no public DNS addresses found)
 
 # LinkedIn — e122475.dscg.akamaiedge.net
-23.220.144.69/32
-23.220.144.75/32
+23.52.42.174/32
+23.52.42.210/32
 
 # LinkedIn — l-0005.dc-msedge.net
 13.107.43.14/32
@@ -25,7 +25,7 @@
 108.174.10.24/32
 
 # LinkedIn — linkedin.cn
-52.131.37.152/32
+52.130.75.155/32
 
 # LinkedIn — linkedin.com
 130.211.32.14/32

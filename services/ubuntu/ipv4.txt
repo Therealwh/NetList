@@ -88,7 +88,7 @@
 173.236.198.236
 
 # Ubuntu — ubuntu-news.ru
-5.253.60.6
+45.128.207.159
 
 # Ubuntu — ubuntu-nl.org
 212.72.227.45
