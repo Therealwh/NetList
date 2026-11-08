@@ -5,10 +5,10 @@
 # (no public DNS addresses found)
 
 # Nintendo — ac-pocketcamp.com
-18.238.171.14
-18.238.171.43
-18.238.171.6
-18.238.171.86
+18.238.238.128
+18.238.238.31
+18.238.238.5
+18.238.238.6
 
 # Nintendo — amiibo.com
 151.101.130.132
@@ -40,14 +40,14 @@
 192.159.190.35
 
 # Nintendo — drmario-world.com
-23.194.162.89
+23.196.150.28
 
 # Nintendo — excitebots.com
 192.159.190.35
 3.218.0.127
 
 # Nintendo — fire-emblem-heroes.com
-2.17.83.185
+23.44.240.123
 
 # Nintendo — fireemblemawakening.com
 192.159.190.32
@@ -107,8 +107,8 @@
 3.218.0.127
 
 # Nintendo — miitomo.com
-23.195.81.105
-23.195.81.107
+23.1.255.196
+23.1.255.198
 
 # Nintendo — miitomo.com.cn
 165.160.13.20
@@ -126,23 +126,23 @@
 
 # Nintendo — nintendo-europe.com
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.at
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.be
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.ch
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.co.jp
 13.248.184.86
@@ -154,8 +154,8 @@
 
 # Nintendo — nintendo.co.uk
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.co.za
 23.227.38.65
@@ -175,34 +175,34 @@
 
 # Nintendo — nintendo.de
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.dk
 62.220.191.214
 
 # Nintendo — nintendo.es
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.eu
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.fi
 62.220.191.214
 
 # Nintendo — nintendo.fr
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.it
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.jp
 202.247.68.5
@@ -212,21 +212,21 @@
 
 # Nintendo — nintendo.nl
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.no
 62.220.191.214
 
 # Nintendo — nintendo.pt
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.ru
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendo.se
 62.220.191.214
@@ -245,8 +245,8 @@
 
 # Nintendo — nintendoeurope.com
 18.198.224.184
-3.76.92.204
 52.28.147.254
+63.178.135.67
 
 # Nintendo — nintendolabo.cn
 165.160.13.20
@@ -315,6 +315,7 @@
 
 # Nintendo — pokemon.com
 3.213.215.176
+34.225.124.12
 54.161.23.154
 
 # Nintendo — pokemonbank.com
@@ -418,7 +419,7 @@
 3.218.0.127
 
 # Nintendo — supermariorun.com
-2.17.80.84
+23.196.155.213
 
 # Nintendo — superpapermario.com
 192.159.190.35

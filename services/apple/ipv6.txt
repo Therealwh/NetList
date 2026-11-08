@@ -110,39 +110,39 @@
 # (no public DNS addresses found)
 
 # Apple — a1.mzstatic.com
-2600:1407:e800:b80::2a1
-2600:1407:e800:b85::2a1
-2600:1407:e800:b8c::2a1
-2600:1407:e800:b91::2a1
-2600:1407:e800:b92::2a1
+2600:1404:ec00:2380::2a1
+2600:1404:ec00:2385::2a1
+2600:1404:ec00:2386::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:238a::2a1
 
 # Apple — a2.mzstatic.com
-2600:1407:e800:b80::2a1
-2600:1407:e800:b85::2a1
-2600:1407:e800:b8c::2a1
-2600:1407:e800:b91::2a1
-2600:1407:e800:b92::2a1
+2600:1404:ec00:2380::2a1
+2600:1404:ec00:2385::2a1
+2600:1404:ec00:2386::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:238a::2a1
 
 # Apple — a3.mzstatic.com
-2600:1407:e800:b80::2a1
-2600:1407:e800:b85::2a1
-2600:1407:e800:b8c::2a1
-2600:1407:e800:b91::2a1
-2600:1407:e800:b92::2a1
+2600:1404:ec00:2380::2a1
+2600:1404:ec00:2385::2a1
+2600:1404:ec00:2386::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:238a::2a1
 
 # Apple — a4.mzstatic.com
-2600:1407:e800:b80::2a1
-2600:1407:e800:b85::2a1
-2600:1407:e800:b8c::2a1
-2600:1407:e800:b91::2a1
-2600:1407:e800:b92::2a1
+2600:1404:ec00:2380::2a1
+2600:1404:ec00:2385::2a1
+2600:1404:ec00:2386::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:238a::2a1
 
 # Apple — a5.mzstatic.com
-2600:1407:e800:b80::2a1
-2600:1407:e800:b85::2a1
-2600:1407:e800:b8c::2a1
-2600:1407:e800:b91::2a1
-2600:1407:e800:b92::2a1
+2600:1404:ec00:2380::2a1
+2600:1404:ec00:2385::2a1
+2600:1404:ec00:2386::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:238a::2a1
 
 # Apple — aaagradeheadphones.com
 # (no public DNS addresses found)
@@ -163,8 +163,8 @@
 # (no public DNS addresses found)
 
 # Apple — adcdownload.apple.com
-2620:149:a32:f000::149
-2620:149:a32:f000::150
+2620:149:a00:f000::143
+2620:149:a00:f000::152
 
 # Apple — adcdownload.apple.com.akadns.net
 # (no public DNS addresses found)
@@ -211,19 +211,19 @@
 # (no public DNS addresses found)
 
 # Apple — amp-api-edge.apps.apple.com
-2a04:4e42:26::774
+2a04:4e42:5::774
 
 # Apple — amp-api-search-edge.apps.apple.com
-2a04:4e42:26::774
+2a04:4e42:5::774
 
 # Apple — amp-api-updates.apps.apple.com
-2a04:4e42:26::774
+2a04:4e42:5::774
 
 # Apple — amp-api.apps.apple.com
-2a04:4e42:26::774
+2a04:4e42:5::774
 
 # Apple — amp-api.media.apple.com
-2a04:4e42:26::774
+2a04:4e42:5::774
 
 # Apple — annstores.net
 # (no public DNS addresses found)
@@ -235,11 +235,11 @@
 # (no public DNS addresses found)
 
 # Apple — api-edge.apps.apple.com
-2600:1418:a000:280::2a1
-2600:1418:a000:28f::2a1
-2600:1418:a000:29c::2a1
-2600:1418:a000:2a4::2a1
-2600:1418:a000:2ab::2a1
+2600:1409:9800:f84::2a1
+2600:1409:9800:f87::2a1
+2600:1409:9800:f89::2a1
+2600:1409:9800:f8c::2a1
+2600:1409:9800:f91::2a1
 
 # Apple — aple.com
 # (no public DNS addresses found)
@@ -254,14 +254,14 @@
 # (no public DNS addresses found)
 
 # Apple — app-site-association.cdn-apple.com
-2620:149:a00:f000::139
-2620:149:a00:f000::147
-2620:149:a10:f000::136
-2620:149:a10:f000::156
-2620:149:a2d:0:17:253:251:4
-2620:149:a2d:0:17:253:251:6
-2620:149:a32:f000::142
-2620:149:a32:f000::196
+2620:149:a00:0:17:253:253:4
+2620:149:a00:0:17:253:253:6
+2620:149:a00:f000::141
+2620:149:a00:f000::158
+2620:149:a10:f000::144
+2620:149:a10:f000::157
+2620:149:a32:f000::151
+2620:149:a32:f000::195
 
 # Apple — app-store.wang
 # (no public DNS addresses found)
@@ -288,14 +288,16 @@
 # (no public DNS addresses found)
 
 # Apple — appldnld.apple.com
-2620:149:a32:f000::142
+2620:149:a00:f000::145
+2620:149:a00:f000::149
 
 # Apple — appldnld.apple.com.edgesuite.net
-2600:1407:e800:1900::173b:b14f
-2600:1407:e800:1904::b819:3b54
+2600:1404:ec00:2404::17db:572e
+2600:1404:ec00:240e::1735:7f8e
 
 # Apple — appldnld.g.aaplimg.com
-2620:149:a32:f000::142
+2620:149:a00:f000::145
+2620:149:a00:f000::149
 
 # Apple — apple-appstore.cn
 # (no public DNS addresses found)
@@ -328,11 +330,11 @@
 # (no public DNS addresses found)
 
 # Apple — apple-events.akamaized.net
-2600:1407:e800:1900::173b:b159
-2600:1407:e800:1900::173b:b15a
-2600:1407:e800:1902::17c0:dc84
-2600:1407:e800:1902::17c0:dc85
-2600:1407:e800:1902::17c0:dc86
+2600:1409:9800:26::6860:a350
+2600:1409:9800:26::6860:a352
+2600:1409:9800:26::6860:a354
+2600:1409:9800:26::6860:a356
+2600:1409:9800:26::6860:a35b
 
 # Apple — apple-expo.com
 # (no public DNS addresses found)
@@ -368,14 +370,14 @@
 # (no public DNS addresses found)
 
 # Apple — apple-native-relay.apple.com
-2620:149:136e:1::4
-2620:149:136e::5
-2620:149:a42:607::5
-2620:149:a42:607::7
-2620:149:a42:607::8
-2620:149:a42:607::a
-2620:149:a42:607::b
-2620:149:a42:607::d
+2620:149:136b:2::f
+2620:149:a43:304::5
+2620:149:a43:304::6
+2620:149:a43:305::12
+2620:149:a43:305::13
+2620:149:a43:309::4
+2620:149:a43:309::6
+2620:149:a43:309::8
 
 # Apple — apple-online.com
 # (no public DNS addresses found)
@@ -636,8 +638,8 @@
 # (no public DNS addresses found)
 
 # Apple — apple.news
-2600:1407:e800:25::17dc:ce89
-2600:1407:e800:25::17dc:ce8b
+2600:1404:ec00:3d::17dc:6198
+2600:1404:ec00:3d::17dc:61af
 
 # Apple — apple.nl
 # (no public DNS addresses found)
@@ -883,8 +885,8 @@
 # (no public DNS addresses found)
 
 # Apple — appleid.cdn-apple.com
-2600:1407:e800:1902::17c0:dc86
-2600:1407:e800:1904::b819:3b4d
+2600:1404:ec00:2408::1735:7fe7
+2600:1404:ec00:240e::1735:7f8f
 
 # Apple — appleid.com
 # (no public DNS addresses found)
@@ -1325,8 +1327,8 @@
 # (no public DNS addresses found)
 
 # Apple — apps.mzstatic.com
-2620:149:a32:f000::142
-2620:149:a32:f000::150
+2620:149:a00:f000::137
+2620:149:a00:f000::141
 
 # Apple — appsto.re
 # (no public DNS addresses found)
@@ -2379,17 +2381,17 @@
 # (no public DNS addresses found)
 
 # Apple — cds-cdn.v.aaplimg.com
-2620:149:a32:f000::144
+2620:149:a00:f000::146
 
 # Apple — cds.apple.com
-2620:149:a32:f000::144
+2620:149:a00:f000::146
 
 # Apple — cds.apple.com.akadns.net
 # (no public DNS addresses found)
 
 # Apple — cdsassets.apple.com
-2620:149:a32:f000::145
-2620:149:a32:f000::146
+2620:149:a00:f000::134
+2620:149:a00:f000::144
 
 # Apple — cheap-beats-by-dre.net
 # (no public DNS addresses found)
@@ -2563,57 +2565,57 @@
 # (no public DNS addresses found)
 
 # Apple — cl1-cdn.origin-apple.com.akadns.net
-2620:149:a32:f000::131
-2620:149:a32:f000::139
+2620:149:a00:f000::143
+2620:149:a00:f000::151
 
 # Apple — cl1.apple.com
-2620:149:a32:f000::131
-2620:149:a32:f000::139
+2620:149:a00:f000::143
+2620:149:a00:f000::151
 
 # Apple — cl2-cdn.origin-apple.com.akadns.net
-2620:149:a32:f000::140
-2620:149:a32:f000::142
+2620:149:a00:0:17:253:253:4
+2620:149:a00:0:17:253:253:6
 
 # Apple — cl2-cn.apple.com
 # (no public DNS addresses found)
 
 # Apple — cl2.apple.com
-2620:149:a32:f000::140
-2620:149:a32:f000::142
+2620:149:a00:0:17:253:253:4
+2620:149:a00:0:17:253:253:6
 
 # Apple — cl2.apple.com.edgekey.net.globalredir.akadns.net
 # (no public DNS addresses found)
 
 # Apple — cl3-cdn.origin-apple.com.akadns.net
-2620:149:a32:f000::197
-2620:149:a32:f000::198
+2620:149:a00:f000::145
+2620:149:a00:f000::158
 
 # Apple — cl3.apple.com
-2620:149:a32:f000::197
-2620:149:a32:f000::198
+2620:149:a00:f000::145
+2620:149:a00:f000::158
 
 # Apple — cl4-cdn.origin-apple.com.akadns.net
-2620:149:a32:f000::138
-2620:149:a32:f000::145
+2620:149:a00:f000::143
+2620:149:a00:f000::158
 
 # Apple — cl4-cn.apple.com
 # (no public DNS addresses found)
 
 # Apple — cl4.apple.com
-2620:149:a32:f000::138
-2620:149:a32:f000::145
+2620:149:a00:f000::143
+2620:149:a00:f000::158
 
 # Apple — cl5-cdn.origin-apple.com.akadns.net
-2600:1407:e800:b81::3a14
-2600:1407:e800:b8d::3a14
+2600:1409:9800:685::3a14
+2600:1409:9800:689::3a14
 
 # Apple — cl5.apple.com
-2600:1407:e800:b81::3a14
-2600:1407:e800:b8d::3a14
+2600:1409:9800:685::3a14
+2600:1409:9800:689::3a14
 
 # Apple — clientflow.apple.com
-2620:149:a32:f000::141
-2620:149:a32:f000::146
+2620:149:a00:f000::142
+2620:149:a00:f000::147
 
 # Apple — clientflow.apple.com.akadns.net
 # (no public DNS addresses found)
@@ -2631,12 +2633,12 @@
 # (no public DNS addresses found)
 
 # Apple — configuration-lb.ls-apple.com.akadns.net
-2620:149:a32:f000::141
-2620:149:a32:f000::150
+2620:149:a00:0:17:253:253:6
+2620:149:a00:0:17:253:253:9
 
 # Apple — configuration.apple.com
-2620:149:a32:f000::134
-2620:149:a32:f000::147
+2620:149:a00:f000::147
+2620:149:a00:f000::150
 
 # Apple — configuration.apple.com.akadns.net
 # (no public DNS addresses found)
@@ -2660,12 +2662,12 @@
 # (no public DNS addresses found)
 
 # Apple — cstat.apple.com
-2600:1418:a000:10::17c1:c802
-2600:1418:a000:10::17c1:c808
+2620:149:a00:f000::131
+2620:149:a00:f000::142
 
 # Apple — cstat.cdn-apple.com
-2620:149:a32:f000::133
-2620:149:a32:f000::138
+2620:149:a00:f000::131
+2620:149:a00:f000::142
 
 # Apple — cuffiesaldi.com
 # (no public DNS addresses found)
@@ -2771,12 +2773,12 @@
 # (no public DNS addresses found)
 
 # Apple — devimages-cdn.apple.com
-2620:149:a32:f000::138
-2620:149:a32:f000::146
+2620:149:a00:f000::138
+2620:149:a00:f000::139
 
 # Apple — devstreaming-cdn.apple.com
-2620:149:a32:f000::138
-2620:149:a32:f000::149
+2620:149:a00:f000::149
+2620:149:a00:f000::153
 
 # Apple — digicert.com
 # (no public DNS addresses found)
@@ -2812,7 +2814,8 @@
 # (no public DNS addresses found)
 
 # Apple — download.developer.apple.com
-2620:149:a32:f000::146
+2620:149:a00:f000::131
+2620:149:a00:f000::140
 
 # Apple — downloadsforipod.com
 # (no public DNS addresses found)
@@ -3040,8 +3043,8 @@
 # (no public DNS addresses found)
 
 # Apple — experiments.apple.com
-2600:1407:e800:393::f55
-2600:1407:e800:3b3::f55
+2600:1404:ec00:586::f55
+2600:1404:ec00:589::f55
 
 # Apple — faceid99.com
 # (no public DNS addresses found)
@@ -3149,23 +3152,23 @@
 # (no public DNS addresses found)
 
 # Apple — gsp13-cn.ls.apple.com
-2600:1418:a000:9::1728:6306
-2600:1418:a000:9::1728:630d
+2600:1404:ec00:50::17dc:67ae
+2600:1404:ec00:50::17dc:67b0
 
 # Apple — gsp4-cn.ls.apple.com
-2600:1418:a000:9::1728:6307
-2600:1418:a000:9::1728:6308
+2600:1404:ec00:50::17dc:67a7
+2600:1404:ec00:50::17dc:67a9
 
 # Apple — gsp4-cn.ls.apple.com.edgekey.net
-2600:1407:e800:b88::7be
-2600:1407:e800:b91::7be
+2600:1409:9800:68d::7be
+2600:1409:9800:68e::7be
 
 # Apple — gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 # (no public DNS addresses found)
 
 # Apple — gsp5-cn.ls.apple.com
-2600:1418:a000:9::1728:6307
-2600:1418:a000:9::1728:6309
+2600:1404:ec00:50::17dc:67a7
+2600:1404:ec00:50::17dc:67a9
 
 # Apple — gsp85-cn-ssl.ls.apple.com
 # (no public DNS addresses found)
@@ -3189,16 +3192,15 @@
 # (no public DNS addresses found)
 
 # Apple — gspe19-cn.ls.apple.com
-240e:968:1000:2::165
-240e:cf:8000:1001::7f
+# (no public DNS addresses found)
 
 # Apple — gspe21-ssl.ls.apple.com
-2620:149:a32:f000::131
-2620:149:a32:f000::148
+2600:1404:ec00:d::17da:e8a4
+2600:1404:ec00:d::17da:e8a9
 
 # Apple — gspe35-ssl.ls.apple.com
-2620:149:a32:f000::140
-2620:149:a32:f000::141
+2600:1409:9800:689::124e
+2600:1409:9800:697::124e
 
 # Apple — gspe79-cn-ssl.ls.apple.com
 # (no public DNS addresses found)
@@ -3537,8 +3539,8 @@
 # (no public DNS addresses found)
 
 # Apple — images.apple.com.edgekey.net.globalredir.akadns.net
-2600:1407:e800:688::1aca
-2600:1407:e800:689::1aca
+2600:1404:ec00:d81::1aca
+2600:1404:ec00:d86::1aca
 
 # Apple — imessage.tv
 # (no public DNS addresses found)
@@ -3562,46 +3564,43 @@
 # (no public DNS addresses found)
 
 # Apple — init-kt.apple.com
-2600:1418:a000:9::1728:6304
-2600:1418:a000:9::1728:6310
+2600:1409:9800:17::1701:ffc6
+2600:1409:9800:17::1701:ffc8
 
 # Apple — init-p01md-lb.push-apple.com.akadns.net
-2600:1407:e800:15::17cd:592d
-2600:1407:e800:15::17cd:593e
+2600:1404:ec00:d::17da:e897
+2600:1404:ec00:d::17da:e8b9
 
 # Apple — init-p01md.apple.com
-2600:1407:e800:15::17cd:592d
-2600:1407:e800:15::17cd:593e
+2600:1404:ec00:d::17da:e897
+2600:1404:ec00:d::17da:e8b9
 
 # Apple — init-p01st-lb.push-apple.com.akadns.net
-2620:149:a32:f000::143
-2620:149:a32:f000::145
+2620:149:a00:f000::140
+2620:149:a00:f000::153
 
 # Apple — init-p01st.push.apple.com
-2620:149:a32:f000::140
-2620:149:a32:f000::145
+2620:149:a00:f000::140
+2620:149:a00:f000::153
 
 # Apple — init-s01st-lb.push-apple.com.akadns.net
-2620:149:a32:f000::144
-2620:149:a32:f000::149
+2620:149:a00:f000::141
+2620:149:a00:f000::142
 
 # Apple — init-s01st.push.apple.com
-2620:149:a32:f000::137
-2620:149:a32:f000::146
+2620:149:a00:f000::132
+2620:149:a00:f000::146
 
 # Apple — init.ess.apple.com
-2620:149:a32:f000::137
-2620:149:a32:f000::138
-2620:149:a32:f000::139
-2620:149:a32:f000::149
+# (no public DNS addresses found)
 
 # Apple — init.gc-lb.apple.com.akadns.net
-2600:1407:e800:26::17dc:ce20
-2600:1407:e800:26::17dc:ce3e
+2600:1404:ec00:f::17da:e805
+2600:1404:ec00:f::17da:e806
 
 # Apple — init.gc.apple.com
-2600:1407:e800:26::17dc:ce20
-2600:1407:e800:26::17dc:ce3e
+2600:1404:ec00:f::17da:e805
+2600:1404:ec00:f::17da:e806
 
 # Apple — insidear.cn
 # (no public DNS addresses found)
@@ -3679,8 +3678,8 @@
 # (no public DNS addresses found)
 
 # Apple — ipcdn.apple.com
-2620:149:a32:f000::139
-2620:149:a32:f000::147
+2620:149:a00:f000::140
+2620:149:a00:f000::145
 
 # Apple — iphine.com
 # (no public DNS addresses found)
@@ -3695,8 +3694,8 @@
 # (no public DNS addresses found)
 
 # Apple — iphone-ld.apple.com
-2620:149:a32:f000::139
-2620:149:a32:f000::195
+2620:149:a00:f000::152
+2620:149:a00:f000::160
 
 # Apple — iphone-ld.origin-apple.com.akadns.net
 # (no public DNS addresses found)
@@ -3963,54 +3962,54 @@
 # (no public DNS addresses found)
 
 # Apple — is1-ssl.mzstatic.com
-2620:149:a32:f000::135
-2620:149:a32:f000::138
-2620:149:a32:f000::145
-2620:149:a32:f000::150
+2620:149:a00:f000::136
+2620:149:a00:f000::143
+2620:149:a00:f000::155
+2620:149:a00:f000::159
 
 # Apple — is1.mzstatic.com
-2600:1407:e800:1901::b819:3b05
-2600:1407:e800:1901::b819:3b0d
+2600:1405:1000:d::1722:acb2
+2600:1405:1000:d::1722:acbb
 
 # Apple — is2-ssl.mzstatic.com
-2620:149:a32:f000::135
-2620:149:a32:f000::141
-2620:149:a32:f000::148
-2620:149:a32:f000::197
+2620:149:a00:f000::140
+2620:149:a00:f000::144
+2620:149:a00:f000::156
+2620:149:a00:f000::157
 
 # Apple — is2.mzstatic.com
-2600:1407:e800:1901::b819:3b05
-2600:1407:e800:1901::b819:3b0d
+2600:1405:1000:d::1722:acb2
+2600:1405:1000:d::1722:acbb
 
 # Apple — is3-ssl.mzstatic.com
-2620:149:a32:f000::133
-2620:149:a32:f000::134
-2620:149:a32:f000::139
-2620:149:a32:f000::148
+2620:149:a00:f000::144
+2620:149:a00:f000::147
+2620:149:a00:f000::149
+2620:149:a00:f000::160
 
 # Apple — is3.mzstatic.com
-2600:1407:e800:1901::b819:3b05
-2600:1407:e800:1901::b819:3b0d
+2600:1404:ec00:2400::17db:576b
+2600:1404:ec00:2402::17db:5749
 
 # Apple — is4-ssl.mzstatic.com
-2620:149:a32:f000::135
-2620:149:a32:f000::141
-2620:149:a32:f000::148
-2620:149:a32:f000::197
+2620:149:a00:0:17:253:253:4
+2620:149:a00:0:17:253:253:5
+2620:149:a00:0:17:253:253:6
+2620:149:a00:0:17:253:253:8
 
 # Apple — is4.mzstatic.com
-2600:1407:e800:1901::b819:3b05
-2600:1407:e800:1901::b819:3b0d
+2600:1405:1000:d::1722:acb2
+2600:1405:1000:d::1722:acbb
 
 # Apple — is5-ssl.mzstatic.com
-2620:149:a32:f000::131
-2620:149:a32:f000::139
-2620:149:a32:f000::141
-2620:149:a32:f000::198
+2620:149:a00:0:17:253:253:4
+2620:149:a00:0:17:253:253:5
+2620:149:a00:0:17:253:253:6
+2620:149:a00:0:17:253:253:7
 
 # Apple — is5.mzstatic.com
-2600:1407:e800:1901::b819:3b05
-2600:1407:e800:1901::b819:3b0d
+2600:1405:1000:d::1722:acb2
+2600:1405:1000:d::1722:acbb
 
 # Apple — ischool.com
 # (no public DNS addresses found)
@@ -4151,8 +4150,8 @@
 # (no public DNS addresses found)
 
 # Apple — km.support.apple.com
-2600:1407:e800:15::17cd:592e
-2600:1407:e800:15::17cd:593c
+2600:1404:ec00:d::17da:e89f
+2600:1404:ec00:d::17da:e8b2
 
 # Apple — kobbeatssbydredk.com
 # (no public DNS addresses found)
@@ -4356,36 +4355,34 @@
 # (no public DNS addresses found)
 
 # Apple — maps.apple.com
-2600:1418:a000:17::1726:6d48
-2600:1418:a000:17::1726:6d4c
+2600:1409:9800:bf::172e:e467
+2600:1409:9800:bf::172e:e46a
 
 # Apple — mask-api.icloud.com
-2620:149:a42:980::11
-2620:149:a42:980::2:2
-2620:149:a42:980::2:3
-2620:149:a42:980::2:5
-2620:149:a42:980::9
-2620:149:a42:aff::2:7
+2620:149:a43:380:8::1
+2620:149:a43:380::2:1
+2620:149:a43:380::2:2
+2620:149:a43:380::8
 
 # Apple — mask-h2.icloud.com
-2620:149:136e:1::5
-2620:149:a42:607::6
-2620:149:a42:607::7
-2620:149:a42:607::8
-2620:149:a42:607::9
-2620:149:a42:607::a
-2620:149:a42:607::b
-2620:149:a42:607::c
+2620:149:136b:2::f
+2620:149:a43:304::5
+2620:149:a43:304::6
+2620:149:a43:304::7
+2620:149:a43:305::12
+2620:149:a43:308::13
+2620:149:a43:309::4
+2620:149:a43:309::7
 
 # Apple — mask.icloud.com
-2620:149:136e:1::5
-2620:149:136e::4
-2620:149:a42:607::4
-2620:149:a42:607::5
-2620:149:a42:607::7
-2620:149:a42:607::a
-2620:149:a42:607::b
-2620:149:a42:607::d
+2620:149:136b:2::f
+2620:149:a43:304::5
+2620:149:a43:304::6
+2620:149:a43:304::7
+2620:149:a43:305::12
+2620:149:a43:308::13
+2620:149:a43:309::4
+2620:149:a43:309::7
 
 # Apple — mbeats-tech.com
 # (no public DNS addresses found)
@@ -4400,33 +4397,30 @@
 # (no public DNS addresses found)
 
 # Apple — mensura.cdn-apple.com
-2620:149:a32:f000::134
-2620:149:a32:f000::150
+2620:149:a00:f000::135
+2620:149:a00:f000::144
 
 # Apple — mesu-cdn.apple.com.akadns.net
-2620:149:a32:f000::144
-2620:149:a32:f000::151
+2620:149:a00:0:17:253:253:5
+2620:149:a00:0:17:253:253:6
 
 # Apple — mesu-china.apple.com.akadns.net
 # (no public DNS addresses found)
 
 # Apple — mesu.apple.com
-2620:149:a32:f000::143
-2620:149:a32:f000::149
+2620:149:a00:0:17:253:253:7
+2620:149:a00:0:17:253:253:8
 
 # Apple — metrics.icloud.com
-2620:149:1363::6
-2620:149:1363::e
-2620:149:a42:980::14
-2620:149:a42:980::c
-2620:149:a42:aff::4:7
+2620:149:a42:1080::16
+2620:149:a42:1080::4:1
 
 # Apple — micstl.com
 # (no public DNS addresses found)
 
 # Apple — ml.cdn-apple.com
-2620:149:a32:f000::195
-2620:149:a32:f000::197
+2620:149:a00:f000::146
+2620:149:a00:f000::152
 
 # Apple — mmonsterheadphones.net
 # (no public DNS addresses found)
@@ -4750,8 +4744,8 @@
 # (no public DNS addresses found)
 
 # Apple — oscdn.apple.com
-2600:1407:e800:1900::173b:b14a
-2600:1407:e800:1904::b819:3b46
+2600:1404:ec00:240e::1735:7f85
+2600:1404:ec00:240e::1735:7f8a
 
 # Apple — oscdn.origin-apple.com.akadns.net
 # (no public DNS addresses found)
@@ -4763,14 +4757,14 @@
 # (no public DNS addresses found)
 
 # Apple — p-events-delivery.akamaized.net
-2600:1407:e800:1901::b819:3b0f
-2600:1407:e800:1902::17c0:dc86
+2600:1404:ec00:240a::1735:7fcd
+2600:1404:ec00:240c::1735:7fab
 
 # Apple — pancake.apple.com
-2620:149:a14:0:17:253:192:6
-2620:149:a14:0:17:253:192:8
-2620:149:a28:f000::1
-2620:149:a28:f100::2
+2620:149:a00:0:17:253:253:5
+2620:149:a00:0:17:253:253:7
+2620:149:a06:f000::195
+2620:149:a06:f000::197
 
 # Apple — pascherbeatsmonster.com
 # (no public DNS addresses found)
@@ -4779,8 +4773,8 @@
 # (no public DNS addresses found)
 
 # Apple — pba0.apple.com
-2620:149:a32:f000::139
-2620:149:a32:f000::141
+2620:149:a00:f000::136
+2620:149:a00:f000::144
 
 # Apple — perfectkickz.net
 # (no public DNS addresses found)
@@ -4801,14 +4795,12 @@
 # (no public DNS addresses found)
 
 # Apple — pong.icloud.com
-2a02:26f7:12:0:ace0:304::
-2a02:26f7:12:0:ace0:305::
-2a02:26f7:12:0:ace0:306::
-2a02:26f7:12:0:ace0:307::
-2a02:26f7:12:2:ace0:383::
-2a02:26f7:12:2:ace0:385::
-2a02:26f7:12:2:ace0:386::
-2a02:26f7:12:2:ace0:387::
+2620:149:a42:280::20
+2620:149:a42:280::38
+2620:149:a42:280::40
+2620:149:a42:280::4:2
+2620:149:a42:280::4:5
+2620:149:a42:280::4:9
 
 # Apple — powerbeats2wireless.com
 # (no public DNS addresses found)
@@ -4823,21 +4815,21 @@
 # (no public DNS addresses found)
 
 # Apple — probe.icloud.com
-2a02:26f7:12:0:ace0:304::
-2a02:26f7:12:0:ace0:305::
-2a02:26f7:12:0:ace0:306::
-2a02:26f7:12:0:ace0:307::
-2a02:26f7:12:2:ace0:383::
-2a02:26f7:12:2:ace0:385::
-2a02:26f7:12:2:ace0:386::
-2a02:26f7:12:2:ace0:387::
+2620:149:a42:280::20
+2620:149:a42:280::28
+2620:149:a42:280::38
+2620:149:a42:280::4:1
+2620:149:a42:280::4:8
+2620:149:a42:280::4:9
+2620:149:a42:280::4:a
+2620:149:a42:280::4:b
 
 # Apple — probe.siri.apple.com
 # (no public DNS addresses found)
 
 # Apple — prod-support.apple-support.akadns.net
-2600:1407:e800:15::17cd:592e
-2600:1407:e800:15::17cd:593c
+2600:1409:9800:17::1701:ffc7
+2600:1409:9800:17::1701:ffca
 
 # Apple — promonsterbeatsbydre.com
 # (no public DNS addresses found)
@@ -4846,8 +4838,8 @@
 # (no public DNS addresses found)
 
 # Apple — publicassets.cdn-apple.com
-2620:149:a32:f000::144
-2620:149:a32:f000::145
+2620:149:a00:f000::141
+2620:149:a00:f000::153
 
 # Apple — pullstring.net
 # (no public DNS addresses found)
@@ -4916,43 +4908,43 @@
 # (no public DNS addresses found)
 
 # Apple — s.mzstatic.com
-2620:149:a32:f000::144
-2620:149:a32:f000::148
+2620:149:a00:f000::143
+2620:149:a00:f000::144
 
 # Apple — s1.mzstatic.com
-2600:1407:e800:b80::2a1
-2600:1407:e800:b82::2a1
-2600:1407:e800:b8c::2a1
-2600:1407:e800:b8f::2a1
-2600:1407:e800:b91::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:2389::2a1
+2600:1404:ec00:238b::2a1
+2600:1404:ec00:238e::2a1
+2600:1404:ec00:238f::2a1
 
 # Apple — s2.mzstatic.com
-2600:1407:e800:b83::2a1
-2600:1407:e800:b84::2a1
-2600:1407:e800:b88::2a1
-2600:1407:e800:b90::2a1
-2600:1407:e800:b97::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:2389::2a1
+2600:1404:ec00:238b::2a1
+2600:1404:ec00:238e::2a1
+2600:1404:ec00:238f::2a1
 
 # Apple — s3.mzstatic.com
-2600:1407:e800:b83::2a1
-2600:1407:e800:b84::2a1
-2600:1407:e800:b88::2a1
-2600:1407:e800:b90::2a1
-2600:1407:e800:b97::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:2389::2a1
+2600:1404:ec00:238b::2a1
+2600:1404:ec00:238e::2a1
+2600:1404:ec00:238f::2a1
 
 # Apple — s4.mzstatic.com
-2600:1407:e800:b83::2a1
-2600:1407:e800:b84::2a1
-2600:1407:e800:b88::2a1
-2600:1407:e800:b90::2a1
-2600:1407:e800:b97::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:2389::2a1
+2600:1404:ec00:238b::2a1
+2600:1404:ec00:238e::2a1
+2600:1404:ec00:238f::2a1
 
 # Apple — s5.mzstatic.com
-2600:1407:e800:b80::2a1
-2600:1407:e800:b82::2a1
-2600:1407:e800:b8f::2a1
-2600:1407:e800:b91::2a1
-2600:1407:e800:b94::2a1
+2600:1404:ec00:2387::2a1
+2600:1404:ec00:2389::2a1
+2600:1404:ec00:238b::2a1
+2600:1404:ec00:238e::2a1
+2600:1404:ec00:238f::2a1
 
 # Apple — safebrowsing.apple
 # (no public DNS addresses found)
@@ -4995,11 +4987,8 @@
 # (no public DNS addresses found)
 
 # Apple — setup.icloud.com
-2620:149:1363::b
-2620:149:a42:980::11
-2620:149:a42:980::2:2
-2620:149:a42:980::9
-2620:149:a42:aff::2:1
+2620:149:a43:380::2:2
+2620:149:a43:380::8
 
 # Apple — sh-pod1-smp-device.apple.com
 # (no public DNS addresses found)
@@ -5011,8 +5000,8 @@
 # (no public DNS addresses found)
 
 # Apple — shazam-insights.cdn-apple.com
-2620:149:a32:f000::141
-2620:149:a32:f000::144
+2620:149:a00:f000::133
+2620:149:a00:f000::149
 
 # Apple — shazam.com
 # (no public DNS addresses found)
@@ -5054,14 +5043,14 @@
 # (no public DNS addresses found)
 
 # Apple — smp-device-content.apple.com
-2620:149:a10:f000::132
-2620:149:a10:f000::134
-2620:149:a10:f000::142
-2620:149:a10:f000::148
-2620:149:a32:f000::138
-2620:149:a32:f000::144
-2620:149:a32:f000::145
-2620:149:a32:f000::149
+2620:149:a00:f000::136
+2620:149:a00:f000::141
+2620:149:a00:f000::147
+2620:149:a00:f000::149
+2620:149:a06:f000::138
+2620:149:a06:f000::139
+2620:149:a06:f000::142
+2620:149:a06:f000::195
 
 # Apple — sneaker666.com
 # (no public DNS addresses found)
@@ -5089,19 +5078,19 @@
 # (no public DNS addresses found)
 
 # Apple — static.gc.apple.com
-2600:1407:e800:26::17dc:ce20
-2600:1407:e800:26::17dc:ce3e
+2600:1404:ec00:f::17da:e805
+2600:1404:ec00:f::17da:e806
 
 # Apple — stocks-sparkline-lb.apple.com.akadns.net
 # (no public DNS addresses found)
 
 # Apple — stocks-sparkline.apple.com
-2600:1407:e800:25::17dc:ce88
-2600:1407:e800:25::17dc:ce8a
+2600:1404:ec00:3d::17dc:6186
+2600:1404:ec00:3d::17dc:61c3
 
 # Apple — store.apple.com
-2600:1407:e800:15::17cd:5930
-2600:1407:e800:15::17cd:593a
+2600:1404:ec00:d::17da:e88c
+2600:1404:ec00:d::17da:e8ac
 
 # Apple — store.apple.com.edgekey.net
 # (no public DNS addresses found)
@@ -5110,12 +5099,12 @@
 # (no public DNS addresses found)
 
 # Apple — store.storeimages.apple.com.akadns.net
-2600:1407:e800:584::1477
-2600:1407:e800:592::1477
+2600:1404:ec00:289::1477
+2600:1404:ec00:28a::1477
 
 # Apple — store.storeimages.cdn-apple.com
-2600:1407:e800:584::1477
-2600:1407:e800:592::1477
+2600:1404:ec00:2406::17db:5704
+2600:1404:ec00:2408::1735:7fe5
 
 # Apple — straightouttasomewhere.com
 # (no public DNS addresses found)
@@ -5136,12 +5125,12 @@
 # (no public DNS addresses found)
 
 # Apple — support-china.apple-support.akadns.net
-2600:1407:e800:15::17cd:592e
-2600:1407:e800:15::17cd:593c
+2600:1409:9800:17::1701:ffc7
+2600:1409:9800:17::1701:ffca
 
 # Apple — support.apple.com
-2600:1407:e800:15::17cd:592e
-2600:1407:e800:15::17cd:593c
+2600:1409:9800:17::1701:ffc7
+2600:1409:9800:17::1701:ffca
 
 # Apple — sustainthesound.com
 # (no public DNS addresses found)
@@ -5156,26 +5145,24 @@
 # (no public DNS addresses found)
 
 # Apple — swcatalog-cdn.apple.com.akadns.net
-2600:1407:e800:b80::1759
-2600:1407:e800:b93::1759
+2600:1404:ec00:2380::1759
+2600:1404:ec00:2388::1759
 
 # Apple — swcatalog.apple.com
-2600:1407:e800:b80::1759
-2600:1407:e800:b93::1759
+2600:1404:ec00:2380::1759
+2600:1404:ec00:2388::1759
 
 # Apple — swcdn.apple.com
-2620:149:a32:f000::136
-2620:149:a32:f000::150
+2620:149:a00:f000::131
+2620:149:a00:f000::135
 
 # Apple — swcdn.g.aaplimg.com
-2620:149:a10:f000::132
-2620:149:a10:f000::146
+2620:149:a00:f000::131
+2620:149:a00:f000::135
 
 # Apple — swdist.apple.com
-2620:149:a32:f000::138
-2620:149:a32:f000::140
-2620:149:a32:f000::143
-2620:149:a32:f000::144
+2600:1404:ec00:2380::1759
+2600:1404:ec00:2388::1759
 
 # Apple — swdist.apple.com.akadns.net
 # (no public DNS addresses found)
@@ -5190,16 +5177,16 @@
 # (no public DNS addresses found)
 
 # Apple — swscan-cdn.apple.com.akadns.net
-2600:1407:e800:b80::1759
-2600:1407:e800:b93::1759
+2600:1404:ec00:2380::1759
+2600:1404:ec00:2388::1759
 
 # Apple — swscan.apple.com
-2600:1407:e800:b80::1759
-2600:1407:e800:b93::1759
+2600:1404:ec00:2380::1759
+2600:1404:ec00:2388::1759
 
 # Apple — sylvan.apple.com
-2620:149:a32:f000::134
-2620:149:a32:f000::140
+2620:149:a00:f000::132
+2620:149:a00:f000::140
 
 # Apple — szcheapmonsterheadphones.com
 # (no public DNS addresses found)
@@ -5283,14 +5270,14 @@
 # (no public DNS addresses found)
 
 # Apple — updates-http.cdn-apple.com
-2620:149:a32:f000::148
+2a04:4e42:5::774
 
 # Apple — updates-http.cdn-apple.com.akadns.net
-2620:149:a10:f000::146
-2620:149:a10:f000::150
+2a04:4e42:5::774
 
 # Apple — updates.cdn-apple.com
-2620:149:a32:f000::149
+2620:149:a00:f000::146
+2620:149:a00:f000::153
 
 # Apple — usa-beatsbydreheadphonesonsale.net
 # (no public DNS addresses found)
@@ -5321,33 +5308,33 @@
 # (no public DNS addresses found)
 
 # Apple — weather-data.apple.com
-2600:1418:a000:e::17c1:c8d0
-2600:1418:a000:e::17c1:c8d1
-2600:1418:a000:e::17c1:c8d3
-2600:1418:a000:e::17c1:c8d4
-2600:1418:a000:e::17c1:c8d5
+2600:1404:ec00:1b::17dc:a2d1
+2600:1404:ec00:1b::17dc:a2d2
+2600:1404:ec00:1b::17dc:a2d9
+2600:1404:ec00:1b::17dc:a2da
+2600:1404:ec00:1b::17dc:a2dc
 
 # Apple — weather-data.apple.com.akadns.net
-2600:1418:a000:e::17c1:c8d1
-2600:1418:a000:e::17c1:c8d2
-2600:1418:a000:e::17c1:c8d3
-2600:1418:a000:e::17c1:c8d4
-2600:1418:a000:e::17c1:c8d5
+2600:1404:ec00:1b::17dc:a2d1
+2600:1404:ec00:1b::17dc:a2d2
+2600:1404:ec00:1b::17dc:a2d9
+2600:1404:ec00:1b::17dc:a2da
+2600:1404:ec00:1b::17dc:a2dc
 
 # Apple — weather-map.apple.com
-2600:1418:a000:10::17c1:c804
-2600:1418:a000:10::17c1:c811
+2600:1409:9800:20::1735:7a45
+2600:1409:9800:20::1735:7a4d
 
 # Apple — weather-map2.apple.com
-2600:1418:a000:10::17c1:c804
-2600:1418:a000:10::17c1:c811
+2620:149:a00:f000::132
+2620:149:a00:f000::134
 
 # Apple — weatherkit.apple.com
-2600:1418:a000:e::17c1:c8d0
-2600:1418:a000:e::17c1:c8d1
-2600:1418:a000:e::17c1:c8d3
-2600:1418:a000:e::17c1:c8d4
-2600:1418:a000:e::17c1:c8d5
+2600:1404:ec00:1b::17dc:a2d1
+2600:1404:ec00:1b::17dc:a2d2
+2600:1404:ec00:1b::17dc:a2d9
+2600:1404:ec00:1b::17dc:a2da
+2600:1404:ec00:1b::17dc:a2dc
 
 # Apple — webkit.org
 # (no public DNS addresses found)
@@ -5398,20 +5385,20 @@
 # (no public DNS addresses found)
 
 # Apple — www.apple.com
-2600:1407:e800:b8b::1aca
-2600:1407:e800:b97::1aca
+2600:1404:ec00:2386::1aca
+2600:1404:ec00:238d::1aca
 
 # Apple — www.apple.com.edgekey.net
-2600:1407:e800:b8b::1aca
-2600:1407:e800:b97::1aca
+2600:1404:ec00:2386::1aca
+2600:1404:ec00:238d::1aca
 
 # Apple — www.apple.com.edgekey.net.globalredir.akadns.net
-2600:1407:e800:b8b::1aca
-2600:1407:e800:b97::1aca
+2600:1409:9800:687::1aca
+2600:1409:9800:697::1aca
 
 # Apple — www.support.apple.com
-2600:1407:e800:15::17cd:592e
-2600:1407:e800:15::17cd:593c
+2600:1404:ec00:d::17da:e89f
+2600:1404:ec00:d::17da:e8b2
 
 # Apple — wwwapple.com
 # (no public DNS addresses found)
@@ -5468,8 +5455,8 @@
 # (no public DNS addresses found)
 
 # Apple — xp.apple.com
-2620:149:a32:f000::134
-2620:149:a32:f000::197
+2620:149:a00:f000::159
+2620:149:a00:f000::161
 
 # Apple — yourmonsterbeats.com
 # (no public DNS addresses found)

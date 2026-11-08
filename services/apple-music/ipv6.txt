@@ -2,59 +2,59 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — amp-api-edge.music.apple.com
-2a04:4e42:26::774
+2a04:4e42:5::774
 
 # Apple Music — amp-api.music.apple.com
-2a04:4e42:26::774
+2a04:4e42:5::774
 
 # Apple Music — aod-ssl.itunes.apple.com
-2600:1418:a000:88b::20b6
-2600:1418:a000:897::20b6
+2600:1404:ec00:1185::20b6
+2600:1404:ec00:1191::20b6
 
 # Apple Music — aod.itunes.apple.com
-2620:149:a32:f000::136
-2620:149:a32:f000::145
+2620:149:a00:f000::138
+2620:149:a00:f000::141
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
 
 # Apple Music — audio-ssl.itunes.apple.com
-2600:1418:a000:88b::20b6
-2600:1418:a000:897::20b6
+2600:1404:ec00:1185::20b6
+2600:1404:ec00:1191::20b6
 
 # Apple Music — audio.itunes.apple.com
-2620:149:a32:f000::133
-2620:149:a32:f000::135
+2620:149:a00:f000::138
+2620:149:a00:f000::139
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1418:a000:9::1728:630e
-2600:1418:a000:9::1728:6314
+2600:1404:ec00:50::17dc:67a5
+2600:1404:ec00:50::17dc:67a7
 
 # Apple Music — music.apple.com
-2600:1407:e800:b83::2a1
-2600:1407:e800:b84::2a1
-2600:1407:e800:b88::2a1
-2600:1407:e800:b90::2a1
-2600:1407:e800:b97::2a1
+2600:1404:ec00:2380::2a1
+2600:1404:ec00:2385::2a1
+2600:1404:ec00:2386::2a1
+2600:1404:ec00:238a::2a1
+2600:1404:ec00:238d::2a1
 
 # Apple Music — musicstatus.music.apple.com
-2600:1418:a000:e::17c1:c8cb
-2600:1418:a000:e::17c1:c8d9
+2600:1404:ec00:1b::17dc:a2cf
+2600:1404:ec00:1b::17dc:a2d5
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a32:f000::133
-2620:149:a32:f000::141
+2620:149:a00:f000::136
+2620:149:a00:f000::148
 
 # Apple Music — play.music.apple.com
-2600:1418:a000:10::17c1:c80f
-2600:1418:a000:10::17c1:c813
+2600:1404:ec00:1d::17dc:a248
+2600:1404:ec00:1d::17dc:a251
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:26::774
+2a04:4e42:5::774
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a32:f000::140
-2620:149:a32:f000::145
+2620:149:a00:f000::144
+2620:149:a00:f000::152

@@ -2,26 +2,16 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Google Drive — docs.google.com
-74.125.132.100
-74.125.132.101
-74.125.132.102
-74.125.132.113
-74.125.132.138
-74.125.132.139
+142.250.73.142
 
 # Google Drive — drive.google.com
-192.178.129.100
-192.178.129.101
-192.178.129.102
-192.178.129.113
-192.178.129.138
-192.178.129.139
+142.251.46.78
 
 # Google Drive — googledrive.com
-173.194.64.132
+142.251.45.129
 
 # Google Drive — googleusercontent.com
-192.178.212.132
+142.251.33.193
 
 # Google Drive — www.googleapis.com
 172.217.112.4

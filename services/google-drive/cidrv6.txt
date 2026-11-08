@@ -1,21 +1,15 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Google Drive — docs.google.com
-2607:f8b0:4001:c08::64/128
-2607:f8b0:4001:c08::66/128
-2607:f8b0:4001:c08::8a/128
-2607:f8b0:4001:c08::8b/128
+2607:f8b0:400a:80d::200e/128
 
 # Google Drive — drive.google.com
-2607:f8b0:4001:c06::64/128
-2607:f8b0:4001:c06::65/128
-2607:f8b0:4001:c06::8a/128
-2607:f8b0:4001:c06::8b/128
+2607:f8b0:400a:80c::200e/128
 
 # Google Drive — googledrive.com
-2607:f8b0:4001:c0f::84/128
+2607:f8b0:400a:801::2001/128
 
 # Google Drive — googleusercontent.com
-2607:f8b0:4001:c64::84/128
+2607:f8b0:400a:803::2001/128
 
 # Google Drive — www.googleapis.com
 2001:4860:4840:400::/128

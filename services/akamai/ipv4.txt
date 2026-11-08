@@ -2,8 +2,8 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Akamai — akamai.com
-184.25.59.133
-184.25.59.151
+23.59.88.238
+23.59.88.239
 
 # Akamai — akamai.net
 # (no public DNS addresses found)

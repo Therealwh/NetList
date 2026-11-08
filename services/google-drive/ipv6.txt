@@ -2,22 +2,16 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Google Drive — docs.google.com
-2607:f8b0:4001:c08::64
-2607:f8b0:4001:c08::66
-2607:f8b0:4001:c08::8a
-2607:f8b0:4001:c08::8b
+2607:f8b0:400a:80d::200e
 
 # Google Drive — drive.google.com
-2607:f8b0:4001:c06::64
-2607:f8b0:4001:c06::65
-2607:f8b0:4001:c06::8a
-2607:f8b0:4001:c06::8b
+2607:f8b0:400a:80c::200e
 
 # Google Drive — googledrive.com
-2607:f8b0:4001:c0f::84
+2607:f8b0:400a:801::2001
 
 # Google Drive — googleusercontent.com
-2607:f8b0:4001:c64::84
+2607:f8b0:400a:803::2001
 
 # Google Drive — www.googleapis.com
 2001:4860:4840:400::

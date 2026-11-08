@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Coursera — coursera.org
-13.226.53.18
-13.226.53.29
-13.226.53.89
-13.226.53.96
+3.169.173.24
+3.169.173.36
+3.169.173.64
+3.169.173.91

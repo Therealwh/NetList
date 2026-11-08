@@ -2,7 +2,4 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Спортмастер — sportmaster.ru
-# (no public DNS addresses found)
-
-# Спортмастер — last known IPv4 snapshot (DNS unavailable)
 178.248.232.80

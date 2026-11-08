@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Linode — linode.com
-23.195.81.161
-23.195.81.200
+23.59.88.227
+23.59.88.228
