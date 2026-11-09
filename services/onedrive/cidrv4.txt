@@ -9,8 +9,8 @@
 # (no public DNS addresses found)
 
 # OneDrive — oneclient.sfx.ms
-23.11.232.103/32
-23.11.232.179/32
+23.219.87.102/32
+23.219.87.16/32
 
 # OneDrive — onedrive.com
 52.182.212.209/32
@@ -33,11 +33,11 @@
 20.59.87.225/32
 
 # OneDrive — spoprod-a.akamaihd.net
-23.53.122.136/32
-23.53.122.148/32
+23.205.110.12/32
+23.205.110.46/32
 
 # OneDrive — storage.live.com
-4.255.241.58/32
+4.255.203.141/32
 
 # OneDrive — storage.msn.com
 150.171.22.11/32

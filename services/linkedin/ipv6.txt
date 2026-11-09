@@ -5,8 +5,8 @@
 # (no public DNS addresses found)
 
 # LinkedIn — e122475.dscg.akamaiedge.net
-2600:1409:9800:ac::172e:e4b0
-2600:1409:9800:ac::172e:e4b1
+2600:1405:8400:7::17d1:54a5
+2600:1405:8400:7::17d1:54b7
 
 # LinkedIn — l-0005.dc-msedge.net
 2620:1ec:22::14

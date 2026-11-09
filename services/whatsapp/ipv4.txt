@@ -3,20 +3,19 @@
 # DNS answers change and do not prove exclusive service ownership.
 # WhatsApp — bintray.com
 3.220.34.153
-3.226.6.15
 44.214.125.226
 
 # WhatsApp — graph.facebook.com
-57.144.216.141
+57.145.2.141
 
 # WhatsApp — wa.me
-57.144.217.32
+57.144.231.32
 
 # WhatsApp — whatsapp.biz
 # (no public DNS addresses found)
 
 # WhatsApp — whatsapp.com
-57.144.217.32
+57.145.3.32
 
 # WhatsApp — whatsapp.net
-57.144.217.32
+57.145.3.32

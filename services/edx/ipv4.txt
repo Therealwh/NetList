@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # edX — edx.org
-3.163.24.105
-3.163.24.117
-3.163.24.47
-3.163.24.60
+52.84.199.111
+52.84.199.12
+52.84.199.14
+52.84.199.72

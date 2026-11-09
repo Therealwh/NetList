@@ -1,58 +1,58 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Apple Music — amp-api-edge.music.apple.com
-2a04:4e42:5::774/128
+2a04:4e42:26::774/128
 
 # Apple Music — amp-api.music.apple.com
-2a04:4e42:5::774/128
+2a04:4e42:26::774/128
 
 # Apple Music — aod-ssl.itunes.apple.com
-2600:1404:ec00:1185::20b6/128
-2600:1404:ec00:1191::20b6/128
+2600:1405:7400:88f::20b6/128
+2600:1405:7400:892::20b6/128
 
 # Apple Music — aod.itunes.apple.com
-2620:149:a00:f000::138/128
-2620:149:a00:f000::141/128
+2620:149:a32:f000::132/128
+2620:149:a32:f000::137/128
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
 
 # Apple Music — audio-ssl.itunes.apple.com
-2600:1404:ec00:1185::20b6/128
-2600:1404:ec00:1191::20b6/128
+2600:1405:7400:88f::20b6/128
+2600:1405:7400:892::20b6/128
 
 # Apple Music — audio.itunes.apple.com
-2620:149:a00:f000::138/128
-2620:149:a00:f000::139/128
+2620:149:a32:f000::139/128
+2620:149:a32:f000::140/128
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1404:ec00:50::17dc:67a5/128
-2600:1404:ec00:50::17dc:67a7/128
+2600:1405:7400:5::17d7:df1d/128
+2600:1405:7400:5::17d7:df20/128
 
 # Apple Music — music.apple.com
-2600:1404:ec00:2380::2a1/128
-2600:1404:ec00:2385::2a1/128
-2600:1404:ec00:2386::2a1/128
-2600:1404:ec00:238a::2a1/128
-2600:1404:ec00:238d::2a1/128
+2600:1405:8400:385::2a1/128
+2600:1405:8400:389::2a1/128
+2600:1405:8400:38d::2a1/128
+2600:1405:8400:38e::2a1/128
+2600:1405:8400:392::2a1/128
 
 # Apple Music — musicstatus.music.apple.com
-2600:1404:ec00:1b::17dc:a2cf/128
-2600:1404:ec00:1b::17dc:a2d5/128
+2600:1405:7400:10::17d9:936/128
+2600:1405:7400:10::17d9:93b/128
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a00:f000::136/128
-2620:149:a00:f000::148/128
+2620:149:a32:f000::133/128
+2620:149:a32:f000::136/128
 
 # Apple Music — play.music.apple.com
-2600:1404:ec00:1d::17dc:a248/128
-2600:1404:ec00:1d::17dc:a251/128
+2600:1405:7400:c::17de:1b1a/128
+2600:1405:7400:c::17de:1b37/128
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:5::774/128
+2a04:4e42:8a::774/128
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a00:f000::144/128
-2620:149:a00:f000::152/128
+2620:149:a32:f000::133/128
+2620:149:a32:f000::150/128

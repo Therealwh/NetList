@@ -5,7 +5,7 @@
 160.79.104.10
 
 # Claude — cdn.usefathom.com
-79.127.221.146
+84.17.63.178
 
 # Claude — claude.ai
 160.79.104.10

@@ -2,53 +2,53 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — amp-api-edge.music.apple.com
-151.101.23.6
+151.101.163.6
 
 # Apple Music — amp-api.music.apple.com
-151.101.23.6
+151.101.163.6
 
 # Apple Music — aod-ssl.itunes.apple.com
-95.101.163.197
+23.204.167.214
 
 # Apple Music — aod.itunes.apple.com
-17.253.5.134
-17.253.5.154
+17.253.127.140
+17.253.127.144
 
 # Apple Music — applemusic.com
 17.253.142.4
 
 # Apple Music — audio-ssl.itunes.apple.com
-95.101.163.197
+23.204.167.214
 
 # Apple Music — audio.itunes.apple.com
-17.253.5.143
-17.253.5.146
+17.253.127.133
+17.253.127.140
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-23.53.122.70
-23.53.122.71
+23.36.217.136
+23.36.217.195
 
 # Apple Music — music.apple.com
-23.0.192.32
+184.29.30.30
 
 # Apple Music — musicstatus.music.apple.com
-2.22.234.135
-2.22.234.136
+23.219.87.236
+23.219.87.239
 
 # Apple Music — mvod.itunes.apple.com
-17.253.5.136
-17.253.5.149
+17.253.127.135
+17.253.127.136
 
 # Apple Music — play.music.apple.com
-23.219.78.208
-23.219.78.209
+23.220.161.13
+23.220.161.5
 
 # Apple Music — speedysub.music.apple.com
-151.101.23.6
+146.75.107.6
 
 # Apple Music — streamingaudio.itunes.apple.com
-17.253.5.140
-17.253.5.142
+17.253.127.141
+17.253.127.150

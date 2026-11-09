@@ -6,10 +6,10 @@
 104.18.87.42
 
 # Netflix — e13252.dscg.akamaiedge.net
-95.101.160.209
+23.64.151.122
 
 # Netflix — fast.com
-92.122.15.29
+23.64.145.111
 
 # Netflix — flxvpn.net
 # (no public DNS addresses found)

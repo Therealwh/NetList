@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Fansly — fansly.com
-18.65.238.107
-18.65.238.27
-18.65.238.46
-18.65.238.9
+13.225.61.107
+13.225.61.125
+13.225.61.55
+13.225.61.82
