@@ -5,7 +5,7 @@
 2607:6bc0::10
 
 # Claude — cdn.usefathom.com
-2a02:6ea0:d70d:1::919:1
+2a02:6ea0:e237::1504:1
 
 # Claude — claude.ai
 2607:6bc0::10

@@ -27,8 +27,7 @@
 54.174.185.36
 
 # Epic Games — fortnite.com
-52.55.64.224
-98.85.200.58
+52.3.142.108
 
 # Epic Games — helpshift.com
 209.42.198.106

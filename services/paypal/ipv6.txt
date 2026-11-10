@@ -287,7 +287,9 @@
 # (no public DNS addresses found)
 
 # PayPal — paypal-integration.com
-# (no public DNS addresses found)
+2600:1f18:297:ba0e:7900:f622:48a8:f266
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+2600:1f18:297:ba24:b508:76de:f4a:df34
 
 # PayPal — paypal-japan.com
 # (no public DNS addresses found)
@@ -402,7 +404,9 @@
 # (no public DNS addresses found)
 
 # PayPal — paypal-retail.com
-# (no public DNS addresses found)
+2600:1f18:297:ba0e:7900:f622:48a8:f266
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+2600:1f18:297:ba24:b508:76de:f4a:df34
 
 # PayPal — paypal-scoop.com
 # (no public DNS addresses found)
@@ -438,13 +442,17 @@
 # (no public DNS addresses found)
 
 # PayPal — paypal-sptam.com
-# (no public DNS addresses found)
+2600:1f18:297:ba0e:7900:f622:48a8:f266
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+2600:1f18:297:ba24:b508:76de:f4a:df34
 
 # PayPal — paypal-status.com
 # (no public DNS addresses found)
 
 # PayPal — paypal-support.com
-# (no public DNS addresses found)
+2600:1f18:297:ba0e:7900:f622:48a8:f266
+2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+2600:1f18:297:ba24:b508:76de:f4a:df34
 
 # PayPal — paypal-survey.com
 # (no public DNS addresses found)

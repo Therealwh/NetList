@@ -2,8 +2,8 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Yahoo — cdn.js7k.com
-69.147.71.247
-69.147.71.248
+69.147.92.11
+69.147.92.12
 
 # Yahoo — yahoo.com
 74.6.143.25

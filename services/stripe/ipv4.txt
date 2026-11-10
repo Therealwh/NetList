@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Stripe — stripe.com
-198.137.150.231
-198.202.176.231
+198.137.150.111
+198.202.176.111

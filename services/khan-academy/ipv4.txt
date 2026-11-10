@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Khan Academy — khanacademy.org
-108.138.159.101
-108.138.159.23
-108.138.159.76
-108.138.159.87
+3.167.88.13
+3.167.88.27
+3.167.88.54
+3.167.88.86

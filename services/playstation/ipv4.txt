@@ -3,13 +3,13 @@
 # DNS answers change and do not prove exclusive service ownership.
 # PlayStation — playstation.com
 184.169.195.49
-54.153.33.221
+54.183.100.47
 
 # PlayStation — playstation.net
 # (no public DNS addresses found)
 
 # PlayStation — playstationnetwork.com
-184.24.58.3
+184.27.10.159
 
 # PlayStation — sony.com
 44.218.59.236

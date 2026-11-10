@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Canva — canva.com
-13.32.115.114
-13.32.115.41
-13.32.115.69
-13.32.115.94
+13.227.65.127
+13.227.65.34
+13.227.65.49
+13.227.65.69

@@ -2,59 +2,59 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — amp-api-edge.music.apple.com
-2a04:4e42:26::774
+2a04:4e42:95::774
 
 # Apple Music — amp-api.music.apple.com
-2a04:4e42:26::774
+2a04:4e42:95::774
 
 # Apple Music — aod-ssl.itunes.apple.com
-2600:1405:7400:88f::20b6
-2600:1405:7400:892::20b6
+2600:1408:c400:168c::20b6
+2600:1408:c400:168e::20b6
 
 # Apple Music — aod.itunes.apple.com
-2620:149:a32:f000::132
-2620:149:a32:f000::137
+2620:149:a10:f000::133
+2620:149:a10:f000::145
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
 
 # Apple Music — audio-ssl.itunes.apple.com
-2600:1405:7400:88f::20b6
-2600:1405:7400:892::20b6
+2600:1408:c400:168c::20b6
+2600:1408:c400:168e::20b6
 
 # Apple Music — audio.itunes.apple.com
-2620:149:a32:f000::139
-2620:149:a32:f000::140
+2620:149:a10:f000::132
+2620:149:a10:f000::149
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1405:7400:5::17d7:df1d
-2600:1405:7400:5::17d7:df20
+2600:1408:10::1703:d78
+2600:1408:10::1703:d98
 
 # Apple Music — music.apple.com
-2600:1405:8400:385::2a1
-2600:1405:8400:389::2a1
-2600:1405:8400:38d::2a1
-2600:1405:8400:38e::2a1
-2600:1405:8400:392::2a1
+2600:1408:c400:384::2a1
+2600:1408:c400:388::2a1
+2600:1408:c400:38e::2a1
+2600:1408:c400:390::2a1
+2600:1408:c400:395::2a1
 
 # Apple Music — musicstatus.music.apple.com
-2600:1405:7400:10::17d9:936
-2600:1405:7400:10::17d9:93b
+2600:1408:c400:5a::addf:a3ce
+2600:1408:c400:5a::addf:a3d3
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a32:f000::133
-2620:149:a32:f000::136
+2620:149:a10:f000::136
+2620:149:a10:f000::142
 
 # Apple Music — play.music.apple.com
-2600:1405:7400:c::17de:1b1a
-2600:1405:7400:c::17de:1b37
+2600:1408:c400:28::17da:d888
+2600:1408:c400:28::17da:d894
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:8a::774
+2a04:4e42:77::774
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a32:f000::133
-2620:149:a32:f000::150
+2620:149:a10:f000::145
+2620:149:a10:f000::146

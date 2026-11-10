@@ -29,8 +29,8 @@
 # (no public DNS addresses found)
 
 # Disney+ — babble.com
-2600:1406:35:5::1722:3e88
-2600:1406:35:5::1722:3e8b
+2600:141b:1c00:8::1728:b304
+2600:141b:1c00:8::1728:b33f
 
 # Disney+ — babyzone.com
 # (no public DNS addresses found)
@@ -209,8 +209,8 @@
 2600:1901:0:84f4::80
 
 # Disney+ — disneybaby.com
-2600:1406:35:5::1722:3e88
-2600:1406:35:5::1722:3e8b
+2600:141b:1c00:8::1728:b304
+2600:141b:1c00:8::1728:b33f
 
 # Disney+ — disneycareers.com
 # (no public DNS addresses found)
@@ -324,8 +324,8 @@
 2600:1901:0:84f4::80
 
 # Disney+ — disneystore.com
-2600:1405:7400:8::172d:7b3d
-2600:1405:7400:8::172d:7b42
+2600:1408:c400:16::17d4:f808
+2600:1408:c400:16::17d4:f80e
 
 # Disney+ — disneystreaming.com
 2600:1901:0:84f4::80
@@ -358,7 +358,7 @@
 2620:138:301d:4:8000::25
 
 # Disney+ — dssott.com
-# (no public DNS addresses found)
+2620:138:302f:4:8000::18
 
 # Disney+ — dtci.co
 # (no public DNS addresses found)
@@ -373,14 +373,14 @@
 # (no public DNS addresses found)
 
 # Disney+ — espn.com
-2600:9000:2341:5a00:d:ac18:e2c0:93a1
-2600:9000:2341:6c00:d:ac18:e2c0:93a1
-2600:9000:2341:7600:d:ac18:e2c0:93a1
-2600:9000:2341:9600:d:ac18:e2c0:93a1
-2600:9000:2341:ba00:d:ac18:e2c0:93a1
-2600:9000:2341:bc00:d:ac18:e2c0:93a1
-2600:9000:2341:c000:d:ac18:e2c0:93a1
-2600:9000:2341:d000:d:ac18:e2c0:93a1
+2600:9000:24f4:1600:d:ac18:e2c0:93a1
+2600:9000:24f4:1e00:d:ac18:e2c0:93a1
+2600:9000:24f4:5a00:d:ac18:e2c0:93a1
+2600:9000:24f4:9200:d:ac18:e2c0:93a1
+2600:9000:24f4:9400:d:ac18:e2c0:93a1
+2600:9000:24f4:be00:d:ac18:e2c0:93a1
+2600:9000:24f4:c200:d:ac18:e2c0:93a1
+2600:9000:24f4:f800:d:ac18:e2c0:93a1
 
 # Disney+ — espn.hb.omtrdc.net
 # (no public DNS addresses found)
@@ -395,14 +395,14 @@
 # (no public DNS addresses found)
 
 # Disney+ — espnqa.com
-2600:9000:2020:1400:b:fd26:df00:93a1
-2600:9000:2020:600:b:fd26:df00:93a1
-2600:9000:2020:6800:b:fd26:df00:93a1
-2600:9000:2020:9c00:b:fd26:df00:93a1
-2600:9000:2020:a00:b:fd26:df00:93a1
-2600:9000:2020:b400:b:fd26:df00:93a1
-2600:9000:2020:b600:b:fd26:df00:93a1
-2600:9000:2020:c200:b:fd26:df00:93a1
+2600:9000:286d:1600:b:fd26:df00:93a1
+2600:9000:286d:4a00:b:fd26:df00:93a1
+2600:9000:286d:7e00:b:fd26:df00:93a1
+2600:9000:286d:9600:b:fd26:df00:93a1
+2600:9000:286d:a800:b:fd26:df00:93a1
+2600:9000:286d:b000:b:fd26:df00:93a1
+2600:9000:286d:ba00:b:fd26:df00:93a1
+2600:9000:286d:d200:b:fd26:df00:93a1
 
 # Disney+ — execute-api.us-east-1.amazonaws.com
 # (no public DNS addresses found)
@@ -426,8 +426,8 @@
 # (no public DNS addresses found)
 
 # Disney+ — hsprepack.akamaized.net
-2600:1405:7400:c::17de:1b10
-2600:1405:7400:c::17de:1b3b
+2600:1408:c400:8::17cd:6832
+2600:1408:c400:8::17cd:6833
 
 # Disney+ — js-agent.newrelic.com
 2602:816:5001::39
@@ -486,8 +486,8 @@
 2600:1901:0:84f4::80
 
 # Disney+ — shopdisney.com
-2600:1405:8400:7::17d1:54ab
-2600:1405:8400:7::17d1:54b9
+2600:1408:c400:e::17cd:6a06
+2600:1408:c400:e::17cd:6a0c
 
 # Disney+ — shops-disney.com
 # (no public DNS addresses found)
@@ -511,15 +511,15 @@
 2600:1901:0:84f4::80
 
 # Disney+ — starwars.com
-2600:1405:8400:7::17d1:54a9
-2600:1405:8400:7::17d1:54b2
+2600:1408:c400:e::17cd:6a04
+2600:1408:c400:e::17cd:6a08
 
 # Disney+ — starwarsgalacticstarcruiser.com
 2600:1901:0:84f4::80
 
 # Disney+ — starwarskids.com
-2600:1405:8400:10::173e:e2c3
-2600:1405:8400:10::173e:e2c4
+2600:1408:c400:29::17da:da47
+2600:1408:c400:29::17da:da4d
 
 # Disney+ — streamingdisney.net
 # (no public DNS addresses found)

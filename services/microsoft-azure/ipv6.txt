@@ -5,5 +5,5 @@
 # (no public DNS addresses found)
 
 # Microsoft Azure — azure.microsoft.com
-2600:1405:7400:88d::439b
-2600:1405:7400:891::439b
+2600:1408:c400:78e::439b
+2600:1408:c400:78f::439b

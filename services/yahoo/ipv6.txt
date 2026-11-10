@@ -2,8 +2,8 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Yahoo — cdn.js7k.com
-2001:4998:68:807::
-2001:4998:68:807::1
+2001:4998:14:800::1000
+2001:4998:14:800::1001
 
 # Yahoo — yahoo.com
 2001:4998:124:1507::f000

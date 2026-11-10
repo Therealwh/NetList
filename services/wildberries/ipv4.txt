@@ -5,9 +5,7 @@
 185.62.202.4
 
 # Wildberries — ads-media.wildberries.ru
-213.184.155.31
-85.198.77.43
-85.198.79.43
+185.62.202.29
 
 # Wildberries — ads.wildberries.ru
 # (no public DNS addresses found)
