@@ -2,4 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Viber — viber.com
+# (no public DNS addresses found)
+
+# Viber — last known IPv4 snapshot (DNS unavailable)
 34.239.201.121

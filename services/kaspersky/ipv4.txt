@@ -2,18 +2,18 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Kaspersky — activate.activation-v2.kaspersky.com
-93.159.227.50
+80.239.154.151
 
 # Kaspersky — activation-v2.geo.kaspersky.com
-93.159.227.50
+80.239.154.151
 
 # Kaspersky — activation-v2.kaspersky.com
-93.159.227.50
+80.239.154.151
 
 # Kaspersky — crl.kaspersky.com
+209.170.92.170
 37.203.128.12
 37.203.129.7
-4.28.136.45
 
 # Kaspersky — dc1-cert.ksn.kaspersky-labs.com
 37.203.128.51
@@ -60,40 +60,40 @@
 4.28.136.38
 
 # Kaspersky — dnl-02.geo.kaspersky.com
-4.28.136.38
+66.46.92.163
 
 # Kaspersky — dnl-03.geo.kaspersky.com
-66.46.92.163
+209.170.92.168
 
 # Kaspersky — dnl-04.geo.kaspersky.com
-66.46.92.163
+209.170.92.166
 
 # Kaspersky — dnl-05.geo.kaspersky.com
-66.46.92.163
+209.51.171.230
 
 # Kaspersky — dnl-06.geo.kaspersky.com
-209.51.171.230
+66.46.92.163
 
 # Kaspersky — dnl-07.geo.kaspersky.com
-209.51.171.230
+66.46.92.163
 
 # Kaspersky — dnl-08.geo.kaspersky.com
 209.51.171.230
 
 # Kaspersky — dnl-09.geo.kaspersky.com
-37.203.128.10
+209.51.171.230
 
 # Kaspersky — dnl-10.geo.kaspersky.com
-37.203.128.10
-
-# Kaspersky — dnl-11.geo.kaspersky.com
 209.170.92.168
 
+# Kaspersky — dnl-11.geo.kaspersky.com
+209.51.171.230
+
 # Kaspersky — dnl-12.geo.kaspersky.com
-91.198.230.7
+209.51.171.230
 
 # Kaspersky — dnl-13.geo.kaspersky.com
-212.73.221.217
+91.198.230.7
 
 # Kaspersky — dnl-14.geo.kaspersky.com
 185.201.0.5
@@ -102,21 +102,21 @@
 91.198.230.5
 
 # Kaspersky — dnl-16.geo.kaspersky.com
-80.231.123.131
+185.201.1.104
 
 # Kaspersky — dnl-17.geo.kaspersky.com
-80.231.123.133
+185.201.1.104
 
 # Kaspersky — dnl-18.geo.kaspersky.com
-80.239.169.149
+213.155.156.92
 
 # Kaspersky — dnl-19.geo.kaspersky.com
-80.231.123.139
+80.239.197.106
 
 # Kaspersky — edge.geo.kaspersky.com
+209.170.92.170
 37.203.128.12
 37.203.129.7
-4.28.136.45
 
 # Kaspersky — kaspersky.com
 185.85.15.46
@@ -147,46 +147,46 @@
 
 # Kaspersky — ksn-crypto-kas-geo.kaspersky-labs.com
 37.203.128.96
-37.203.129.65
-37.203.129.87
+37.203.129.85
+37.203.129.91
 
 # Kaspersky — ksn-crypto-tcert-geo.kaspersky-labs.com
-37.203.128.75
 37.203.129.65
-37.203.129.85
+37.203.129.87
+37.203.129.91
 
 # Kaspersky — ksn-crypto-url-geo.kaspersky-labs.com
 37.203.128.72
+37.203.128.75
+37.203.128.81
 37.203.128.91
 37.203.128.94
 37.203.128.96
 37.203.128.98
 37.203.129.72
 37.203.129.74
-37.203.129.76
 37.203.129.80
 37.203.129.85
 37.203.129.87
-37.203.129.97
 
 # Kaspersky — ksn-crypto-verdict-geo.kaspersky-labs.com
-37.203.128.66
 37.203.128.70
+37.203.128.75
 37.203.128.96
 37.203.129.65
-37.203.129.76
 37.203.129.85
 37.203.129.87
 37.203.129.91
+37.203.129.94
 
 # Kaspersky — ksn-crypto-wifiplus-geo.kaspersky-labs.com
 37.203.128.75
-37.203.129.65
+37.203.129.85
 37.203.129.87
 
 # Kaspersky — ksn-crypto-wifiplus.geoksn.kaspersky.com
 37.203.128.75
-37.203.129.65
+37.203.129.85
 37.203.129.87
 
 # Kaspersky — ksn-dc1-cert.geoksn.kaspersky.com
@@ -215,31 +215,31 @@
 
 # Kaspersky — ksn-file-geo.kaspersky-labs.com
 37.203.128.66
-37.203.128.70
-37.203.128.75
 37.203.128.79
 37.203.128.83
 37.203.128.87
 37.203.128.94
+37.203.129.63
 37.203.129.65
 37.203.129.80
 37.203.129.82
 37.203.129.87
 37.203.129.91
+37.203.129.94
 
 # Kaspersky — ksn-file.geoksn.kaspersky.com
 37.203.128.66
-37.203.128.70
-37.203.128.75
 37.203.128.79
 37.203.128.83
 37.203.128.87
 37.203.128.94
+37.203.129.63
 37.203.129.65
 37.203.129.80
 37.203.129.82
 37.203.129.87
 37.203.129.91
+37.203.129.94
 
 # Kaspersky — ksn-info-geo.kaspersky-labs.com
 37.203.128.75
@@ -259,33 +259,33 @@
 
 # Kaspersky — ksn-kas.geoksn.kaspersky.com
 37.203.128.96
-37.203.129.65
-37.203.129.87
-
-# Kaspersky — ksn-mdr.geoksn.kaspersky.com
-37.203.128.96
-37.203.129.65
 37.203.129.85
 37.203.129.91
 
-# Kaspersky — ksn-tcert-geo.kaspersky-labs.com
+# Kaspersky — ksn-mdr.geoksn.kaspersky.com
 37.203.128.75
+37.203.128.96
 37.203.129.65
-37.203.129.85
+37.203.129.87
+
+# Kaspersky — ksn-tcert-geo.kaspersky-labs.com
+37.203.129.65
+37.203.129.87
+37.203.129.91
 
 # Kaspersky — ksn-tcert.geoksn.kaspersky.com
-37.203.128.75
 37.203.129.65
-37.203.129.85
+37.203.129.87
+37.203.129.91
 
 # Kaspersky — ksn-url-geo.kaspersky-labs.com
 37.203.128.72
+37.203.128.81
 37.203.128.91
 37.203.128.94
 37.203.128.96
 37.203.128.98
 37.203.129.72
-37.203.129.74
 37.203.129.76
 37.203.129.80
 37.203.129.85
@@ -294,163 +294,163 @@
 
 # Kaspersky — ksn-url.geoksn.kaspersky.com
 37.203.128.72
+37.203.128.75
+37.203.128.81
 37.203.128.91
 37.203.128.94
 37.203.128.96
 37.203.128.98
 37.203.129.72
 37.203.129.74
-37.203.129.76
 37.203.129.80
 37.203.129.85
 37.203.129.87
-37.203.129.97
 
 # Kaspersky — ksn-verdict-geo.kaspersky-labs.com
-37.203.128.66
 37.203.128.70
+37.203.128.75
 37.203.128.96
 37.203.129.65
-37.203.129.76
 37.203.129.85
 37.203.129.87
 37.203.129.91
+37.203.129.94
 
 # Kaspersky — ksn-verdict.geoksn.kaspersky.com
-37.203.128.66
 37.203.128.70
+37.203.128.75
 37.203.128.96
 37.203.129.65
-37.203.129.76
 37.203.129.85
 37.203.129.87
 37.203.129.91
+37.203.129.94
 
 # Kaspersky — mdr.ksn.kaspersky-labs.com
+37.203.128.75
 37.203.128.96
 37.203.129.65
-37.203.129.85
-37.203.129.91
+37.203.129.87
 
 # Kaspersky — p00.upd.kaspersky.com
-4.28.136.38
+209.170.92.168
 
 # Kaspersky — p01.upd.kaspersky.com
-4.28.136.38
+209.170.92.168
 
 # Kaspersky — p02.upd.kaspersky.com
-4.28.136.38
+66.46.92.163
 
 # Kaspersky — p03.upd.kaspersky.com
-209.51.171.230
+66.46.92.163
 
 # Kaspersky — p04.upd.kaspersky.com
-209.51.171.230
+4.28.136.38
 
 # Kaspersky — p05.upd.kaspersky.com
-209.51.171.230
+4.28.136.38
 
 # Kaspersky — p06.upd.kaspersky.com
-66.46.92.163
+209.51.171.230
 
 # Kaspersky — p07.upd.kaspersky.com
 209.51.171.230
 
 # Kaspersky — p08.upd.kaspersky.com
-66.46.92.163
-
-# Kaspersky — p09.upd.kaspersky.com
-37.203.128.10
-
-# Kaspersky — p10.upd.kaspersky.com
-37.203.128.10
-
-# Kaspersky — p11.upd.kaspersky.com
-209.170.92.168
-
-# Kaspersky — p12.upd.kaspersky.com
 209.170.92.166
 
+# Kaspersky — p09.upd.kaspersky.com
+209.170.92.166
+
+# Kaspersky — p10.upd.kaspersky.com
+209.170.92.168
+
+# Kaspersky — p11.upd.kaspersky.com
+4.28.136.38
+
+# Kaspersky — p12.upd.kaspersky.com
+66.46.92.163
+
 # Kaspersky — p13.upd.kaspersky.com
-91.198.230.7
+209.170.92.166
 
 # Kaspersky — p14.upd.kaspersky.com
-91.198.230.5
+209.51.171.230
 
 # Kaspersky — p15.upd.kaspersky.com
 185.201.0.5
 
 # Kaspersky — p16.upd.kaspersky.com
-80.239.197.106
+91.198.230.5
 
 # Kaspersky — p17.upd.kaspersky.com
-185.201.1.104
+185.201.0.5
 
 # Kaspersky — p18.upd.kaspersky.com
-80.231.123.139
+185.201.1.104
 
 # Kaspersky — p19.upd.kaspersky.com
-213.155.156.92
+80.239.197.106
 
 # Kaspersky — refresh-bkg.activation-v2.kaspersky.com
-93.159.227.50
+80.239.154.151
 
 # Kaspersky — s00.upd.kaspersky.com
-209.51.171.230
+209.170.92.168
 
 # Kaspersky — s01.upd.kaspersky.com
-4.28.136.38
-
-# Kaspersky — s02.upd.kaspersky.com
 209.51.171.230
 
+# Kaspersky — s02.upd.kaspersky.com
+209.170.92.168
+
 # Kaspersky — s03.upd.kaspersky.com
-66.46.92.163
+209.170.92.168
 
 # Kaspersky — s04.upd.kaspersky.com
-66.46.92.163
-
-# Kaspersky — s05.upd.kaspersky.com
-66.46.92.163
-
-# Kaspersky — s06.upd.kaspersky.com
 4.28.136.38
 
+# Kaspersky — s05.upd.kaspersky.com
+4.28.136.38
+
+# Kaspersky — s06.upd.kaspersky.com
+209.170.92.166
+
 # Kaspersky — s07.upd.kaspersky.com
-66.46.92.163
+209.170.92.166
 
 # Kaspersky — s08.upd.kaspersky.com
 66.46.92.163
 
 # Kaspersky — s09.upd.kaspersky.com
-37.203.128.10
+66.46.92.163
 
 # Kaspersky — s10.upd.kaspersky.com
-37.203.128.10
+209.170.92.168
 
 # Kaspersky — s11.upd.kaspersky.com
-91.198.230.7
+209.51.171.230
 
 # Kaspersky — s12.upd.kaspersky.com
-209.170.92.166
+4.28.136.38
 
 # Kaspersky — s13.upd.kaspersky.com
-91.198.230.5
+209.170.92.166
 
 # Kaspersky — s14.upd.kaspersky.com
 185.201.0.5
 
 # Kaspersky — s15.upd.kaspersky.com
-185.201.1.104
+212.73.221.217
 
 # Kaspersky — s16.upd.kaspersky.com
-80.231.123.133
+91.198.230.5
 
 # Kaspersky — s17.upd.kaspersky.com
-80.239.197.106
+185.201.1.104
 
 # Kaspersky — s18.upd.kaspersky.com
-80.231.123.139
+80.239.197.106
 
 # Kaspersky — s19.upd.kaspersky.com
-80.231.123.131
+80.231.123.133

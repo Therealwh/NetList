@@ -4,7 +4,7 @@
 # Epic Games — battlebreakers.com
 32.194.105.194
 34.193.11.130
-34.202.38.29
+35.173.145.248
 
 # Epic Games — eac-cdn.com
 # (no public DNS addresses found)
@@ -18,8 +18,8 @@
 104.18.3.180
 
 # Epic Games — epicgames.com
-32.200.128.106
-54.173.195.0
+3.92.34.127
+34.226.131.79
 
 # Epic Games — epicgames.dev
 3.92.101.174
@@ -35,22 +35,22 @@
 # Epic Games — paragon.com
 32.194.105.194
 34.193.11.130
-34.202.38.29
+35.173.145.248
 
 # Epic Games — playparagon.com
 32.194.105.194
 34.193.11.130
-34.202.38.29
+35.173.145.248
 
 # Epic Games — roborecall.com
 32.194.105.194
 34.193.11.130
-34.202.38.29
+35.173.145.248
 
 # Epic Games — shadowcomplex.com
 32.194.105.194
 34.193.11.130
-34.202.38.29
+35.173.145.248
 
 # Epic Games — spyjinx.com
 104.21.73.35

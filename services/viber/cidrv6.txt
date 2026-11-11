@@ -1,4 +1,4 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Viber — viber.com
-2600:1f18:2092:1a04:3006:92dd:951a:bb07/128
+2600:1f18:2092:1a04:9c44:9673:6073:a66b/128
 2600:1f18:2092:1a05:9ca8:7aab:1e38:32d9/128

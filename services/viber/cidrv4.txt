@@ -1,3 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Viber — viber.com
+# (no public DNS addresses found)
+
+# Viber — last known IPv4 snapshot (DNS unavailable)
 34.239.201.121/32

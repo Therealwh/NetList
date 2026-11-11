@@ -5,8 +5,8 @@
 # (no public DNS addresses found)
 
 # Riot Games — convrgencegame.com
-2600:1f18:16e:df01::1f5
-2600:1f18:16e:df01::1f6
+2a05:d014:58f:6200::1f5
+2a05:d014:58f:6200::1f6
 
 # Riot Games — historyofdota.com
 # (no public DNS addresses found)
@@ -126,8 +126,8 @@
 # (no public DNS addresses found)
 
 # Riot Games — riotforgegames.com
-2600:1f18:16e:df01::1f5
-2600:1f18:16e:df01::1f6
+2600:1f1c:446:4900::1f5
+2600:1f1c:446:4900::1f6
 
 # Riot Games — riotgames.co.kr
 # (no public DNS addresses found)
@@ -160,8 +160,8 @@
 # (no public DNS addresses found)
 
 # Riot Games — ruinedking.com
-2600:1f18:16e:df01::1f5
-2600:1f18:16e:df01::1f6
+2600:1f1c:446:4900::1f5
+2600:1f1c:446:4900::1f6
 
 # Riot Games — supremacy.com
 # (no public DNS addresses found)

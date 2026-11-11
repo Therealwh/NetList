@@ -39,9 +39,9 @@
 172.65.90.23
 
 # ChatGPT — browser-intake-datadoghq.com
-3.233.158.24
-3.233.158.25
-3.233.158.26
+3.233.158.111
+3.233.158.112
+3.233.158.114
 
 # ChatGPT — cdn.oaistatic.com
 104.18.41.158
@@ -68,15 +68,14 @@
 172.64.155.209
 
 # ChatGPT — chatgpt.livekit.cloud
-161.115.178.42
-161.115.179.127
-161.115.179.56
+161.115.177.100
+161.115.177.32
 
 # ChatGPT — client-api.arkoselabs.com
-3.171.38.117
-3.171.38.33
-3.171.38.47
-3.171.38.52
+18.155.173.111
+18.155.173.114
+18.155.173.73
+18.155.173.87
 
 # ChatGPT — desktop.chat.openai.com
 # (no public DNS addresses found)
@@ -103,16 +102,16 @@
 172.64.155.32
 
 # ChatGPT — intercom.io
-3.167.112.16
-3.167.112.52
-3.167.112.9
-3.167.112.90
+18.238.109.32
+18.238.109.37
+18.238.109.45
+18.238.109.5
 
 # ChatGPT — intercomcdn.com
-13.33.4.124
-13.33.4.17
-13.33.4.69
-13.33.4.89
+52.85.132.22
+52.85.132.27
+52.85.132.36
+52.85.132.9
 
 # ChatGPT — ios.chat.openai.com
 104.18.39.85
@@ -137,23 +136,23 @@
 # (no public DNS addresses found)
 
 # ChatGPT — openai-api.arkoselabs.com
-13.226.238.118
-13.226.238.14
-13.226.238.18
-13.226.238.65
+65.8.20.110
+65.8.20.58
+65.8.20.59
+65.8.20.68
 
 # ChatGPT — openai.com
 104.18.33.45
 172.64.154.211
 
 # ChatGPT — openaiapi-site.azureedge.net
-150.171.109.77
+150.171.109.149
 
 # ChatGPT — openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-150.171.109.77
+150.171.109.151
 
 # ChatGPT — openaicom.imgix.net
-146.75.30.208
+151.101.74.208
 
 # ChatGPT — openaicomproductionae4b.blob.core.windows.net
 20.60.30.68
@@ -163,12 +162,12 @@
 172.64.154.211
 
 # ChatGPT — production-openaicom-storage.azureedge.net
-150.171.109.113
+150.171.109.151
 
 # ChatGPT — segment.io
 32.185.38.4
-34.218.43.231
-52.33.43.109
+32.186.247.208
+44.228.166.142
 
 # ChatGPT — sentry.io
 34.111.148.117
@@ -187,17 +186,16 @@
 76.76.21.98
 
 # ChatGPT — stripe.com
-198.137.150.111
-198.202.176.111
+198.137.150.161
+198.202.176.161
 
 # ChatGPT — tcr9i.chat.openai.com
 104.18.33.45
 172.64.154.211
 
 # ChatGPT — turn.livekit.cloud
-161.115.178.42
-161.115.179.127
-161.115.179.56
+161.115.177.100
+161.115.177.32
 
 # ChatGPT — ws.chatgpt.com
 104.18.39.21
