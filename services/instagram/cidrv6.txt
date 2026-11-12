@@ -3,13 +3,13 @@
 # (no public DNS addresses found)
 
 # Instagram — ig.me
-2a03:2880:f211:1e6:face:b00c:0:4420/128
+2a03:2880:f212:1e4:face:b00c:0:4420/128
 
 # Instagram — igsonar.com
 # (no public DNS addresses found)
 
 # Instagram — instagr.am
-2a03:2880:f211:1e6:face:b00c:0:4420/128
+2a03:2880:f211:e5:face:b00c:0:4420/128
 
 # Instagram — instagram.com
-2a03:2880:f211:1e6:face:b00c:0:4420/128
+2a03:2880:f203:1e6:face:b00c:0:4420/128

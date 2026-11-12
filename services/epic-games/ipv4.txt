@@ -2,9 +2,9 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Epic Games — battlebreakers.com
-32.194.105.194
-34.193.11.130
+184.195.44.8
 35.173.145.248
+44.198.22.37
 
 # Epic Games — eac-cdn.com
 # (no public DNS addresses found)
@@ -33,24 +33,24 @@
 209.42.198.106
 
 # Epic Games — paragon.com
-32.194.105.194
-34.193.11.130
+184.195.44.8
 35.173.145.248
+44.198.22.37
 
 # Epic Games — playparagon.com
-32.194.105.194
-34.193.11.130
+184.195.44.8
 35.173.145.248
+44.198.22.37
 
 # Epic Games — roborecall.com
-32.194.105.194
-34.193.11.130
+184.195.44.8
 35.173.145.248
+44.198.22.37
 
 # Epic Games — shadowcomplex.com
-32.194.105.194
-34.193.11.130
+184.195.44.8
 35.173.145.248
+44.198.22.37
 
 # Epic Games — spyjinx.com
 104.21.73.35

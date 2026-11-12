@@ -3,5 +3,4 @@
 # DNS answers change and do not prove exclusive service ownership.
 # MAX — max.ru
 155.212.204.140
-155.212.204.5
 155.212.204.74

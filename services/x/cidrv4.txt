@@ -1,6 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # X — twitter.com
-172.66.0.227/32
+162.159.140.229/32
 
 # X — x.com
 162.159.140.229/32

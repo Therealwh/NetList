@@ -1,7 +1,7 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Akamai — akamai.com
-104.98.117.18/32
-104.98.117.32/32
+23.212.251.198/32
+23.212.251.205/32
 
 # Akamai — akamai.net
 # (no public DNS addresses found)

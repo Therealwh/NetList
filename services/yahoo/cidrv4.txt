@@ -1,7 +1,7 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Yahoo — cdn.js7k.com
-209.73.190.11/32
-209.73.190.12/32
+69.147.92.11/32
+69.147.92.12/32
 
 # Yahoo — yahoo.com
 74.6.143.25/32
