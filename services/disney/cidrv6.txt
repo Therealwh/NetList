@@ -34,7 +34,7 @@
 # (no public DNS addresses found)
 
 # Disney+ — bam.nr-data.net
-::ffff:162.247.243.29/128
+# (no public DNS addresses found)
 
 # Disney+ — bamgrid.com
 # (no public DNS addresses found)
@@ -207,8 +207,8 @@
 2600:1901:0:84f4::80/128
 
 # Disney+ — disneybaby.com
-2600:141b:1c00:8::1728:b304/128
-2600:141b:1c00:8::1728:b33f/128
+2600:1408:c400:29::17da:da48/128
+2600:1408:c400:29::17da:da4b/128
 
 # Disney+ — disneycareers.com
 # (no public DNS addresses found)
@@ -371,14 +371,14 @@
 # (no public DNS addresses found)
 
 # Disney+ — espn.com
-2600:9000:24f4:1200:d:ac18:e2c0:93a1/128
-2600:9000:24f4:1e00:d:ac18:e2c0:93a1/128
-2600:9000:24f4:5800:d:ac18:e2c0:93a1/128
-2600:9000:24f4:6800:d:ac18:e2c0:93a1/128
-2600:9000:24f4:8c00:d:ac18:e2c0:93a1/128
-2600:9000:24f4:ac00:d:ac18:e2c0:93a1/128
-2600:9000:24f4:ba00:d:ac18:e2c0:93a1/128
-2600:9000:24f4:e200:d:ac18:e2c0:93a1/128
+2600:9000:24f4:1800:d:ac18:e2c0:93a1/128
+2600:9000:24f4:7c00:d:ac18:e2c0:93a1/128
+2600:9000:24f4:8400:d:ac18:e2c0:93a1/128
+2600:9000:24f4:9e00:d:ac18:e2c0:93a1/128
+2600:9000:24f4:d800:d:ac18:e2c0:93a1/128
+2600:9000:24f4:da00:d:ac18:e2c0:93a1/128
+2600:9000:24f4:fa00:d:ac18:e2c0:93a1/128
+2600:9000:24f4:fc00:d:ac18:e2c0:93a1/128
 
 # Disney+ — espn.hb.omtrdc.net
 # (no public DNS addresses found)
@@ -393,14 +393,14 @@
 # (no public DNS addresses found)
 
 # Disney+ — espnqa.com
-2600:9000:286d:3800:b:fd26:df00:93a1/128
-2600:9000:286d:4400:b:fd26:df00:93a1/128
-2600:9000:286d:5e00:b:fd26:df00:93a1/128
-2600:9000:286d:7200:b:fd26:df00:93a1/128
-2600:9000:286d:9000:b:fd26:df00:93a1/128
-2600:9000:286d:9200:b:fd26:df00:93a1/128
-2600:9000:286d:f800:b:fd26:df00:93a1/128
-2600:9000:286d:fe00:b:fd26:df00:93a1/128
+2600:9000:286d:1600:b:fd26:df00:93a1/128
+2600:9000:286d:7400:b:fd26:df00:93a1/128
+2600:9000:286d:8400:b:fd26:df00:93a1/128
+2600:9000:286d:d400:b:fd26:df00:93a1/128
+2600:9000:286d:e200:b:fd26:df00:93a1/128
+2600:9000:286d:f000:b:fd26:df00:93a1/128
+2600:9000:286d:f400:b:fd26:df00:93a1/128
+2600:9000:286d:fa00:b:fd26:df00:93a1/128
 
 # Disney+ — execute-api.us-east-1.amazonaws.com
 # (no public DNS addresses found)
@@ -517,7 +517,7 @@
 
 # Disney+ — starwarskids.com
 2600:1408:c400:29::17da:da47/128
-2600:1408:c400:29::17da:da4c/128
+2600:1408:c400:29::17da:da4d/128
 
 # Disney+ — streamingdisney.net
 # (no public DNS addresses found)

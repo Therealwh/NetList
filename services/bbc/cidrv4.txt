@@ -77,12 +77,12 @@
 # (no public DNS addresses found)
 
 # BBC — ve-dash-uk-live.akamaized.net
-23.218.217.15/32
-23.218.217.30/32
+23.223.247.214/32
+23.223.247.225/32
 
 # BBC — ve-uhd-push-uk-live.akamaized.net
-23.218.216.142/32
-23.218.216.150/32
+23.223.247.207/32
+23.223.247.214/32
 
 # BBC — vod-dash-uk-live.akamaized.net
 23.205.104.14/32
@@ -97,29 +97,29 @@
 23.205.104.8/32
 
 # BBC — vod-sub-uk-live.akamaized.net
-173.223.163.205/32
-173.223.163.211/32
+23.219.154.15/32
+23.219.154.19/32
 
 # BBC — vod-thumb-uk-live.akamaized.net
-173.223.163.206/32
-173.223.163.207/32
+23.219.154.4/32
+23.219.154.9/32
 
 # BBC — vod-thumb-ww-live.akamaized.net
 23.205.104.12/32
 23.205.104.20/32
 
 # BBC — vs-cmaf-push-uk-live.akamaized.net
-23.218.216.132/32
-23.218.216.136/32
+23.223.247.203/32
+23.223.247.211/32
 
 # BBC — vs-cmaf-pushb-ww-live.akamaized.net
-23.15.3.12/32
-23.15.3.24/32
+23.205.104.20/32
+23.205.104.42/32
 
 # BBC — vs-hls-push-uk-live.akamaized.net
-23.218.216.134/32
-23.218.216.139/32
+23.223.247.202/32
+23.223.247.225/32
 
 # BBC — vs-hls-pushb-uk-live.akamaized.net
-23.218.216.141/32
-23.218.216.146/32
+23.223.247.213/32
+23.223.247.219/32

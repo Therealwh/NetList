@@ -3,7 +3,7 @@
 151.101.1.91/32
 
 # Mozilla — ads.mozilla.org
-146.75.29.91/32
+140.248.149.91/32
 
 # Mozilla — bugzilla.org
 104.21.65.126/32
@@ -44,7 +44,6 @@
 
 # Mozilla — incoming-telemetry.thunderbird.net
 32.201.204.216/32
-54.235.195.35/32
 
 # Mozilla — incoming.telemetry.mozilla.org
 34.54.185.247/32
@@ -83,10 +82,10 @@
 185.199.111.153/32
 
 # Mozilla — rustup.rs
-13.226.209.119/32
-13.226.209.128/32
-13.226.209.15/32
-13.226.209.72/32
+3.171.38.105/32
+3.171.38.117/32
+3.171.38.36/32
+3.171.38.65/32
 
 # Mozilla — seamonkey-project.org
 140.211.166.60/32

@@ -37,8 +37,8 @@
 # (no public DNS addresses found)
 
 # TikTok — lf16-effectcdn.byteeffecttos-g.com
-23.218.216.140/32
-23.218.216.150/32
+23.205.106.140/32
+23.205.106.180/32
 
 # TikTok — lf16-pkgcdn.pitaya-clientai.com
 23.205.106.136/32
@@ -55,18 +55,17 @@
 # (no public DNS addresses found)
 
 # TikTok — p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
-23.62.230.49/32
-23.62.230.51/32
+23.46.15.43/32
 
 # TikTok — p16-tiktokcdn-com.akamaized.net
 23.205.106.135/32
 23.205.106.164/32
 
 # TikTok — roovza-launches.appsflyersdk.com
-3.170.21.126/32
-3.170.21.14/32
-3.170.21.143/32
-3.170.21.50/32
+18.67.66.159/32
+18.67.66.52/32
+18.67.66.92/32
+18.67.66.97/32
 
 # TikTok — roovza.inapps.appsflyersdk.com
 13.226.209.114/32
@@ -75,10 +74,10 @@
 13.226.209.66/32
 
 # TikTok — roovza.launches.appsflyersdk.com
-3.171.100.103/32
-3.171.100.54/32
-3.171.100.75/32
-3.171.100.79/32
+3.170.42.120/32
+3.170.42.34/32
+3.170.42.40/32
+3.170.42.99/32
 
 # TikTok — roovza.skadsdk.appsflyersdk.com
 13.226.209.26/32
@@ -90,18 +89,18 @@
 # (no public DNS addresses found)
 
 # TikTok — snssdk.com
-122.14.229.128/32
+122.14.229.127/32
 
 # TikTok — tik-tokapi.com
 # (no public DNS addresses found)
 
 # TikTok — tiktok.com
-23.212.251.70/32
-23.212.251.72/32
-23.212.251.73/32
-23.212.251.77/32
-23.212.251.78/32
-23.212.251.86/32
+23.205.106.69/32
+23.205.106.70/32
+23.205.106.72/32
+23.205.106.73/32
+23.205.106.85/32
+23.205.106.88/32
 
 # TikTok — tiktok.org
 104.21.0.123/32
@@ -123,26 +122,26 @@
 # (no public DNS addresses found)
 
 # TikTok — tiktokv.com
-23.44.111.47/32
-23.44.111.48/32
-23.44.111.50/32
-23.44.111.55/32
-23.44.111.57/32
-23.44.111.59/32
-23.44.111.60/32
-23.44.111.69/32
-23.44.111.79/32
+23.73.207.69/32
+23.73.207.70/32
+23.73.207.71/32
+23.73.207.75/32
+23.73.207.76/32
+23.73.207.77/32
+23.73.207.78/32
+23.73.207.80/32
+23.73.207.81/32
 
 # TikTok — tiktokv.us
 # (no public DNS addresses found)
 
 # TikTok — trae-api-sg.mchost.guru
-23.213.158.73/32
-23.213.158.81/32
+2.18.67.2/32
+2.18.67.207/32
 
 # TikTok — trae.ai
-23.210.73.201/32
-23.210.73.240/32
+2.18.67.9/32
+23.15.3.219/32
 
 # TikTok — ttwebview.com
 # (no public DNS addresses found)

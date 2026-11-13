@@ -2,16 +2,16 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Twitch — d1g1f25tn8m2e6.cloudfront.net
-13.225.193.143
-13.225.193.152
-13.225.193.48
-13.225.193.7
+18.238.50.13
+18.238.50.154
+18.238.50.211
+18.238.50.84
 
 # Twitch — d1m7jfoe9zdc1j.cloudfront.net
-3.167.97.133
-3.167.97.15
-3.167.97.226
-3.167.97.59
+3.170.7.207
+3.170.7.23
+3.170.7.79
+3.170.7.88
 
 # Twitch — d1mhjrowxxagfy.cloudfront.net
 # (no public DNS addresses found)
@@ -29,10 +29,10 @@
 18.165.98.87
 
 # Twitch — d1w2poirtb3as9.cloudfront.net
-13.226.222.160
-13.226.222.17
-13.226.222.215
-13.226.222.29
+3.168.32.174
+3.168.32.22
+3.168.32.48
+3.168.32.90
 
 # Twitch — d1xhnb4ptk05mw.cloudfront.net
 # (no public DNS addresses found)
@@ -47,10 +47,10 @@
 3.170.43.99
 
 # Twitch — d2dylwb3shzel1.cloudfront.net
-13.35.87.120
-13.35.87.141
-13.35.87.195
-13.35.87.45
+99.86.78.33
+99.86.78.34
+99.86.78.43
+99.86.78.69
 
 # Twitch — d2e2de1etea730.cloudfront.net
 # (no public DNS addresses found)
@@ -89,16 +89,16 @@
 3.167.84.92
 
 # Twitch — d3c27h4odz752x.cloudfront.net
-3.167.42.151
-3.167.42.154
-3.167.42.223
-3.167.42.90
+18.160.45.162
+18.160.45.202
+18.160.45.217
+18.160.45.96
 
 # Twitch — d3stzm2eumvgb4.cloudfront.net
-13.225.193.103
-13.225.193.106
-13.225.193.41
-13.225.193.53
+3.170.43.101
+3.170.43.20
+3.170.43.45
+3.170.43.76
 
 # Twitch — d3vd9lfkzbru3h.cloudfront.net
 54.230.21.174
@@ -119,10 +119,10 @@
 13.226.222.85
 
 # Twitch — ddacn6pr5v0tl.cloudfront.net
-3.167.116.102
-3.167.116.11
-3.167.116.67
-3.167.116.70
+18.164.93.146
+18.164.93.225
+18.164.93.228
+18.164.93.24
 
 # Twitch — dgeft87wbj63p.cloudfront.net
 13.35.87.109
@@ -140,10 +140,10 @@
 13.227.65.95
 
 # Twitch — dykkng5hnh52u.cloudfront.net
-13.225.193.141
-13.225.193.152
-13.225.193.172
-13.225.193.41
+3.170.21.134
+3.170.21.161
+3.170.21.48
+3.170.21.76
 
 # Twitch — ext-twitch.tv
 # (no public DNS addresses found)

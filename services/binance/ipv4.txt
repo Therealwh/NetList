@@ -8,13 +8,13 @@
 # (no public DNS addresses found)
 
 # Binance — binance.com
+13.159.212.126
 13.230.56.252
-52.193.67.40
 52.69.139.92
 
 # Binance — binance.me
+13.159.212.126
 13.230.56.252
-52.193.67.40
 52.69.139.92
 
 # Binance — binancecnt.com

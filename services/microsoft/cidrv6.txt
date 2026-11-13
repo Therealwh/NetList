@@ -120,14 +120,14 @@
 # (no public DNS addresses found)
 
 # Microsoft — autologon.microsoftazuread-sso.com
-2603:1036:3000:e8::1/128
-2603:1036:3000:e8::2/128
-2603:1036:3000:e8::3/128
-2603:1036:3000:f0::1/128
-2603:1036:3000:f0::2/128
-2603:1036:3000:f0::3/128
-2603:1036:3000:f0::4/128
-2603:1036:3000:f8::4/128
+2603:1036:3000:138::6/128
+2603:1037:1:128::6/128
+2603:1037:1:128::7/128
+2603:1037:1:128::8/128
+2603:1037:1:128::9/128
+2603:1037:1:130::3/128
+2603:1037:1:130::4/128
+2603:1037:1:130::5/128
 
 # Microsoft — azcrmc-test.cn
 # (no public DNS addresses found)
@@ -288,10 +288,11 @@
 
 # Microsoft — azuremigrate.download.prss.microsoft.com
 2600:1408:a:200::212:43c4/128
-2600:1408:a:203::170f:38c/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — azuremigratetest.download.prss.microsoft.com
-2a04:4e42:77::684/128
+2600:1408:a:200::212:43c4/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — azuremresolver.cn
 # (no public DNS addresses found)
@@ -325,7 +326,7 @@
 
 # Microsoft — azurestackhubuat.download.prss.microsoft.com
 2600:1408:a:200::212:43c4/128
-2600:1408:a:203::170f:38c/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — azurestackvalidation.com
 # (no public DNS addresses found)
@@ -356,24 +357,24 @@
 # (no public DNS addresses found)
 
 # Microsoft — bethesda.net
-2600:9000:27c2:1e00:1d:9d0:cd40:93a1/128
-2600:9000:27c2:3c00:1d:9d0:cd40:93a1/128
+2600:9000:27c2:1600:1d:9d0:cd40:93a1/128
+2600:9000:27c2:4c00:1d:9d0:cd40:93a1/128
 2600:9000:27c2:5600:1d:9d0:cd40:93a1/128
-2600:9000:27c2:6000:1d:9d0:cd40:93a1/128
 2600:9000:27c2:6200:1d:9d0:cd40:93a1/128
-2600:9000:27c2:800:1d:9d0:cd40:93a1/128
-2600:9000:27c2:9200:1d:9d0:cd40:93a1/128
-2600:9000:27c2:dc00:1d:9d0:cd40:93a1/128
+2600:9000:27c2:8000:1d:9d0:cd40:93a1/128
+2600:9000:27c2:8800:1d:9d0:cd40:93a1/128
+2600:9000:27c2:b800:1d:9d0:cd40:93a1/128
+2600:9000:27c2:d600:1d:9d0:cd40:93a1/128
 
 # Microsoft — bethesdagamestudios.com
-2600:9000:215a:2800:1d:336e:4880:93a1/128
-2600:9000:215a:4400:1d:336e:4880:93a1/128
-2600:9000:215a:4c00:1d:336e:4880:93a1/128
-2600:9000:215a:7e00:1d:336e:4880:93a1/128
-2600:9000:215a:8600:1d:336e:4880:93a1/128
+2600:9000:215a:1a00:1d:336e:4880:93a1/128
+2600:9000:215a:1c00:1d:336e:4880:93a1/128
 2600:9000:215a:ba00:1d:336e:4880:93a1/128
-2600:9000:215a:da00:1d:336e:4880:93a1/128
-2600:9000:215a:f600:1d:336e:4880:93a1/128
+2600:9000:215a:c400:1d:336e:4880:93a1/128
+2600:9000:215a:cc00:1d:336e:4880:93a1/128
+2600:9000:215a:e400:1d:336e:4880:93a1/128
+2600:9000:215a:ea00:1d:336e:4880:93a1/128
+2600:9000:215a:f400:1d:336e:4880:93a1/128
 
 # Microsoft — bethsoft.com
 # (no public DNS addresses found)
@@ -509,14 +510,14 @@
 # (no public DNS addresses found)
 
 # Microsoft — cbdstest.download.prss.microsoft.com
-2600:1408:a:202::170f:3cd/128
+2600:1408:a:200::212:43c4/128
 2600:1408:a:203::170f:388/128
 
 # Microsoft — ccs.login.microsoftonline.com
-2603:1036:207:45a::2/128
-2603:1036:302:4830::2/128
-2603:1036:303:3c1a::2/128
-2603:1036:303:3c37::2/128
+2603:1036:311:1002::2/128
+2603:1036:311:822::2/128
+2603:1036:311:823::2/128
+2603:1036:311:c03::2/128
 
 # Microsoft — cegid-cloud.cn
 # (no public DNS addresses found)
@@ -563,11 +564,11 @@
 # (no public DNS addresses found)
 
 # Microsoft — collaborate.download.prss.microsoft.com
-2600:1408:a:202::170f:3cd/128
+2600:1408:a:200::212:43c4/128
 2600:1408:a:203::170f:388/128
 
 # Microsoft — collaborateppe.download.prss.microsoft.com
-2600:1408:a:202::170f:3cd/128
+2600:1408:a:200::212:43c4/128
 2600:1408:a:203::170f:388/128
 
 # Microsoft — companymanager.microsoftonline.com
@@ -610,19 +611,19 @@
 # (no public DNS addresses found)
 
 # Microsoft — ctldl.windowsupdate.com
-2a03:90c0:888c::888c/128
+2a04:4e42:95::684/128
 
 # Microsoft — developer.microsoft.com
+2600:1408:c400:f81::b69/128
 2600:1408:c400:f8a::b69/128
-2600:1408:c400:f96::b69/128
 
 # Microsoft — device.login.microsoftonline.com
 2603:1036:3000:e8::1/128
-2603:1036:3000:e8::2/128
+2603:1036:3000:e8::3/128
 2603:1036:3000:e8::4/128
-2603:1036:3000:f0::4/128
+2603:1036:3000:f0::1/128
+2603:1036:3000:f0::3/128
 2603:1036:3000:f8::1/128
-2603:1036:3000:f8::2/128
 2603:1036:3000:f8::3/128
 2603:1036:3000:f8::4/128
 
@@ -653,7 +654,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — dreamspark.download.prss.microsoft.com
-2600:1408:a:202::170f:3cd/128
+2600:1408:a:200::212:43c4/128
 2600:1408:a:203::170f:388/128
 
 # Microsoft — dreamsparkuat.download.prss.microsoft.com
@@ -766,14 +767,14 @@
 # (no public DNS addresses found)
 
 # Microsoft — graph.microsoft.com
-2603:1036:3000:10::80/128
 2603:1036:3000:10::81/128
-2603:1036:3000:10::83/128
+2603:1036:3000:10::82/128
 2603:1036:3000:18::80/128
 2603:1036:3000:18::81/128
-2603:1036:3000:18::82/128
+2603:1036:3000:8::80/128
 2603:1037:1:10::80/128
-2603:1037:1:8::81/128
+2603:1037:1:18::80/128
+2603:1037:1:8::80/128
 
 # Microsoft — graphengine.io
 # (no public DNS addresses found)
@@ -866,7 +867,8 @@
 2600:1408:a:203::170f:388/128
 
 # Microsoft — itacademyuat.download.prss.microsoft.com
-2a04:4e42:95::684/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — joinms.com
 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb/128
@@ -891,11 +893,11 @@
 # (no public DNS addresses found)
 
 # Microsoft — lex.download.prss.microsoft.com
-2600:1408:a:202::170f:3cd/128
-2600:1408:a:203::170f:388/128
+2a04:4e42:77::684/128
 
 # Microsoft — lexuat.download.prss.microsoft.com
-2a04:4e42:77::684/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — live.cn
 # (no public DNS addresses found)
@@ -916,8 +918,8 @@
 # (no public DNS addresses found)
 
 # Microsoft — livetileedge.dsx.mp.microsoft.com.edgekey.net
+2600:1408:c400:f82::4106/128
 2600:1408:c400:f90::4106/128
-2600:1408:c400:f95::4106/128
 
 # Microsoft — livingyourambition.com
 # (no public DNS addresses found)
@@ -926,48 +928,28 @@
 # (no public DNS addresses found)
 
 # Microsoft — login-us.microsoftonline.com
+2603:1036:3000:138::3/128
 2603:1036:3000:138::4/128
 2603:1036:3000:138::5/128
 2603:1036:3000:138::6/128
+2603:1037:1:128::8/128
+2603:1037:1:128::9/128
+2603:1037:1:130::4/128
+2603:1037:1:130::5/128
+
+# Microsoft — login.microsoft.com
+2603:1036:3000:138::6/128
 2603:1037:1:128::6/128
-2603:1037:1:128::7/128
 2603:1037:1:128::8/128
 2603:1037:1:128::9/128
 2603:1037:1:130::3/128
-
-# Microsoft — login.microsoft.com
-2603:1036:3000:138::3/128
-2603:1036:3000:138::4/128
-2603:1036:3000:138::6/128
-2603:1037:1:128::7/128
-2603:1037:1:128::8/128
-2603:1037:1:128::9/128
 2603:1037:1:130::4/128
+2603:1037:1:130::5/128
 2603:1037:1:130::6/128
 
 # Microsoft — login.microsoftonline.com
-2603:1036:3000:138::3/128
 2603:1036:3000:138::4/128
-2603:1036:3000:138::5/128
-2603:1036:3000:138::6/128
-2603:1037:1:128::7/128
-2603:1037:1:128::8/128
-2603:1037:1:130::4/128
-2603:1037:1:130::6/128
-
-# Microsoft — login.windows.net
-2603:1036:3000:138::3/128
-2603:1036:3000:138::4/128
-2603:1036:3000:138::6/128
-2603:1037:1:128::7/128
-2603:1037:1:128::8/128
-2603:1037:1:128::9/128
-2603:1037:1:130::4/128
-2603:1037:1:130::6/128
-
-# Microsoft — logincert.microsoftonline.com
-2603:1036:3000:138::4/128
-2603:1036:3000:138::6/128
+2603:1037:1:128::6/128
 2603:1037:1:128::7/128
 2603:1037:1:128::8/128
 2603:1037:1:130::3/128
@@ -975,15 +957,35 @@
 2603:1037:1:130::5/128
 2603:1037:1:130::6/128
 
+# Microsoft — login.windows.net
+2603:1036:3000:138::6/128
+2603:1037:1:128::6/128
+2603:1037:1:128::8/128
+2603:1037:1:128::9/128
+2603:1037:1:130::3/128
+2603:1037:1:130::4/128
+2603:1037:1:130::5/128
+2603:1037:1:130::6/128
+
+# Microsoft — logincert.microsoftonline.com
+2603:1036:3000:138::3/128
+2603:1036:3000:138::5/128
+2603:1036:3000:138::6/128
+2603:1037:1:128::6/128
+2603:1037:1:128::7/128
+2603:1037:1:128::8/128
+2603:1037:1:128::9/128
+2603:1037:1:130::6/128
+
 # Microsoft — loginex.microsoftonline.com
-2603:1036:3000:e8::1/128
-2603:1036:3000:e8::2/128
-2603:1036:3000:e8::4/128
-2603:1036:3000:f0::4/128
-2603:1036:3000:f8::1/128
-2603:1036:3000:f8::2/128
-2603:1036:3000:f8::3/128
-2603:1036:3000:f8::4/128
+2603:1036:3000:138::6/128
+2603:1037:1:128::6/128
+2603:1037:1:128::8/128
+2603:1037:1:128::9/128
+2603:1037:1:130::3/128
+2603:1037:1:130::4/128
+2603:1037:1:130::5/128
+2603:1037:1:130::6/128
 
 # Microsoft — lync.cn
 # (no public DNS addresses found)
@@ -1022,8 +1024,8 @@
 # (no public DNS addresses found)
 
 # Microsoft — mbs.download.prss.microsoft.com
-2600:1408:a:202::170f:3d9/128
-2600:1408:a:203::170f:38c/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — mcchcdn.com
 # (no public DNS addresses found)
@@ -1099,7 +1101,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — microsoft.com
-2603:1061:14:106::1/128
+2603:1061:14:70::1/128
 
 # Microsoft — microsoft.com.nsatc.net
 # (no public DNS addresses found)
@@ -1468,22 +1470,15 @@
 # (no public DNS addresses found)
 
 # Microsoft — mpnbenefits.download.prss.microsoft.com
-2600:1408:a:200::212:43c4/128
-2600:1408:a:202::170f:3d7/128
-2600:1408:a:202::170f:3d9/128
-2600:1408:a:203::170f:38c/128
+2a04:4e42:95::684/128
 
 # Microsoft — mpnbenefitsrtl.download.prss.microsoft.com
-2600:1408:a:200::212:43c4/128
-2600:1408:a:202::170f:3d7/128
-2600:1408:a:202::170f:3d9/128
-2600:1408:a:203::170f:38c/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — mpnbenefitsrtluat.download.prss.microsoft.com
-2600:1408:a:200::212:43c4/128
-2600:1408:a:202::170f:3d7/128
-2600:1408:a:202::170f:3d9/128
-2600:1408:a:203::170f:38c/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — mpnevolution.com
 # (no public DNS addresses found)
@@ -1528,10 +1523,11 @@
 # (no public DNS addresses found)
 
 # Microsoft — msdn.download.prss.microsoft.com
-2a04:4e42:77::684/128
+2a04:4e42:95::684/128
 
 # Microsoft — msdprod-ad.download.prss.microsoft.com
-2a04:4e42:95::684/128
+2600:1408:a:200::212:43c4/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — msecnd.net
 # (no public DNS addresses found)
@@ -1651,7 +1647,8 @@
 # (no public DNS addresses found)
 
 # Microsoft — msproduct.download.prss.microsoft.com
-2a04:4e42:95::684/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — msra.cn
 # (no public DNS addresses found)
@@ -1693,7 +1690,9 @@
 # (no public DNS addresses found)
 
 # Microsoft — myvs.download.prss.microsoft.com
-2a04:4e42:77::684/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:202::170f:3d9/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — nextechafrica.net
 # (no public DNS addresses found)
@@ -1726,16 +1725,13 @@
 # (no public DNS addresses found)
 
 # Microsoft — oemsoc.download.prss.microsoft.com
-2600:1408:a:200::212:43c4/128
-2600:1408:a:202::170f:3d7/128
+2600:1408:a:202::170f:3cd/128
 2600:1408:a:202::170f:3d9/128
-2600:1408:a:203::170f:38c/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — oemsocuat.download.prss.microsoft.com
 2600:1408:a:200::212:43c4/128
-2600:1408:a:202::170f:3d7/128
-2600:1408:a:202::170f:3d9/128
-2600:1408:a:203::170f:38c/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — office.com
 2620:1ec:a92::156/128
@@ -1771,20 +1767,18 @@
 2600:1408:a:201::212:4318/128
 
 # Microsoft — officecdn.microsoft.com
-2a04:4e42:95::684/128
+2600:1408:a:203::170f:386/128
+2600:1408:a:203::170f:390/128
 
 # Microsoft — officedev.cn
 # (no public DNS addresses found)
 
 # Microsoft — officemkt.download.prss.microsoft.com
-2600:1408:a:202::170f:3cd/128
-2600:1408:a:203::170f:388/128
+2a04:4e42:95::684/128
 
 # Microsoft — officemktuat.download.prss.microsoft.com
-2600:1408:a:200::212:43c4/128
-2600:1408:a:202::170f:3d7/128
-2600:1408:a:202::170f:3d9/128
-2600:1408:a:203::170f:38c/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:203::170f:388/128
 
 # Microsoft — officeplus.cn
 # (no public DNS addresses found)
@@ -1867,14 +1861,10 @@
 # (no public DNS addresses found)
 
 # Microsoft — outlook.office365.com
-2603:1036:207:456::2/128
-2603:1036:207:457::2/128
-2603:1036:207:459::2/128
-2603:1036:302:4158::2/128
-2603:1036:302:4830::2/128
-2603:1036:302:4837::2/128
-2603:1036:302:4846::2/128
-2603:1036:302:505d::2/128
+2603:1036:311:1002::2/128
+2603:1036:311:822::2/128
+2603:1036:311:823::2/128
+2603:1036:311:c03::2/128
 
 # Microsoft — outlookgroups.ms
 # (no public DNS addresses found)
@@ -1949,13 +1939,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — provisioningapi.microsoftonline.com
-2603:1036:3000:128::7/128
-2603:1036:3000:128::8/128
-2603:1036:3000:128::9/128
-2603:1036:3000:138::7/128
-2603:1036:3000:138::8/128
-2603:1037:1:130::7/128
-2603:1037:1:130::8/128
+# (no public DNS addresses found)
 
 # Microsoft — public-trust.com
 # (no public DNS addresses found)
@@ -1979,8 +1963,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — rsm.download.prss.microsoft.com
-2600:1408:a:200::212:43c4/128
-2600:1408:a:203::170f:38c/128
+2a04:4e42:77::684/128
 
 # Microsoft — s-microsoft.com
 # (no public DNS addresses found)
@@ -1998,11 +1981,11 @@
 # (no public DNS addresses found)
 
 # Microsoft — sclive.net
-2606:4700:4400::b522:82dd/128
-2606:4700:4406::ca08:7e8c/128
-2606:4700:440f::6dd6:884a/128
-2a06:98c1:3100::1723:951/128
-2a06:98c1:3109::7a16:e768/128
+2606:4700:4400::bf29:4888/128
+2606:4700:4401::780b:5184/128
+2606:4700:4404::9f61:4a91/128
+2606:4700:4408::fc05:4626/128
+2606:4700:4700::8a3a:ac80/128
 
 # Microsoft — sdx.microsoft.com
 # (no public DNS addresses found)
@@ -2029,8 +2012,8 @@
 # (no public DNS addresses found)
 
 # Microsoft — shell.cdn.office.net
-2600:1408:c400:f84::4b36/128
-2600:1408:c400:f8c::4b36/128
+2600:1408:c400:f95::4b36/128
+2600:1408:c400:f96::4b36/128
 
 # Microsoft — signalr.net
 # (no public DNS addresses found)
@@ -2059,8 +2042,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — software.download.prss.microsoft.com
-2600:1408:a:203::170f:388/128
-2600:1408:a:203::170f:38c/128
+2a04:4e42:77::684/128
 
 # Microsoft — spoprod-a.akamaihd.net
 # (no public DNS addresses found)
@@ -2097,11 +2079,12 @@
 2600:1408:a:201::212:4306/128
 
 # Microsoft — storecorefulfillment.download.prss.microsoft.com
-2a04:4e42:77::684/128
+2600:1408:a:203::170f:388/128
+2600:1408:a:203::170f:38c/128
 
 # Microsoft — storeedge.microsoft.com
-2600:141b:f000:b86::ae0/128
-2600:141b:f000:b95::ae0/128
+2600:1408:c400:982::ae0/128
+2600:1408:c400:995::ae0/128
 
 # Microsoft — storeedgefd.dsx.mp.microsoft.com
 2600:1408:c400:f90::4106/128
@@ -2114,21 +2097,23 @@
 # (no public DNS addresses found)
 
 # Microsoft — surface.download.prss.microsoft.com
-2a04:4e42:95::684/128
+2600:1408:a:202::170f:3cd/128
+2600:1408:a:202::170f:3d9/128
 
 # Microsoft — surface.downloads.prss.microsoft.com
-2a04:4e42:95::684/128
+2600:1408:a:203::170f:388/128
+2600:1408:a:203::170f:38c/128
 
 # Microsoft — svc.ms
 # (no public DNS addresses found)
 
 # Microsoft — sway-cdn.com
 2600:141b:1c00:1c81::26ad/128
-2600:141b:1c00:1c8e::26ad/128
+2600:141b:1c00:1c82::26ad/128
 
 # Microsoft — sway-extensions.com
 2600:141b:1c00:1c81::26ad/128
-2600:141b:1c00:1c8e::26ad/128
+2600:141b:1c00:1c82::26ad/128
 
 # Microsoft — sway.com
 2603:1036:2404:1::25/128
@@ -2143,14 +2128,8 @@
 # (no public DNS addresses found)
 
 # Microsoft — teams.microsoft.com
-2603:1063:8:10c::365:7ea3/128
-2603:1063:8:10e::365:7ea3/128
-2603:1063:8:115::365:7ea3/128
-2603:1063:8:125::365:7ea3/128
-2603:1063:8:12a::365:7ea3/128
-2603:1063:8:131::365:7ea3/128
-2603:1063:8:13d::365:7ea3/128
-2603:1063:8:149::365:7ea3/128
+2603:1063:27:1::14/128
+2603:1063:27:2::14/128
 
 # Microsoft — techhub.ms
 # (no public DNS addresses found)
@@ -2242,7 +2221,7 @@
 2600:1408:a:203::170f:38c/128
 
 # Microsoft — volic.download.prss.microsoft.com
-2a04:4e42:77::684/128
+2a04:4e42:95::684/128
 
 # Microsoft — vsallin.net
 # (no public DNS addresses found)
@@ -2263,13 +2242,14 @@
 # (no public DNS addresses found)
 
 # Microsoft — vscode.download.prss.microsoft.com
-2a04:4e42:95::684/128
+2600:1408:a:203::170f:388/128
+2600:1408:a:203::170f:38c/128
 
 # Microsoft — vsmarketplacebadge.apphb.com
 # (no public DNS addresses found)
 
 # Microsoft — vz.download.prss.microsoft.com
-2a04:4e42:77::684/128
+2a04:4e42:95::684/128
 
 # Microsoft — wbd.ms
 # (no public DNS addresses found)
@@ -2278,7 +2258,8 @@
 # (no public DNS addresses found)
 
 # Microsoft — windbg.download.prss.microsoft.com
-2a04:4e42:77::684/128
+2600:1408:a:203::170f:388/128
+2600:1408:a:203::170f:38c/128
 
 # Microsoft — windows-int.net
 # (no public DNS addresses found)
