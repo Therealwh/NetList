@@ -59,7 +59,7 @@
 34.96.123.111
 
 # Last.fm — lastfm.freetls.fastly.net
-140.248.150.79
+146.75.30.79
 
 # Last.fm — lastfm.ph
 34.96.123.111

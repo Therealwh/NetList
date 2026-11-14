@@ -32,7 +32,7 @@
 52.149.246.39
 
 # DuckDuckGo — duck.com
-40.89.244.232
+52.149.246.39
 
 # DuckDuckGo — duckduckco.com
 52.149.246.39

@@ -14,14 +14,13 @@
 3.162.130.230
 
 # Roblox — devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
-3.5.104.53
-3.5.106.172
-3.5.128.216
-3.5.128.226
-3.5.133.40
+3.5.104.196
+3.5.107.23
+3.5.107.244
+3.5.130.56
+3.5.89.60
 3.5.92.49
-3.5.93.105
-3.5.93.74
+52.219.177.26
 
 # Roblox — doy2mn9upadnk.cloudfront.net
 18.154.230.121
@@ -30,20 +29,20 @@
 18.154.230.95
 
 # Roblox — roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
-3.5.104.20
-3.5.106.239
-3.5.133.223
-3.5.133.238
-3.5.89.44
-3.5.93.55
-52.219.105.26
-52.219.179.74
+3.5.128.176
+3.5.133.115
+3.5.133.220
+3.5.133.75
+3.5.90.108
+3.5.92.49
+3.5.92.62
+52.219.233.194
 
 # Roblox — roblox-poc.global.ssl.fastly.net
 140.248.149.194
 
 # Roblox — roblox.com
-128.116.102.3
+128.116.30.3
 
 # Roblox — robloxcorp.s.llnwi.net
 # (no public DNS addresses found)

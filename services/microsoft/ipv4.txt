@@ -20,8 +20,8 @@
 # (no public DNS addresses found)
 
 # Microsoft — a1158.g.akamai.net
-2.18.67.71
-2.18.67.91
+23.205.105.134
+23.205.105.188
 
 # Microsoft — a122.dscg3.akamai.net
 2.18.67.18
@@ -29,7 +29,7 @@
 
 # Microsoft — a767.dscg3.akamai.net
 2.18.67.15
-23.15.3.198
+23.15.3.202
 
 # Microsoft — aadrm.cn
 # (no public DNS addresses found)
@@ -47,14 +47,14 @@
 40.126.23.9
 
 # Microsoft — account.live.com
-20.190.190.129
 20.190.190.131
-20.190.190.194
+20.190.190.132
+20.190.190.193
 20.190.190.195
 20.190.190.196
 40.126.62.129
 40.126.62.130
-40.126.62.132
+40.126.62.131
 
 # Microsoft — acompli.com
 23.102.191.170
@@ -106,7 +106,7 @@
 20.118.138.129
 
 # Microsoft — appcenter.ms
-150.171.109.118
+150.171.109.119
 
 # Microsoft — applicationinsights.io
 # (no public DNS addresses found)
@@ -137,13 +137,13 @@
 # (no public DNS addresses found)
 
 # Microsoft — autologon.microsoftazuread-sso.com
-20.190.151.131
 20.190.151.132
+20.190.151.133
 20.190.151.134
 20.190.151.6
-20.190.151.67
-20.190.151.68
+20.190.151.69
 20.190.151.7
+20.190.151.8
 20.190.151.9
 
 # Microsoft — azcrmc-test.cn
@@ -350,11 +350,10 @@
 
 # Microsoft — azuremigrate.download.prss.microsoft.com
 23.15.3.136
-23.15.3.140
+23.15.3.205
 
 # Microsoft — azuremigratetest.download.prss.microsoft.com
-23.15.3.136
-23.15.3.140
+140.248.150.172
 
 # Microsoft — azuremresolver.cn
 # (no public DNS addresses found)
@@ -401,7 +400,7 @@
 
 # Microsoft — azurestackhubuat.download.prss.microsoft.com
 23.15.3.136
-23.15.3.140
+23.15.3.205
 
 # Microsoft — azurestackvalidation.com
 20.119.16.23
@@ -617,17 +616,21 @@
 # (no public DNS addresses found)
 
 # Microsoft — callersbane.com
-150.171.109.73
+150.171.109.116
 
 # Microsoft — cbdstest.download.prss.microsoft.com
 23.15.3.136
 23.15.3.205
 
 # Microsoft — ccs.login.microsoftonline.com
-40.99.247.18
-40.99.247.34
-40.99.249.66
-52.96.47.82
+52.96.104.2
+52.96.122.2
+52.96.165.226
+52.96.172.114
+52.96.183.242
+52.96.185.194
+52.96.189.2
+52.96.97.178
 
 # Microsoft — cegid-cloud.cn
 # (no public DNS addresses found)
@@ -675,15 +678,14 @@
 # (no public DNS addresses found)
 
 # Microsoft — codethemicrobit.com
-150.171.109.77
+150.171.109.119
 
 # Microsoft — collaborate.download.prss.microsoft.com
-23.15.3.136
-23.15.3.205
+2.18.67.196
+23.15.3.140
 
 # Microsoft — collaborateppe.download.prss.microsoft.com
-23.15.3.136
-23.15.3.205
+140.248.150.172
 
 # Microsoft — companymanager.microsoftonline.com
 20.190.151.135
@@ -733,20 +735,20 @@
 # (no public DNS addresses found)
 
 # Microsoft — ctldl.windowsupdate.com
-140.248.150.172
+146.75.30.172
 
 # Microsoft — developer.microsoft.com
 23.34.124.120
 
 # Microsoft — device.login.microsoftonline.com
-20.190.190.129
-20.190.190.131
-20.190.190.132
-20.190.190.195
-20.190.190.196
-40.126.62.130
-40.126.62.131
-40.126.62.132
+20.190.151.134
+20.190.151.6
+20.190.151.67
+20.190.151.68
+20.190.151.69
+20.190.151.70
+20.190.151.8
+20.190.151.9
 
 # Microsoft — devopsassessment.net
 104.45.231.79
@@ -784,10 +786,11 @@
 
 # Microsoft — dreamspark.download.prss.microsoft.com
 23.15.3.136
-23.15.3.205
+23.15.3.140
 
 # Microsoft — dreamsparkuat.download.prss.microsoft.com
-140.248.150.172
+23.15.3.136
+23.15.3.140
 
 # Microsoft — dwh5.com
 # (no public DNS addresses found)
@@ -841,7 +844,7 @@
 204.79.197.200
 
 # Microsoft — f.c2r.ts.cdn.office.net
-146.75.30.172
+140.248.150.172
 
 # Microsoft — fabric.io
 216.239.32.29
@@ -861,7 +864,7 @@
 52.164.206.56
 
 # Microsoft — fluidpreview.com
-150.171.109.74
+150.171.109.119
 
 # Microsoft — footprintdns.com
 # (no public DNS addresses found)
@@ -950,11 +953,11 @@
 20.190.152.102
 20.190.152.103
 20.190.152.104
-20.190.152.105
 20.190.152.107
+20.190.152.152
 20.190.152.153
 20.190.152.24
-40.126.24.153
+20.190.152.88
 
 # Microsoft — graphengine.io
 20.112.250.133
@@ -1057,19 +1060,14 @@
 20.76.201.171
 
 # Microsoft — img-prod-cms-rt-microsoft-com.akamaized.net
-23.218.218.146
-23.218.218.186
+23.15.3.69
+23.15.3.80
 
 # Microsoft — img-s-msn-com.akamaized.net
-23.218.218.134
-23.218.218.173
-23.218.218.178
-23.218.218.179
-23.218.218.180
-23.218.218.181
-23.218.218.183
-23.218.218.185
-23.218.218.187
+23.218.218.139
+23.218.218.153
+23.218.218.154
+23.218.218.158
 
 # Microsoft — ingads.com
 20.112.250.133
@@ -1096,7 +1094,7 @@
 20.76.201.171
 
 # Microsoft — intunewiki.com
-150.171.109.74
+150.171.109.116
 
 # Microsoft — iotinactionevents.com
 52.246.248.88
@@ -1104,10 +1102,10 @@
 # Microsoft — itacademy.download.prss.microsoft.com
 23.15.3.136
 23.15.3.205
-23.15.3.217
 
 # Microsoft — itacademyuat.download.prss.microsoft.com
-146.75.30.172
+23.15.3.136
+23.15.3.140
 
 # Microsoft — joinms.com
 13.223.25.84
@@ -1169,7 +1167,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — livetileedge.dsx.mp.microsoft.com.edgekey.net
-23.57.64.96
+23.219.10.154
 
 # Microsoft — livingyourambition.com
 # (no public DNS addresses found)
@@ -1180,60 +1178,60 @@
 # Microsoft — login-us.microsoftonline.com
 20.190.151.131
 20.190.151.132
+20.190.151.133
 20.190.151.134
 20.190.151.6
 20.190.151.68
-20.190.151.7
+20.190.151.69
 20.190.151.70
-20.190.151.9
 
 # Microsoft — login.microsoft.com
-20.190.151.131
-20.190.151.133
-20.190.151.68
-20.190.151.69
-20.190.151.7
-20.190.151.70
-20.190.151.8
-20.190.151.9
-
-# Microsoft — login.microsoftonline.com
-20.190.190.129
+20.190.190.130
 20.190.190.131
 20.190.190.132
-20.190.190.194
-20.190.190.196
-40.126.62.129
-40.126.62.130
-40.126.62.132
-
-# Microsoft — login.windows.net
-20.190.151.131
-20.190.151.132
-20.190.151.134
-20.190.151.68
-20.190.151.7
-20.190.151.70
-20.190.151.8
-20.190.151.9
-
-# Microsoft — logincert.microsoftonline.com
-20.190.190.129
-20.190.190.130
-20.190.190.193
 20.190.190.194
 20.190.190.195
 20.190.190.196
 40.126.62.129
 40.126.62.132
 
+# Microsoft — login.microsoftonline.com
+20.190.151.133
+20.190.151.134
+20.190.151.6
+20.190.151.68
+20.190.151.69
+20.190.151.7
+20.190.151.70
+20.190.151.9
+
+# Microsoft — login.windows.net
+20.190.151.131
+20.190.151.132
+20.190.151.133
+20.190.151.6
+20.190.151.67
+20.190.151.68
+20.190.151.7
+20.190.151.8
+
+# Microsoft — logincert.microsoftonline.com
+20.190.190.130
+20.190.190.132
+20.190.190.193
+20.190.190.196
+40.126.62.129
+40.126.62.130
+40.126.62.131
+40.126.62.132
+
 # Microsoft — loginex.microsoftonline.com
-20.190.190.129
 20.190.190.130
 20.190.190.131
 20.190.190.132
-20.190.190.193
 20.190.190.194
+20.190.190.195
+20.190.190.196
 40.126.62.129
 40.126.62.132
 
@@ -1289,7 +1287,6 @@
 # Microsoft — mbs.download.prss.microsoft.com
 23.15.3.136
 23.15.3.205
-23.15.3.217
 
 # Microsoft — mcchcdn.com
 # (no public DNS addresses found)
@@ -1405,7 +1402,7 @@
 20.76.201.171
 
 # Microsoft — microsoft.com
-150.171.109.113
+150.171.109.115
 
 # Microsoft — microsoft.com.nsatc.net
 # (no public DNS addresses found)
@@ -1960,7 +1957,7 @@
 119.3.255.99
 
 # Microsoft — minecraft.net
-150.171.109.74
+150.171.109.116
 
 # Microsoft — minecraftshop.com
 23.227.38.65
@@ -1979,7 +1976,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — mojang.com
-150.171.110.7
+150.171.109.119
 
 # Microsoft — momentumms.com
 20.112.250.133
@@ -2002,11 +1999,11 @@
 
 # Microsoft — mpnbenefitsrtl.download.prss.microsoft.com
 23.15.3.136
-23.15.3.205
+23.15.3.140
 
 # Microsoft — mpnbenefitsrtluat.download.prss.microsoft.com
 23.15.3.136
-23.15.3.205
+23.15.3.140
 
 # Microsoft — mpnevolution.com
 20.112.250.133
@@ -2062,9 +2059,7 @@
 140.248.150.172
 
 # Microsoft — msdprod-ad.download.prss.microsoft.com
-23.15.3.136
-23.15.3.205
-23.15.3.217
+140.248.150.172
 
 # Microsoft — msecnd.net
 # (no public DNS addresses found)
@@ -2214,8 +2209,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — msproduct.download.prss.microsoft.com
-23.15.3.136
-23.15.3.205
+146.75.30.172
 
 # Microsoft — msra.cn
 40.125.203.57
@@ -2275,8 +2269,8 @@
 20.76.201.171
 
 # Microsoft — myvs.download.prss.microsoft.com
-2.18.67.196
 23.15.3.136
+23.15.3.205
 
 # Microsoft — nextechafrica.net
 20.112.250.133
@@ -2319,12 +2313,11 @@
 
 # Microsoft — oemsoc.download.prss.microsoft.com
 23.15.3.136
-23.15.3.205
-23.15.3.217
+23.15.3.140
 
 # Microsoft — oemsocuat.download.prss.microsoft.com
-2.18.67.196
 23.15.3.136
+23.15.3.140
 
 # Microsoft — office.com
 13.107.6.156
@@ -2361,8 +2354,7 @@
 2.18.67.24
 
 # Microsoft — officecdn.microsoft.com
-2.18.67.210
-23.15.3.144
+140.248.150.172
 
 # Microsoft — officedev.cn
 47.77.197.181
@@ -2371,8 +2363,7 @@
 146.75.30.172
 
 # Microsoft — officemktuat.download.prss.microsoft.com
-23.15.3.136
-23.15.3.205
+140.248.150.172
 
 # Microsoft — officeplus.cn
 159.27.20.1
@@ -2408,7 +2399,7 @@
 20.76.201.171
 
 # Microsoft — onedrive.com
-40.76.161.136
+20.72.98.42
 
 # Microsoft — onedrive.eu
 20.112.250.133
@@ -2464,8 +2455,8 @@
 20.76.201.171
 
 # Microsoft — optimizely.com
-216.150.1.129
-216.150.16.129
+216.150.1.1
+216.150.16.1
 
 # Microsoft — orithegame.com
 20.106.126.61
@@ -2474,8 +2465,8 @@
 # (no public DNS addresses found)
 
 # Microsoft — osrelease.download.prss.microsoft.com
-2.18.67.196
 23.15.3.136
+23.15.3.140
 
 # Microsoft — outingsapp.com
 104.210.152.76
@@ -2495,10 +2486,14 @@
 52.96.91.34
 
 # Microsoft — outlook.office365.com
-40.99.247.18
-40.99.247.34
-40.99.249.66
-52.96.47.82
+52.96.104.18
+52.96.104.50
+52.96.122.66
+52.96.165.178
+52.96.173.146
+52.96.183.226
+52.96.184.50
+52.96.48.50
 
 # Microsoft — outlookgroups.ms
 # (no public DNS addresses found)
@@ -2575,7 +2570,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — powerbi.com
-150.171.113.163
+150.171.113.164
 
 # Microsoft — powershellgallery.com
 20.112.250.133
@@ -2612,7 +2607,7 @@
 20.118.138.147
 
 # Microsoft — pxt.io
-150.171.109.72
+150.171.109.119
 
 # Microsoft — reactorms.com.cn
 20.112.250.133
@@ -2637,7 +2632,7 @@
 
 # Microsoft — rsm.download.prss.microsoft.com
 23.15.3.136
-23.15.3.140
+23.15.3.205
 
 # Microsoft — s-microsoft.com
 # (no public DNS addresses found)
@@ -2655,11 +2650,11 @@
 # (no public DNS addresses found)
 
 # Microsoft — sclive.net
-104.16.53.54
-104.18.36.110
-104.18.74.250
-162.159.160.220
-172.64.68.217
+104.25.250.118
+162.159.160.66
+172.64.153.89
+172.66.137.220
+172.66.202.137
 
 # Microsoft — sdx.microsoft.com
 2.23.138.47
@@ -2688,7 +2683,7 @@
 65.55.93.60
 
 # Microsoft — shell.cdn.office.net
-184.31.155.84
+23.213.123.84
 
 # Microsoft — signalr.net
 20.112.250.133
@@ -2725,12 +2720,12 @@
 20.76.201.171
 
 # Microsoft — software.download.prss.microsoft.com
-140.248.150.172
+23.15.3.140
+23.15.3.215
 
 # Microsoft — spoprod-a.akamaihd.net
-23.218.218.133
-23.218.218.161
-23.218.218.169
+23.15.3.68
+23.15.3.79
 
 # Microsoft — sprinklesapp.com
 40.118.255.59
@@ -2768,21 +2763,21 @@
 23.218.218.172
 
 # Microsoft — statics-marketingsites-wcus-ms-com.akamaized.net
-23.218.218.142
-23.218.218.160
+23.15.3.91
+23.15.3.95
 
 # Microsoft — statics.teams.cdn.office.net
-2.18.67.197
-23.15.3.150
+2.18.67.211
+2.18.67.6
 
 # Microsoft — storecorefulfillment.download.prss.microsoft.com
-140.248.150.172
+146.75.30.172
 
 # Microsoft — storeedge.microsoft.com
-23.62.10.218
+23.62.105.16
 
 # Microsoft — storeedgefd.dsx.mp.microsoft.com
-23.57.64.96
+23.219.10.154
 
 # Microsoft — successwithteams.com
 20.112.250.133
@@ -2799,10 +2794,10 @@
 20.76.201.171
 
 # Microsoft — surface.download.prss.microsoft.com
-23.15.3.136
-23.15.3.140
+140.248.150.172
 
 # Microsoft — surface.downloads.prss.microsoft.com
+2.18.67.196
 23.15.3.136
 23.15.3.140
 
@@ -2876,7 +2871,7 @@
 # (no public DNS addresses found)
 
 # Microsoft — userpxt.io
-150.171.109.72
+150.171.109.116
 
 # Microsoft — uservoice.com
 198.202.211.1
@@ -2946,12 +2941,10 @@
 20.76.201.171
 
 # Microsoft — vlportal.download.prss.microsoft.com
-23.15.3.205
-23.15.3.217
+140.248.150.172
 
 # Microsoft — volic.download.prss.microsoft.com
-23.15.3.136
-23.15.3.140
+146.75.30.172
 
 # Microsoft — vsallin.net
 157.56.49.253
@@ -2969,9 +2962,10 @@
 # (no public DNS addresses found)
 
 # Microsoft — vscode.dev
-150.171.109.72
+150.171.109.119
 
 # Microsoft — vscode.download.prss.microsoft.com
+2.18.67.196
 23.15.3.136
 23.15.3.140
 
@@ -2979,8 +2973,7 @@
 184.72.232.223
 
 # Microsoft — vz.download.prss.microsoft.com
-23.15.3.136
-23.15.3.140
+146.75.30.172
 
 # Microsoft — wbd.ms
 135.222.236.136
@@ -2994,7 +2987,7 @@
 
 # Microsoft — windbg.download.prss.microsoft.com
 23.15.3.136
-23.15.3.140
+23.15.3.205
 
 # Microsoft — windows-int.net
 # (no public DNS addresses found)

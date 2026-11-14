@@ -54,8 +54,8 @@
 # (no public DNS addresses found)
 
 # TikTok — p16-tiktokcdn-com.akamaized.net
-2600:1408:c400:29::17da:da48/128
-2600:1408:c400:29::17da:da4c/128
+2600:1408:a:53::170f:345/128
+2600:1408:a:53::170f:355/128
 
 # TikTok — roovza-launches.appsflyersdk.com
 # (no public DNS addresses found)
@@ -67,14 +67,14 @@
 # (no public DNS addresses found)
 
 # TikTok — roovza.skadsdk.appsflyersdk.com
-2600:9000:201d:1a00:17:9ba7:39c0:93a1/128
-2600:9000:201d:2c00:17:9ba7:39c0:93a1/128
-2600:9000:201d:5800:17:9ba7:39c0:93a1/128
-2600:9000:201d:5a00:17:9ba7:39c0:93a1/128
-2600:9000:201d:6400:17:9ba7:39c0:93a1/128
-2600:9000:201d:b000:17:9ba7:39c0:93a1/128
-2600:9000:201d:b600:17:9ba7:39c0:93a1/128
+2600:9000:201d:7000:17:9ba7:39c0:93a1/128
+2600:9000:201d:9200:17:9ba7:39c0:93a1/128
+2600:9000:201d:cc00:17:9ba7:39c0:93a1/128
+2600:9000:201d:d200:17:9ba7:39c0:93a1/128
+2600:9000:201d:d800:17:9ba7:39c0:93a1/128
 2600:9000:201d:dc00:17:9ba7:39c0:93a1/128
+2600:9000:201d:e800:17:9ba7:39c0:93a1/128
+2600:9000:201d:fa00:17:9ba7:39c0:93a1/128
 
 # TikTok — sgpstatp.com
 # (no public DNS addresses found)

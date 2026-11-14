@@ -28,7 +28,7 @@
 # (no public DNS addresses found)
 
 # OneDrive — skydrive.wns.windows.com
-2603:1030:40c:e::/128
+2603:1030:40c:e::1/128
 
 # OneDrive — spoprod-a.akamaihd.net
 # (no public DNS addresses found)

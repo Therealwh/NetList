@@ -135,8 +135,8 @@
 # (no public DNS addresses found)
 
 # Riot Games — riotgames.com
-23.205.106.77/32
-23.205.106.85/32
+23.205.106.22/32
+23.205.106.25/32
 
 # Riot Games — riotgames.info
 3.33.139.32/32

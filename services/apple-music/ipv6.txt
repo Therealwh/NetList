@@ -2,59 +2,59 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — amp-api-edge.music.apple.com
-2a04:4e42:77::774
+2a04:4e42:95::774
 
 # Apple Music — amp-api.music.apple.com
-2a04:4e42:77::774
+2a04:4e42:95::774
 
 # Apple Music — aod-ssl.itunes.apple.com
-2600:1408:c400:f80::20b6
-2600:1408:c400:f90::20b6
+2600:1408:c400:168c::20b6
+2600:1408:c400:168e::20b6
 
 # Apple Music — aod.itunes.apple.com
 2620:149:a10:f000::135
-2620:149:a10:f000::139
+2620:149:a10:f000::147
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
 
 # Apple Music — audio-ssl.itunes.apple.com
-2600:1408:c400:f80::20b6
-2600:1408:c400:f90::20b6
+2600:1408:c400:168c::20b6
+2600:1408:c400:168e::20b6
 
 # Apple Music — audio.itunes.apple.com
-2620:149:a10:f000::133
-2620:149:a10:f000::135
+2620:149:a10:f000::134
+2620:149:a10:f000::143
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1408:10::1703:d78
-2600:1408:10::1703:d98
+2600:1408:5400:15::17dd:e352
+2600:1408:5400:15::17dd:e36a
 
 # Apple Music — music.apple.com
-2600:1408:c400:f81::2a1
-2600:1408:c400:f86::2a1
-2600:1408:c400:f89::2a1
-2600:1408:c400:f90::2a1
-2600:1408:c400:f91::2a1
+2600:1408:c400:384::2a1
+2600:1408:c400:388::2a1
+2600:1408:c400:38e::2a1
+2600:1408:c400:390::2a1
+2600:1408:c400:395::2a1
 
 # Apple Music — musicstatus.music.apple.com
-2600:1408:c400:5a::addf:a3c9
-2600:1408:c400:5a::addf:a3ce
+2600:1408:a:5d::17df:f7c4
+2600:1408:a:5d::17df:f7ce
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a10:f000::137
-2620:149:a10:f000::149
+2620:149:a10:f000::142
+2620:149:a10:f000::143
 
 # Apple Music — play.music.apple.com
-2600:1408:c400:28::17da:d888
-2600:1408:c400:28::17da:d894
+2600:1408:5400:33::1703:4b82
+2600:1408:5400:33::1703:4b87
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:95::774
+2a04:4e42:77::774
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a10:f000::133
-2620:149:a10:f000::149
+2620:149:a10:f000::134
+2620:149:a10:f000::138

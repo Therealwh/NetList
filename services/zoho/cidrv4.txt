@@ -21,7 +21,7 @@
 # (no public DNS addresses found)
 
 # Zoho — zohopublic.com
-204.141.43.215/32
+136.143.191.215/32
 
 # Zoho — zohoschools.com
 169.148.148.139/32

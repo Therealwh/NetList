@@ -101,10 +101,10 @@
 172.64.155.32/32
 
 # ChatGPT — intercom.io
-18.160.41.107/32
-18.160.41.123/32
-18.160.41.51/32
-18.160.41.77/32
+3.167.112.16/32
+3.167.112.52/32
+3.167.112.9/32
+3.167.112.90/32
 
 # ChatGPT — intercomcdn.com
 13.226.238.116/32
@@ -145,13 +145,13 @@
 172.64.154.211/32
 
 # ChatGPT — openaiapi-site.azureedge.net
-150.171.109.74/32
+150.171.109.116/32
 
 # ChatGPT — openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-150.171.109.77/32
+150.171.109.119/32
 
 # ChatGPT — openaicom.imgix.net
-140.248.150.208/32
+146.75.30.208/32
 
 # ChatGPT — openaicomproductionae4b.blob.core.windows.net
 20.60.30.68/32
@@ -161,7 +161,7 @@
 172.64.154.211/32
 
 # ChatGPT — production-openaicom-storage.azureedge.net
-150.171.109.77/32
+150.171.109.116/32
 
 # ChatGPT — segment.io
 32.186.247.208/32
@@ -180,12 +180,12 @@
 104.16.80.73/32
 
 # ChatGPT — status.openai.com
-66.33.60.129/32
-76.76.21.22/32
+66.33.60.193/32
+76.76.21.241/32
 
 # ChatGPT — stripe.com
-198.137.150.231/32
-198.202.176.231/32
+198.137.150.161/32
+198.202.176.161/32
 
 # ChatGPT — tcr9i.chat.openai.com
 104.18.33.45/32
