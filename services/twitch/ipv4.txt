@@ -2,10 +2,10 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Twitch — d1g1f25tn8m2e6.cloudfront.net
-3.167.116.115
-3.167.116.116
-3.167.116.154
-3.167.116.170
+3.167.42.150
+3.167.42.167
+3.167.42.202
+3.167.42.38
 
 # Twitch — d1m7jfoe9zdc1j.cloudfront.net
 3.167.97.133

@@ -43,7 +43,8 @@
 18.160.41.80/32
 
 # Mozilla — incoming-telemetry.thunderbird.net
-32.201.204.216/32
+3.220.78.90/32
+98.83.252.126/32
 
 # Mozilla — incoming.telemetry.mozilla.org
 34.54.185.247/32

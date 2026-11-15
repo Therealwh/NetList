@@ -83,7 +83,7 @@
 192.0.66.2
 
 # Slack — wss-backup.slack.com
-44.226.178.27
+3.14.34.68
 
 # Slack — wss-mobile.slack.com
 3.211.37.212

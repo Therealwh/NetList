@@ -8,35 +8,35 @@
 140.82.112.17
 
 # GitHub Pages — ghcr.io
-140.82.113.33
+140.82.114.34
 
 # GitHub Pages — git.io
 140.82.113.22
 
 # GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
-140.248.150.79
+146.75.30.79
 
 # GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
 47.79.66.61
 
 # GitHub Pages — github-cloud.s3.amazonaws.com
-16.15.161.128
-16.15.167.108
-16.15.183.7
-16.15.229.97
-16.15.246.225
-52.217.205.82
-52.217.88.152
-54.231.171.218
+16.15.160.127
+16.15.166.48
+16.15.171.140
+16.15.228.176
+16.15.252.122
+52.217.168.162
+52.217.224.18
+54.231.229.18
 
 # GitHub Pages — github.blog
 192.0.66.2
 
 # GitHub Pages — github.com
-140.82.113.4
+140.82.114.4
 
 # GitHub Pages — github.community
-140.82.113.17
+140.82.112.18
 
 # GitHub Pages — github.dev
 52.224.38.193
@@ -67,7 +67,7 @@
 140.82.114.18
 
 # GitHub Pages — githubhackathon.com
-140.82.113.18
+140.82.114.18
 
 # GitHub Pages — githubnext.com
 185.199.108.153
@@ -100,7 +100,7 @@
 185.199.111.153
 
 # GitHub Pages — npm.community
-140.82.114.18
+140.82.112.17
 
 # GitHub Pages — npmjs.com
 104.17.134.117
@@ -134,7 +134,7 @@
 # (no public DNS addresses found)
 
 # GitHub Pages — repo.new
-140.82.114.17
+140.82.114.18
 
 # GitHub Pages — thegithubshop.com
 23.227.38.65

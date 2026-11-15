@@ -39,11 +39,11 @@
 34.96.123.111
 
 # Last.fm — last.us11.list-manage.com
-184.30.65.39
+23.13.171.188
 
 # Last.fm — lastfm-img2.akamaized.net
-23.199.55.17
-23.199.55.54
+23.15.3.71
+23.15.3.80
 
 # Last.fm — lastfm.cn
 54.157.108.158

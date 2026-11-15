@@ -69,8 +69,8 @@
 # (no public DNS addresses found)
 
 # BBC — bbcpersian.com
-23.212.248.13
-23.212.248.23
+23.212.248.16
+23.212.248.22
 
 # BBC — bbcverticals.com
 # (no public DNS addresses found)
@@ -79,12 +79,12 @@
 # (no public DNS addresses found)
 
 # BBC — ve-dash-uk-live.akamaized.net
-23.218.217.15
-23.218.217.30
+23.223.247.214
+23.223.247.225
 
 # BBC — ve-uhd-push-uk-live.akamaized.net
-23.218.217.12
-23.218.217.18
+23.223.247.207
+23.223.247.214
 
 # BBC — vod-dash-uk-live.akamaized.net
 23.205.104.14
@@ -103,16 +103,16 @@
 2.18.67.87
 
 # BBC — vod-thumb-uk-live.akamaized.net
-23.219.154.16
-23.219.154.9
+2.18.67.75
+2.18.67.85
 
 # BBC — vod-thumb-ww-live.akamaized.net
 23.205.104.12
 23.205.104.20
 
 # BBC — vs-cmaf-push-uk-live.akamaized.net
-23.218.217.41
-23.218.217.9
+23.223.247.203
+23.223.247.211
 
 # BBC — vs-cmaf-pushb-ww-live.akamaized.net
 23.15.3.12
@@ -123,5 +123,5 @@
 23.223.247.225
 
 # BBC — vs-hls-pushb-uk-live.akamaized.net
-23.218.217.17
-23.218.217.8
+23.223.247.213
+23.223.247.219

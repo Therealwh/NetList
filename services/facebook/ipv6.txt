@@ -2,46 +2,46 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Facebook — aboutfacebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — accessfacebookfromschool.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — accountkit.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — acebooik.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — acebook.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — achat-followers-instagram.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — acheter-followers-instagram.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — acheterdesfollowersinstagram.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — acheterfollowersinstagram.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — advancediddetection.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — askfacebook.net
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — askfacebook.org
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — atdmt2.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — atlasdmt.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — atlasonepoint.com
 2a03:2880:f012:1:face:b00c:0:1
@@ -53,7 +53,7 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — bookstagram.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — botorch.org
 2606:50c0:8000::153
@@ -72,7 +72,7 @@
 2606:4700:3035::ac43:892d
 
 # Facebook — buyingfacebooklikes.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — buyoculus.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -81,13 +81,13 @@
 2a04:fa87:fffd::c000:42e3
 
 # Facebook — carstagram.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — cdninstagram.com
 # (no public DNS addresses found)
 
 # Facebook — celebgramme.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — chickstagram.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -96,7 +96,7 @@
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — click-url.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — como-hackearfacebook.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -109,13 +109,13 @@
 # (no public DNS addresses found)
 
 # Facebook — dacebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — dlfacebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — dotfacebook.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — dotfacebook.net
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -133,10 +133,10 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faacebok.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faacebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — faasbook.com
 2a03:2880:f012:1:face:b00c:0:1
@@ -145,16 +145,16 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facbeok.com
-2a03:2880:f012:1:face:b00c:0:1
-
-# Facebook — facboo.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — facbook.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
-# Facebook — facbool.com
+# Facebook — facboo.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — facbook.com
 2a03:2880:f381:8d:face:b00c:0:2
+
+# Facebook — facbool.com
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facboox.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -169,19 +169,19 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facdebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — face-book.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceabook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebboc.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — facebbook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebboook.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -190,22 +190,22 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebdok.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebgook.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebhook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebkkk.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebo-ok.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceboak.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebock.com
 2a03:2880:f012:1:face:b00c:0:1
@@ -214,43 +214,43 @@
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebof.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — faceboik.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebok.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebokbook.com
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebokc.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebokk.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebokok.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceboks.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebol.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebolk.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — facebomok.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
-# Facebook — faceboo.com
+# Facebook — facebomok.com
 2a03:2880:f012:1:face:b00c:0:1
 
+# Facebook — faceboo.com
+2a03:2880:f31d:8d:face:b00c:0:2
+
 # Facebook — facebooa.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — faceboob.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -259,25 +259,25 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooc.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — faceboock.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebood.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebooe.com
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — faceboof.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — facebooi.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooik.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooik.org
 2a03:2880:f381:8d:face:b00c:0:2
@@ -292,22 +292,22 @@
 # (no public DNS addresses found)
 
 # Facebook — facebook-ebook.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — facebook-forum.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facebook-hardware.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — facebook-inc.com
 2a03:2880:f35a:8d:face:b00c:0:2
 
-# Facebook — facebook-login.com
+# Facebook — facebook-forum.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — facebook-hardware.com
+2a03:2880:f35a:8d:face:b00c:0:2
+
+# Facebook — facebook-inc.com
 2a03:2880:f381:8d:face:b00c:0:2
 
-# Facebook — facebook-newsroom.com
+# Facebook — facebook-login.com
 2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — facebook-newsroom.com
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebook-newsroom.org
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -316,28 +316,28 @@
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebook-pmdcenter.net
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebook-pmdcenter.org
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebook-privacy.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebook-program.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook-studio.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — facebook-support.org
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebook-texas-holdem.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook-texas-holdem.net
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook.br
 # (no public DNS addresses found)
@@ -346,16 +346,16 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook.cc
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook.com
 2a03:2880:f31d:1:face:b00c:0:25de
 
 # Facebook — facebook.design
-2600:9000:234d:3e00:1:5f64:ffc0:93a1
+2600:9000:234d:da00:1:5f64:ffc0:93a1
 
 # Facebook — facebook.hu
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebook.in
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -367,19 +367,19 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook.org
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebook.se
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook.shop
-2a03:2880:f012:1:face:b00c:0:1
-
-# Facebook — facebook.tv
 2a03:2880:f31d:8d:face:b00c:0:2
 
+# Facebook — facebook.tv
+2a03:2880:f381:8d:face:b00c:0:2
+
 # Facebook — facebook.us
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebook.wang
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -388,7 +388,7 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook30.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebook30.net
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -397,13 +397,13 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebook4business.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookads.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookadvertisingsecrets.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookappcenter.info
 2a03:2880:f381:8d:face:b00c:0:2
@@ -412,16 +412,16 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookappcenter.org
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookatschool.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookawards.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookblueprint.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookbrand.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -433,97 +433,97 @@
 2a03:2880:f30b:8d:face:b00c:0:2
 
 # Facebook — facebookcareer.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookcheats.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookck.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookclub.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookcom.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — facebookconnect.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
-# Facebook — facebookconsultant.org
+# Facebook — facebookconnect.com
 2a03:2880:f381:8d:face:b00c:0:2
+
+# Facebook — facebookconsultant.org
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookcoronavirus.com
 # (no public DNS addresses found)
 
 # Facebook — facebookcovers.org
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookcredits.info
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookdating.net
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookdevelopergarage.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookdusexe.org
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facebookemail.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facebookenespanol.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facebookexchange.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facebookexchange.net
 2a03:2880:f381:8d:face:b00c:0:2
 
-# Facebook — facebookfacebook.com
+# Facebook — facebookemail.com
+2a03:2880:f381:8d:face:b00c:0:2
+
+# Facebook — facebookenespanol.com
 2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — facebookexchange.com
+2a03:2880:f381:8d:face:b00c:0:2
+
+# Facebook — facebookexchange.net
+2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — facebookfacebook.com
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookflow.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookgames.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookgraphsearch.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — facebookgraphsearch.info
 2a03:2880:f012:1:face:b00c:0:1
 
-# Facebook — facebookgroups.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facebookhome.cc
+# Facebook — facebookgraphsearch.info
 2a03:2880:f381:8d:face:b00c:0:2
 
-# Facebook — facebookhome.com
+# Facebook — facebookgroups.com
 2a03:2880:f35a:8d:face:b00c:0:2
+
+# Facebook — facebookhome.cc
+2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — facebookhome.com
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookhome.info
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookhub.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebooki.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookinc.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookland.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooklikeexchange.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooklive.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -535,19 +535,19 @@
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebooklogin.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebooklogin.info
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookloginhelp.net
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebooklogs.com
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookmail.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookmail.tv
 2a03:2880:f381:8d:face:b00c:0:2
@@ -556,16 +556,16 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookmarketing.info
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookmarketingpartner.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookmarketingpartners.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookmobile.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookmsn.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -583,16 +583,16 @@
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookpaper.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookpay.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookphonenumber.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookphoto.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -601,31 +601,31 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookpmdcenter.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookpoke.net
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookpoke.org
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookpoker.info
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookpokerchips.info
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookporn.net
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookporn.org
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookporno.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookportal.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — facebookquotes4u.com
 # (no public DNS addresses found)
@@ -637,22 +637,22 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooksecurity.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookshop.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebooksignup.net
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooksite.net
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookstories.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookstudios.net
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookstudios.org
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -661,7 +661,7 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooksuppliers.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebookswagemea.com
 # (no public DNS addresses found)
@@ -673,94 +673,94 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebookthreads.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooktv.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebooktv.org
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — facebookvacation.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — facebookw.com
 2a03:2880:f012:1:face:b00c:0:1
 
-# Facebook — facebookwork.com
+# Facebook — facebookvacation.com
 2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — facebookw.com
+2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — facebookwork.com
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebookworld.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebool.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebool.info
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facebooll.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — faceboom.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — faceboon.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceboonk.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceboooik.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceboook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceboop.com
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — faceboot.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — faceboox.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebopk.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebpook.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facebuk.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facebuok.com
-2a03:2880:f35a:8d:face:b00c:0:2
-
-# Facebook — facebvook.com
 2a03:2880:f381:8d:face:b00c:0:2
 
-# Facebook — facebyook.com
+# Facebook — facebuok.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — facebvook.com
 2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — facebyook.com
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facebzook.com
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facecbgook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facecbook.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facecbook.org
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facecook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facecook.org
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facedbook.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -769,13 +769,13 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceebot.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facegbok.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facegbook.com
 2a03:2880:f012:1:face:b00c:0:1
@@ -784,10 +784,10 @@
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — faceobok.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faceobook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — faceook.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -796,19 +796,19 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facerbook.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facesbooc.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — facesounds.com
-2a03:2880:f363:8d:face:b00c:0:2
-
-# Facebook — facetook.com
 2a03:2880:f381:8d:face:b00c:0:2
 
-# Facebook — facevbook.com
+# Facebook — facesbooc.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — facesounds.com
 2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — facetook.com
+2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — facevbook.com
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facewbook.co
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -817,16 +817,16 @@
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facfacebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facfebook.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faciometrics.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fackebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — facnbook.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -835,65 +835,65 @@
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — facvebook.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facwebook.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — facxebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fadebook.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faebok.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — faebook.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faebookc.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — faeboook.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faecebok.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faesebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fafacebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — faicbooc.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fasebokk.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fasebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faseboox.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fasttext.cc
 2606:4700:3034::ac43:ac6f
 2606:4700:3036::6815:2fc6
 
 # Facebook — favebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — faycbok.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fb.careers
 # (no public DNS addresses found)
 
 # Facebook — fb.com
-2a03:2880:f35a:1:face:b00c:0:25de
+2a03:2880:f381:1:face:b00c:0:25de
 
 # Facebook — fb.me
 2a03:2880:f31d:1:face:b00c:0:25de
@@ -902,7 +902,7 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fbaddins.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — fbbmarket.com
 # (no public DNS addresses found)
@@ -917,13 +917,13 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fbcdn.net
-2a03:2880:f112:83:face:b00c:0:25de
+2a03:2880:f31d:1:face:b00c:0:25de
 
 # Facebook — fbf8.com
 # (no public DNS addresses found)
 
 # Facebook — fbfeedback.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — fbhome.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -942,7 +942,7 @@
 2606:50c0:8003::153
 
 # Facebook — fbinnovation.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fblitho.com
 2606:4700:3031::6815:5e66
@@ -952,7 +952,7 @@
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fbmessenger.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fbredex.com
 2606:50c0:8000::153
@@ -970,16 +970,16 @@
 # (no public DNS addresses found)
 
 # Facebook — fbsbx.com
-2a03:2880:f35a:1:face:b00c:0:25de
+2a03:2880:f381:1:face:b00c:0:25de
 
 # Facebook — fbsbx.net
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fbsupport-covid.net
 # (no public DNS addresses found)
 
 # Facebook — fbthirdpartypixel.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fbthirdpartypixel.net
 # (no public DNS addresses found)
@@ -988,25 +988,25 @@
 # (no public DNS addresses found)
 
 # Facebook — fburl.com
-2a03:2880:f363:92:face:b00c:0:7c8d
+2a03:2880:f31d:92:face:b00c:0:7c8d
 
 # Facebook — fbworkmail.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fcacebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fcaebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fcebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fcebookk.com
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fcfacebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fdacebook.info
 2a03:2880:f012:1:face:b00c:0:1
@@ -1015,34 +1015,34 @@
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — feacbook.com
-2a03:2880:f012:1:face:b00c:0:1
-
-# Facebook — feacbooke.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
+# Facebook — feacbooke.com
+2a03:2880:f381:8d:face:b00c:0:2
+
 # Facebook — feacebook.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fecbbok.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fecbooc.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fecbook.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — feceboock.com
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fecebook.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — feceboox.com
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fececbook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — feook.com
 2a03:2880:f381:8d:face:b00c:0:2
@@ -1051,19 +1051,19 @@
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fescebook.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — fesebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — ffacebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fgacebook.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — ficeboock.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — flow.dev
 # (no public DNS addresses found)
@@ -1078,22 +1078,22 @@
 # (no public DNS addresses found)
 
 # Facebook — fmcebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — fnacebook.com
-2a03:2880:f363:8d:face:b00c:0:2
-
-# Facebook — fosebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — fpacebook.com
-2a03:2880:f363:8d:face:b00c:0:2
-
-# Facebook — fqcebook.com
 2a03:2880:f012:1:face:b00c:0:1
 
+# Facebook — fnacebook.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — fosebook.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — fpacebook.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — fqcebook.com
+2a03:2880:f381:8d:face:b00c:0:2
+
 # Facebook — fracebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — freeb.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -1102,25 +1102,25 @@
 2a03:2880:f31d:6:face:b00c:0:14c9
 
 # Facebook — freebasics.net
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — freebs.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — freefacebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — freefacebook.net
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — freefacebookads.net
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — freefblikes.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — freindfeed.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — frescolib.org
 2606:50c0:8000::153
@@ -1132,52 +1132,52 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — friendfed.com
-2a03:2880:f012:1:face:b00c:0:1
-
-# Facebook — friendfeed-api.com
-2a03:2880:f012:1:face:b00c:0:1
-
-# Facebook — friendfeed-media.com
-2a03:2880:f012:1:face:b00c:0:1
-
-# Facebook — friendfeed.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
+# Facebook — friendfeed-api.com
+2a03:2880:f381:8d:face:b00c:0:2
+
+# Facebook — friendfeed-media.com
+2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — friendfeed.com
+2a03:2880:f381:8d:face:b00c:0:2
+
 # Facebook — friendfeedmedia.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fsacebok.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — fscebook.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — fundraisingwithfacebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — funnyfacebook.org
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — futureofbusinesssurvey.org
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — gacebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — gameroom.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — gfacecbook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — groups.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — hackerfacebook.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — hackfacebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — hackfacebookid.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -1195,13 +1195,13 @@
 2606:50c0:8003::153
 
 # Facebook — hifacebook.info
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — howtohackfacebook-account.com
 # (no public DNS addresses found)
 
 # Facebook — hsfacebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — httpfacebook.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -1213,10 +1213,10 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — i.org
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — ig.me
-2a03:2880:f381:22:face:b00c:0:4420
+2a03:2880:f212:e5:face:b00c:0:4420
 
 # Facebook — igcdn.com
 # (no public DNS addresses found)
@@ -1228,10 +1228,10 @@
 # (no public DNS addresses found)
 
 # Facebook — imstagram.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — imtagram.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — instaadder.com
 2a03:2880:f381:8d:face:b00c:0:2
@@ -1243,25 +1243,25 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instafollower.com
-2a03:2880:f363:8d:face:b00c:0:2
-
-# Facebook — instagainer.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — instagda.com
-2a03:2880:f35a:8d:face:b00c:0:2
-
-# Facebook — instagify.com
 2a03:2880:f381:8d:face:b00c:0:2
 
-# Facebook — instagmania.com
+# Facebook — instagainer.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — instagda.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — instagify.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
+# Facebook — instagmania.com
+2a03:2880:f381:8d:face:b00c:0:2
+
 # Facebook — instagor.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagr.am
-2a03:2880:f212:1e4:face:b00c:0:4420
+2a03:2880:f212:e5:face:b00c:0:4420
 
 # Facebook — instagram-brand.com
 2a04:fa87:fffd::c000:424f
@@ -1270,121 +1270,121 @@
 # (no public DNS addresses found)
 
 # Facebook — instagram-help.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagram-press.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — instagram-press.net
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — instagram.com
-2a03:2880:f31d:22:face:b00c:0:4420
-
-# Facebook — instagramci.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — instagramcn.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — instagramdi.com
 2a03:2880:f35a:8d:face:b00c:0:2
 
-# Facebook — instagramhashtags.net
+# Facebook — instagram-press.net
 2a03:2880:f381:8d:face:b00c:0:2
+
+# Facebook — instagram.com
+2a03:2880:f212:e5:face:b00c:0:4420
+
+# Facebook — instagramci.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — instagramcn.com
+2a03:2880:f35a:8d:face:b00c:0:2
+
+# Facebook — instagramdi.com
+2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — instagramhashtags.net
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagramhilecim.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagramhilesi.org
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagramium.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagramizlenme.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagramkusu.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagramlogin.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagramm.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — instagramn.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagrampartners.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagramphoto.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — instagramq.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagramsepeti.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagramtakipcisatinal.net
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagramtakiphilesi.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagramtips.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagramtr.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagran.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — instagranm.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagrem.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — instagrm.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — instagtram.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instagy.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — instamgram.com
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — instangram.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — instanttelegram.com
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — instaplayer.net
-2a03:2880:f31d:8d:face:b00c:0:2
-
-# Facebook — instastyle.tv
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — instgram.com
-2a03:2880:f381:8d:face:b00c:0:2
-
-# Facebook — intagram.com
 2a03:2880:f012:1:face:b00c:0:1
 
-# Facebook — intagrm.com
+# Facebook — instanttelegram.com
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — instaplayer.net
+2a03:2880:f012:1:face:b00c:0:1
+
+# Facebook — instastyle.tv
 2a03:2880:f31d:8d:face:b00c:0:2
 
+# Facebook — instgram.com
+2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — intagram.com
+2a03:2880:f31d:8d:face:b00c:0:2
+
+# Facebook — intagrm.com
+2a03:2880:f381:8d:face:b00c:0:2
+
 # Facebook — internet.org
-2a03:2880:f112:84:face:b00c:0:14c9
+2a03:2880:f31d:6:face:b00c:0:14c9
 
 # Facebook — intgram.com
 2a03:2880:f012:1:face:b00c:0:1
@@ -1393,19 +1393,19 @@
 # (no public DNS addresses found)
 
 # Facebook — kingstagram.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — klik.me
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — liverail.com
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — liverail.tv
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — lnstagram-help.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — login-account.net
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -1420,16 +1420,16 @@
 2606:50c0:8003::153
 
 # Facebook — markzuckerberg.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — mcrouter.net
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — mcrouter.org
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — messenger.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — messengerdevelopers.com
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -1438,34 +1438,34 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — midentsolutions.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — mobilefacebook.com
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — moneywithfacebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — myfbfans.com
-2a03:2880:f363:8d:face:b00c:0:2
-
-# Facebook — nbabot.net
 2a03:2880:f012:1:face:b00c:0:1
 
-# Facebook — newsfeed.com
+# Facebook — nbabot.net
 2a03:2880:f31d:8d:face:b00c:0:2
 
+# Facebook — newsfeed.com
+2a03:2880:f381:8d:face:b00c:0:2
+
 # Facebook — nextstop.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — ocul.us
 # (no public DNS addresses found)
 
 # Facebook — oculus-china.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — oculus.com
-2a03:2880:f31d:18d:face:b00c:0:32c2
+2a03:2880:f35a:18d:face:b00c:0:32c2
 
 # Facebook — oculus2014.com
 2a03:2880:f012:1:face:b00c:0:1
@@ -1474,10 +1474,10 @@
 # (no public DNS addresses found)
 
 # Facebook — oculusblog.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — oculusbrand.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — oculuscasino.net
 2a03:2880:f381:8d:face:b00c:0:2
@@ -1489,16 +1489,16 @@
 # (no public DNS addresses found)
 
 # Facebook — oculusdiving.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — oculusforbusiness.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — oculusrift.com
-2a03:2880:f31d:18d:face:b00c:0:32c2
+2a03:2880:f381:18d:face:b00c:0:32c2
 
 # Facebook — oculusvr.com
-2a03:2880:f212:c1:face:b00c:0:32c2
+2a03:2880:f31d:18d:face:b00c:0:32c2
 
 # Facebook — ogp.me
 2606:50c0:8000::153
@@ -1507,19 +1507,19 @@
 2606:50c0:8003::153
 
 # Facebook — oninstagram.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — online-deals.net
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — online-instagram.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — onlineinstagram.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — opencreate.org
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — opengraphprotocol.com
 2606:4700:3036::6815:3758
@@ -1530,7 +1530,7 @@
 2606:4700:3037::ac43:daf3
 
 # Facebook — parse.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — powersunitedvr.com
 2a03:2880:f31d:18d:face:b00c:0:32c2
@@ -1558,7 +1558,7 @@
 2606:4700:3036::ac43:d035
 
 # Facebook — redkix.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f35a:8d:face:b00c:0:2
 
 # Facebook — rocksdb.com
 2606:4700:3035::6815:2980
@@ -1575,16 +1575,16 @@
 2606:50c0:8003::153
 
 # Facebook — shopfacebook.com
-2a03:2880:f363:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — sportsfacebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — sportstream.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — supportfacebook.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — terragraph.com
 2606:50c0:8000::153
@@ -1593,13 +1593,13 @@
 2606:50c0:8003::153
 
 # Facebook — thefacebook.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — thefacebook.net
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — thefind.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — theinstagramhack.com
 # (no public DNS addresses found)
@@ -1608,19 +1608,19 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — viewpointsfromfacebook.com
-2a03:2880:f35a:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — wa.me
 2a03:2880:f31d:120:face:b00c:0:167
 
 # Facebook — web-instagram.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — whatsapp-plus.info
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — whatsapp-plus.me
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — whatsapp-plus.net
 2a03:2880:f31d:8d:face:b00c:0:2
@@ -1629,16 +1629,16 @@
 # (no public DNS addresses found)
 
 # Facebook — whatsapp.cc
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — whatsapp.com
-2a03:2880:f212:c5:face:b00c:0:167
+2a03:2880:f31d:120:face:b00c:0:167
 
 # Facebook — whatsapp.info
 # (no public DNS addresses found)
 
 # Facebook — whatsapp.net
-2a03:2880:f35a:120:face:b00c:0:167
+2a03:2880:f31d:120:face:b00c:0:167
 
 # Facebook — whatsapp.org
 # (no public DNS addresses found)
@@ -1656,25 +1656,25 @@
 2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — workplaceusecases.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — worldhack.com
-2a03:2880:f31d:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — www-facebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — wwwfacebok.com
 2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — wwwfacebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — wwwinstagram.com
-2a03:2880:f012:1:face:b00c:0:1
+2a03:2880:f31d:8d:face:b00c:0:2
 
 # Facebook — wwwmfacebook.com
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f012:1:face:b00c:0:1
 
 # Facebook — yogalayout.com
 2606:4700:3033::6815:2bb7
@@ -1684,4 +1684,4 @@
 2a03:2880:f381:8d:face:b00c:0:2
 
 # Facebook — zuckerberg.net
-2a03:2880:f381:8d:face:b00c:0:2
+2a03:2880:f31d:8d:face:b00c:0:2

@@ -1,9 +1,9 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Twitch — d1g1f25tn8m2e6.cloudfront.net
-3.167.116.115/32
-3.167.116.116/32
-3.167.116.154/32
-3.167.116.170/32
+3.167.42.150/32
+3.167.42.167/32
+3.167.42.202/32
+3.167.42.38/32
 
 # Twitch — d1m7jfoe9zdc1j.cloudfront.net
 3.167.97.133/32

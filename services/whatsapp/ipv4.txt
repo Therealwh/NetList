@@ -9,13 +9,13 @@
 57.144.74.141
 
 # WhatsApp — wa.me
-57.144.75.32
+31.13.71.49
 
 # WhatsApp — whatsapp.biz
 # (no public DNS addresses found)
 
 # WhatsApp — whatsapp.com
-57.145.3.32
+57.144.75.32
 
 # WhatsApp — whatsapp.net
-57.145.3.32
+31.13.71.49

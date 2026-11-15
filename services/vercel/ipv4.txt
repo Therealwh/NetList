@@ -2,12 +2,12 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Vercel — err.sh
+64.239.109.193
 64.239.123.1
-64.239.123.65
 
 # Vercel — hyper.is
-64.239.109.1
 64.239.109.129
+64.239.123.65
 
 # Vercel — nextjs.org
 64.239.123.65
@@ -17,48 +17,48 @@
 64.29.17.195
 
 # Vercel — static.fun
-64.239.123.1
-64.239.123.129
+64.239.109.1
+64.239.109.129
 
 # Vercel — title.sh
-64.239.109.1
-64.239.123.193
+64.239.109.129
+64.239.109.65
 
 # Vercel — turborepo.org
-64.239.109.65
-64.239.123.65
+64.239.109.129
+64.239.109.193
 
 # Vercel — vercel-analytics.com
 # (no public DNS addresses found)
 
 # Vercel — vercel-dns.com
-66.33.60.129
-66.33.60.130
+66.33.60.193
+76.76.21.22
 
 # Vercel — vercel-insights.com
 # (no public DNS addresses found)
 
 # Vercel — vercel-status.com
-13.226.238.22
-13.226.238.57
-13.226.238.58
-13.226.238.96
+3.162.174.23
+3.162.174.45
+3.162.174.61
+3.162.174.71
 
 # Vercel — vercel.app
-216.198.79.3
-64.29.17.3
+216.198.79.131
+64.29.17.131
 
 # Vercel — vercel.blog
-64.239.109.65
-64.239.123.65
+64.239.109.1
+64.239.123.1
 
 # Vercel — vercel.com
-64.239.109.65
+64.239.109.1
 64.239.123.65
 
 # Vercel — vercel.events
-64.239.109.129
-64.239.109.65
+64.239.109.1
+64.239.123.1
 
 # Vercel — vercel.link
 67.199.248.12
@@ -66,43 +66,43 @@
 
 # Vercel — vercel.live
 64.239.123.1
-64.239.123.65
+64.239.123.129
 
 # Vercel — vercel.pub
 64.239.109.65
 64.239.123.193
 
 # Vercel — vercel.sh
-64.239.123.129
-64.239.123.193
+64.239.109.193
+64.239.123.1
 
 # Vercel — vercel.store
-64.239.109.129
 64.239.109.193
+64.239.109.65
 
 # Vercel — zeit-world.co.uk
-76.76.21.164
-76.76.21.93
+76.76.21.241
+76.76.21.61
 
 # Vercel — zeit-world.com
-76.76.21.22
-76.76.21.241
+76.76.21.123
+76.76.21.93
 
 # Vercel — zeit-world.net
-76.76.21.241
+76.76.21.22
 76.76.21.98
 
 # Vercel — zeit-world.org
-76.76.21.93
-76.76.21.98
+76.76.21.123
+76.76.21.22
 
 # Vercel — zeit.co
-76.76.21.164
-76.76.21.241
+76.76.21.142
+76.76.21.98
 
 # Vercel — zeit.sh
-64.239.123.193
-64.239.123.65
+64.239.109.1
+64.239.109.129
 
 # Vercel — zeitworld.com
 # (no public DNS addresses found)

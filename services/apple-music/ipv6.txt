@@ -13,7 +13,7 @@
 
 # Apple Music — aod.itunes.apple.com
 2620:149:a10:f000::135
-2620:149:a10:f000::147
+2620:149:a10:f000::148
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
@@ -24,37 +24,37 @@
 
 # Apple Music — audio.itunes.apple.com
 2620:149:a10:f000::134
-2620:149:a10:f000::143
+2620:149:a10:f000::137
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1408:5400:15::17dd:e352
-2600:1408:5400:15::17dd:e36a
+2600:1408:a:54::170f:306
+2600:1408:a:54::170f:30a
 
 # Apple Music — music.apple.com
-2600:1408:c400:384::2a1
-2600:1408:c400:388::2a1
-2600:1408:c400:38e::2a1
-2600:1408:c400:390::2a1
-2600:1408:c400:395::2a1
+2600:1408:c400:381::2a1
+2600:1408:c400:382::2a1
+2600:1408:c400:386::2a1
+2600:1408:c400:38c::2a1
+2600:1408:c400:397::2a1
 
 # Apple Music — musicstatus.music.apple.com
-2600:1408:a:5d::17df:f7c4
-2600:1408:a:5d::17df:f7ce
+2600:1408:a:53::170f:34c
+2600:1408:a:53::170f:34e
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a10:f000::142
-2620:149:a10:f000::143
+2620:149:a10:f000::138
+2620:149:a10:f000::150
 
 # Apple Music — play.music.apple.com
 2600:1408:5400:33::1703:4b82
 2600:1408:5400:33::1703:4b87
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:77::774
+2a04:4e42:95::774
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a10:f000::134
-2620:149:a10:f000::138
+2620:149:a10:f000::131
+2620:149:a10:f000::149
