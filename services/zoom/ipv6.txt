@@ -5,7 +5,7 @@
 # (no public DNS addresses found)
 
 # Zoom — zoom.us
-2407:30c0:182::aa72:3402
+2407:30c0:140:0:3700:d2:4:9d02
 
 # Zoom — zoomapp.cloud
 # (no public DNS addresses found)

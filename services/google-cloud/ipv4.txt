@@ -2,17 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Google Cloud — cloud.google.com
-142.251.16.100
-142.251.16.101
-142.251.16.102
-142.251.16.113
-142.251.16.138
-142.251.16.139
+142.251.219.174
 
 # Google Cloud — googlecloud.com
-142.251.167.100
-142.251.167.101
-142.251.167.102
-142.251.167.113
-142.251.167.138
-142.251.167.139
+142.251.218.142

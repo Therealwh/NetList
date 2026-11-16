@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "dataset": "netlist",
-  "generated_at": "2026-11-05T14:41:16+00:00",
+  "generated_at": "2026-11-16T10:45:13+00:00",
   "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
   "counts": {
     "services": 277,
@@ -1442,6 +1442,7 @@
         "configuration-lb.ls-apple.com.akadns.net",
         "configuration.apple.com",
         "configuration.apple.com.akadns.net",
+        "configuration.ls.apple.com",
         "cooliphonecasesstore.com",
         "coolmonster.net",
         "coreml.net",
@@ -2330,7 +2331,7 @@
         "xp.apple.com",
         "yourmonsterbeats.com"
       ],
-      "domain_count": 1746,
+      "domain_count": 1747,
       "categories": [
         "os_security"
       ],
@@ -9662,7 +9663,6 @@
         "vscode-unpkg.net",
         "vscode-webview.net",
         "vscode.dev",
-        "vscode.download.prss.microsoft.com",
         "vsmarketplacebadge.apphb.com",
         "vz.download.prss.microsoft.com",
         "wbd.ms",
@@ -9714,7 +9714,7 @@
         "yammer.com",
         "yammerusercontent.com"
       ],
-      "domain_count": 733,
+      "domain_count": 732,
       "categories": [
         "os_security"
       ],

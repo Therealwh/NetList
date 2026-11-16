@@ -6,16 +6,16 @@
 44.214.125.226
 
 # WhatsApp — graph.facebook.com
-57.144.74.141
+57.145.2.141
 
 # WhatsApp — wa.me
-31.13.71.49
+57.145.3.32
 
 # WhatsApp — whatsapp.biz
 # (no public DNS addresses found)
 
 # WhatsApp — whatsapp.com
-57.144.75.32
+57.145.3.32
 
 # WhatsApp — whatsapp.net
-31.13.71.49
+57.145.3.32

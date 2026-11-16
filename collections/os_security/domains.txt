@@ -1044,6 +1044,7 @@ companymanager.microsoftonline.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.apple.com
 configuration.apple.com.akadns.net
+configuration.ls.apple.com
 cooliphonecasesstore.com
 coolmonster.net
 coreml.net
@@ -2570,7 +2571,6 @@ vscode-cdn.net
 vscode-unpkg.net
 vscode-webview.net
 vscode.dev
-vscode.download.prss.microsoft.com
 vsmarketplacebadge.apphb.com
 vz.download.prss.microsoft.com
 wasdj.com

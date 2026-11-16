@@ -2,11 +2,11 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Amazon Music — music.amazon.com
-2600:9000:27d1:1400:1b:5d9a:8ad6:8f61
-2600:9000:27d1:400:1b:5d9a:8ad6:8f61
-2600:9000:27d1:4a00:1b:5d9a:8ad6:8f61
-2600:9000:27d1:5a00:1b:5d9a:8ad6:8f61
-2600:9000:27d1:5c00:1b:5d9a:8ad6:8f61
-2600:9000:27d1:6400:1b:5d9a:8ad6:8f61
-2600:9000:27d1:ae00:1b:5d9a:8ad6:8f61
-2600:9000:27d1:b800:1b:5d9a:8ad6:8f61
+2600:9000:24bb:2c00:1b:5d9a:8ad6:8f61
+2600:9000:24bb:2e00:1b:5d9a:8ad6:8f61
+2600:9000:24bb:6000:1b:5d9a:8ad6:8f61
+2600:9000:24bb:7000:1b:5d9a:8ad6:8f61
+2600:9000:24bb:9600:1b:5d9a:8ad6:8f61
+2600:9000:24bb:c00:1b:5d9a:8ad6:8f61
+2600:9000:24bb:d600:1b:5d9a:8ad6:8f61
+2600:9000:24bb:ec00:1b:5d9a:8ad6:8f61

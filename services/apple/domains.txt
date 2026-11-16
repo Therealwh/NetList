@@ -859,6 +859,7 @@ communities.apple.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.apple.com
 configuration.apple.com.akadns.net
+configuration.ls.apple.com
 cooliphonecasesstore.com
 coolmonster.net
 coreml.net

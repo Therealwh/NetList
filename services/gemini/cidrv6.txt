@@ -1,18 +1,12 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Gemini — ai.google.dev
-2607:f8b0:4004:c0b::65/128
-2607:f8b0:4004:c0b::71/128
-2607:f8b0:4004:c0b::8a/128
-2607:f8b0:4004:c0b::8b/128
+2607:f8b0:4005:806::200e/128
 
 # Gemini — alkalimakersuite-pa.clients6.google.com
-2607:f8b0:4004:c17::5f/128
+2607:f8b0:4005:818::200a/128
 
 # Gemini — apis.google.com
-2607:f8b0:4004:c17::64/128
-2607:f8b0:4004:c17::65/128
-2607:f8b0:4004:c17::71/128
-2607:f8b0:4004:c17::8a/128
+2607:f8b0:4005:815::200e/128
 
 # Gemini — bard.google.com
 2001:4860:4826:200::/128
@@ -50,10 +44,7 @@
 2001:4860:4802:32::1d/128
 
 # Gemini — makersuite.google.com
-2607:f8b0:4004:c08::64/128
-2607:f8b0:4004:c08::66/128
-2607:f8b0:4004:c08::71/128
-2607:f8b0:4004:c08::8a/128
+2607:f8b0:4005:815::200e/128
 
 # Gemini — proactivebackend-pa.googleapis.com
 2001:4860:4826:100::/128

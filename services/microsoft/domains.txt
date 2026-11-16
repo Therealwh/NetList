@@ -682,7 +682,6 @@ vscode-cdn.net
 vscode-unpkg.net
 vscode-webview.net
 vscode.dev
-vscode.download.prss.microsoft.com
 vsmarketplacebadge.apphb.com
 vz.download.prss.microsoft.com
 wbd.ms

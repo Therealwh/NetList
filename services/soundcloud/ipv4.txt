@@ -5,10 +5,10 @@
 # (no public DNS addresses found)
 
 # SoundCloud — sndcdn.com
-3.162.103.106
-3.162.103.69
-3.162.103.94
-3.162.103.98
+65.8.54.24
+65.8.54.25
+65.8.54.27
+65.8.54.56
 
 # SoundCloud — soundcloud.com
 52.84.150.35
