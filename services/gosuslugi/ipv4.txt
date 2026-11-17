@@ -2,12 +2,12 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Госуслуги — esia.gosuslugi.ru
-109.207.9.205
+213.59.254.8
 
 # Госуслуги — gosuslugi.ru
 213.59.253.7
 213.59.254.7
 
 # Госуслуги — lk.gosuslugi.ru
-109.207.2.147
-109.207.9.147
+213.59.253.6
+213.59.254.6

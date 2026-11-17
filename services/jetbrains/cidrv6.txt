@@ -30,8 +30,7 @@
 # (no public DNS addresses found)
 
 # JetBrains — jetbrains.space
-2a05:d018:38c:6202:3588:57fc:a038:ffea/128
-2a05:d018:38c:6203:d3ba:e2ec:eb53:53b5/128
+# (no public DNS addresses found)
 
 # JetBrains — jetbrains.team
 # (no public DNS addresses found)
@@ -41,3 +40,7 @@
 
 # JetBrains — kotlinlang.org
 # (no public DNS addresses found)
+
+# JetBrains — last known IPv6 snapshot (DNS unavailable)
+2a05:d018:38c:6202:3588:57fc:a038:ffea/128
+2a05:d018:38c:6203:d3ba:e2ec:eb53:53b5/128
