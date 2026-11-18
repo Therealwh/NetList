@@ -1,4 +1,4 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Faceit — faceit.com
-193.41.200.101/32
-193.41.200.102/32
+104.17.158.184/32
+104.17.159.184/32

@@ -14,14 +14,14 @@
 3.171.61.90
 
 # Prime Video — atv-ps.amazon.com
-3.171.85.101
-3.171.85.115
-3.171.85.13
-3.171.85.5
+18.160.18.100
+18.160.18.108
+18.160.18.126
+18.160.18.96
 
 # Prime Video — avodmp4s3ww-a.akamaihd.net
-23.218.218.176
-23.218.218.183
+23.15.3.81
+23.15.3.86
 
 # Prime Video — d1v5ir2lpwr8os.cloudfront.net
 18.160.37.178
@@ -54,13 +54,12 @@
 18.67.76.98
 
 # Prime Video — fls-na.amazon.com
-107.23.151.204
-18.213.148.58
-3.209.253.89
-3.217.119.112
-3.218.98.12
-52.2.58.223
-98.95.197.73
+184.195.140.52
+3.210.163.97
+34.232.226.247
+44.207.11.44
+54.172.96.214
+98.86.247.181
 
 # Prime Video — media-amazon.com
 # (no public DNS addresses found)
@@ -75,4 +74,4 @@
 # (no public DNS addresses found)
 
 # Prime Video — www.amazon.com
-3.171.59.216
+13.226.239.15

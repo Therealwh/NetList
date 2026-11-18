@@ -355,7 +355,7 @@
 # (no public DNS addresses found)
 
 # Disney+ — dssedge.com
-# (no public DNS addresses found)
+2620:138:301d:4:8000::25
 
 # Disney+ — dssott.com
 2620:138:302f:4:8000::18
@@ -373,14 +373,14 @@
 # (no public DNS addresses found)
 
 # Disney+ — espn.com
-2600:9000:24f4:1a00:d:ac18:e2c0:93a1
-2600:9000:24f4:1e00:d:ac18:e2c0:93a1
-2600:9000:24f4:5a00:d:ac18:e2c0:93a1
-2600:9000:24f4:8000:d:ac18:e2c0:93a1
-2600:9000:24f4:c400:d:ac18:e2c0:93a1
-2600:9000:24f4:e200:d:ac18:e2c0:93a1
-2600:9000:24f4:f000:d:ac18:e2c0:93a1
-2600:9000:24f4:f200:d:ac18:e2c0:93a1
+2600:9000:24f4:2c00:d:ac18:e2c0:93a1
+2600:9000:24f4:3400:d:ac18:e2c0:93a1
+2600:9000:24f4:400:d:ac18:e2c0:93a1
+2600:9000:24f4:7000:d:ac18:e2c0:93a1
+2600:9000:24f4:7c00:d:ac18:e2c0:93a1
+2600:9000:24f4:a200:d:ac18:e2c0:93a1
+2600:9000:24f4:c00:d:ac18:e2c0:93a1
+2600:9000:24f4:dc00:d:ac18:e2c0:93a1
 
 # Disney+ — espn.hb.omtrdc.net
 # (no public DNS addresses found)
@@ -395,14 +395,14 @@
 # (no public DNS addresses found)
 
 # Disney+ — espnqa.com
-2600:9000:286d:2a00:b:fd26:df00:93a1
-2600:9000:286d:2c00:b:fd26:df00:93a1
-2600:9000:286d:3600:b:fd26:df00:93a1
-2600:9000:286d:3c00:b:fd26:df00:93a1
-2600:9000:286d:600:b:fd26:df00:93a1
-2600:9000:286d:8c00:b:fd26:df00:93a1
-2600:9000:286d:8e00:b:fd26:df00:93a1
+2600:9000:286d:0:b:fd26:df00:93a1
+2600:9000:286d:5a00:b:fd26:df00:93a1
+2600:9000:286d:7e00:b:fd26:df00:93a1
+2600:9000:286d:8400:b:fd26:df00:93a1
+2600:9000:286d:8a00:b:fd26:df00:93a1
+2600:9000:286d:cc00:b:fd26:df00:93a1
 2600:9000:286d:f200:b:fd26:df00:93a1
+2600:9000:286d:fa00:b:fd26:df00:93a1
 
 # Disney+ — execute-api.us-east-1.amazonaws.com
 # (no public DNS addresses found)
@@ -426,8 +426,8 @@
 # (no public DNS addresses found)
 
 # Disney+ — hsprepack.akamaized.net
-2600:1408:c400:8::17cd:6832
-2600:1408:c400:8::17cd:6833
+2600:141b:1c00:7::1728:b393
+2600:141b:1c00:7::1728:b39a
 
 # Disney+ — js-agent.newrelic.com
 2602:816:5001::39
@@ -518,8 +518,8 @@
 2600:1901:0:84f4::80
 
 # Disney+ — starwarskids.com
-2600:1408:c400:29::17da:da47
-2600:1408:c400:29::17da:da4c
+2600:1408:a:22::212:4345
+2600:1408:a:22::212:4358
 
 # Disney+ — streamingdisney.net
 # (no public DNS addresses found)

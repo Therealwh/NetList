@@ -2,58 +2,58 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Facebook — aboutfacebook.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — accessfacebookfromschool.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — accountkit.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — acebooik.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — acebook.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — achat-followers-instagram.com
-57.144.180.141
+57.144.204.141
 
 # Facebook — acheter-followers-instagram.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — acheterdesfollowersinstagram.com
-57.144.230.141
+57.144.180.141
 
 # Facebook — acheterfollowersinstagram.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — advancediddetection.com
 31.13.71.1
 
 # Facebook — askfacebook.net
-57.144.78.141
+57.144.74.141
 
 # Facebook — askfacebook.org
-31.13.71.1
+57.145.2.141
 
 # Facebook — atdmt2.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — atlasdmt.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — atlasonepoint.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — atscaleconference.com
 192.0.66.56
 
 # Facebook — binoculus.com
-57.144.78.141
+57.144.180.141
 
 # Facebook — bookstagram.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — botorch.org
 185.199.108.153
@@ -72,34 +72,34 @@
 172.67.137.45
 
 # Facebook — buyingfacebooklikes.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — buyoculus.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — careersatfb.com
 192.0.66.227
 
 # Facebook — carstagram.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — cdninstagram.com
 # (no public DNS addresses found)
 
 # Facebook — celebgramme.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — chickstagram.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — china-facebook.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — click-url.com
 31.13.71.1
 
 # Facebook — como-hackearfacebook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — componentkit.org
 104.21.50.31
@@ -109,16 +109,16 @@
 # (no public DNS addresses found)
 
 # Facebook — dacebook.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — dlfacebook.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — dotfacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — dotfacebook.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — draftjs.org
 185.199.108.153
@@ -130,67 +130,67 @@
 # (no public DNS addresses found)
 
 # Facebook — f8.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faacebok.com
-57.144.78.141
+57.144.180.141
 
 # Facebook — faacebook.com
-57.144.78.141
+57.144.180.141
 
 # Facebook — faasbook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facbebook.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — facbeok.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facboo.com
-57.144.230.141
+31.13.71.1
 
 # Facebook — facbook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facbool.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facboox.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faccebook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — faccebookk.com
-57.144.230.141
+57.144.180.141
 
 # Facebook — facdbook.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — facdebook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — face-book.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — faceabook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebboc.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebbook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebboook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebcook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebdok.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebgook.com
 31.13.71.1
@@ -199,163 +199,163 @@
 31.13.71.1
 
 # Facebook — facebkkk.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — facebo-ok.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — faceboak.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — facebock.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebocke.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — facebof.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faceboik.com
-57.144.78.141
+57.144.204.141
 
 # Facebook — facebok.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebokbook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebokc.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebokk.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebokok.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — faceboks.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — facebol.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebolk.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebomok.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faceboo.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebooa.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — faceboob.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — faceboobok.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — facebooc.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — faceboock.com
 31.13.71.1
 
 # Facebook — facebood.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — facebooe.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — faceboof.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebooi.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooik.com
-31.13.71.1
+57.144.180.141
 
 # Facebook — facebooik.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooj.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebook-corp.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebook-covid-19.com
 # (no public DNS addresses found)
 
 # Facebook — facebook-ebook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebook-forum.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-hardware.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-inc.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-login.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebook-newsroom.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-newsroom.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-pmdcenter.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-pmdcenter.net
-31.13.71.1
+57.144.180.141
 
 # Facebook — facebook-pmdcenter.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-privacy.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebook-program.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-studio.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-support.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-texas-holdem.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook-texas-holdem.net
-57.144.180.141
+31.13.71.1
 
 # Facebook — facebook.br
 # (no public DNS addresses found)
 
 # Facebook — facebook.ca
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook.cc
-57.144.78.141
+57.144.204.141
 
 # Facebook — facebook.com
 31.13.71.36
 
 # Facebook — facebook.design
-18.65.238.17
+18.65.238.19
 
 # Facebook — facebook.hu
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook.in
 31.13.71.1
@@ -364,235 +364,235 @@
 # (no public DNS addresses found)
 
 # Facebook — facebook.nl
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebook.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook.se
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebook.shop
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebook.tv
 31.13.71.1
 
 # Facebook — facebook.us
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook.wang
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook123.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook30.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebook30.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook30.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebook4business.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — facebookads.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — facebookadvertisingsecrets.com
 31.13.71.1
 
 # Facebook — facebookappcenter.info
-57.144.78.141
+57.144.180.141
 
 # Facebook — facebookappcenter.net
-57.144.78.141
+57.145.2.141
 
 # Facebook — facebookappcenter.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookatschool.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookawards.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookblueprint.net
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookbrand.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — facebookbrand.net
-57.144.230.141
+57.144.74.141
 
 # Facebook — facebookcanadianelectionintegrityinitiative.com
 57.144.26.141
 
 # Facebook — facebookcareer.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — facebookcheats.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — facebookck.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookclub.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — facebookcom.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebookconnect.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebookconsultant.org
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookcoronavirus.com
 # (no public DNS addresses found)
 
 # Facebook — facebookcovers.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookcredits.info
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebookdating.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookdevelopergarage.com
-57.144.230.141
+57.144.204.141
 
 # Facebook — facebookdusexe.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookemail.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — facebookenespanol.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookexchange.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — facebookexchange.net
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookfacebook.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — facebookflow.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — facebookgames.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookgraphsearch.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — facebookgraphsearch.info
-31.13.71.1
+57.144.204.141
 
 # Facebook — facebookgroups.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebookhome.cc
-57.144.230.141
+57.144.74.141
 
 # Facebook — facebookhome.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — facebookhome.info
-57.144.180.141
+57.145.2.141
 
 # Facebook — facebookhub.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebooki.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookinc.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — facebookland.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebooklikeexchange.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — facebooklive.com
 31.13.71.1
 
 # Facebook — facebooklivestaging.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooklivestaging.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooklogin.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooklogin.info
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookloginhelp.net
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebooklogs.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — facebookmail.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebookmail.tv
 31.13.71.1
 
 # Facebook — facebookmanager.info
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookmarketing.info
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookmarketingpartner.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookmarketingpartners.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — facebookmobile.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebookmsn.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — facebooknews.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooknfl.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — facebooknude.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebookofsex.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookook.com
 31.13.71.1
 
 # Facebook — facebookpaper.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebookpay.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookphonenumber.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookphoto.com
 31.13.71.1
@@ -601,31 +601,31 @@
 31.13.71.1
 
 # Facebook — facebookpmdcenter.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — facebookpoke.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookpoke.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookpoker.info
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookpokerchips.info
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebookporn.net
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebookporn.org
-57.144.180.141
+57.144.204.141
 
 # Facebook — facebookporno.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookportal.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — facebookquotes4u.com
 103.224.182.243
@@ -634,34 +634,34 @@
 31.13.71.1
 
 # Facebook — facebooksafety.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooksecurity.net
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebookshop.com
-57.144.180.141
+57.144.204.141
 
 # Facebook — facebooksignup.net
-57.144.180.141
+57.144.204.141
 
 # Facebook — facebooksite.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookstories.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookstudios.net
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookstudios.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooksupplier.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooksuppliers.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebookswagemea.com
 52.149.44.102
@@ -673,211 +673,211 @@
 31.13.71.1
 
 # Facebook — facebookthreads.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebooktv.net
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebooktv.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookvacation.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — facebookw.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebookwork.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facebookworld.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebool.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebool.info
-57.144.180.141
+31.13.71.1
 
 # Facebook — facebooll.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faceboom.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — faceboon.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — faceboonk.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — faceboooik.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faceboook.com
-57.144.230.141
+31.13.71.1
 
 # Facebook — faceboop.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — faceboot.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — faceboox.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — facebopk.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facebpook.com
 31.13.71.1
 
 # Facebook — facebuk.com
-57.144.230.141
+31.13.71.1
 
 # Facebook — facebuok.com
 31.13.71.1
 
 # Facebook — facebvook.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — facebyook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facebzook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facecbgook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facecbook.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — facecbook.org
-57.144.180.141
+57.144.74.141
 
 # Facebook — facecook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facecook.org
-31.13.71.1
+57.144.204.141
 
 # Facebook — facedbook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faceebok.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — faceebook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — faceebot.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facegbok.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facegbook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — faceobk.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faceobok.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — faceobook.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — faceook.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — facerbooik.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — facerbook.com
-57.144.78.141
+57.144.180.141
 
 # Facebook — facesbooc.com
 31.13.71.1
 
 # Facebook — facesounds.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facetook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facevbook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — facewbook.co
-31.13.71.1
+57.144.74.141
 
 # Facebook — facewook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facfacebook.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — facfebook.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — faciometrics.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fackebook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — facnbook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facrbook.com
-57.144.230.141
+31.13.71.1
 
 # Facebook — facvebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facwebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — facxebook.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — fadebook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — faebok.com
-57.144.230.141
+57.144.180.141
 
 # Facebook — faebook.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — faebookc.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faeboook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faecebok.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faesebook.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — fafacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — faicbooc.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fasebokk.com
 31.13.71.1
 
 # Facebook — fasebook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — faseboox.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — fasttext.cc
 104.21.47.198
@@ -887,22 +887,22 @@
 57.144.180.141
 
 # Facebook — faycbok.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — fb.careers
 # (no public DNS addresses found)
 
 # Facebook — fb.com
-31.13.71.36
+57.144.180.1
 
 # Facebook — fb.me
-31.13.71.36
+57.144.74.1
 
 # Facebook — fbacebook.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — fbaddins.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — fbbmarket.com
 35.225.6.229
@@ -914,19 +914,19 @@
 # (no public DNS addresses found)
 
 # Facebook — fbcdn.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fbcdn.net
-57.144.78.1
+57.145.2.1
 
 # Facebook — fbf8.com
 # (no public DNS addresses found)
 
 # Facebook — fbfeedback.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — fbhome.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fbidb.io
 104.21.37.209
@@ -942,7 +942,7 @@
 185.199.111.153
 
 # Facebook — fbinnovation.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — fblitho.com
 104.21.94.102
@@ -952,7 +952,7 @@
 31.13.71.1
 
 # Facebook — fbmessenger.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — fbredex.com
 185.199.108.153
@@ -964,22 +964,22 @@
 # (no public DNS addresses found)
 
 # Facebook — fbrell.com
-15.197.246.237
+99.83.183.127
 
 # Facebook — fbrpms.com
 # (no public DNS addresses found)
 
 # Facebook — fbsbx.com
-31.13.71.36
+57.145.2.1
 
 # Facebook — fbsbx.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — fbsupport-covid.net
 # (no public DNS addresses found)
 
 # Facebook — fbthirdpartypixel.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — fbthirdpartypixel.net
 # (no public DNS addresses found)
@@ -988,82 +988,82 @@
 # (no public DNS addresses found)
 
 # Facebook — fburl.com
-31.13.71.19
+57.144.74.146
 
 # Facebook — fbworkmail.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fcacebook.com
-31.13.71.1
+57.144.180.141
 
 # Facebook — fcaebook.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — fcebook.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — fcebookk.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — fcfacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fdacebook.info
 31.13.71.1
 
 # Facebook — feacboo.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — feacbook.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — feacbooke.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — feacebook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — fecbbok.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — fecbooc.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — fecbook.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — feceboock.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fecebook.net
-31.13.71.1
+57.145.2.141
 
 # Facebook — feceboox.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fececbook.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — feook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — ferabook.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — fescebook.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — fesebook.com
-57.144.78.141
+57.144.180.141
 
 # Facebook — ffacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fgacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — ficeboock.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — flow.dev
 # (no public DNS addresses found)
@@ -1078,49 +1078,49 @@
 # (no public DNS addresses found)
 
 # Facebook — fmcebook.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — fnacebook.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — fosebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fpacebook.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — fqcebook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — fracebook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — freeb.com
-31.13.71.1
+57.144.180.141
 
 # Facebook — freebasics.com
-31.13.71.37
+57.144.180.6
 
 # Facebook — freebasics.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — freebs.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — freefacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — freefacebook.net
-57.144.180.141
+31.13.71.1
 
 # Facebook — freefacebookads.net
-57.144.180.141
+31.13.71.1
 
 # Facebook — freefblikes.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — freindfeed.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — frescolib.org
 185.199.108.153
@@ -1129,58 +1129,58 @@
 185.199.111.153
 
 # Facebook — friendbook.info
-57.144.78.141
+57.144.74.141
 
 # Facebook — friendfed.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — friendfeed-api.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — friendfeed-media.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — friendfeed.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — friendfeedmedia.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — fsacebok.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — fscebook.com
 31.13.71.1
 
 # Facebook — fundraisingwithfacebook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — funnyfacebook.org
-31.13.71.1
+57.144.204.141
 
 # Facebook — futureofbusinesssurvey.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — gacebook.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — gameroom.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — gfacecbook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — groups.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — hackerfacebook.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — hackfacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — hackfacebookid.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — hacklang.org
 185.199.108.153
@@ -1195,28 +1195,28 @@
 185.199.111.153
 
 # Facebook — hifacebook.info
-57.144.180.141
+57.144.74.141
 
 # Facebook — howtohackfacebook-account.com
 # (no public DNS addresses found)
 
 # Facebook — hsfacebook.com
-57.144.230.141
+31.13.71.1
 
 # Facebook — httpfacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — httpsfacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — httpwwwfacebook.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — i.org
-57.144.180.141
+57.144.74.141
 
 # Facebook — ig.me
-31.13.88.174
+31.13.66.174
 
 # Facebook — igcdn.com
 # (no public DNS addresses found)
@@ -1228,190 +1228,190 @@
 # (no public DNS addresses found)
 
 # Facebook — imstagram.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — imtagram.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — instaadder.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — instachecker.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — instafallow.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — instafollower.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — instagainer.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — instagda.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — instagify.com
 31.13.71.1
 
 # Facebook — instagmania.com
-57.144.230.141
+57.144.204.141
 
 # Facebook — instagor.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — instagr.am
-31.13.65.174
+31.13.66.174
 
 # Facebook — instagram-brand.com
 192.0.66.79
 
 # Facebook — instagram-engineering.com
-52.4.38.70
+52.5.181.79
 
 # Facebook — instagram-help.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — instagram-press.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — instagram-press.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — instagram.com
-31.13.71.174
+57.144.204.34
 
 # Facebook — instagramci.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — instagramcn.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — instagramdi.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — instagramhashtags.net
-57.144.78.141
+57.144.74.141
 
 # Facebook — instagramhilecim.com
 31.13.71.1
 
 # Facebook — instagramhilesi.org
-57.144.78.141
+31.13.71.1
 
 # Facebook — instagramium.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — instagramizlenme.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — instagramkusu.com
-57.144.78.141
+57.144.204.141
 
 # Facebook — instagramlogin.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — instagramm.com
-57.144.78.141
-
-# Facebook — instagramn.com
 31.13.71.1
 
+# Facebook — instagramn.com
+57.145.2.141
+
 # Facebook — instagrampartners.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — instagramphoto.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — instagramq.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — instagramsepeti.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — instagramtakipcisatinal.net
-57.144.180.141
+57.145.2.141
 
 # Facebook — instagramtakiphilesi.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — instagramtips.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — instagramtr.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — instagran.com
 31.13.71.1
 
 # Facebook — instagranm.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — instagrem.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — instagrm.com
 31.13.71.1
 
 # Facebook — instagtram.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — instagy.com
 31.13.71.1
 
 # Facebook — instamgram.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — instangram.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — instanttelegram.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — instaplayer.net
 31.13.71.1
 
 # Facebook — instastyle.tv
-57.144.230.141
+57.144.74.141
 
 # Facebook — instgram.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — intagram.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — intagrm.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — internet.org
-31.13.71.37
+57.144.204.6
 
 # Facebook — intgram.com
-57.144.230.141
+57.144.74.141
 
 # Facebook — ip6.static.sl-reverse.com
 # (no public DNS addresses found)
 
 # Facebook — kingstagram.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — klik.me
-57.144.180.141
+57.145.2.141
 
 # Facebook — liverail.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — liverail.tv
-57.144.230.141
+57.144.74.141
 
 # Facebook — lnstagram-help.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — login-account.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — m.me
-31.13.71.1
+57.144.74.141
 
 # Facebook — makeitopen.com
 185.199.108.153
@@ -1420,64 +1420,64 @@
 185.199.111.153
 
 # Facebook — markzuckerberg.com
-57.144.78.141
+57.144.204.141
 
 # Facebook — mcrouter.net
-31.13.71.1
+57.144.180.141
 
 # Facebook — mcrouter.org
-31.13.71.1
+57.144.74.141
 
 # Facebook — messenger.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — messengerdevelopers.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — meta.com
-57.144.230.141
+57.145.2.141
 
 # Facebook — midentsolutions.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — mobilefacebook.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — moneywithfacebook.com
-57.144.78.141
+57.144.204.141
 
 # Facebook — myfbfans.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — nbabot.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — newsfeed.com
-31.13.71.1
+57.144.204.141
 
 # Facebook — nextstop.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — ocul.us
-67.199.248.12
+67.199.248.13
 
 # Facebook — oculus-china.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — oculus.com
-31.13.71.51
+57.145.3.141
 
 # Facebook — oculus2014.com
-57.144.78.141
+57.145.2.141
 
 # Facebook — oculus3d.com
 69.195.124.86
 
 # Facebook — oculusblog.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — oculusbrand.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — oculuscasino.net
 31.13.71.1
@@ -1489,16 +1489,16 @@
 # (no public DNS addresses found)
 
 # Facebook — oculusdiving.com
-57.144.180.141
-
-# Facebook — oculusforbusiness.com
 31.13.71.1
 
+# Facebook — oculusforbusiness.com
+57.144.74.141
+
 # Facebook — oculusrift.com
-31.13.71.51
+57.144.75.141
 
 # Facebook — oculusvr.com
-31.13.71.51
+57.144.75.141
 
 # Facebook — ogp.me
 185.199.108.153
@@ -1507,19 +1507,19 @@
 185.199.111.153
 
 # Facebook — oninstagram.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — online-deals.net
-31.13.71.1
+57.145.2.141
 
 # Facebook — online-instagram.com
-31.13.71.1
+57.145.2.141
 
 # Facebook — onlineinstagram.com
 57.144.180.141
 
 # Facebook — opencreate.org
-31.13.71.1
+57.145.2.141
 
 # Facebook — opengraphprotocol.com
 104.21.55.88
@@ -1530,10 +1530,10 @@
 172.67.218.243
 
 # Facebook — parse.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — powersunitedvr.com
-57.144.181.141
+31.13.71.51
 
 # Facebook — pyrobot.org
 104.21.73.186
@@ -1576,16 +1576,16 @@
 185.199.111.153
 
 # Facebook — shopfacebook.com
-57.144.180.141
+57.144.74.141
 
 # Facebook — sportsfacebook.com
-57.144.74.141
+31.13.71.1
 
 # Facebook — sportstream.com
 31.13.71.1
 
 # Facebook — supportfacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — terragraph.com
 185.199.108.153
@@ -1594,70 +1594,70 @@
 185.199.111.153
 
 # Facebook — thefacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — thefacebook.net
-31.13.71.1
+57.144.74.141
 
 # Facebook — thefind.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — theinstagramhack.com
 # (no public DNS addresses found)
 
 # Facebook — toplayerserver.com
-31.13.71.1
+57.144.180.141
 
 # Facebook — viewpointsfromfacebook.com
-57.144.78.141
+57.144.74.141
 
 # Facebook — wa.me
-57.144.181.32
+31.13.71.49
 
 # Facebook — web-instagram.net
-57.144.78.141
+57.144.74.141
 
 # Facebook — whatsapp-plus.info
-31.13.71.1
+57.145.2.141
 
 # Facebook — whatsapp-plus.me
-31.13.71.1
+57.144.74.141
 
 # Facebook — whatsapp-plus.net
-57.144.180.141
+57.144.74.141
 
 # Facebook — whatsapp.biz
 # (no public DNS addresses found)
 
 # Facebook — whatsapp.cc
-31.13.71.1
+57.144.74.141
 
 # Facebook — whatsapp.com
-57.144.79.32
+57.144.75.32
 
 # Facebook — whatsapp.info
 3.33.139.32
 
 # Facebook — whatsapp.net
-57.144.181.32
+31.13.71.49
 
 # Facebook — whatsapp.org
 # (no public DNS addresses found)
 
 # Facebook — whatsapp.tv
-31.13.71.1
+57.144.204.141
 
 # Facebook — whatsappbrand.com
 31.13.71.1
 
 # Facebook — whyfacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — workplace.com
-57.144.180.141
+57.145.2.141
 
 # Facebook — workplaceusecases.com
-31.13.71.1
+57.144.198.141
 
 # Facebook — worldhack.com
 31.13.71.1
@@ -1666,23 +1666,23 @@
 31.13.71.1
 
 # Facebook — wwwfacebok.com
-57.144.180.141
+31.13.71.1
 
 # Facebook — wwwfacebook.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — wwwinstagram.com
 31.13.71.1
 
 # Facebook — wwwmfacebook.com
-57.144.78.141
+31.13.71.1
 
 # Facebook — yogalayout.com
 104.21.43.183
 172.67.183.59
 
 # Facebook — zuckerberg.com
-31.13.71.1
+57.144.74.141
 
 # Facebook — zuckerberg.net
-31.13.71.1
+57.144.74.141

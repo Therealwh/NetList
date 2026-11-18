@@ -6,14 +6,14 @@
 # (no public DNS addresses found)
 
 # Binance — binance.com
-13.159.212.126/32
 13.193.201.132/32
 52.69.139.92/32
+54.95.254.9/32
 
 # Binance — binance.me
-13.159.212.126/32
 13.193.201.132/32
 52.69.139.92/32
+54.95.254.9/32
 
 # Binance — binancecnt.com
 # (no public DNS addresses found)

@@ -1,6 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Khan Academy — khanacademy.org
-18.67.76.113/32
-18.67.76.24/32
-18.67.76.51/32
-18.67.76.55/32
+3.167.88.13/32
+3.167.88.27/32
+3.167.88.54/32
+3.167.88.86/32

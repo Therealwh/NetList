@@ -20,15 +20,15 @@
 # (no public DNS addresses found)
 
 # Spotify — cdn-spotify-experiments.conductrics.com
-152.233.50.2/32
+38.104.169.186/32
 
 # Spotify — heads-ak-spotify-com.akamaized.net
 2.18.67.77/32
 2.18.67.88/32
 
 # Spotify — heads4-ak-spotify-com.akamaized.net
-2.18.67.77/32
-2.18.67.88/32
+23.205.106.159/32
+23.205.106.178/32
 
 # Spotify — pscdn.co
 # (no public DNS addresses found)

@@ -3,20 +3,20 @@
 # (no public DNS addresses found)
 
 # Steam — alibaba.cdn.steampipe.steamcontent.com
-13.226.222.142/32
-13.226.222.207/32
-13.226.222.229/32
-13.226.222.82/32
+13.35.87.135/32
+13.35.87.141/32
+13.35.87.150/32
+13.35.87.54/32
 
 # Steam — cdn-ali.content.steamchina.com
-113.56.147.145/32
-113.56.147.146/32
-113.56.147.147/32
-113.56.147.148/32
-113.56.147.171/32
-113.56.147.172/32
-113.56.147.173/32
-113.56.147.174/32
+103.63.246.83/32
+103.63.246.84/32
+103.63.246.85/32
+103.63.246.86/32
+103.63.246.87/32
+103.63.246.88/32
+103.63.246.89/32
+103.63.246.90/32
 
 # Steam — cdn-qc.content.steamchina.com
 113.56.212.91/32
@@ -49,19 +49,19 @@
 # (no public DNS addresses found)
 
 # Steam — dota2.com
-2.18.67.71/32
-2.18.67.72/32
+23.221.227.170/32
+23.221.227.180/32
 
 # Steam — dota2.wmsj.cn
 # (no public DNS addresses found)
 
 # Steam — edge.steam-dns.top.comcast.net
-96.96.125.1/32
-96.96.125.49/32
-96.96.125.51/32
-96.96.125.56/32
-96.96.125.66/32
-96.96.125.86/32
+69.241.49.102/32
+69.241.85.133/32
+69.241.85.138/32
+69.241.85.140/32
+69.241.85.161/32
+69.241.85.166/32
 
 # Steam — f3b7q2p3.ssl.hwcdn.net
 # (no public DNS addresses found)
@@ -75,14 +75,14 @@
 172.64.148.24/32
 
 # Steam — lv.queniujq.cn
-116.169.167.236/32
-116.169.167.237/32
-116.169.167.238/32
-116.169.167.239/32
-116.169.167.240/32
-116.169.167.241/32
-116.169.167.242/32
-116.169.167.243/32
+222.192.187.166/32
+222.192.187.167/32
+222.192.187.168/32
+222.192.187.169/32
+222.192.187.170/32
+222.192.187.171/32
+222.192.187.172/32
+222.192.187.173/32
 
 # Steam — playartifact.com
 172.234.232.226/32
@@ -108,13 +108,13 @@
 36.156.81.210/32
 
 # Steam — st.dl.pinyuncloud.com
-103.195.50.229/32
+67.211.78.196/32
 
 # Steam — steam-api.com
 # (no public DNS addresses found)
 
 # Steam — steam-chat.com
-23.35.28.216/32
+23.34.124.241/32
 
 # Steam — steam.apac.qtlglb.com
 # (no public DNS addresses found)
@@ -141,11 +141,11 @@
 # (no public DNS addresses found)
 
 # Steam — steam.tv
-23.35.28.216/32
+23.34.124.241/32
 
 # Steam — steambroadcast.akamaized.net
-23.218.218.74/32
-23.218.218.77/32
+23.218.217.43/32
+23.218.217.49/32
 
 # Steam — steamcdn-a.akamaihd.net
 23.199.55.31/32
@@ -157,19 +157,19 @@
 20.60.253.225/32
 
 # Steam — steamcommunity-a.akamaihd.net
-23.221.227.19/32
-23.221.227.45/32
+23.223.247.205/32
+23.223.247.222/32
 
 # Steam — steamcommunity-a.akamaihd.net.edgesuite.net
-23.221.227.19/32
-23.221.227.45/32
+23.223.247.205/32
+23.223.247.222/32
 
 # Steam — steamcommunity.com
-23.35.28.216/32
+23.34.124.241/32
 
 # Steam — steamconnecttest.com
-23.221.227.13/32
-23.221.227.32/32
+23.15.3.27/32
+23.15.3.29/32
 
 # Steam — steamcontent.com
 # (no public DNS addresses found)
@@ -178,15 +178,15 @@
 # (no public DNS addresses found)
 
 # Steam — steamdeck.com
-2.18.67.83/32
-2.18.67.84/32
+173.223.163.200/32
+173.223.163.213/32
 
 # Steam — steamgames.com
 2.23.136.4/32
 
 # Steam — steammobile.akamaized.net
-23.205.106.158/32
-23.205.106.176/32
+2.18.67.72/32
+2.18.67.85/32
 
 # Steam — steampipe-kr.akamaized.net
 23.15.3.139/32
@@ -220,8 +220,8 @@
 # (no public DNS addresses found)
 
 # Steam — steamstore-a.akamaihd.net
-23.3.75.149/32
-23.3.75.150/32
+23.219.154.15/32
+23.219.154.18/32
 
 # Steam — steamugcquincy.blob.core.windows.net
 135.130.16.65/32
@@ -233,11 +233,12 @@
 172.67.206.131/32
 
 # Steam — steamusercontent-a.akamaihd.net
-23.46.15.8/32
+23.223.247.210/32
+23.223.247.225/32
 
 # Steam — steamuserimages-a.akamaihd.net
-23.202.230.160/32
-23.202.230.170/32
+104.97.85.18/32
+104.97.85.31/32
 
 # Steam — steamvideo-a.akamaihd.net
 23.218.217.43/32
@@ -250,18 +251,18 @@
 # (no public DNS addresses found)
 
 # Steam — valvesoftware.com
-23.202.230.207/32
-23.202.230.212/32
+23.212.251.16/32
+23.212.251.8/32
 
 # Steam — wmsjsteam.com
 # (no public DNS addresses found)
 
 # Steam — xz.pphimalayanrt.com
-123.235.34.74/32
-123.235.34.75/32
-123.235.34.76/32
-123.235.34.77/32
-123.235.34.78/32
-123.235.34.79/32
-123.235.34.80/32
-123.235.34.81/32
+114.80.123.20/32
+114.80.123.61/32
+114.80.123.62/32
+114.80.123.63/32
+114.80.123.64/32
+114.80.123.65/32
+114.80.123.66/32
+114.80.123.67/32
