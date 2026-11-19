@@ -34,7 +34,7 @@
 104.16.104.189/32
 
 # Riot Games — leagueoflegends.com
-44.227.185.132/32
+44.232.238.149/32
 54.201.76.116/32
 
 # Riot Games — leagueoflegends.info
@@ -86,8 +86,8 @@
 121.254.178.228/32
 
 # Riot Games — lolstatic-a.akamaihd.net
-2.18.67.12/32
-23.15.3.151/32
+23.1.255.200/32
+23.1.255.204/32
 
 # Riot Games — lolstatic.com
 # (no public DNS addresses found)
@@ -135,8 +135,8 @@
 # (no public DNS addresses found)
 
 # Riot Games — riotgames.com
-23.205.106.22/32
-23.205.106.25/32
+23.216.147.203/32
+23.216.147.205/32
 
 # Riot Games — riotgames.info
 3.33.139.32/32

@@ -1,130 +1,130 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # DuckDuckGo — cispaletter.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — cispaletter.org
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — cometotheduckside.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — ddg.co
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — ddg.gg
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — ddh.gg
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — dgg.gg
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — dontbubble.us
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — donttrack.us
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duck.co
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duck.com
-40.89.244.232/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckco.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckco.de
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.ca
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.co
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.co.uk
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.com.mx
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.com.tw
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.de
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.dk
 13.248.243.5/32
 76.223.105.230/32
 
 # DuckDuckGo — duckduckgo.in
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.jp
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.ke
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.mx
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.nl
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.org
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.pl
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.sg
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckgo.uk
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckduckhack.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckgo.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — ducksear.ch
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — duckside.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — dukgo.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — enteentegeh.de
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — fixtracking.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — goduckgo.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — hacksear.ch
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — justduckit.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — privacysimplified.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — privatebrowsingmyths.com
-52.149.246.39/32
+52.250.42.157/32
 
 # DuckDuckGo — spreadprivacy.com
 20.221.85.50/32

@@ -5,20 +5,20 @@
 # (no public DNS addresses found)
 
 # Steam — alibaba.cdn.steampipe.steamcontent.com
-13.35.87.135
-13.35.87.141
-13.35.87.150
-13.35.87.54
+3.175.29.128
+3.175.29.133
+3.175.29.191
+3.175.29.38
 
 # Steam — cdn-ali.content.steamchina.com
-103.63.246.83
-103.63.246.84
-103.63.246.85
-103.63.246.86
-103.63.246.87
-103.63.246.88
-103.63.246.89
-103.63.246.90
+211.101.197.55
+211.101.197.56
+211.101.197.57
+211.101.197.58
+211.101.197.59
+211.101.197.60
+211.101.197.61
+211.101.197.62
 
 # Steam — cdn-qc.content.steamchina.com
 113.56.212.91
@@ -35,8 +35,8 @@
 59.80.44.245
 
 # Steam — cdn-ws.content.steamchina.com
-157.185.177.236
-157.185.179.49
+157.185.145.81
+38.109.251.3
 
 # Steam — csgo.wmsj.cn
 # (no public DNS addresses found)
@@ -51,19 +51,19 @@
 # (no public DNS addresses found)
 
 # Steam — dota2.com
-23.221.227.170
-23.221.227.180
+23.213.230.135
+23.213.230.138
 
 # Steam — dota2.wmsj.cn
 # (no public DNS addresses found)
 
 # Steam — edge.steam-dns.top.comcast.net
-69.241.49.102
-69.241.85.133
-69.241.85.138
-69.241.85.140
-69.241.85.161
-69.241.85.166
+69.241.104.128
+69.241.104.129
+69.241.104.134
+69.241.104.172
+69.241.104.174
+69.252.58.6
 
 # Steam — f3b7q2p3.ssl.hwcdn.net
 # (no public DNS addresses found)
@@ -77,20 +77,19 @@
 172.64.148.24
 
 # Steam — lv.queniujq.cn
-222.192.187.166
-222.192.187.167
-222.192.187.168
-222.192.187.169
-222.192.187.170
-222.192.187.171
-222.192.187.172
-222.192.187.173
+112.50.108.37
+112.50.108.38
+112.50.108.39
+112.50.108.40
+112.50.108.41
+112.50.108.42
+112.50.108.44
 
 # Steam — playartifact.com
 172.234.232.226
 
 # Steam — s.team
-2.23.136.4
+23.59.149.71
 
 # Steam — st.dl.bscstorage.net
 171.105.185.65
@@ -116,7 +115,7 @@
 # (no public DNS addresses found)
 
 # Steam — steam-chat.com
-23.34.124.241
+23.0.204.231
 
 # Steam — steam.apac.qtlglb.com
 # (no public DNS addresses found)
@@ -143,15 +142,15 @@
 # (no public DNS addresses found)
 
 # Steam — steam.tv
-23.34.124.241
+23.0.204.231
 
 # Steam — steambroadcast.akamaized.net
-23.218.217.43
-23.218.217.49
+23.53.122.137
+23.53.122.146
 
 # Steam — steamcdn-a.akamaihd.net
-23.199.55.31
-23.199.55.44
+23.219.78.199
+23.219.78.205
 
 # Steam — steamcloudsweden.blob.core.windows.net
 20.209.216.97
@@ -159,19 +158,19 @@
 20.60.253.225
 
 # Steam — steamcommunity-a.akamaihd.net
-23.223.247.205
-23.223.247.222
+23.219.78.38
+23.219.78.43
 
 # Steam — steamcommunity-a.akamaihd.net.edgesuite.net
-23.223.247.205
-23.223.247.222
+23.219.78.204
+23.219.78.213
 
 # Steam — steamcommunity.com
-23.34.124.241
+23.0.204.231
 
 # Steam — steamconnecttest.com
-23.15.3.27
-23.15.3.29
+23.219.78.46
+23.219.78.49
 
 # Steam — steamcontent.com
 # (no public DNS addresses found)
@@ -180,30 +179,34 @@
 # (no public DNS addresses found)
 
 # Steam — steamdeck.com
-173.223.163.200
-173.223.163.213
+23.213.230.10
+23.213.230.15
 
 # Steam — steamgames.com
-2.23.136.4
+23.59.149.71
 
 # Steam — steammobile.akamaized.net
-2.18.67.72
-2.18.67.85
+23.219.78.46
+23.219.78.48
 
 # Steam — steampipe-kr.akamaized.net
-23.15.3.139
-23.15.3.146
+23.219.78.45
+23.219.78.47
 
 # Steam — steampipe-partner.akamaized.net
-23.218.216.139
-23.218.216.148
+23.219.78.207
+23.219.78.211
 
 # Steam — steampipe.akamaized.net
-23.15.3.25
-23.15.3.32
+23.219.78.197
+23.219.78.201
+23.219.78.206
+23.219.78.210
+23.219.78.213
+23.219.78.214
 
 # Steam — steampowered.com
-2.23.136.4
+23.59.149.71
 
 # Steam — steampowered.com.8686c.com
 # (no public DNS addresses found)
@@ -222,8 +225,8 @@
 # (no public DNS addresses found)
 
 # Steam — steamstore-a.akamaihd.net
-23.219.154.15
-23.219.154.18
+23.219.78.202
+23.219.78.208
 
 # Steam — steamugcquincy.blob.core.windows.net
 135.130.16.65
@@ -235,36 +238,36 @@
 172.67.206.131
 
 # Steam — steamusercontent-a.akamaihd.net
-23.223.247.210
-23.223.247.225
+23.219.78.45
+23.219.78.48
 
 # Steam — steamuserimages-a.akamaihd.net
-104.97.85.18
-104.97.85.31
+23.219.78.42
+23.219.78.47
 
 # Steam — steamvideo-a.akamaihd.net
-23.218.217.43
-23.218.217.49
+23.212.62.77
+23.212.62.79
 
 # Steam — underlords.com
-2.23.136.4
+23.59.149.71
 
 # Steam — valve.net
 # (no public DNS addresses found)
 
 # Steam — valvesoftware.com
-23.212.251.16
-23.212.251.8
+23.216.145.17
+23.216.145.4
 
 # Steam — wmsjsteam.com
 # (no public DNS addresses found)
 
 # Steam — xz.pphimalayanrt.com
-114.80.123.20
-114.80.123.61
-114.80.123.62
-114.80.123.63
-114.80.123.64
-114.80.123.65
-114.80.123.66
-114.80.123.67
+180.97.209.18
+180.97.209.19
+180.97.209.52
+180.97.209.53
+180.97.209.54
+180.97.209.55
+180.97.209.56
+180.97.209.57

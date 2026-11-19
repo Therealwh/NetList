@@ -2,59 +2,59 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — amp-api-edge.music.apple.com
-2a04:4e42:77::774
+2a04:4e42:5::774
 
 # Apple Music — amp-api.music.apple.com
-2a04:4e42:77::774
+2a04:4e42:5::774
 
 # Apple Music — aod-ssl.itunes.apple.com
-2600:1408:c400:f80::20b6
-2600:1408:c400:f90::20b6
+2620:149:a00:f000::159
+2620:149:a00:f000::160
 
 # Apple Music — aod.itunes.apple.com
-2620:149:a10:f000::141
-2620:149:a10:f000::146
+2620:149:a00:f000::141
+2620:149:a00:f000::147
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
 
 # Apple Music — audio-ssl.itunes.apple.com
-2600:1408:c400:f80::20b6
-2600:1408:c400:f90::20b6
+2620:149:a00:f000::155
+2620:149:a00:f000::156
 
 # Apple Music — audio.itunes.apple.com
-2620:149:a10:f000::139
-2620:149:a10:f000::148
+2620:149:a00:f000::131
+2620:149:a00:f000::141
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1408:a:54::170f:306
-2600:1408:a:54::170f:30a
+2600:1404:ec00:50::17dc:67a7
+2600:1404:ec00:50::17dc:67ad
 
 # Apple Music — music.apple.com
-2600:1408:c400:f8a::2a1
-2600:1408:c400:f8b::2a1
-2600:1408:c400:f8c::2a1
-2600:1408:c400:f90::2a1
-2600:1408:c400:f91::2a1
+2600:1409:9800:680::2a1
+2600:1409:9800:687::2a1
+2600:1409:9800:68b::2a1
+2600:1409:9800:68e::2a1
+2600:1409:9800:694::2a1
 
 # Apple Music — musicstatus.music.apple.com
-2600:1408:a:5d::17df:f7ce
-2600:1408:a:5d::17df:f7d2
+2600:1404:ec00:1b::17dc:a2cf
+2600:1404:ec00:1b::17dc:a2db
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a10:f000::137
-2620:149:a10:f000::142
+2620:149:a00:f000::149
+2620:149:a00:f000::151
 
 # Apple Music — play.music.apple.com
-2600:1408:a:53::170f:354
-2600:1408:a:53::170f:35a
+2600:1409:9800:e1::172e:e448
+2600:1409:9800:e1::172e:e450
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:95::774
+2a04:4e42:5::774
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a10:f000::134
-2620:149:a10:f000::137
+2620:149:a00:f000::139
+2620:149:a00:f000::154

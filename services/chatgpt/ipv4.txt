@@ -39,9 +39,9 @@
 172.65.90.23
 
 # ChatGPT — browser-intake-datadoghq.com
-3.233.158.111
-3.233.158.112
-3.233.158.114
+3.233.158.24
+3.233.158.25
+3.233.158.26
 
 # ChatGPT — cdn.oaistatic.com
 104.18.41.158
@@ -68,14 +68,14 @@
 172.64.155.209
 
 # ChatGPT — chatgpt.livekit.cloud
-161.115.167.20
-161.115.167.69
+161.115.185.11
+161.115.185.77
 
 # ChatGPT — client-api.arkoselabs.com
-3.171.61.109
-3.171.61.68
-3.171.61.93
-3.171.61.97
+143.204.1.119
+143.204.1.23
+143.204.1.42
+143.204.1.66
 
 # ChatGPT — desktop.chat.openai.com
 # (no public DNS addresses found)
@@ -102,16 +102,16 @@
 172.64.155.32
 
 # ChatGPT — intercom.io
-3.167.112.16
-3.167.112.52
-3.167.112.9
-3.167.112.90
+143.204.1.15
+143.204.1.29
+143.204.1.61
+143.204.1.92
 
 # ChatGPT — intercomcdn.com
-13.226.238.116
-13.226.238.117
-13.226.238.40
-13.226.238.87
+3.175.34.101
+3.175.34.22
+3.175.34.54
+3.175.34.98
 
 # ChatGPT — ios.chat.openai.com
 104.18.39.85
@@ -136,23 +136,23 @@
 # (no public DNS addresses found)
 
 # ChatGPT — openai-api.arkoselabs.com
-13.226.238.118
-13.226.238.14
-13.226.238.18
-13.226.238.65
+143.204.1.37
+143.204.1.72
+143.204.1.74
+143.204.1.8
 
 # ChatGPT — openai.com
 104.18.33.45
 172.64.154.211
 
 # ChatGPT — openaiapi-site.azureedge.net
-150.171.109.116
+150.171.110.152
 
 # ChatGPT — openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-150.171.109.116
+150.171.110.145
 
 # ChatGPT — openaicom.imgix.net
-140.248.150.208
+151.101.22.208
 
 # ChatGPT — openaicomproductionae4b.blob.core.windows.net
 20.60.30.68
@@ -162,11 +162,12 @@
 172.64.154.211
 
 # ChatGPT — production-openaicom-storage.azureedge.net
-150.171.109.116
+150.171.110.151
 
 # ChatGPT — segment.io
-32.186.247.208
-44.228.166.142
+34.223.154.187
+44.240.212.14
+54.185.215.217
 
 # ChatGPT — sentry.io
 34.111.148.117
@@ -181,20 +182,20 @@
 104.16.80.73
 
 # ChatGPT — status.openai.com
-66.33.60.66
-76.76.21.142
+66.33.60.34
+76.76.21.164
 
 # ChatGPT — stripe.com
-198.137.150.111
-198.202.176.111
+198.137.150.41
+198.202.176.41
 
 # ChatGPT — tcr9i.chat.openai.com
 104.18.33.45
 172.64.154.211
 
 # ChatGPT — turn.livekit.cloud
-161.115.167.20
-161.115.167.69
+161.115.185.11
+161.115.185.77
 
 # ChatGPT — ws.chatgpt.com
 104.18.39.21
