@@ -2,48 +2,48 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Roblox — d1unuk07s6td74.cloudfront.net
-3.175.29.219
-3.175.29.231
-3.175.29.3
-3.175.29.50
+3.169.155.118
+3.169.155.174
+3.169.155.22
+3.169.155.37
 
 # Roblox — d348twzf7a8p5.cloudfront.net
-18.161.3.10
-18.161.3.111
-18.161.3.167
-18.161.3.45
+3.168.32.100
+3.168.32.136
+3.168.32.162
+3.168.32.212
 
 # Roblox — devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
-3.5.107.152
-3.5.130.75
-3.5.133.242
-3.5.88.95
-3.5.88.97
-3.5.90.37
-52.219.177.58
-52.219.233.66
+3.5.105.144
+3.5.128.135
+3.5.128.144
+3.5.132.186
+3.5.133.207
+3.5.89.96
+3.5.90.68
+52.219.108.26
 
 # Roblox — doy2mn9upadnk.cloudfront.net
-3.169.167.145
-3.169.167.45
-3.169.167.46
-3.169.167.63
+99.86.78.207
+99.86.78.229
+99.86.78.231
+99.86.78.86
 
 # Roblox — roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
-3.5.128.144
-3.5.128.178
-3.5.133.40
-3.5.133.85
-3.5.91.31
-3.5.92.112
-3.5.92.130
-52.219.99.58
+3.5.105.51
+3.5.110.19
+3.5.129.32
+3.5.129.40
+3.5.131.158
+3.5.131.169
+52.219.108.106
+52.219.94.138
 
 # Roblox — roblox-poc.global.ssl.fastly.net
-151.101.21.194
+140.248.145.194
 
 # Roblox — roblox.com
-128.116.116.3
+128.116.102.3
 
 # Roblox — robloxcorp.s.llnwi.net
 # (no public DNS addresses found)

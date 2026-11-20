@@ -2,46 +2,46 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Ubisoft — ubisoft-orbit-savegames.s3.amazonaws.com
-16.15.244.206
-16.182.33.194
-16.182.74.226
-52.216.88.198
-52.217.122.58
-52.217.139.106
-54.231.168.34
-54.231.172.170
+16.15.159.216
+16.15.207.152
+16.15.228.186
+16.15.229.30
+16.15.236.83
+16.15.254.146
+16.15.254.186
+16.182.38.130
 
 # Ubisoft — ubisoft-uplay-savegames.s3.amazonaws.com
-16.15.237.67
-16.15.244.30
-16.15.246.78
-52.216.44.210
-52.217.233.98
-52.217.74.8
-54.231.138.154
-54.231.198.122
+16.15.191.88
+16.15.207.202
+16.15.214.171
+16.15.229.158
+16.15.237.124
+16.15.238.125
+16.182.40.50
+16.182.96.26
 
 # Ubisoft — ubisoft.com
-99.86.101.47
-99.86.101.60
-99.86.101.67
-99.86.101.68
+143.204.204.105
+143.204.204.120
+143.204.204.60
+143.204.204.7
 
 # Ubisoft — ubisoft.siteintercept.qualtrics.com
 104.17.208.240
 104.17.209.240
 
 # Ubisoft — ubistatic1-a.akamaihd.net
-23.219.78.36
-23.219.78.37
+23.220.206.29
+23.220.206.62
 
 # Ubisoft — ubistatic10-a.akamaihd.net
-23.219.78.38
-23.219.78.45
+23.220.206.30
+23.220.206.77
 
 # Ubisoft — ubistatic11-a.akamaihd.net
-23.219.78.40
-23.219.78.43
+23.220.206.13
+23.220.206.63
 
 # Ubisoft — ubistatic12-a.akamaihd.net
 # (no public DNS addresses found)
@@ -50,80 +50,83 @@
 # (no public DNS addresses found)
 
 # Ubisoft — ubistatic14-a.akamaihd.net
-23.219.78.37
-23.219.78.39
+23.220.206.43
+23.220.206.49
 
 # Ubisoft — ubistatic15-a.akamaihd.net
 # (no public DNS addresses found)
 
 # Ubisoft — ubistatic16-a.akamaihd.net
-23.219.78.46
-23.219.78.48
+23.32.45.23
+23.32.45.29
 
 # Ubisoft — ubistatic17-a.akamaihd.net
-23.219.78.202
-23.219.78.209
+23.195.81.112
+23.195.81.96
 
 # Ubisoft — ubistatic18-a.akamaihd.net
-23.219.78.196
-23.219.78.213
+23.195.81.121
+23.195.81.72
 
 # Ubisoft — ubistatic19-a.akamaihd.net
-23.219.78.196
-23.219.78.201
+23.195.81.57
+23.195.81.73
 
 # Ubisoft — ubistatic2-a.akamaihd.net
-23.219.78.38
-23.219.78.45
+23.220.206.19
+23.220.206.69
 
 # Ubisoft — ubistatic20-a.akamaihd.net
-23.219.78.196
-23.219.78.215
+23.195.81.58
+23.195.81.67
 
 # Ubisoft — ubistatic21-a.akamaihd.net
-23.219.78.210
-23.219.78.215
+23.195.81.104
+23.195.81.67
 
 # Ubisoft — ubistatic22-a.akamaihd.net
-23.219.78.212
-23.219.78.214
+23.195.81.83
+23.195.81.99
 
 # Ubisoft — ubistatic23-a.akamaihd.net
-23.219.78.204
-23.219.78.212
+23.195.81.80
+23.195.81.89
 
 # Ubisoft — ubistatic24-a.akamaihd.net
-23.219.78.204
-23.219.78.214
+23.195.81.107
+23.195.81.66
 
 # Ubisoft — ubistatic3-a.akamaihd.net
-23.1.255.201
-23.1.255.209
+23.220.206.19
+23.220.206.47
 
 # Ubisoft — ubistatic4-a.akamaihd.net
-23.1.255.203
-23.1.255.209
+23.220.206.10
+23.220.206.59
 
 # Ubisoft — ubistatic5-a.akamaihd.net
-23.1.255.206
-23.1.255.209
+23.220.206.13
+23.220.206.7
 
 # Ubisoft — ubistatic6-a.akamaihd.net
-23.53.122.143
-23.53.122.150
+23.220.206.30
+23.220.206.34
+23.220.206.38
+23.220.206.41
+23.220.206.64
 
 # Ubisoft — ubistatic7-a.akamaihd.net
-23.1.255.199
-23.1.255.205
+23.220.206.19
+23.220.206.48
 
 # Ubisoft — ubistatic8-a.akamaihd.net
-23.53.122.142
-23.53.122.153
+23.220.206.66
+23.220.206.69
 
 # Ubisoft — ubistatic9-a.akamaihd.net
-23.1.255.205
-23.1.255.209
+23.220.206.51
+23.220.206.56
 
 # Ubisoft — uplaypc-s-ubisoft.cdn.ubi.com
-23.219.78.42
-23.219.78.49
+23.220.206.31
+23.220.206.37

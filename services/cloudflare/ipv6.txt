@@ -65,8 +65,8 @@
 # (no public DNS addresses found)
 
 # Cloudflare — cloudflareclient.com
-2606:4700::6810:1854
-2606:4700::6810:c052
+2606:4700:7::39d
+2a06:98c1:58::39d
 
 # Cloudflare — cloudflarecn.net
 # (no public DNS addresses found)
@@ -79,8 +79,8 @@
 2606:4700::6810:5049
 
 # Cloudflare — cloudflareok.com
-2606:4700::6812:ee5
-2606:4700::6812:fe5
+2606:4700:7::39d
+2a06:98c1:58::39d
 
 # Cloudflare — cloudflarepreview.com
 2606:4700::6812:86a

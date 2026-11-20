@@ -65,8 +65,8 @@
 # (no public DNS addresses found)
 
 # Cloudflare — cloudflareclient.com
-104.16.192.82
-104.16.24.84
+162.159.143.174
+172.66.3.170
 
 # Cloudflare — cloudflarecn.net
 122.114.89.161
@@ -79,8 +79,8 @@
 104.16.80.73
 
 # Cloudflare — cloudflareok.com
-104.18.14.229
-104.18.15.229
+162.159.143.174
+172.66.3.170
 
 # Cloudflare — cloudflarepreview.com
 104.18.8.106

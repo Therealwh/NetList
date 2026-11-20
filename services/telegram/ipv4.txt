@@ -67,7 +67,7 @@
 149.154.167.99
 
 # Telegram — tdesktop.com
-188.166.3.205
+143.198.248.7
 
 # Telegram — telega.one
 95.161.64.100

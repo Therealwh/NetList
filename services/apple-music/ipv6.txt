@@ -2,59 +2,59 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Apple Music — amp-api-edge.music.apple.com
-2a04:4e42:5::774
+2a04:4e42:94::774
 
 # Apple Music — amp-api.music.apple.com
-2a04:4e42:5::774
+2a04:4e42:94::774
 
 # Apple Music — aod-ssl.itunes.apple.com
-2620:149:a00:f000::159
-2620:149:a00:f000::160
+2620:149:a32:f000::151
+2620:149:a32:f000::195
 
 # Apple Music — aod.itunes.apple.com
-2620:149:a00:f000::141
-2620:149:a00:f000::147
+2620:149:a32:f000::131
+2620:149:a32:f000::140
 
 # Apple Music — applemusic.com
 # (no public DNS addresses found)
 
 # Apple Music — audio-ssl.itunes.apple.com
-2620:149:a00:f000::155
-2620:149:a00:f000::156
+2620:149:a32:f000::153
+2620:149:a32:f000::195
 
 # Apple Music — audio.itunes.apple.com
-2620:149:a00:f000::131
-2620:149:a00:f000::141
+2620:149:a32:f000::133
+2620:149:a32:f000::145
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
 
 # Apple Music — js-cdn.music.apple.com
-2600:1404:ec00:50::17dc:67a7
-2600:1404:ec00:50::17dc:67ad
+2600:1418:a000:9::1728:630e
+2600:1418:a000:9::1728:6314
 
 # Apple Music — music.apple.com
-2600:1409:9800:680::2a1
-2600:1409:9800:687::2a1
-2600:1409:9800:68b::2a1
-2600:1409:9800:68e::2a1
-2600:1409:9800:694::2a1
+2600:1407:e800:b82::2a1
+2600:1407:e800:b89::2a1
+2600:1407:e800:b8b::2a1
+2600:1407:e800:b8f::2a1
+2600:1407:e800:b94::2a1
 
 # Apple Music — musicstatus.music.apple.com
-2600:1404:ec00:1b::17dc:a2cf
-2600:1404:ec00:1b::17dc:a2db
+2600:1418:a000:e::17c1:c8cb
+2600:1418:a000:e::17c1:c8d9
 
 # Apple Music — mvod.itunes.apple.com
-2620:149:a00:f000::149
-2620:149:a00:f000::151
+2620:149:a32:f000::145
+2620:149:a32:f000::146
 
 # Apple Music — play.music.apple.com
-2600:1409:9800:e1::172e:e448
-2600:1409:9800:e1::172e:e450
+2600:1418:a000:10::17c1:c80f
+2600:1418:a000:10::17c1:c813
 
 # Apple Music — speedysub.music.apple.com
-2a04:4e42:5::774
+2a04:4e42:94::774
 
 # Apple Music — streamingaudio.itunes.apple.com
-2620:149:a00:f000::139
-2620:149:a00:f000::154
+2620:149:a32:f000::136
+2620:149:a32:f000::142
