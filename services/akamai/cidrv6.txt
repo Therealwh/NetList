@@ -1,7 +1,7 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Akamai — akamai.com
-2600:141f:4000:8::17ca:5a5a/128
-2600:141f:4000:8::17ca:5a5b/128
+2600:1407:3c00:17::1740:7290/128
+2600:1407:3c00:17::1740:7291/128
 
 # Akamai — akamai.net
 # (no public DNS addresses found)

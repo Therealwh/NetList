@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Zoho — zoho.com
-136.143.190.155
+136.143.186.150
 
 # Zoho — zoho.com.au
 103.138.128.98
@@ -39,4 +39,4 @@
 136.143.189.12
 
 # Zoho — zohowebstatic.com
-204.141.42.86
+136.143.186.195

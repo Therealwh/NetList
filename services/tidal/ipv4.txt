@@ -2,20 +2,20 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Tidal — tidal-cms.s3.amazonaws.com
-16.15.157.71
-16.15.171.166
-16.15.191.131
-16.15.191.151
-16.15.229.211
-16.15.229.3
-52.217.126.234
-54.231.136.2
+16.15.229.97
+16.15.230.2
+16.15.252.88
+16.182.109.106
+16.182.109.114
+16.182.36.130
+52.216.218.170
+52.217.254.26
 
 # Tidal — tidal.com
-13.249.141.34
-13.249.141.52
-13.249.141.77
-13.249.141.90
+108.159.227.118
+108.159.227.15
+108.159.227.57
+108.159.227.67
 
 # Tidal — tidalhifi.com
 3.167.163.37

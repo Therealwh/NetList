@@ -17,6 +17,7 @@
 87.250.250.254
 
 # Яндекс — analytics.mobile.yandex.net
+141.8.134.77
 213.180.193.226
 
 # Яндекс — clck.yandex.com
@@ -56,6 +57,7 @@
 213.180.204.242
 
 # Яндекс — report.ap.yandex-net.ru
+141.8.134.77
 213.180.193.226
 
 # Яндекс — xn--d1acpjx3f.xn--p1ai

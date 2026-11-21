@@ -8,23 +8,23 @@
 151.101.163.6
 
 # Apple Music — aod-ssl.itunes.apple.com
-17.253.127.152
 17.253.127.153
+17.253.127.197
 
 # Apple Music — aod.itunes.apple.com
-17.253.127.136
-17.253.127.141
+17.253.127.139
+17.253.127.143
 
 # Apple Music — applemusic.com
 17.253.142.4
 
 # Apple Music — audio-ssl.itunes.apple.com
-17.253.127.151
-17.253.127.152
+17.253.127.153
+17.253.127.195
 
 # Apple Music — audio.itunes.apple.com
-17.253.127.133
-17.253.127.141
+17.253.127.135
+17.253.127.147
 
 # Apple Music — blobstore.apple.com
 # (no public DNS addresses found)
@@ -34,7 +34,7 @@
 23.195.81.81
 
 # Apple Music — music.apple.com
-23.14.140.29
+184.29.30.30
 
 # Apple Music — musicstatus.music.apple.com
 23.195.81.66
@@ -42,15 +42,15 @@
 
 # Apple Music — mvod.itunes.apple.com
 17.253.127.133
-17.253.127.149
+17.253.127.147
 
 # Apple Music — play.music.apple.com
 23.195.81.106
 23.195.81.67
 
 # Apple Music — speedysub.music.apple.com
-151.101.163.6
+140.248.147.6
 
 # Apple Music — streamingaudio.itunes.apple.com
-17.253.127.142
-17.253.127.148
+17.253.127.135
+17.253.127.145

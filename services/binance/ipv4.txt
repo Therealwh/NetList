@@ -39,16 +39,16 @@
 # (no public DNS addresses found)
 
 # Binance — saasexch.com
-13.226.53.30
-13.226.53.38
-13.226.53.4
-13.226.53.59
+18.172.134.100
+18.172.134.129
+18.172.134.18
+18.172.134.78
 
 # Binance — zftksc.cdn-settings.appsflyersdk.com
-13.227.87.108
-13.227.87.111
-13.227.87.67
-13.227.87.75
+13.249.141.121
+13.249.141.20
+13.249.141.55
+13.249.141.70
 
 # Binance — zftksc.launches.appsflyersdk.com
 13.249.141.28
