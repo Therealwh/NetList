@@ -2,131 +2,131 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # DuckDuckGo — cispaletter.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — cispaletter.org
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — cometotheduckside.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — ddg.co
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — ddg.gg
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — ddh.gg
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — dgg.gg
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — dontbubble.us
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — donttrack.us
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duck.co
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duck.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckco.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckco.de
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.ca
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.co
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.co.uk
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.com.mx
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.com.tw
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.de
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.dk
 13.248.243.5
 76.223.105.230
 
 # DuckDuckGo — duckduckgo.in
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.jp
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.ke
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.mx
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.nl
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.org
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.pl
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.sg
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckgo.uk
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckduckhack.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckgo.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — ducksear.ch
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — duckside.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — dukgo.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — enteentegeh.de
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — fixtracking.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — goduckgo.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — hacksear.ch
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — justduckit.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — privacysimplified.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — privatebrowsingmyths.com
-40.89.244.232
+52.250.42.157
 
 # DuckDuckGo — spreadprivacy.com
 20.221.85.50

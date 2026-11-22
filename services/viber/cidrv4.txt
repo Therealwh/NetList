@@ -1,3 +1,4 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Viber — viber.com
 44.199.46.221/32
+54.162.89.66/32

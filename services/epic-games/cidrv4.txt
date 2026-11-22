@@ -1,8 +1,8 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Epic Games — battlebreakers.com
 184.195.44.8/32
-35.173.145.248/32
 44.198.22.37/32
+54.237.176.18/32
 
 # Epic Games — eac-cdn.com
 # (no public DNS addresses found)
@@ -26,41 +26,40 @@
 3.91.115.44/32
 
 # Epic Games — fortnite.com
-184.192.127.195/32
-3.208.213.239/32
-98.90.30.216/32
+13.219.192.79/32
+34.202.38.55/32
+52.70.196.80/32
 
 # Epic Games — helpshift.com
 209.42.198.106/32
 
 # Epic Games — paragon.com
 184.195.44.8/32
-35.173.145.248/32
 44.198.22.37/32
+54.237.176.18/32
 
 # Epic Games — playparagon.com
 184.195.44.8/32
-35.173.145.248/32
 44.198.22.37/32
+54.237.176.18/32
 
 # Epic Games — roborecall.com
 184.195.44.8/32
-35.173.145.248/32
 44.198.22.37/32
+54.237.176.18/32
 
 # Epic Games — shadowcomplex.com
 184.195.44.8/32
-35.173.145.248/32
 44.198.22.37/32
+54.237.176.18/32
 
 # Epic Games — spyjinx.com
 104.21.73.35/32
 172.67.157.114/32
 
 # Epic Games — unrealengine.com
-3.210.228.19/32
-3.213.120.167/32
-52.200.13.197/32
+44.209.191.170/32
+50.19.180.144/32
 
 # Epic Games — unrealtournament.com
 13.223.147.94/32

@@ -3,3 +3,4 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Viber — viber.com
 44.199.46.221
+54.162.89.66

@@ -1,9 +1,12 @@
 {
   "schema_version": 1,
   "source": "Certificate Transparency via crt.sh",
-  "updated_at": "2026-11-21T10:44:42+00:00",
-  "roots_checked": 3,
+  "updated_at": "2026-11-22T10:50:43+00:00",
+  "roots_checked": 0,
   "roots_failed": [
+    "CT lookup failed for 2nd-no.com: HTTP Error 502: Bad Gateway",
+    "CT lookup failed for kinogo.online: HTTP Error 502: Bad Gateway",
+    "CT lookup failed for shuffle.com: HTTP Error 502: Bad Gateway",
     "CT lookup failed for zref.pro: HTTP Error 502: Bad Gateway"
   ],
   "domains": [

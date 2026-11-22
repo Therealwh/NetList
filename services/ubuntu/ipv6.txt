@@ -5,8 +5,15 @@
 # (no public DNS addresses found)
 
 # Ubuntu — archive.ubuntu.com
-2606:4700:10::6814:1cf6
-2606:4700:10::ac42:98b0
+2620:2d:4000:1::101
+2620:2d:4000:1::102
+2620:2d:4000:1::103
+2620:2d:4002:1::101
+2620:2d:4002:1::102
+2620:2d:4002:1::103
+2a06:bc80:0:1000::16
+2a06:bc80:0:1000::17
+2a06:bc80:0:1000::18
 
 # Ubuntu — askubuntu.com
 # (no public DNS addresses found)

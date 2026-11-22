@@ -69,14 +69,14 @@
 # (no public DNS addresses found)
 
 # ChatGPT — client-api.arkoselabs.com
-2600:9000:2015:200:7:d69d:3600:93a1
-2600:9000:2015:3c00:7:d69d:3600:93a1
-2600:9000:2015:800:7:d69d:3600:93a1
-2600:9000:2015:8600:7:d69d:3600:93a1
-2600:9000:2015:8a00:7:d69d:3600:93a1
-2600:9000:2015:8e00:7:d69d:3600:93a1
-2600:9000:2015:9c00:7:d69d:3600:93a1
-2600:9000:2015:da00:7:d69d:3600:93a1
+2600:9000:2858:2c00:7:d69d:3600:93a1
+2600:9000:2858:4c00:7:d69d:3600:93a1
+2600:9000:2858:7400:7:d69d:3600:93a1
+2600:9000:2858:8000:7:d69d:3600:93a1
+2600:9000:2858:8800:7:d69d:3600:93a1
+2600:9000:2858:ca00:7:d69d:3600:93a1
+2600:9000:2858:ec00:7:d69d:3600:93a1
+2600:9000:2858:f800:7:d69d:3600:93a1
 
 # ChatGPT — desktop.chat.openai.com
 # (no public DNS addresses found)
@@ -130,26 +130,26 @@
 # (no public DNS addresses found)
 
 # ChatGPT — openai-api.arkoselabs.com
-2600:9000:200e:2200:1a:387f:96c0:93a1
-2600:9000:200e:3800:1a:387f:96c0:93a1
-2600:9000:200e:7e00:1a:387f:96c0:93a1
-2600:9000:200e:8200:1a:387f:96c0:93a1
-2600:9000:200e:a000:1a:387f:96c0:93a1
-2600:9000:200e:d800:1a:387f:96c0:93a1
-2600:9000:200e:de00:1a:387f:96c0:93a1
-2600:9000:200e:fe00:1a:387f:96c0:93a1
+2600:9000:2000:2400:1a:387f:96c0:93a1
+2600:9000:2000:400:1a:387f:96c0:93a1
+2600:9000:2000:600:1a:387f:96c0:93a1
+2600:9000:2000:a000:1a:387f:96c0:93a1
+2600:9000:2000:a00:1a:387f:96c0:93a1
+2600:9000:2000:c00:1a:387f:96c0:93a1
+2600:9000:2000:e200:1a:387f:96c0:93a1
+2600:9000:2000:e600:1a:387f:96c0:93a1
 
 # ChatGPT — openai.com
 # (no public DNS addresses found)
 
 # ChatGPT — openaiapi-site.azureedge.net
-2603:1061:14:1c2::1
+2603:1061:14:196::1
 
 # ChatGPT — openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-2603:1061:14:1c2::1
+2603:1061:14:195::1
 
 # ChatGPT — openaicom.imgix.net
-2a04:4e42:94::720
+2a04:4e42:5::720
 
 # ChatGPT — openaicomproductionae4b.blob.core.windows.net
 # (no public DNS addresses found)
@@ -159,7 +159,7 @@
 2a06:98c1:310d::6812:212d
 
 # ChatGPT — production-openaicom-storage.azureedge.net
-2603:1061:14:1c2::1
+2603:1061:14:194::1
 
 # ChatGPT — segment.io
 # (no public DNS addresses found)
