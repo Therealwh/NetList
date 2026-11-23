@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "Certificate Transparency via crt.sh",
-  "updated_at": "2026-11-22T10:50:43+00:00",
+  "updated_at": "2026-11-23T11:57:15+00:00",
   "roots_checked": 0,
   "roots_failed": [
     "CT lookup failed for 2nd-no.com: HTTP Error 502: Bad Gateway",

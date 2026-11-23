@@ -1,37 +1,37 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Wikipedia — mediawiki.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikibooks.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikidata.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikileaks.org
 51.159.197.136/32
 80.81.248.21/32
 
 # Wikipedia — wikimedia.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikinews.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikipedia.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikiquote.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikisource.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikiversity.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wikivoyage.org
-198.35.26.224/32
+208.80.153.224/32
 
 # Wikipedia — wiktionary.org
-198.35.26.224/32
+208.80.153.224/32

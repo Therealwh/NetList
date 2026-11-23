@@ -11,7 +11,7 @@
 # (no public DNS addresses found)
 
 # Instagram — instagr.am
-31.13.65.174
+157.240.241.174
 
 # Instagram — instagram.com
-57.144.216.34
+57.144.20.34

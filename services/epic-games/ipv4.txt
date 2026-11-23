@@ -2,8 +2,8 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Epic Games — battlebreakers.com
-184.195.44.8
-44.198.22.37
+23.20.29.149
+3.212.246.211
 54.237.176.18
 
 # Epic Games — eac-cdn.com
@@ -28,31 +28,30 @@
 3.91.115.44
 
 # Epic Games — fortnite.com
-13.219.192.79
-34.202.38.55
-52.70.196.80
+44.216.2.6
+44.219.211.159
 
 # Epic Games — helpshift.com
 209.42.198.106
 
 # Epic Games — paragon.com
-184.195.44.8
-44.198.22.37
+23.20.29.149
+3.212.246.211
 54.237.176.18
 
 # Epic Games — playparagon.com
-184.195.44.8
-44.198.22.37
+23.20.29.149
+3.212.246.211
 54.237.176.18
 
 # Epic Games — roborecall.com
-184.195.44.8
-44.198.22.37
+23.20.29.149
+3.212.246.211
 54.237.176.18
 
 # Epic Games — shadowcomplex.com
-184.195.44.8
-44.198.22.37
+23.20.29.149
+3.212.246.211
 54.237.176.18
 
 # Epic Games — spyjinx.com
@@ -60,8 +59,9 @@
 172.67.157.114
 
 # Epic Games — unrealengine.com
-44.209.191.170
-50.19.180.144
+18.214.141.141
+184.195.28.20
+34.239.239.5
 
 # Epic Games — unrealtournament.com
 13.223.147.94

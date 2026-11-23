@@ -3,4 +3,4 @@
 # DNS answers change and do not prove exclusive service ownership.
 # Viber — viber.com
 2600:1f18:2092:1a04:98ce:85f0:825d:4db0
-2600:1f18:2092:1a05:a5f4:af19:e931:dd1e
+2600:1f18:2092:1a05:2377:a90:4a9b:3c8

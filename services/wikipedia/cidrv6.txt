@@ -1,36 +1,36 @@
 # Exact IPv6 host routes (/128); not service-owned ranges.
 # Wikipedia — mediawiki.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikibooks.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikidata.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikileaks.org
 # (no public DNS addresses found)
 
 # Wikipedia — wikimedia.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikinews.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikipedia.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikiquote.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikisource.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikiversity.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wikivoyage.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128
 
 # Wikipedia — wiktionary.org
-2620:0:863:ed1a::1/128
+2620:0:860:ed1a::1/128

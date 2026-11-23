@@ -111,19 +111,19 @@
 17.178.96.7
 
 # Apple — a1.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — a2.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — a3.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — a4.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — a5.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — aaagradeheadphones.com
 # (no public DNS addresses found)
@@ -144,8 +144,8 @@
 # (no public DNS addresses found)
 
 # Apple — adcdownload.apple.com
-17.253.31.136
-17.253.31.139
+17.253.127.139
+17.253.127.148
 
 # Apple — adcdownload.apple.com.akadns.net
 # (no public DNS addresses found)
@@ -192,19 +192,19 @@
 17.253.142.4
 
 # Apple — amp-api-edge.apps.apple.com
-151.101.23.6
+146.75.107.6
 
 # Apple — amp-api-search-edge.apps.apple.com
-151.101.23.6
+146.75.107.6
 
 # Apple — amp-api-updates.apps.apple.com
-151.101.23.6
+140.248.147.6
 
 # Apple — amp-api.apps.apple.com
-146.75.43.6
+140.248.147.6
 
 # Apple — amp-api.media.apple.com
-151.101.23.6
+140.248.147.6
 
 # Apple — annstores.net
 # (no public DNS addresses found)
@@ -216,8 +216,8 @@
 # (no public DNS addresses found)
 
 # Apple — api-edge.apps.apple.com
-23.53.122.68
-23.53.122.80
+23.195.81.10
+23.195.81.48
 
 # Apple — aple.com
 17.253.142.4
@@ -232,14 +232,14 @@
 17.253.142.4
 
 # Apple — app-site-association.cdn-apple.com
-17.253.253.4
-17.253.253.5
-17.253.31.139
-17.253.31.197
-17.253.5.137
-17.253.5.161
-17.253.83.153
-17.253.83.198
+17.253.127.142
+17.253.127.149
+17.253.21.140
+17.253.21.143
+17.253.251.4
+17.253.251.6
+17.253.5.143
+17.253.5.160
 
 # Apple — app-store.wang
 # (no public DNS addresses found)
@@ -266,16 +266,16 @@
 17.253.142.4
 
 # Apple — appldnld.apple.com
-17.253.31.136
-17.253.31.140
+17.253.127.143
+17.253.127.150
 
 # Apple — appldnld.apple.com.edgesuite.net
-23.1.255.200
-23.1.255.205
+23.219.87.46
+23.53.127.142
 
 # Apple — appldnld.g.aaplimg.com
-17.253.31.137
-17.253.31.195
+17.253.127.143
+17.253.127.150
 
 # Apple — apple-appstore.cn
 # (no public DNS addresses found)
@@ -308,15 +308,15 @@
 17.253.142.4
 
 # Apple — apple-events.akamaized.net
-23.1.255.196
-23.1.255.197
-23.1.255.199
-23.1.255.200
-23.1.255.201
-23.1.255.203
-23.1.255.205
-23.1.255.207
-23.1.255.208
+23.213.53.135
+23.213.53.136
+23.213.53.141
+23.213.53.142
+23.213.53.143
+23.213.53.145
+23.213.53.150
+23.213.53.153
+23.213.53.156
 
 # Apple — apple-expo.com
 17.253.142.4
@@ -352,14 +352,14 @@
 # (no public DNS addresses found)
 
 # Apple — apple-native-relay.apple.com
-17.248.242.103
-17.248.242.104
-17.248.242.19
-17.248.242.50
-17.248.242.51
-17.248.242.69
-17.248.242.70
-17.250.48.44
+17.248.139.228
+17.248.139.232
+17.248.139.233
+17.248.139.234
+17.250.49.18
+17.250.49.19
+17.250.49.2
+17.250.49.3
 
 # Apple — apple-online.com
 17.253.142.4
@@ -627,8 +627,8 @@
 17.253.142.4
 
 # Apple — apple.news
-23.44.175.79
-23.44.175.81
+23.33.22.153
+23.33.22.154
 
 # Apple — apple.nl
 17.253.144.10
@@ -880,8 +880,8 @@
 17.253.142.4
 
 # Apple — appleid.cdn-apple.com
-23.1.255.199
-23.1.255.207
+23.220.206.22
+23.220.206.63
 
 # Apple — appleid.com
 17.253.142.4
@@ -1299,28 +1299,20 @@
 17.253.142.4
 
 # Apple — appleworldwidedeveloper.hb-api.omtrdc.net
-63.140.36.107
-63.140.36.154
-63.140.36.165
-63.140.36.253
-63.140.36.86
-63.140.37.149
-63.140.37.201
-63.140.37.237
-63.140.37.254
-63.140.37.53
+66.117.20.101
+66.117.20.131
+66.117.20.168
+66.117.20.178
+66.117.20.212
+66.117.20.252
 
 # Apple — appleworldwidedeveloper.sc.omtrdc.net
-63.140.36.131
-63.140.36.210
-63.140.36.212
-63.140.36.26
-63.140.36.67
-63.140.37.142
-63.140.37.151
-63.140.37.191
-63.140.37.238
-63.140.37.246
+66.117.20.101
+66.117.20.131
+66.117.20.168
+66.117.20.178
+66.117.20.212
+66.117.20.252
 
 # Apple — applexpo.net
 17.253.142.4
@@ -1344,8 +1336,8 @@
 17.253.142.4
 
 # Apple — apps.mzstatic.com
-17.253.31.133
-17.253.31.137
+17.253.127.143
+17.253.127.148
 
 # Apple — appsto.re
 # (no public DNS addresses found)
@@ -1408,7 +1400,7 @@
 # (no public DNS addresses found)
 
 # Apple — axm-servicediscovery.apple.com
-17.33.202.237
+17.33.200.85
 
 # Apple — bag-glasses1.com
 # (no public DNS addresses found)
@@ -2036,16 +2028,12 @@
 # (no public DNS addresses found)
 
 # Apple — beatselectronicsllc.tt.omtrdc.net
-63.140.36.107
-63.140.36.154
-63.140.36.165
-63.140.36.210
-63.140.36.86
-63.140.37.103
-63.140.37.149
-63.140.37.201
-63.140.37.237
-63.140.37.53
+66.117.20.101
+66.117.20.131
+66.117.20.168
+66.117.20.178
+66.117.20.212
+66.117.20.252
 
 # Apple — beatsep.cn
 # (no public DNS addresses found)
@@ -2414,17 +2402,17 @@
 # (no public DNS addresses found)
 
 # Apple — cds-cdn.v.aaplimg.com
-17.253.31.139
+17.253.127.132
 
 # Apple — cds.apple.com
-17.253.31.138
+17.253.127.137
 
 # Apple — cds.apple.com.akadns.net
 # (no public DNS addresses found)
 
 # Apple — cdsassets.apple.com
-17.253.31.137
-17.253.31.141
+17.253.127.137
+17.253.127.141
 
 # Apple — cheap-beats-by-dre.net
 # (no public DNS addresses found)
@@ -2598,71 +2586,69 @@
 # (no public DNS addresses found)
 
 # Apple — cl1-cdn.origin-apple.com.akadns.net
-17.253.31.140
-17.253.31.142
+17.253.127.131
+17.253.127.142
 
 # Apple — cl1.apple.com
-17.253.31.133
-17.253.31.140
+17.253.127.135
+17.253.127.144
 
 # Apple — cl2-cdn.origin-apple.com.akadns.net
-17.253.31.134
-17.253.31.140
+17.253.127.154
+17.253.127.196
 
 # Apple — cl2-cn.apple.com
-159.226.227.20
-159.226.227.27
-159.226.227.28
-159.226.227.29
-159.226.227.30
-159.226.227.31
-159.226.227.64
-159.226.227.65
+106.116.184.7
+218.92.226.5
+222.138.208.5
+36.150.182.133
+49.119.112.227
+58.144.119.7
 
 # Apple — cl2.apple.com
-17.253.31.141
-17.253.31.195
+17.253.127.134
+17.253.127.140
 
 # Apple — cl2.apple.com.edgekey.net.globalredir.akadns.net
-23.59.151.86
+23.64.155.20
 
 # Apple — cl3-cdn.origin-apple.com.akadns.net
-17.253.31.135
-17.253.31.139
+17.253.127.138
+17.253.127.198
 
 # Apple — cl3.apple.com
-17.253.31.135
-17.253.31.196
+17.253.127.140
+17.253.127.150
 
 # Apple — cl4-cdn.origin-apple.com.akadns.net
-17.253.31.133
-17.253.31.195
+17.253.127.148
+17.253.127.196
 
 # Apple — cl4-cn.apple.com
-103.151.149.13
-103.151.149.14
-103.151.149.15
-103.151.149.16
-103.151.149.17
-103.151.149.18
-103.151.149.19
-103.151.149.20
+113.96.147.54
+125.89.169.10
+125.89.170.1
+125.89.170.129
+221.204.54.66
+223.109.243.161
+223.109.243.2
+58.144.229.130
 
 # Apple — cl4.apple.com
-17.253.31.141
-17.253.31.142
+17.253.127.131
+17.253.127.153
 
 # Apple — cl5-cdn.origin-apple.com.akadns.net
-23.44.175.70
-23.44.175.80
+23.220.206.52
+23.220.206.79
 
 # Apple — cl5.apple.com
-23.44.175.70
-23.44.175.80
+23.220.206.52
+23.220.206.79
 
 # Apple — clientflow.apple.com
-17.253.31.136
-17.253.31.138
+17.253.127.135
+17.253.127.139
 
 # Apple — clientflow.apple.com.akadns.net
 # (no public DNS addresses found)
@@ -2677,23 +2663,23 @@
 # (no public DNS addresses found)
 
 # Apple — communities.apple.com
-23.53.122.148
-23.53.122.153
+23.195.81.104
+23.195.81.74
 
 # Apple — configuration-lb.ls-apple.com.akadns.net
-17.253.31.137
-17.253.31.142
+17.253.127.140
+17.253.127.142
 
 # Apple — configuration.apple.com
-17.253.31.137
-17.253.31.142
+17.253.127.133
+17.253.127.138
 
 # Apple — configuration.apple.com.akadns.net
 # (no public DNS addresses found)
 
 # Apple — configuration.ls.apple.com
-17.253.31.139
-17.253.31.142
+17.253.127.136
+17.253.127.197
 
 # Apple — cooliphonecasesstore.com
 # (no public DNS addresses found)
@@ -2714,12 +2700,12 @@
 216.239.32.29
 
 # Apple — cstat.apple.com
-17.253.31.133
-17.253.31.195
+17.253.127.133
+17.253.127.142
 
 # Apple — cstat.cdn-apple.com
-17.253.31.137
-17.253.31.140
+17.253.127.135
+17.253.127.138
 
 # Apple — cuffiesaldi.com
 # (no public DNS addresses found)
@@ -2789,7 +2775,7 @@
 # (no public DNS addresses found)
 
 # Apple — dejavu.apple.com
-54.71.177.201
+13.59.48.42
 
 # Apple — designeriphonescases.com
 # (no public DNS addresses found)
@@ -2825,12 +2811,12 @@
 17.32.214.189
 
 # Apple — devimages-cdn.apple.com
-17.253.31.133
-17.253.31.140
+17.253.127.131
+17.253.127.140
 
 # Apple — devstreaming-cdn.apple.com
-17.253.31.135
-17.253.31.137
+17.253.127.137
+17.253.127.146
 
 # Apple — digicert.com
 45.60.121.229
@@ -2849,11 +2835,11 @@
 17.179.192.127
 
 # Apple — discussionschinese.apple.com
-23.1.255.202
-23.1.255.207
+23.195.81.58
+23.195.81.73
 
 # Apple — dispatcher.is.autonavi.com
-106.11.43.101
+106.11.15.5
 
 # Apple — dkbeatsbydre.com
 # (no public DNS addresses found)
@@ -2868,8 +2854,8 @@
 17.253.142.4
 
 # Apple — download.developer.apple.com
-17.253.31.136
-17.253.31.196
+17.253.127.146
+17.253.127.147
 
 # Apple — downloadsforipod.com
 # (no public DNS addresses found)
@@ -3050,7 +3036,7 @@
 17.253.142.4
 
 # Apple — e16991.b.akamaiedge.net
-23.198.170.19
+23.204.168.210
 
 # Apple — earphonescheapest.com
 # (no public DNS addresses found)
@@ -3098,7 +3084,7 @@
 17.253.142.4
 
 # Apple — experiments.apple.com
-23.0.204.193
+184.29.30.174
 
 # Apple — faceid99.com
 # (no public DNS addresses found)
@@ -3192,7 +3178,7 @@
 # (no public DNS addresses found)
 
 # Apple — gs-loc-cn.apple.com
-59.82.17.33
+140.205.31.96
 
 # Apple — gs-loc.apple.com
 17.57.12.16
@@ -3203,69 +3189,63 @@
 59.82.17.34
 
 # Apple — gsp11-cn.ls.apple.com
-218.92.226.3
-220.167.6.161
-220.185.165.2
-220.185.165.69
-60.210.11.65
+106.225.246.26
+220.164.107.69
 
 # Apple — gsp12-cn.ls.apple.com
-23.44.175.79
-23.44.175.81
+23.33.29.76
+23.33.29.81
 
 # Apple — gsp13-cn.ls.apple.com
-23.53.122.142
-23.53.122.150
+23.195.81.74
+23.195.81.82
 
 # Apple — gsp4-cn.ls.apple.com
-23.53.122.143
-23.53.122.152
+23.195.81.120
+23.195.81.73
 
 # Apple — gsp4-cn.ls.apple.com.edgekey.net
-23.59.148.23
+23.59.106.253
 
 # Apple — gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-23.209.29.251
+23.198.69.250
 
 # Apple — gsp5-cn.ls.apple.com
-23.44.175.71
-23.44.175.80
+23.195.81.104
+23.195.81.88
 
 # Apple — gsp85-cn-ssl.ls.apple.com
 140.205.31.101
 
 # Apple — gspe11-2-cn-ssl.ls.apple.com
-119.86.9.100
-119.86.9.101
-119.86.9.102
-119.86.9.103
-119.86.9.104
-119.86.9.105
-119.86.9.106
-119.86.9.99
+124.163.197.109
+124.163.197.110
+124.163.197.111
+124.163.197.112
+124.163.197.113
+124.163.197.114
+124.163.197.115
+124.163.197.116
 
 # Apple — gspe12-cn-ssl.ls.apple.com
-43.224.184.11
-43.224.184.12
-43.224.184.13
-43.224.184.14
-43.224.184.15
-43.224.184.16
-43.224.184.17
-43.224.184.18
+124.226.73.172
+124.226.73.173
+124.226.73.174
+124.226.73.175
+124.226.73.176
+124.226.73.177
+124.226.73.178
+124.226.73.179
 
 # Apple — gspe19-2-cn-ssl.ls-apple.com.akadns.net
-112.92.61.2
-113.96.133.178
-113.96.147.46
-125.89.169.195
-125.89.169.2
-125.89.170.4
-223.111.173.69
-36.157.198.132
-58.144.229.129
-60.210.11.5
-61.162.104.3
+60.200.32.10
+60.200.32.106
+60.200.32.107
+60.200.32.111
+60.200.32.43
+60.200.32.44
+60.200.32.45
+60.200.32.46
 
 # Apple — gspe19-2-cn-ssl.ls.apple.com
 112.92.61.2
@@ -3295,32 +3275,35 @@
 220.164.107.69
 
 # Apple — gspe21-ssl.ls.apple.com
-17.253.31.136
-17.253.31.141
+17.253.127.139
+17.253.127.149
 
 # Apple — gspe35-ssl.ls.apple.com
-17.253.31.136
-17.253.31.196
+17.253.127.143
+17.253.127.149
 
 # Apple — gspe79-cn-ssl.ls.apple.com
 125.89.169.195
 125.89.169.3
 125.89.170.4
 218.92.226.9
-220.185.165.66
+220.185.165.68
 
 # Apple — gspe85-cn-ssl.ls.apple.com
-106.225.246.26
-220.164.107.69
+112.92.61.5
+125.89.169.197
+223.109.243.4
+58.240.12.152
+61.241.125.193
 
 # Apple — guzzoni-apple-com.v.aaplimg.com
-54.71.177.201
+13.59.48.42
 
 # Apple — guzzoni.apple.com
-54.71.177.201
+13.59.48.42
 
 # Apple — guzzoni.smoot.apple.com
-54.203.140.83
+52.14.20.115
 
 # Apple — headphonepubs.com
 # (no public DNS addresses found)
@@ -3589,7 +3572,7 @@
 17.33.200.85
 
 # Apple — identity.apple.com
-17.179.244.134
+17.32.194.67
 
 # Apple — ids-apple.com
 17.179.192.127
@@ -3655,7 +3638,7 @@
 17.253.142.4
 
 # Apple — images.apple.com.edgekey.net.globalredir.akadns.net
-23.0.193.49
+184.29.31.48
 
 # Apple — imessage.tv
 # (no public DNS addresses found)
@@ -3679,46 +3662,45 @@
 17.253.142.4
 
 # Apple — init-kt.apple.com
-23.53.122.134
-23.53.122.150
+23.195.81.57
+23.195.81.96
 
 # Apple — init-p01md-lb.push-apple.com.akadns.net
-23.44.175.69
-23.44.175.71
+23.220.102.50
+23.220.102.79
 
 # Apple — init-p01md.apple.com
-23.44.175.69
-23.44.175.71
+23.220.102.79
 
 # Apple — init-p01st-lb.push-apple.com.akadns.net
-17.253.31.137
-17.253.31.139
+17.253.127.135
+17.253.127.143
 
 # Apple — init-p01st.push.apple.com
-17.253.31.133
-17.253.31.137
+17.253.127.135
+17.253.127.143
 
 # Apple — init-s01st-lb.push-apple.com.akadns.net
-17.253.31.140
-17.253.31.196
+17.253.127.141
+17.253.127.144
 
 # Apple — init-s01st.push.apple.com
-17.253.31.137
-17.253.31.140
+17.253.127.133
+17.253.127.140
 
 # Apple — init.ess.apple.com
-17.253.31.135
-17.253.31.140
-17.253.31.141
-17.253.31.142
+17.253.127.137
+17.253.127.140
+17.253.127.142
+17.253.127.144
 
 # Apple — init.gc-lb.apple.com.akadns.net
-23.219.78.200
-23.219.78.207
+23.52.42.17
+23.52.42.44
 
 # Apple — init.gc.apple.com
-23.219.78.200
-23.219.78.207
+23.52.42.17
+23.52.42.44
 
 # Apple — insidear.cn
 # (no public DNS addresses found)
@@ -3798,8 +3780,8 @@
 17.253.142.4
 
 # Apple — ipcdn.apple.com
-17.253.31.134
-17.253.31.138
+17.253.127.133
+17.253.127.154
 
 # Apple — iphine.com
 # (no public DNS addresses found)
@@ -3814,8 +3796,8 @@
 # (no public DNS addresses found)
 
 # Apple — iphone-ld.apple.com
-17.253.31.136
-17.253.31.197
+17.253.127.132
+17.253.127.149
 
 # Apple — iphone-ld.origin-apple.com.akadns.net
 # (no public DNS addresses found)
@@ -4084,51 +4066,51 @@
 17.156.129.66
 
 # Apple — is1-ssl.mzstatic.com
-151.101.23.6
+17.253.127.137
+17.253.127.140
+17.253.127.148
+17.253.127.152
 
 # Apple — is1.mzstatic.com
-23.1.255.198
-23.1.255.208
+184.25.59.13
+184.25.59.5
 
 # Apple — is2-ssl.mzstatic.com
-17.253.31.133
-17.253.31.134
-17.253.31.136
-17.253.31.141
+17.253.127.137
+17.253.127.140
+17.253.127.148
+17.253.127.152
 
 # Apple — is2.mzstatic.com
-23.1.255.198
-23.1.255.208
+23.219.87.107
+23.219.87.73
 
 # Apple — is3-ssl.mzstatic.com
-17.253.31.137
-17.253.31.139
-17.253.31.140
-17.253.31.141
+17.253.127.133
+17.253.127.136
+17.253.127.147
+17.253.127.195
 
 # Apple — is3.mzstatic.com
-23.1.255.198
-23.1.255.208
+23.213.53.141
+23.213.53.147
 
 # Apple — is4-ssl.mzstatic.com
-17.253.31.137
-17.253.31.138
-17.253.31.196
-17.253.31.197
+151.101.163.6
 
 # Apple — is4.mzstatic.com
-23.1.255.198
-23.1.255.208
+184.25.59.13
+184.25.59.5
 
 # Apple — is5-ssl.mzstatic.com
-17.253.31.136
-17.253.31.137
-17.253.31.139
-17.253.31.196
+17.253.127.143
+17.253.127.145
+17.253.127.148
+17.253.127.197
 
 # Apple — is5.mzstatic.com
-23.1.255.198
-23.1.255.208
+23.219.87.107
+23.219.87.73
 
 # Apple — ischool.com
 17.253.142.4
@@ -4270,8 +4252,8 @@
 # (no public DNS addresses found)
 
 # Apple — km.support.apple.com
-23.44.175.69
-23.44.175.77
+23.220.102.65
+23.220.102.76
 
 # Apple — kobbeatssbydredk.com
 # (no public DNS addresses found)
@@ -4304,7 +4286,7 @@
 17.253.142.4
 
 # Apple — lookup-api.apple.com.edgekey.net
-184.25.247.96
+23.204.168.210
 
 # Apple — lovebeatsdr.com
 # (no public DNS addresses found)
@@ -4478,32 +4460,34 @@
 # (no public DNS addresses found)
 
 # Apple — maps.apple.com
-23.213.230.21
-23.213.230.5
+23.195.81.120
+23.195.81.88
 
 # Apple — mask-api.icloud.com
-17.248.232.64
-17.248.232.7
+17.248.207.17
+17.248.207.25
+17.248.207.67
+17.248.210.8
 
 # Apple — mask-h2.icloud.com
-17.248.242.100
-17.248.242.101
-17.248.242.102
-17.248.242.103
-17.248.242.104
-17.248.242.50
-17.248.242.70
-17.250.48.45
+17.248.139.228
+17.248.139.231
+17.248.139.233
+17.248.139.235
+17.248.139.237
+17.250.49.18
+17.250.49.19
+17.250.49.2
 
 # Apple — mask.icloud.com
-17.248.242.102
-17.248.242.103
-17.248.242.104
-17.248.242.19
-17.248.242.68
-17.248.242.69
-17.250.48.44
-17.250.48.45
+17.248.139.229
+17.248.139.230
+17.248.139.231
+17.248.139.235
+17.248.139.236
+17.248.139.237
+17.250.49.18
+17.250.49.19
 
 # Apple — mbeats-tech.com
 # (no public DNS addresses found)
@@ -4512,18 +4496,21 @@
 # (no public DNS addresses found)
 
 # Apple — mdmenrollment.apple.com
-17.248.232.7
+17.248.207.17
+17.248.207.9
+17.248.210.70
+17.248.210.8
 
 # Apple — me.com
 17.253.142.4
 
 # Apple — mensura.cdn-apple.com
-17.253.31.134
-17.253.31.196
+17.253.127.136
+17.253.127.142
 
 # Apple — mesu-cdn.apple.com.akadns.net
-17.253.31.140
-17.253.31.142
+17.253.127.142
+17.253.127.144
 
 # Apple — mesu-china.apple.com.akadns.net
 111.1.56.68
@@ -4532,23 +4519,21 @@
 223.109.243.1
 
 # Apple — mesu.apple.com
-17.253.31.139
-17.253.31.197
+17.253.127.142
+17.253.127.146
 
 # Apple — metrics.icloud.com
-17.248.201.129
-17.248.201.130
-17.248.201.131
-17.248.201.132
-17.248.201.22
-17.248.201.30
+17.248.228.131
+17.248.228.14
+17.248.228.22
+17.248.228.30
 
 # Apple — micstl.com
 # (no public DNS addresses found)
 
 # Apple — ml.cdn-apple.com
-17.253.31.197
-17.253.31.198
+17.253.127.154
+17.253.127.198
 
 # Apple — mmonsterheadphones.net
 # (no public DNS addresses found)
@@ -4874,8 +4859,8 @@
 # (no public DNS addresses found)
 
 # Apple — oscdn.apple.com
-23.1.255.199
-23.1.255.209
+184.25.59.70
+23.59.177.74
 
 # Apple — oscdn.origin-apple.com.akadns.net
 # (no public DNS addresses found)
@@ -4887,14 +4872,14 @@
 # (no public DNS addresses found)
 
 # Apple — p-events-delivery.akamaized.net
-23.1.255.196
-23.1.255.208
+23.53.127.171
+23.53.127.205
 
 # Apple — pancake.apple.com
-17.253.253.5
-17.253.253.8
-17.253.31.134
-17.253.31.139
+17.253.27.135
+17.253.27.142
+17.253.49.201
+17.253.49.202
 
 # Apple — pascherbeatsmonster.com
 # (no public DNS addresses found)
@@ -4903,8 +4888,8 @@
 # (no public DNS addresses found)
 
 # Apple — pba0.apple.com
-17.253.31.136
-17.253.31.139
+17.253.127.142
+17.253.127.149
 
 # Apple — perfectkickz.net
 162.255.119.44
@@ -4925,14 +4910,14 @@
 # (no public DNS addresses found)
 
 # Apple — pong.icloud.com
-172.224.3.132
-172.224.3.133
-172.224.3.134
-172.224.3.135
-172.224.3.136
-172.224.3.137
-172.224.3.5
-172.224.3.7
+17.248.169.134
+17.250.96.101
+17.250.96.106
+17.250.96.108
+17.250.96.109
+17.250.96.114
+17.250.96.116
+17.250.96.99
 
 # Apple — powerbeats2wireless.com
 # (no public DNS addresses found)
@@ -4947,21 +4932,16 @@
 17.253.142.4
 
 # Apple — probe.icloud.com
-17.250.104.15
-17.250.104.19
-17.250.104.20
-17.250.104.23
-17.250.104.25
-17.250.104.66
-17.250.104.70
-17.250.104.75
+17.248.225.132
+17.248.225.16
+17.248.225.39
 
 # Apple — probe.siri.apple.com
-54.71.177.201
+13.59.48.42
 
 # Apple — prod-support.apple-support.akadns.net
-23.44.175.69
-23.44.175.77
+23.33.29.71
+23.33.29.79
 
 # Apple — promonsterbeatsbydre.com
 # (no public DNS addresses found)
@@ -4970,8 +4950,8 @@
 # (no public DNS addresses found)
 
 # Apple — publicassets.cdn-apple.com
-17.253.31.141
-17.253.31.195
+17.253.127.131
+17.253.127.150
 
 # Apple — pullstring.net
 # (no public DNS addresses found)
@@ -5048,23 +5028,23 @@
 # (no public DNS addresses found)
 
 # Apple — s.mzstatic.com
-17.253.31.135
-17.253.31.195
+17.253.127.132
+17.253.127.136
 
 # Apple — s1.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — s2.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — s3.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — s4.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — s5.mzstatic.com
-23.0.192.32
+184.29.30.30
 
 # Apple — safebrowsing.apple
 # (no public DNS addresses found)
@@ -5098,32 +5078,35 @@
 13.59.48.42
 
 # Apple — sequoia.apple.com
-54.71.177.201
+13.59.48.42
 
 # Apple — services-apple.net
 # (no public DNS addresses found)
 
 # Apple — servicetalk.io
-3.163.24.111
-3.163.24.61
-3.163.24.7
-3.163.24.70
+18.172.122.108
+18.172.122.116
+18.172.122.17
+18.172.122.44
 
 # Apple — setup.icloud.com
-17.248.232.7
+17.248.207.17
+17.248.207.9
+17.248.210.70
+17.248.210.8
 
 # Apple — sh-pod1-smp-device.apple.com
 47.100.252.244
 
 # Apple — sh-pod2-smp-device.apple.com
-101.230.204.226
+47.100.250.20
 
 # Apple — sh-pod3-smp-device.apple.com
 47.101.153.163
 
 # Apple — shazam-insights.cdn-apple.com
-17.253.31.133
-17.253.31.140
+17.253.127.132
+17.253.127.142
 
 # Apple — shazam.com
 35.244.183.82
@@ -5165,14 +5148,14 @@
 17.253.142.4
 
 # Apple — smp-device-content.apple.com
-17.253.31.133
-17.253.31.138
-17.253.31.139
-17.253.31.140
-17.253.83.134
-17.253.83.135
-17.253.83.138
-17.253.83.140
+17.253.127.134
+17.253.127.138
+17.253.127.140
+17.253.127.142
+17.253.21.136
+17.253.21.138
+17.253.21.141
+17.253.21.143
 
 # Apple — sneaker666.com
 # (no public DNS addresses found)
@@ -5200,33 +5183,33 @@
 216.40.34.41
 
 # Apple — static.gc.apple.com
-23.53.122.140
-23.53.122.147
+184.25.119.14
+184.25.119.38
 
 # Apple — stocks-sparkline-lb.apple.com.akadns.net
 # (no public DNS addresses found)
 
 # Apple — stocks-sparkline.apple.com
-23.44.175.73
-23.44.175.78
+23.33.22.145
+23.33.22.152
 
 # Apple — store.apple.com
-23.44.175.68
-23.44.175.81
+23.33.29.71
+23.33.29.75
 
 # Apple — store.apple.com.edgekey.net
-23.59.151.94
+23.62.73.132
 
 # Apple — store.apple.com.edgekey.net.globalredir.akadns.net
-23.209.30.56
+23.62.73.132
 
 # Apple — store.storeimages.apple.com.akadns.net
-23.1.255.198
-23.1.255.203
+184.25.113.42
+184.25.113.5
 
 # Apple — store.storeimages.cdn-apple.com
-23.1.255.198
-23.1.255.203
+184.25.113.42
+184.25.113.5
 
 # Apple — straightouttasomewhere.com
 17.33.192.145
@@ -5249,12 +5232,12 @@
 # (no public DNS addresses found)
 
 # Apple — support-china.apple-support.akadns.net
-23.44.175.69
-23.44.175.77
+23.33.29.71
+23.33.29.79
 
 # Apple — support.apple.com
-23.44.175.69
-23.44.175.77
+23.46.30.139
+23.46.30.148
 
 # Apple — sustainthesound.com
 # (no public DNS addresses found)
@@ -5263,30 +5246,30 @@
 # (no public DNS addresses found)
 
 # Apple — swallow-apple-com.v.aaplimg.com
-54.71.177.201
+13.59.48.42
 
 # Apple — swallow.apple.com
-54.71.177.201
+13.59.48.42
 
 # Apple — swcatalog-cdn.apple.com.akadns.net
-23.0.193.10
+184.29.31.10
 
 # Apple — swcatalog.apple.com
-23.0.193.10
+184.29.31.10
 
 # Apple — swcdn.apple.com
-17.253.31.133
-17.253.31.195
+17.253.127.149
+17.253.127.150
 
 # Apple — swcdn.g.aaplimg.com
-17.253.31.137
-17.253.31.139
+17.253.127.132
+17.253.127.146
 
 # Apple — swdist.apple.com
-17.253.31.135
-17.253.31.136
-17.253.31.139
-17.253.31.197
+17.253.127.141
+17.253.127.145
+17.253.127.154
+17.253.127.197
 
 # Apple — swdist.apple.com.akadns.net
 # (no public DNS addresses found)
@@ -5301,14 +5284,13 @@
 # (no public DNS addresses found)
 
 # Apple — swscan-cdn.apple.com.akadns.net
-23.0.193.10
+184.29.31.10
 
 # Apple — swscan.apple.com
-23.0.193.10
+184.29.31.10
 
 # Apple — sylvan.apple.com
-17.253.31.133
-17.253.31.140
+17.253.127.143
 
 # Apple — szcheapmonsterheadphones.com
 # (no public DNS addresses found)
@@ -5341,7 +5323,7 @@
 17.253.142.4
 
 # Apple — tj-pod1-smp-device.apple.com
-39.107.116.72
+60.29.205.96
 
 # Apple — tj-pod2-smp-device.apple.com
 39.105.137.138
@@ -5396,15 +5378,13 @@
 # (no public DNS addresses found)
 
 # Apple — updates-http.cdn-apple.com
-146.75.43.6
+17.253.127.137
 
 # Apple — updates-http.cdn-apple.com.akadns.net
-17.253.31.133
-17.253.31.134
+17.253.127.136
 
 # Apple — updates.cdn-apple.com
-17.253.31.133
-17.253.31.140
+17.253.127.134
 
 # Apple — usa-beatsbydreheadphonesonsale.net
 # (no public DNS addresses found)
@@ -5435,52 +5415,45 @@
 122.246.1.130
 
 # Apple — weather-data.apple.com
-23.213.230.13
-23.213.230.14
-23.213.230.15
-23.213.230.17
-23.213.230.18
-23.213.230.19
-23.213.230.22
-23.213.230.4
-23.213.230.9
+23.195.81.105
+23.195.81.112
+23.195.81.58
+23.195.81.67
+23.195.81.73
+23.195.81.82
+23.195.81.83
+23.195.81.90
+23.195.81.97
 
 # Apple — weather-data.apple.com.akadns.net
-23.213.230.13
-23.213.230.14
-23.213.230.15
-23.213.230.17
-23.213.230.18
-23.213.230.19
-23.213.230.22
-23.213.230.4
-23.213.230.9
+23.195.81.104
+23.195.81.120
+23.195.81.121
+23.195.81.122
+23.195.81.57
+23.195.81.81
+23.195.81.88
+23.195.81.89
+23.195.81.98
 
 # Apple — weather-map.apple.com
-23.219.78.196
-23.219.78.205
-23.219.78.206
-23.219.78.207
-23.219.78.209
-23.219.78.210
-23.219.78.212
-23.219.78.213
-23.219.78.214
+23.195.81.113
+23.195.81.97
 
 # Apple — weather-map2.apple.com
-17.253.31.138
-17.253.31.196
+17.253.127.139
+17.253.127.142
 
 # Apple — weatherkit.apple.com
-23.213.230.10
-23.213.230.12
-23.213.230.13
-23.213.230.14
-23.213.230.15
-23.213.230.18
-23.213.230.22
-23.213.230.24
-23.213.230.9
+23.195.81.104
+23.195.81.106
+23.195.81.113
+23.195.81.114
+23.195.81.115
+23.195.81.57
+23.195.81.65
+23.195.81.66
+23.195.81.81
 
 # Apple — webkit.org
 17.33.192.58
@@ -5536,17 +5509,17 @@
 # (no public DNS addresses found)
 
 # Apple — www.apple.com
-23.0.193.49
+184.29.31.48
 
 # Apple — www.apple.com.edgekey.net
-23.0.193.49
+184.29.31.48
 
 # Apple — www.apple.com.edgekey.net.globalredir.akadns.net
-23.0.193.49
+184.29.31.48
 
 # Apple — www.support.apple.com
-23.44.175.69
-23.44.175.77
+23.46.30.139
+23.46.30.148
 
 # Apple — wwwapple.com
 17.253.142.4
@@ -5606,8 +5579,8 @@
 # (no public DNS addresses found)
 
 # Apple — xp.apple.com
-17.253.31.138
-17.253.31.142
+17.253.127.132
+17.253.127.136
 
 # Apple — yourmonsterbeats.com
 # (no public DNS addresses found)
