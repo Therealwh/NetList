@@ -2,5 +2,5 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Linode — linode.com
-2600:1418:a000:15::1726:6db5
-2600:1418:a000:15::1726:6dbf
+2600:140a:1000:b::b81e:9647
+2600:140a:1000:b::b81e:964c

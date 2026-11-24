@@ -2,100 +2,99 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # GitHub — atom.io
-140.82.113.18
+140.82.114.18
 
 # GitHub — dependabot.com
-140.82.114.17
+140.82.113.17
 
 # GitHub — ghcr.io
-140.82.114.34
+4.149.173.82
 
 # GitHub — git.io
-140.82.113.21
+140.82.112.22
 
 # GitHub — github-api.arkoselabs.com
-54.192.55.128
-54.192.55.33
-54.192.55.58
-54.192.55.85
+143.204.1.37
+143.204.1.72
+143.204.1.74
+143.204.1.8
 
 # GitHub — github-atom-io-herokuapp-com.freetls.fastly.net
-140.248.146.79
+146.75.42.79
 
 # GitHub — github-avatars.oss-cn-hongkong.aliyuncs.com
 47.79.66.73
 
 # GitHub — github-cloud.s3.amazonaws.com
-16.15.171.140
-16.15.172.164
-16.15.247.250
-16.15.252.88
-16.15.253.108
-16.15.254.31
-52.216.222.178
-54.231.165.58
+16.15.223.34
+16.15.228.25
+16.15.238.121
+16.15.244.228
+16.15.253.236
+16.182.70.218
+52.216.53.66
+54.231.133.202
 
 # GitHub — github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.163.204
-16.15.171.207
-16.15.215.128
-16.15.244.189
-16.15.252.122
-16.182.17.66
-16.182.66.82
-54.231.164.114
+16.15.161.30
+16.15.212.205
+16.15.237.34
+16.15.238.211
+16.182.96.82
+52.216.9.166
+52.217.124.202
+52.217.138.218
 
 # GitHub — github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.230.2
-16.15.238.139
-16.15.245.119
-16.182.100.50
-52.216.52.234
-52.217.112.10
-52.217.73.248
-52.217.82.80
+16.15.207.51
+16.15.228.204
+16.15.238.99
+16.15.244.36
+16.15.246.118
+16.15.252.61
+52.216.50.210
 
 # GitHub — github-production-repository-image-32fea6.s3.amazonaws.com
-16.15.213.254
-16.15.236.49
-16.15.244.58
-16.15.252.17
-16.15.252.84
-52.216.218.106
-52.217.124.170
-52.217.131.218
+16.15.191.202
+16.15.213.103
+16.15.228.83
+16.15.236.86
+16.182.25.114
+16.182.41.194
+52.216.219.226
+54.231.198.202
 
 # GitHub — github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
-16.15.158.47
-16.15.212.25
-16.15.252.223
-16.182.103.74
-52.216.50.226
-52.216.88.246
-54.231.135.42
-54.231.234.194
+16.15.160.43
+16.15.163.55
+16.15.171.17
+16.182.96.218
+16.182.99.242
+52.217.48.112
+54.231.169.178
+54.231.236.26
 
 # GitHub — github-production-user-asset-6210df.s3.amazonaws.com
-16.15.199.55
-16.15.215.34
 16.15.223.34
-16.15.252.182
-16.182.104.26
-16.182.72.186
-16.182.97.146
-52.216.48.146
+16.15.228.25
+16.15.238.121
+16.15.244.228
+16.15.253.236
+16.182.70.218
+52.216.53.66
+54.231.133.202
 
 # GitHub — github.blog
 192.0.66.2
 
 # GitHub — github.com
-140.82.113.3
+4.149.173.80
 
 # GitHub — github.community
-140.82.114.18
+140.82.113.17
 
 # GitHub — github.dev
-52.224.38.193
+20.99.227.183
 
 # GitHub — github.io
 185.199.108.153
@@ -123,7 +122,7 @@
 140.82.114.18
 
 # GitHub — githubhackathon.com
-140.82.114.17
+140.82.113.17
 
 # GitHub — githubnext.com
 185.199.108.153
@@ -156,7 +155,7 @@
 185.199.111.153
 
 # GitHub — npm.community
-140.82.113.18
+140.82.113.17
 
 # GitHub — npmjs.com
 104.17.134.117
@@ -193,9 +192,9 @@
 135.130.64.225
 
 # GitHub — productionresultssa10.blob.core.windows.net
-20.209.226.1
-20.209.226.129
-20.209.227.33
+135.130.36.161
+135.130.37.225
+135.130.64.225
 
 # GitHub — productionresultssa11.blob.core.windows.net
 20.209.52.65
@@ -208,9 +207,9 @@
 20.209.75.97
 
 # GitHub — productionresultssa13.blob.core.windows.net
-57.150.27.1
-57.150.86.161
-57.150.87.97
+20.209.226.1
+20.209.226.129
+20.209.227.33
 
 # GitHub — productionresultssa14.blob.core.windows.net
 57.150.27.1
@@ -248,14 +247,14 @@
 57.150.87.97
 
 # GitHub — productionresultssa3.blob.core.windows.net
+135.130.13.193
+57.150.133.129
+57.150.223.161
+
+# GitHub — productionresultssa4.blob.core.windows.net
 57.150.27.1
 57.150.86.161
 57.150.87.97
-
-# GitHub — productionresultssa4.blob.core.windows.net
-135.130.36.161
-135.130.37.225
-135.130.64.225
 
 # GitHub — productionresultssa5.blob.core.windows.net
 20.209.112.225
@@ -290,7 +289,7 @@
 # (no public DNS addresses found)
 
 # GitHub — repo.new
-140.82.112.18
+140.82.114.18
 
 # GitHub — thegithubshop.com
 23.227.38.65

@@ -7,7 +7,7 @@
 # (no public DNS addresses found)
 
 # PlayStation — playstationnetwork.com
-184.24.58.3/32
+69.192.89.151/32
 
 # PlayStation — sony.com
 44.218.59.236/32

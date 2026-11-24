@@ -1,23 +1,23 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # BBC — aod-dash-uk-live.akamaized.net
-23.211.176.161/32
-23.211.176.170/32
+23.1.255.196/32
+23.1.255.201/32
 
 # BBC — aod-hls-uk-live.akamaized.net
-23.205.110.204/32
-23.205.110.214/32
+23.1.255.196/32
+23.1.255.209/32
 
 # BBC — aod-pod-uk-live.akamaized.net
-23.205.110.203/32
-23.205.110.204/32
+23.1.255.198/32
+23.1.255.199/32
 
 # BBC — as-dash-uk-live.akamaized.net
-23.205.110.210/32
-23.205.110.217/32
+23.1.255.200/32
+23.1.255.203/32
 
 # BBC — as-hls-uk-live.akamaized.net
-23.205.110.202/32
-23.205.110.212/32
+23.1.255.198/32
+23.1.255.206/32
 
 # BBC — bbc.co
 165.160.13.20/32
@@ -67,8 +67,8 @@
 # (no public DNS addresses found)
 
 # BBC — bbcpersian.com
-23.38.111.176/32
-23.38.111.208/32
+23.216.147.131/32
+23.216.147.144/32
 
 # BBC — bbcverticals.com
 # (no public DNS addresses found)
@@ -77,49 +77,49 @@
 # (no public DNS addresses found)
 
 # BBC — ve-dash-uk-live.akamaized.net
-23.48.99.142/32
-23.48.99.148/32
+23.11.232.28/32
+23.11.232.45/32
 
 # BBC — ve-uhd-push-uk-live.akamaized.net
-23.48.99.142/32
-23.48.99.155/32
+23.11.232.187/32
+23.11.232.25/32
 
 # BBC — vod-dash-uk-live.akamaized.net
-23.220.161.28/32
-23.220.161.6/32
+23.214.95.209/32
+23.214.95.218/32
 
 # BBC — vod-dash-ww-live.akamaized.net
-23.220.161.18/32
-23.220.161.24/32
+23.46.216.69/32
+23.46.216.82/32
 
 # BBC — vod-hls-uk-live.akamaized.net
-23.220.161.10/32
-23.220.161.11/32
+23.214.95.201/32
+23.214.95.205/32
 
 # BBC — vod-sub-uk-live.akamaized.net
-23.210.244.10/32
-23.210.244.28/32
+23.1.255.199/32
+23.1.255.209/32
 
 # BBC — vod-thumb-uk-live.akamaized.net
-23.210.244.26/32
-23.210.244.27/32
+23.1.255.206/32
+23.1.255.209/32
 
 # BBC — vod-thumb-ww-live.akamaized.net
-23.220.161.10/32
-23.220.161.20/32
+23.214.95.214/32
+23.214.95.220/32
 
 # BBC — vs-cmaf-push-uk-live.akamaized.net
-23.219.87.13/32
-23.53.127.177/32
+23.219.78.205/32
+23.219.78.206/32
 
 # BBC — vs-cmaf-pushb-ww-live.akamaized.net
-23.200.156.137/32
-23.200.156.141/32
+23.1.255.205/32
+23.1.255.206/32
 
 # BBC — vs-hls-push-uk-live.akamaized.net
-23.48.99.144/32
-23.48.99.149/32
+23.11.232.57/32
+23.11.232.58/32
 
 # BBC — vs-hls-pushb-uk-live.akamaized.net
-23.48.99.146/32
-23.48.99.150/32
+23.11.232.105/32
+23.11.232.14/32
