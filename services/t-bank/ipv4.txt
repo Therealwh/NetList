@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Т-Банк — tbank.ru
-178.130.128.27
+132.243.177.54
 
 # Т-Банк — tinkoff.ru
 178.130.128.27

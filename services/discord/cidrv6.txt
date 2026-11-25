@@ -79,7 +79,7 @@
 # (no public DNS addresses found)
 
 # Discord — discordapp.page.link
-2607:f8b0:400a:80c::2001/128
+2607:f8b0:4004:c1f::84/128
 
 # Discord — discordcdn.com
 # (no public DNS addresses found)

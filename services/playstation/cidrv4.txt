@@ -1,13 +1,13 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # PlayStation — playstation.com
-52.8.236.33/32
-52.8.80.2/32
+54.215.187.13/32
+54.219.113.213/32
 
 # PlayStation — playstation.net
 # (no public DNS addresses found)
 
 # PlayStation — playstationnetwork.com
-69.192.89.151/32
+184.27.10.159/32
 
 # PlayStation — sony.com
 44.218.59.236/32

@@ -5,10 +5,10 @@
 # (no public DNS addresses found)
 
 # Nintendo — ac-pocketcamp.com
-3.163.175.13
-3.163.175.54
-3.163.175.68
-3.163.175.91
+13.33.67.28
+13.33.67.38
+13.33.67.89
+13.33.67.94
 
 # Nintendo — amiibo.com
 151.101.130.132
@@ -40,14 +40,14 @@
 192.159.190.35
 
 # Nintendo — drmario-world.com
-184.28.179.159
+184.30.73.33
 
 # Nintendo — excitebots.com
 192.159.190.35
 3.218.0.127
 
 # Nintendo — fire-emblem-heroes.com
-69.192.84.102
+184.25.33.166
 
 # Nintendo — fireemblemawakening.com
 192.159.190.32
@@ -107,8 +107,8 @@
 3.218.0.127
 
 # Nintendo — miitomo.com
-23.1.255.196
-23.1.255.198
+23.61.11.44
+23.61.11.56
 
 # Nintendo — miitomo.com.cn
 165.160.13.20
@@ -314,8 +314,9 @@
 44.218.139.203
 
 # Nintendo — pokemon.com
-184.196.24.27
 34.226.101.28
+44.219.238.37
+44.221.208.157
 
 # Nintendo — pokemonbank.com
 34.196.147.228
@@ -418,7 +419,7 @@
 3.218.0.127
 
 # Nintendo — supermariorun.com
-173.222.117.31
+2.23.143.106
 
 # Nintendo — superpapermario.com
 192.159.190.35
@@ -457,7 +458,8 @@
 # (no public DNS addresses found)
 
 # Nintendo — wiipartyu.com
-# (no public DNS addresses found)
+34.216.117.25
+54.149.79.189
 
 # Nintendo — wiisports.com
 192.159.190.35

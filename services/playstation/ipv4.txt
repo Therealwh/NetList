@@ -2,14 +2,14 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # PlayStation — playstation.com
-52.8.236.33
-52.8.80.2
+54.215.187.13
+54.219.113.213
 
 # PlayStation — playstation.net
 # (no public DNS addresses found)
 
 # PlayStation — playstationnetwork.com
-69.192.89.151
+184.27.10.159
 
 # PlayStation — sony.com
 44.218.59.236

@@ -11,8 +11,8 @@
 # (no public DNS addresses found)
 
 # OneDrive — oneclient.sfx.ms
-2600:1406:2e00:b00::170b:e8b3
-2600:1406:2e00:b01::170b:e867
+2600:1408:a:201::212:4309
+2600:1408:a:202::170f:3ce
 
 # OneDrive — onedrive.com
 # (no public DNS addresses found)
@@ -30,7 +30,7 @@
 # (no public DNS addresses found)
 
 # OneDrive — skydrive.wns.windows.com
-2603:1030:a07:a::402
+2603:1030:40c:e::2
 
 # OneDrive — spoprod-a.akamaihd.net
 # (no public DNS addresses found)

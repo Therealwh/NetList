@@ -17,6 +17,7 @@
 2a02:6b8::1:254
 
 # Яндекс — analytics.mobile.yandex.net
+2a02:6b8:24::77
 2a02:6b8::3:207
 
 # Яндекс — clck.yandex.com

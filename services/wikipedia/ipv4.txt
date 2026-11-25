@@ -2,38 +2,38 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Wikipedia — mediawiki.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikibooks.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikidata.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikileaks.org
 51.159.197.136
 80.81.248.21
 
 # Wikipedia — wikimedia.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikinews.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikipedia.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikiquote.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikisource.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikiversity.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wikivoyage.org
-198.35.26.224
+208.80.154.224
 
 # Wikipedia — wiktionary.org
-198.35.26.224
+208.80.154.224

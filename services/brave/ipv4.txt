@@ -2,13 +2,13 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Brave — brave.com
-18.172.170.129
-18.172.170.4
-18.172.170.43
-18.172.170.95
+3.167.56.104
+3.167.56.108
+3.167.56.114
+3.167.56.82
 
 # Brave — search.brave.com
-3.169.173.110
-3.169.173.24
-3.169.173.56
-3.169.173.70
+52.85.193.109
+52.85.193.13
+52.85.193.80
+52.85.193.88

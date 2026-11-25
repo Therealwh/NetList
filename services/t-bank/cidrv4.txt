@@ -1,6 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Т-Банк — tbank.ru
-178.130.128.27/32
+132.243.177.54/32
 
 # Т-Банк — tinkoff.ru
 178.130.128.27/32
