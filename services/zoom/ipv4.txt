@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Zoom — zoom.com
-170.114.0.15
+170.114.0.12
 
 # Zoom — zoom.us
 170.114.52.2

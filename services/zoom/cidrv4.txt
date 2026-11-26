@@ -1,6 +1,6 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # Zoom — zoom.com
-170.114.0.15/32
+170.114.0.12/32
 
 # Zoom — zoom.us
 170.114.52.2/32

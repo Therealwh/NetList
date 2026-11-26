@@ -2,14 +2,11 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Fedora — fedoraproject.org
-140.211.169.196
 152.2.23.103
-152.2.23.104
-35.90.167.38
+18.157.159.91
+185.141.165.254
+3.70.22.218
+35.178.204.134
 38.145.32.20
 38.145.32.21
-38.145.32.47
-38.145.32.48
-44.205.255.164
-54.205.131.252
-67.219.144.68
+85.236.55.6

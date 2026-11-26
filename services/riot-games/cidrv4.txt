@@ -137,6 +137,7 @@
 # Riot Games — riotgames.com
 23.205.106.22/32
 23.205.106.25/32
+23.73.207.78/32
 
 # Riot Games — riotgames.info
 3.33.139.32/32
