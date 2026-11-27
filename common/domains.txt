@@ -7046,6 +7046,7 @@ aria.ms
 asp.net
 aspnetcdn.com
 assets-yammer.com
+aurora-customization-usw2.lithium.com
 auth.microsoft.com
 autologon.microsoftazuread-sso.com
 azcrmc-test.cn

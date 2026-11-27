@@ -2,7 +2,7 @@
   "counts": {
     "services": 277,
     "categories": 28,
-    "domains": 24138
+    "domains": 24139
   },
   "services": {
     "1337x": {
@@ -384,7 +384,7 @@
       "domain_count": 1
     },
     "microsoft": {
-      "domain_count": 732
+      "domain_count": 733
     },
     "microsoft-azure": {
       "domain_count": 2

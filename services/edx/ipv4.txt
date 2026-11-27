@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # edX — edx.org
-13.249.180.126
-13.249.180.4
-13.249.180.78
-13.249.180.96
+13.32.205.35
+13.32.205.50
+13.32.205.64
+13.32.205.78

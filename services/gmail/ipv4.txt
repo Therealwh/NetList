@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Gmail — gmail.com
-64.233.177.17
-64.233.177.18
-64.233.177.19
-64.233.177.83
+209.85.200.17
+209.85.200.18
+209.85.200.19
+209.85.200.83

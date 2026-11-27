@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "dataset": "netlist",
-  "generated_at": "2026-11-16T10:45:13+00:00",
+  "generated_at": "2026-11-27T11:52:06+00:00",
   "notice": "Кандидаты для проверки: наличие домена в списке не подтверждает блокировку, доступность или принадлежность IP сервису.",
   "counts": {
     "services": 277,
     "categories": 28,
-    "domains": 24138
+    "domains": 24139
   },
   "categories": [
     {
@@ -107,7 +107,7 @@
     {
       "id": "os_security",
       "services_count": 11,
-      "domains_count": 2667
+      "domains_count": 2668
     },
     {
       "id": "search_ecosystems",
@@ -9015,6 +9015,7 @@
         "asp.net",
         "aspnetcdn.com",
         "assets-yammer.com",
+        "aurora-customization-usw2.lithium.com",
         "auth.microsoft.com",
         "autologon.microsoftazuread-sso.com",
         "azcrmc-test.cn",
@@ -9714,7 +9715,7 @@
         "yammer.com",
         "yammerusercontent.com"
       ],
-      "domain_count": 732,
+      "domain_count": 733,
       "categories": [
         "os_security"
       ],

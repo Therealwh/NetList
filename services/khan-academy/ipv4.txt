@@ -2,7 +2,7 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # Khan Academy — khanacademy.org
-13.225.143.128
-13.225.143.36
-13.225.143.4
-13.225.143.41
+3.171.22.43
+3.171.22.48
+3.171.22.86
+3.171.22.88

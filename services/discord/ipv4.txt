@@ -21,11 +21,14 @@
 # (no public DNS addresses found)
 
 # Discord — discord-attachments-uploads-prd.storage.googleapis.com
-108.177.122.207
-142.250.9.207
-172.217.215.207
-172.253.124.207
-64.233.176.207
+104.154.124.27
+104.154.125.27
+34.144.170.27
+34.144.171.27
+34.153.2.27
+34.153.3.27
+34.3.0.27
+34.3.1.27
 
 # Discord — discord.co
 104.17.117.93
@@ -96,7 +99,7 @@
 # (no public DNS addresses found)
 
 # Discord — discordapp.page.link
-172.253.124.132
+192.178.210.132
 
 # Discord — discordcdn.com
 162.159.128.234
@@ -116,10 +119,10 @@
 172.64.153.7
 
 # Discord — discordstatus.com
-99.84.237.123
-99.84.237.36
-99.84.237.41
-99.84.237.62
+13.226.53.110
+13.226.53.47
+13.226.53.52
+13.226.53.74
 
 # Discord — hammerandchisel.ssl.zendesk.com
 216.198.53.11
