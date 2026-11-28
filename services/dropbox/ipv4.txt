@@ -5,22 +5,22 @@
 # (no public DNS addresses found)
 
 # Dropbox — api-content-au.dropbox.com
-162.125.3.14
+162.125.8.14
 
 # Dropbox — api-content-eu.dropbox.com
-162.125.3.14
+162.125.4.14
 
 # Dropbox — api-content-jp.dropbox.com
 162.125.3.14
 
 # Dropbox — api-content-photos.dropbox.com
-162.125.3.16
+162.125.4.16
 
 # Dropbox — api-content-uk.dropbox.com
 162.125.3.14
 
 # Dropbox — api-content.dropbox.com
-162.125.3.14
+162.125.8.14
 
 # Dropbox — api-content1-eu.dropbox.com
 162.125.3.14
@@ -32,7 +32,7 @@
 162.125.21.3
 
 # Dropbox — content-au.dropboxapi.com
-162.125.3.14
+162.125.4.14
 
 # Dropbox — content-eu.dropboxapi.com
 162.125.8.14
@@ -83,7 +83,7 @@
 162.125.3.15
 
 # Dropbox — dl-uk.dropbox.com
-162.125.3.15
+162.125.8.15
 
 # Dropbox — dl-uk.dropboxusercontent.com
 162.125.3.15
@@ -98,10 +98,10 @@
 162.125.3.15
 
 # Dropbox — dl-web-uk.dropbox.com
-162.125.8.15
+162.125.4.15
 
 # Dropbox — dl-web.dropbox.com
-162.125.8.15
+162.125.3.15
 
 # Dropbox — dl.dropbox.com
 162.125.3.15
@@ -189,16 +189,16 @@
 # (no public DNS addresses found)
 
 # Dropbox — files-au.dropbox.com
-162.125.3.15
+162.125.8.15
 
 # Dropbox — files-eu.dropbox.com
-162.125.8.15
+162.125.3.15
 
 # Dropbox — files-jp.dropbox.com
 162.125.3.15
 
 # Dropbox — files-uk.dropbox.com
-162.125.3.15
+162.125.4.15
 
 # Dropbox — getdropbox.com
 162.125.248.21
@@ -216,14 +216,14 @@
 18.172.134.85
 
 # Dropbox — links.dropbox.com
-162.125.8.18
+162.125.3.18
 
 # Dropbox — paper-attachments.s3.amazonaws.com
-16.15.0.219
-16.15.0.242
-16.15.0.246
-16.15.0.247
-16.15.1.201
-16.15.4.185
-16.15.4.42
-52.219.113.18
+16.15.0.44
+16.15.1.208
+16.15.4.167
+16.15.4.204
+16.15.4.58
+52.219.116.74
+52.219.216.49
+52.219.220.9

@@ -2,20 +2,20 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # BBC — aod-dash-uk-live.akamaized.net
-23.211.176.161
-23.211.176.170
+23.64.114.198
+23.64.114.204
 
 # BBC — aod-hls-uk-live.akamaized.net
-23.64.114.202
-23.64.114.208
+23.205.110.204
+23.205.110.214
 
 # BBC — aod-pod-uk-live.akamaized.net
-23.211.176.153
-23.211.176.183
+23.205.110.203
+23.205.110.204
 
 # BBC — as-dash-uk-live.akamaized.net
-23.211.176.173
-23.211.176.183
+23.64.114.210
+23.64.114.220
 
 # BBC — as-hls-uk-live.akamaized.net
 23.205.110.202
@@ -115,13 +115,13 @@
 23.53.127.177
 
 # BBC — vs-cmaf-pushb-ww-live.akamaized.net
-23.52.42.5
-23.52.42.59
+23.33.29.71
+23.33.29.79
 
 # BBC — vs-hls-push-uk-live.akamaized.net
 23.219.87.48
 23.53.127.231
 
 # BBC — vs-hls-pushb-uk-live.akamaized.net
-23.48.99.146
-23.48.99.150
+23.53.127.206
+23.53.127.233

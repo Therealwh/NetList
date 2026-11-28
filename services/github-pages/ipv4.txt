@@ -2,32 +2,32 @@
 # Groups are labelled by domain; IPs may be shared by CDNs/hosting providers.
 # DNS answers change and do not prove exclusive service ownership.
 # GitHub Pages — atom.io
-140.82.114.17
-
-# GitHub Pages — dependabot.com
 140.82.113.17
 
+# GitHub Pages — dependabot.com
+140.82.114.18
+
 # GitHub Pages — ghcr.io
-140.82.114.34
+140.82.112.34
 
 # GitHub Pages — git.io
-140.82.112.21
+140.82.114.22
 
 # GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
-140.248.146.79
+151.101.162.79
 
 # GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
 47.79.66.73
 
 # GitHub Pages — github-cloud.s3.amazonaws.com
-16.15.162.167
-16.15.207.154
-16.15.245.5
-16.15.252.108
-16.15.254.193
-52.216.33.58
-52.217.164.178
-54.231.224.90
+16.15.159.54
+16.15.167.129
+16.15.245.60
+16.15.245.97
+16.15.253.150
+52.217.173.138
+54.231.169.106
+54.231.224.146
 
 # GitHub Pages — github.blog
 192.0.66.2
@@ -36,7 +36,7 @@
 140.82.113.4
 
 # GitHub Pages — github.community
-140.82.112.17
+140.82.114.18
 
 # GitHub Pages — github.dev
 52.224.38.193
@@ -67,7 +67,7 @@
 140.82.114.18
 
 # GitHub Pages — githubhackathon.com
-140.82.112.17
+140.82.112.18
 
 # GitHub Pages — githubnext.com
 185.199.108.153
@@ -100,7 +100,7 @@
 185.199.111.153
 
 # GitHub Pages — npm.community
-140.82.114.17
+140.82.114.18
 
 # GitHub Pages — npmjs.com
 104.17.134.117

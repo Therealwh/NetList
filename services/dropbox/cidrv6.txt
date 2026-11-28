@@ -12,7 +12,7 @@
 2620:100:6018:14::a27d:30e/128
 
 # Dropbox — api-content-photos.dropbox.com
-2620:100:601f:16::a27d:910/128
+2620:100:6018:16::a27d:310/128
 
 # Dropbox — api-content-uk.dropbox.com
 2620:100:6018:14::a27d:30e/128

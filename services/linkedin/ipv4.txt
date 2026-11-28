@@ -27,7 +27,7 @@
 108.174.10.24
 
 # LinkedIn — linkedin.cn
-52.130.75.155
+52.131.37.152
 
 # LinkedIn — linkedin.com
 130.211.32.14

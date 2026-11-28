@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
   "source": "Certificate Transparency via crt.sh",
-  "updated_at": "2026-11-27T11:52:06+00:00",
-  "roots_checked": 3,
+  "updated_at": "2026-11-28T11:27:18+00:00",
+  "roots_checked": 2,
   "roots_failed": [
+    "CT lookup failed for 2nd-no.com: HTTP Error 502: Bad Gateway",
     "CT lookup failed for kinogo.online: HTTP Error 502: Bad Gateway"
   ],
   "domains": [
@@ -15173,273 +15174,273 @@
       "root_domain": "shuffle.com",
       "domain": "admin-api.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "admin.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "affiliate.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "affiliates.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "api-backup.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "api.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "betradar-websocket.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "betradar.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "cron-job.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "demo.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "fast-track.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "fireblocks.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "game-provider-no-cf.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "game-provider.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "genius-receiver.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "help.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "kyc.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "landing.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "lottery.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "metabase.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "nginx-api.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "nginx.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "oddin-stream.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "oddin.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "preprod.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "reader.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "shfl-jp.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "shfl-zh.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "shfl.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "sports-main.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "sports-subscription.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "sports.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "stable-subscription.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "subscription-sports-temp.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "subscription-temp.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "subscription.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "subscription2.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "support.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     },
     {
       "root_domain": "shuffle.com",
       "domain": "www.shuffle.com",
       "source": "crt.sh",
-      "discovered_at": "2026-11-27T11:52:04+00:00",
+      "discovered_at": "2026-11-28T11:27:06+00:00",
       "status": "candidate_unverified"
     }
   ]

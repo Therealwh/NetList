@@ -97,7 +97,7 @@
 # (no public DNS addresses found)
 
 # Discord — discordapp.page.link
-192.178.210.132/32
+173.194.195.132/32
 
 # Discord — discordcdn.com
 162.159.128.234/32

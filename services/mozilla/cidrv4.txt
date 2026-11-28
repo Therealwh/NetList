@@ -3,7 +3,7 @@
 151.101.1.91/32
 
 # Mozilla — ads.mozilla.org
-151.101.161.91/32
+140.248.145.91/32
 
 # Mozilla — bugzilla.org
 104.21.65.126/32
@@ -43,6 +43,7 @@
 18.160.200.77/32
 
 # Mozilla — incoming-telemetry.thunderbird.net
+98.86.152.194/32
 98.87.67.240/32
 
 # Mozilla — incoming.telemetry.mozilla.org

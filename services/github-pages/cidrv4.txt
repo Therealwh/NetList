@@ -1,31 +1,31 @@
 # Exact IPv4 host routes (/32); not service-owned ranges.
 # GitHub Pages — atom.io
-140.82.114.17/32
-
-# GitHub Pages — dependabot.com
 140.82.113.17/32
 
+# GitHub Pages — dependabot.com
+140.82.114.18/32
+
 # GitHub Pages — ghcr.io
-140.82.114.34/32
+140.82.112.34/32
 
 # GitHub Pages — git.io
-140.82.112.21/32
+140.82.114.22/32
 
 # GitHub Pages — github-atom-io-herokuapp-com.freetls.fastly.net
-140.248.146.79/32
+151.101.162.79/32
 
 # GitHub Pages — github-avatars.oss-cn-hongkong.aliyuncs.com
 47.79.66.73/32
 
 # GitHub Pages — github-cloud.s3.amazonaws.com
-16.15.162.167/32
-16.15.207.154/32
-16.15.245.5/32
-16.15.252.108/32
-16.15.254.193/32
-52.216.33.58/32
-52.217.164.178/32
-54.231.224.90/32
+16.15.159.54/32
+16.15.167.129/32
+16.15.245.60/32
+16.15.245.97/32
+16.15.253.150/32
+52.217.173.138/32
+54.231.169.106/32
+54.231.224.146/32
 
 # GitHub Pages — github.blog
 192.0.66.2/32
@@ -34,7 +34,7 @@
 140.82.113.4/32
 
 # GitHub Pages — github.community
-140.82.112.17/32
+140.82.114.18/32
 
 # GitHub Pages — github.dev
 52.224.38.193/32
@@ -65,7 +65,7 @@
 140.82.114.18/32
 
 # GitHub Pages — githubhackathon.com
-140.82.112.17/32
+140.82.112.18/32
 
 # GitHub Pages — githubnext.com
 185.199.108.153/32
@@ -98,7 +98,7 @@
 185.199.111.153/32
 
 # GitHub Pages — npm.community
-140.82.114.17/32
+140.82.114.18/32
 
 # GitHub Pages — npmjs.com
 104.17.134.117/32

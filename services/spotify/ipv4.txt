@@ -5,15 +5,15 @@
 35.186.224.24
 
 # Spotify — adstudio-assets.scdn.co
-151.101.162.248
+140.248.146.248
 
 # Spotify — audio-ak-spotify-com.akamaized.net
-23.192.220.133
-23.192.220.140
+23.219.87.106
+23.219.87.68
 
 # Spotify — audio4-ak-spotify-com.akamaized.net
-23.192.220.133
-23.192.220.140
+23.219.87.106
+23.219.87.68
 
 # Spotify — bloodhound.spotify.com
 35.186.224.24

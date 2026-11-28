@@ -30,7 +30,7 @@
 # (no public DNS addresses found)
 
 # OneDrive — skydrive.wns.windows.com
-2603:1030:a07:a::400
+2603:1030:a07:a::402
 
 # OneDrive — spoprod-a.akamaihd.net
 # (no public DNS addresses found)
